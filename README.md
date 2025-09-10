@@ -28,7 +28,7 @@
 |:-------------------------------------------:|:-------------------------------------------:|
 |       Cesar Augusto Arostegui Alzamora      |            u202114548                       |
 |       Gianmarco Fabian Jiménez Guerra       |            u202123843                       |
-|       Flor De María Contreras Leon          |            u20#######                       |
+|       Flor De María Contreras Leon          |            u202323243                      |
 |       Giorgio Marzouk Awad Vargas           |            u20#######                       |
 |       Piero Francesco Tenorio Medina        |            u202318731                       |
 
@@ -170,6 +170,12 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+En el Perú, miles de dueños de vehículos enfrentan a diario la dificultad de acceder a servicios de mantenimiento y reparación de manera confiable y eficiente. La búsqueda de talleres suele convertirse en un proceso poco claro y desgastante, donde predominan la informalidad, la falta de información sobre disponibilidad y la ausencia de canales digitales que faciliten la comunicación. Como consecuencia, muchos conductores pierden tiempo llamando o visitando distintos talleres, enfrentan largas esperas y experimentan desconfianza frente a la calidad y transparencia del servicio recibido.
+
+Al mismo tiempo, los talleres y mecánicos independientes cargan con limitaciones importantes. La gestión de citas se realiza de manera tradicional, mediante llamadas, mensajes o visitas presenciales, lo que genera desorden, sobrecarga de trabajo y pérdida de oportunidades de negocio. La falta de herramientas digitales para organizar horarios, técnicos y clientes impide que los talleres optimicen sus recursos y ofrezcan una experiencia más clara y moderna.
+
+Las entrevistas realizadas revelan que tanto dueños de vehículos como mecánicos perciben esta situación como una limitación significativa y manifiestan el deseo de contar con una plataforma accesible, confiable y estructurada que facilite la comunicación, optimice la gestión de servicios y brinde mayor transparencia a todo el proceso de mantenimiento automotriz.
+
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
