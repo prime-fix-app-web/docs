@@ -92,9 +92,10 @@
   - [2.4. Big Picture Event Storming](#24-big-picture-event-storming)
   - [2.5. Ubiquitous Language](#25-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. User Stories](#31-user-stories)
-  - [3.2. Impact Mapping](#32-impact-mapping)
-  - [3.3. Product Backlog](#33-product-backlog)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
   - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -273,9 +274,10 @@ Preguntas:
 ---
 
 # Capítulo III: Requirements Specification
-## 3.1. User Stories
-## 3.2. Impact Mapping
-## 3.3. Product Backlog
+## 3.1 To-Be Scenario Mapping
+## 3.2. User Stories
+## 3.3. Impact Mapping
+## 3.4. Product Backlog
 
 ---
 
