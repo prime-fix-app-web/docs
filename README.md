@@ -178,6 +178,78 @@ Al mismo tiempo, los talleres y mecánicos independientes cargan con limitacione
 Las entrevistas realizadas revelan que tanto dueños de vehículos como mecánicos perciben esta situación como una limitación significativa y manifiestan el deseo de contar con una plataforma accesible, confiable y estructurada que facilite la comunicación, optimice la gestión de servicios y brinde mayor transparencia a todo el proceso de mantenimiento automotriz.
 
 #### 1.2.2.2. Lean UX Assumptions
+
+##### Suposiciones sobre dueños de vehículos
+- Suponemos que los dueños de vehículos buscan talleres confiables y accesibles, pero actualmente enfrentan dificultades para encontrarlos de manera rápida y transparente.
+
+
+- Suponemos que valoran la posibilidad de conocer horarios y disponibilidad en tiempo real antes de decidir a qué taller acudir.
+
+
+- Suponemos que prefieren una experiencia digital sencilla, visual y clara, que les ahorre llamadas, visitas y pérdidas de tiempo.
+
+
+- Suponemos que se sienten más seguros cuando reciben notificaciones y pueden dar seguimiento al servicio solicitado.
+
+
+- Suponemos que confían más en una plataforma si les brinda transparencia en costos, tiempos y calidad del trabajo.
+
+##### Suposiciones sobre mecánicos / talleres
+- Suponemos que los talleres y mecánicos desean atraer más clientes sin sobrecargar sus canales de atención tradicionales.
+
+
+- Suponemos que necesitan herramientas digitales para organizar técnicos, horarios y disponibilidad de manera eficiente.
+
+
+- Suponemos que estarían dispuestos a usar una plataforma si esta facilita la comunicación con clientes y reduce la pérdida de citas o confusiones.
+
+
+- Suponemos que valoran un sistema que les ayude a fidelizar clientes y mejorar su reputación en el mercado.
+
+
+- Suponemos que los administradores de talleres aceptarían registrar técnicos y disponibilidad si esto aumenta su visibilidad y confianza frente a potenciales clientes.
+
+
+##### Suposiciones sobre el entorno digital
+- Suponemos que la plataforma debe ser accesible desde web y móvil, con una interfaz amigable y moderna.
+
+
+- Suponemos que las notificaciones automáticas y formularios dinámicos son claves para la interacción fluida entre cliente y taller.
+
+
+- Suponemos que un modelo freemium o por suscripción podría incentivar a los talleres a sumarse, mientras que la gratuidad inicial para clientes facilitaría la adopción.
+
+
+- Suponemos que la inclusión de un sistema de reseñas y calificaciones generará confianza y motivará el uso frecuente.
+
+
+
+------------
+
+
+
+##### User Outcomes
+- Que los dueños de vehículos puedan agendar servicios de manera rápida, segura y transparente.
+
+
+- Que confíen en los talleres registrados y logren ahorrar tiempo en la gestión de mantenimiento y reparación.
+
+
+- Que los talleres logren digitalizar su gestión interna, mejorando la organización y optimización de recursos.
+
+
+- Que los mecánicos establezcan una relación más clara y confiable con los clientes, incrementando su fidelización.
+
+
+##### Business Outcomes
+- Lograr una alta adopción inicial entre dueños de vehículos y talleres mecánicos en Lima y posteriormente en otras ciudades del Perú.
+
+
+- Generar confianza en el mercado automotriz como la primera plataforma digital que centraliza la gestión de citas y servicios.
+
+
+- Incrementar la conversión de talleres gratuitos a planes de pago mediante funcionalidades premium (ej. mayor visibilidad, métricas de clientes, gestión avanzada de recursos).
+  
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 
