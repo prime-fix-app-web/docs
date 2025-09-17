@@ -167,6 +167,14 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+| Foto | Descripción |
+|------|-------------|
+| <img width="150" src="Assets/chapter-I/PerfilEstudiante_FlorContreras.jpeg"> | Mi nombre es Flor de María Contreras León y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida y dedicada a mi formación profesional.Me apasiona la programación y la investigación, áreas en las que busco seguir aprendiendo y desarrollando nuevas habilidades. Aunque me considero una persona callada, siempre estoy atenta a los detalles, lo que me permite trabajar de manera cuidadosa y eficiente en mis proyectos. Asimismo, valoro el trabajo en equipo y creo que un entorno colaborativo y respetuoso es clave para alcanzar los mejores resultados. |
+| <img width="150" src=""> |  |
+| <img width="150" src=""> |  |
+| <img width="150" src=""> |  |   
+| <img width="150" src=""> |  |
+
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
