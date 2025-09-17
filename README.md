@@ -527,6 +527,16 @@ Simular cómo sería una experiencia ideal con AutoFix, desde la perspectiva del
 ![TobeScenarioFrameSegmento1](Assets/chapter-III/Scenario%20Mapping_Frame1.jpg)
 
 
+------------
+
+
+
+**2. Administrador de talleres (Jorge Salazar)**
+
+Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva del administrador de taller, comparándola con el As-Is ya trabajado. El flujo debe enfocarse en una experiencia estructurada, empática y guiada, que acompañe al usuario en cada fase: desde el descubrimiento de la aplicación, el registro de su taller, la gestión de citas y clientes, hasta el seguimiento de servicios realizados y la fidelización de los conductores.
+![TobeScenarioFrameSegmento1](Assets/chapter-III/ScenarioMapping_Frame2.jpg)
+
+
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
