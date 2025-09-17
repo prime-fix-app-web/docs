@@ -379,9 +379,7 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 **Ubicación: **Lima, Perú
 **Acceso digital:** Smartphone con conexión de datos móviles, laptop con internet en casa
 
-![](URL-de-la-imagen)
-
-
+![User_Person_Segmento1](Assets/chapter-II/User_Person_Segmento1.jpg)
 
 **Objetivos y necesidades**
 
@@ -426,6 +424,8 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 **Sexo:** Masculino
 **Ocupación:** Administrador y dueño de un taller automotriz en Lima (zona industrial)
 **Ubicación:** Lima – Cercado de Lima
+
+![User_Person_Segmento2](Assets/chapter-II/User_Person_Segmento2.jpg)
 
 **Objetivos y necesidades**
 
