@@ -351,21 +351,45 @@ Preguntas:
 
 ### 2.2.2. Registro de entrevistas
 
-##### Segmento 1: Dueños de Vehiculos
+### Segmento 1: Dueños de Vehiculos
 
 ##### Entrevista N°1: Dionisio Rodriguez
 
-- Sexo: Maculino
+- Sexo: Masculino
 - Edad:25 años
-- Direccion: Lima, Av Arequipa Miraflores.
+- Dirección: Lima, Av Arequipa Miraflores.
 
 | ![Entrevista Dionisio Segmento 1](Assets/chapter-II/Entrevista_Dionisio_Rodriguez.png) |
 |-------------------------------------------------------------------------------------------------------------------|
 |** Link De la Entrevista:** |
 |Duracion:**00:05:02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:31**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:02**|
 | Dionisio Rodríguez, de 25 años, es conductor de automóvil y comentó que al momento de elegir un taller prioriza la confianza en el servicio, incluso si esto implica desplazarse a zonas más lejanas. Para ubicar opciones suele utilizar Google Maps, aunque reconoce que no siempre refleja la calidad real del taller. Señaló que en una ocasión tuvo una experiencia negativa, pues su vehículo fue dañado en un taller y los responsables no asumieron la reparación, lo que generó desconfianza y la necesidad de contar con mecanismos de referencia más seguros.Asimismo, resaltó que le resultaría valioso contar con una plataforma que permita no solo agendar visitas a talleres, sino también hacer seguimiento en tiempo real al estado del vehículo mientras se encuentra en mantenimiento. Además, considera importante que los usuarios puedan registrar y compartir públicamente sus experiencias, ya que esto ofrecería mayor transparencia y ayudaría a otros conductores a tomar mejores decisiones.|
-### 2.2.3. Análisis de entrevistas
 
+##### Entrevista N°2: Marcos Contreras
+- Sexo: Masculino
+- Edad:24 años
+- Dirección: Lima, Independencia.
+
+| ![Entrevista Marcos Segmento 1](Assets/chapter-II/Entrevista_Marcos_Contreras.png) |
+|-------------------------------------------------------------------------------------------------------------------|
+|**Link De la Entrevista: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EU-OfAcUkxlLsrpkalhCNRQBkang9sWzDtFzbJ4EEzaXvQ?e=Rq6OAR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** |
+|Duracion:**00:06:45**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:45**|
+| Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paralela. Marcos nos cuenta que el tiene un vehiculo por la cual facilita movilizarse dentro de la ciudad. Marcos nos comenta que a la hora de encontrar un buen servicio que pueda atender a su vehículo, más que nada resalta que no llega a encontrar un lugar accesible. Marcos tambien nos cuenta que utiliza Google Maps,WhastApp e incluso Fcaebook para poder encontrar un taller que sea recomendado. Nos dice que valora la confianza y la calidad sobre el precio dentro de un servicio. Dentro de las experiencia negativas nos cuenta que si llego a presentar alguna, en la entrega de su vehículo. Finalmente, Marcos resalta que una aplicación que le ayude a gestionar los talleres a los que va, le puede hacer de mucha utilidad en su día a día. Que implemente funcionalidades que sean pertinentes para él como las agendas y las ubicaciones en mapas.|
+
+##### Entrevista N°3: Anyelo Alejos
+- Sexo: Masculino
+- Edad: 23 años
+- Dirección: Lima, Comas.
+
+| ![Entrevista Anyelo Alejos 1](Assets/chapter-II/Entrevista_Anyelo_Alejos.png) |
+|-------------------------------------------------------------------------------------------------------------------|
+|**Link De la Entrevista: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EbUouuLCEqlGvWQEGCCiPf4B8TQJNZIvqrxVh6ufl-rZQQ?e=zp4nf9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** |
+|Duracion:**00:05:40**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:40**|
+| Anyelo Alejos es un chico de 23 años de edad. Él solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. Él comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Él valora aspectos como la confiabilidad dentro de un taller. Además, cuenta que no tuvo problemas con los talleres. Él suele solicitar servicios por un móvil y raras veces de manera manual. Anyelo comenta que le gustaría tener una aplicación que le ayude a a gendar citas en talleres para su vehículo, teniendo funcionalidades como reseña, precios y calificaciones de talleres.|
+
+### Segmento #2: Asesor de servicios de un taller automotriz
+
+### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 Esta sección presenta dos arquetipos desarrollados para representar a los segmentos objetivos de Prime-Fix: Conductores de Autos y Administradores de talleres automotriz.
@@ -513,6 +537,40 @@ Las tareas con mayor coincidencia en importancia para ambos segmentos son:
 
 ## 2.5. Ubiquitous Language
 
+En esta sección, presentaremos el lenguaje ubicuo del proyecto.
+
+**Glosario del Dominio del Negocio - Prime-Fix**
+
+Este glosario contiene términos relacionados al dominio del proyecto Prime-Fix. Los a presentar estan en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones redactadas están en el idioma español, explicando de manera clara y sin ambigüedades sus significados. Esto se hace para facilitar la comunicación entre todos los miembros del equipo y los stakeholders.  
+
+**1. Stakeholders & Roles**
+- Technician (Técnico de Taller): Persona asignada a un taller en específico. Enacragdo del mantenimiento de los vehiculos que llegan al taller.
+
+- Vehicle Owner: Persona que es dueña de un vehículo y busca un taller adecuado para el mantenimiento de su vehículo.
+
+**2. Funcionalidades de la Plataforma**
+- Register Auto Repair (Registro de Taller): Proceso en la que el usuario registra el taller al sistema.
+
+- Register Technician (Registro de Técnico): Proceso en la que el encargado del taller registra a los técnicos asignados del taller.
+
+- Register Vehicle (Registro de Vehículo): Proceso en la que el usuario registra el vehúclo con sus especificaciones dentro de la plataforma.
+
+- Search Auto Repair (Búsqueda de Taller mecánico): Proceso en la cual el usuario busca los talleres para su vehículo por medio de las especificaciones que él mismo ingrese. 
+
+- Follow Status (Seguimiento de estado): Apartado donde se puede visualizar el estado en la que el vehículo registrado se encuentra. 
+
+**3. Otros conceptos del dominio**
+- Auto Repair (Taller mecánico): Se refiere al taller que es registrado por el usuario. Contiene información clave como técnicos asignados, ubicación, valoraciones, entre otros.
+
+- Visit Schedule (Programación de Visita): Referido a la visita que es programada por el usuario, donde se especifica el costo, el vehículo a antender y los problemas que este presenta.
+
+- Visit Attended (Vista en espera): Visita programada que ya a sido antendida por el taller.
+
+- Record (Historial): Historial donde el usuario puede visualizar las Visitas completadas en el pasado.
+
+- Rating (Valoración): Apartado donde el usuario puede escribir un comentario sobre el servicio ofrecido.
+
+
 ---
 
 # Capítulo III: Requirements Specification
@@ -524,7 +582,7 @@ Las tareas con mayor coincidencia en importancia para ambos segmentos son:
 
 Simular cómo sería una experiencia ideal con AutoFix, desde la perspectiva del conductor de auto, comparándola con el As-Is ya trabajado. El flujo debe enfocarse en una experiencia estructurada, empática y guiada, que acompañe al usuario en cada fase: desde el descubrimiento de la aplicación, el registro, la búsqueda de talleres, hasta la finalización del servicio y la fidelización.
 
-[![Scenario Mapping - Frame 1](Assets/chapter-III/Scenario Mapping - Frame 1.jpg)
+![Scenario Mapping - Frame 1](Assets/chapter-III/Scenario Mapping - Frame 1.jpg)
 
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
@@ -541,8 +599,49 @@ Simular cómo sería una experiencia ideal con AutoFix, desde la perspectiva del
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page Title:** Prime-Fix
+
+**Description:** FixTech es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con Prime-Fix, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
+
+**Meta Keywords:** Mantenimiento automotriz, reparación de vehiculos, talleres confiables, gestion digital, tecnología automotriz.
+
+**Meta Author:** FixTech
+
+**Meta Description:** Facilitar la conexión entre los dueños de vehículos que necesiten un mantenimiento y los talleres automotrices.  
+
+**Title:** Prime-Fix
+
+**Description:** Prime-Fix, la plataforma digital de FixTech, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
+
+**Meta Author:** FixTech
+
 ### 4.2.4. Searching Systems
+
+Prime-Fix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
+
+| Filtros | Descripción |
+| --- | --- |
+| Departamento | Filtro geográfico que ayuda a ecnontrar los talleres disponibles en una zona específica. |
+| Cantidad de Técnicos | Filtra los talleres según la cantidad de técnicos registrados en el taler. |
+| Técnicos Disponibles | Filtra la cantidad de técnicos disponibles en el taller. |
+| Reseñas  | Filtro que muestra los talleres que tienen mejor/pero reseña por parte de los usuarios. |
+| Distrito | Filtro que selecciona a los talleres que se encuentran en un rango limitado por distrito. |
+
 ### 4.2.5. Navigation Systems
+
+Los sistemas de navegación de Prime-Fix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. Prime-Fix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
+
+| Icono | Funcionalidad |
+|---|---|
+| <img src="Assets/chapter-IV/figma_icons/figma_icon.png"> | Este ícono permite que el usuario pueda dirigirse a la pantalla inicial que brinda información vital sobre el funcionamiento de Prime-Fix.  |N
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_2.png"> | Este ícono, que pertenece al lado del dueños de vehiculos, permite visualizar los coches que el usuario ha registrado. |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_3.png"> | Este ícono permite buscar un taller que se adecue a la situación del usuario. |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_4.png"> | Este ícono dirige al usuario al apartado de Historial, donde podrá visualizar los mantenimientos anteriores de su vehículo. |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_5.png"> | Permite visualizar el estado de los distintos vehiculos registrados dentro de Prime-Fix |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_6.png"> | Permite visualizar las solicitudes que están pednientes dentro del taller. |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_7.png"> | Permite gestionar y viualizar a los distintos técnicos dentro del taller registrado. |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_8.png"> | Permite al usuario visualizar el perfil con el que se ha registrado, brindado información pertinente como Nombres, contraseña, etc. |
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
