@@ -379,6 +379,8 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 **Ubicación: **Lima, Perú
 **Acceso digital:** Smartphone con conexión de datos móviles, laptop con internet en casa
 
+![](URL-de-la-imagen)
+
 
 
 **Objetivos y necesidades**
