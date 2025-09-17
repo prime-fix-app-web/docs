@@ -49,7 +49,7 @@
 |---------|-------------|---------------------------------------------------------------------------|------------------------------|
 |   TB1   | XX/09/2025  | Gianmarco Fabian Jiménez Guerra                                           | Realicé ... |
 |   TB1   | XX/09/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé ... |
-|   TB1   | XX/09/2025  | Flor De María Contreras Leon                                              | Realicé ... |
+|   TB1   | XX/09/2025  | Flor De María Contreras Leon                                              | Realicé 1.2.2.1. Lean UX Problem Statements; 1.2.2.2. Lean UX Assumptions; 1.2.2.3. Lean UX Hypothesis Statements; 2.3.1. User Personas; 2.3.2. User Task Matrix; 2.4. Big Picture Event Storming; 3.1. To-Be Scenario Mapping; 3.3. Impact Mapping; 4.1. Style Guidelines; 4.1.1. General Style Guidelines; 4.1.2. Web Style Guidelines; 3.2. User Stories; 3.4. Product Backlog; 5.1. Software Configuration Management; 5.1.1. Software Development Environment Configuration; 5.1.2. Source Code Management; 5.2. Landing Page, Services & Applications Implementation. |
 |   TB1   | XX/09/2025  | Giorgio Marzouk Awad Vargas                                               | Realicé ... |
 |   TB1   | XX/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé ... |
 
@@ -153,6 +153,14 @@
 
 # Student Outcome  
 
+*ABET – EAC - Student Outcome 5*
+
+En el siguiente cuadro se presentan las acciones desarrolladas por el grupo, junto con las conclusiones obtenidas, que respaldan el cumplimiento del logro correspondiente al ABET – EAC - Student Outcome 5.
+
+| Criterio específico | Acciones Realizadas | Conclusiones |
+|-----------|-----------|-----------|
+| 1. Trabaja en equipo para proporcionar liderazgo    |**Flor De Maria Contreras Leon  TB1: **  Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto como 1.2.2.1. Lean UX Problem Statements, 1.2.2.2. Lean UX Assumptions y 1.2.2.3. Lean UX Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, de manera que se estableciera una base conceptual sólida para estructurar el producto. Con ello se fortaleció la organización del trabajo y se aseguró que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo.   |**Flor De Maria Contreras Leon  TB1: **     Mi participación en la elaboración de los apartados vinculados a Lean UX (Problem Statements, Assumptions e Hypothesis Statements) permitió brindar liderazgo en la identificación y organización de los problemas centrales del proyecto. Esto contribuyó a guiar al equipo hacia una visión compartida y a alinear los esfuerzos individuales con los objetivos generales del trabajo.  |
+| 2. Crea un entorno colaborativo, establece metas, planifica tareas y cumple objetivos   | **Flor De Maria Contreras Leon  TB1: **   Contribuí a crear un entorno colaborativo, estableciendo metas y cumpliendo objetivos mediante la elaboración de entregables como 2.3.1. User Personas, 2.3.2. User Task Matrix, 2.4. Big Picture Event Storming, 3.1. To-Be Scenario Mapping, 3.3. Impact Mapping y 3.2. User Stories, además de secciones técnicas como 4.1. Style Guidelines, 3.4. Product Backlog y la configuración en 5.1. Software Configuration Management. Estas contribuciones hicieron posible cumplir con los objetivos del TB1, fomentar la colaboración entre los integrantes y garantizar insumos consistentes para avanzar en las siguientes fases del proyecto.    | **Flor De Maria Contreras Leon  TB1: **   Al desarrollar entregables como User Personas, User Task Matrix, Big Picture Event Storming, To-Be Scenario Mapping, Impact Mapping, User Stories y Product Backlog, propicié un entorno colaborativo en el que cada integrante pudo aportar de manera ordenada. Gracias a la planificación de estas tareas y a la definición de metas claras, se alcanzaron los objetivos propuestos en el TB1, consolidando un avance estructurado y efectivo del proyecto.   |
 ---
 
 # Capítulo I: Introducción
@@ -166,6 +174,14 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 <b>Visión: </b> Tenemos como objetivo posicionarnos como la plataforma líder en Perú para la gestión digital de servicios automotrices, considerando una posible expansión hacia toda América Latina. A su vez, en el futuro se buscará integrar a este proyecto aplicaciones móviles y dispositivos IoT que permitan un mantenmiento inteligente para los vehículos.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| Foto | Descripción |
+|------|-------------|
+| <img width="150" src="Assets/chapter-I/PerfilEstudiante_FlorContreras.jpeg"> | Mi nombre es Flor de María Contreras León y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida y dedicada a mi formación profesional.Me apasiona la programación y la investigación, áreas en las que busco seguir aprendiendo y desarrollando nuevas habilidades. Aunque me considero una persona callada, siempre estoy atenta a los detalles, lo que me permite trabajar de manera cuidadosa y eficiente en mis proyectos. Asimismo, valoro el trabajo en equipo y creo que un entorno colaborativo y respetuoso es clave para alcanzar los mejores resultados. |
+| <img width="150" src=""> |  |
+| <img width="150" src=""> |  |
+| <img width="150" src=""> |  |   
+| <img width="150" src=""> |  |
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
@@ -524,9 +540,32 @@ Las tareas con mayor coincidencia en importancia para ambos segmentos son:
 
 Simular cómo sería una experiencia ideal con AutoFix, desde la perspectiva del conductor de auto, comparándola con el As-Is ya trabajado. El flujo debe enfocarse en una experiencia estructurada, empática y guiada, que acompañe al usuario en cada fase: desde el descubrimiento de la aplicación, el registro, la búsqueda de talleres, hasta la finalización del servicio y la fidelización.
 
-[![Scenario Mapping - Frame 1](Assets/chapter-III/Scenario Mapping - Frame 1.jpg)
+![TobeScenarioFrameSegmento1](Assets/chapter-III/Scenario%20Mapping_Frame1.jpg)
+
+
+------------
+
+
+
+**2. Administrador de talleres (Jorge Salazar)**
+
+Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva del administrador de taller, comparándola con el As-Is ya trabajado. El flujo debe enfocarse en una experiencia estructurada, empática y guiada, que acompañe al usuario en cada fase: desde el descubrimiento de la aplicación, el registro de su taller, la gestión de citas y clientes, hasta el seguimiento de servicios realizados y la fidelización de los conductores.
+![TobeScenarioFrameSegmento1](Assets/chapter-III/ScenarioMapping_Frame2.jpg)
+
 
 ## 3.2. User Stories
+
+**Cuadro de TODOS los USER STORIES:**
+
+| User Story ID | Título                               | Acceptance Criteria (Given–When–Then) | Epic Relacionado |
+|---------------|--------------------------------------|----------------------------------------|------------------|
+| US01          | Registro de vehículo               | **Given** que soy un usuario nuevo,<br>**When** ingreso la marca, modelo y año de mi auto,<br>**Then** el sistema guarda la información para futuras búsquedas. |  |
+| US02          | Registro de ubicación            | **Given** que estoy registrando mi vehículo,<br>**When** ingreso mi dirección o ubicación actual,<br>**Then** el sistema la almacena para recomendar talleres cercanos. |  |
+| US03          |Búsqueda en mapa        | **Given** que quiero encontrar un taller,<br>**When** accedo al mapa interactivo,<br>**Then** el sistema muestra los talleres más cercanos a mi ubicación.  |  |
+| US04          | Filtro por calificación         | **Given** que necesito un taller confiable,<br>**When** aplico el filtro de calificación,<br>**Then** se muestran solo los talleres con la puntuación mínima que seleccioné. | |
+| US05          | Filtro por distrito        | **Given** que busco un taller en una zona específica,<br>**When** selecciono un distrito,<br>**Then** el sistema lista únicamente los talleres ubicados allí.  |  |
+| US06          | Ver disponibilidad de técnicos     |  **Given** que estoy revisando un taller,<br>**When** accedo a la información de disponibilidad,<br>**Then** veo horarios libres de los técnicos para reservar. | |
+| US07          | Reservar cita con técnico                | **Given** que revisé la disponibilidad de un técnico,<br>**When** selecciono un horario,<br>**Then** el sistema confirma la cita y me envía notificación. | |
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
