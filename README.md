@@ -524,7 +524,8 @@ Las tareas con mayor coincidencia en importancia para ambos segmentos son:
 
 Simular cómo sería una experiencia ideal con AutoFix, desde la perspectiva del conductor de auto, comparándola con el As-Is ya trabajado. El flujo debe enfocarse en una experiencia estructurada, empática y guiada, que acompañe al usuario en cada fase: desde el descubrimiento de la aplicación, el registro, la búsqueda de talleres, hasta la finalización del servicio y la fidelización.
 
-[![Scenario Mapping - Frame 1](Assets/chapter-III/Scenario Mapping_Frame1.jpg)
+![TobeScenarioFrameSegmento1](Assets/chapter-III/Scenario%20Mapping_Frame1.jpg)
+
 
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
