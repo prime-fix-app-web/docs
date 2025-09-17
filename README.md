@@ -351,7 +351,13 @@ Preguntas:
 
 ### 2.2.2. Registro de entrevistas
 
+##### Segmento 1: Dueños de Vehiculos
 
+##### Entrevista N°1: Dionisio Rodriguez
+
+- Sexo: Maculino
+- Edad:25 años
+- Direccion: Lima, Av Arequipa Miraflores.
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
