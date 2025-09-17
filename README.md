@@ -372,12 +372,13 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 #### User Persona - Segmento 1 : Dueño de vehículo
 
-**Nombre: **José Ramírez
-**Edad:** 29 años
-**Género:** Masculino
-**Ocupación:** Analista de marketing digital
-**Ubicación: **Lima, Perú
-**Acceso digital:** Smartphone con conexión de datos móviles, laptop con internet en casa
+- **Nombre: **José Ramírez
+- **Edad:** 29 años
+- **Género:** Masculino
+- **Ocupación:** Analista de marketing digital
+- **Ubicación: **Lima, Perú
+- **Acceso digital:** Smartphone con conexión de datos móviles, laptop con internet en casa
+
 
 ![User_Person_Segmento1](Assets/chapter-II/User_Person_Segmento1.jpg)
 
@@ -419,11 +420,11 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 ------------
 #### User Persona - Segmento 2: Administrador de taller automotriz
 
-**Nombre: **Jorge Salazar
-**Edad:** 38 años
-**Sexo:** Masculino
-**Ocupación:** Administrador y dueño de un taller automotriz en Lima (zona industrial)
-**Ubicación:** Lima – Cercado de Lima
+- **Nombre: **Jorge Salazar
+- **Edad:** 38 años
+- **Sexo:** Masculino
+- **Ocupación:** Administrador y dueño de un taller automotriz en Lima (zona industrial)
+- **Ubicación:** Lima – Cercado de Lima
 
 ![User_Person_Segmento2](Assets/chapter-II/User_Person_Segmento2.jpg)
 
