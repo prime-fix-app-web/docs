@@ -368,6 +368,98 @@ Preguntas:
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+Esta sección presenta dos arquetipos desarrollados para representar a los segmentos objetivos de Prime-Fix: Conductores de Autos y Administradores de talleres automotriz.
+
+#### User Persona - Segmento 1 : Dueño de vehículo
+
+**Nombre: **José Ramírez
+**Edad:** 29 años
+**Género:** Masculino
+**Ocupación:** Analista de marketing digital
+**Ubicación: **Lima, Perú
+**Acceso digital:** Smartphone con conexión de datos móviles, laptop con internet en casa
+
+![](URL-de-la-imagen)
+
+
+
+**Objetivos y necesidades**
+
+- Encontrar talleres confiables que garanticen un buen servicio.
+
+- Poder agendar citas de manera rápida y sin pérdida de tiempo.
+
+- Hacer seguimiento al estado de su vehículo mientras está en reparación.
+
+- Tener transparencia en costos, tiempos y disponibilidad.
+
+- Consultar reseñas reales de otros clientes antes de elegir un taller.
+
+**Frustraciones**
+
+- Pérdida de tiempo al llamar o visitar talleres para preguntar disponibilidad.
+
+- Desconfianza hacia talleres informales por malas experiencias.
+
+- Falta de seguimiento y comunicación clara sobre el estado del vehículo.
+
+- No tener un historial organizado de mantenimientos realizados.
+
+**Comportamientos digitales**
+
+- Usa Google Maps y WhatsApp para buscar y comunicarse con talleres.
+
+- Confía en reseñas en línea, pero reconoce que no siempre son fiables.
+
+- Prefiere plataformas móviles rápidas y fáciles de usar.
+
+**Frase representativa**
+
+"Quiero un taller en el que pueda confiar y que me ahorre tiempo en llamadas innecesarias."
+
+
+------------
+#### User Persona - Segmento 2: Administrador de taller automotriz
+
+**Nombre: **Jorge Salazar
+**Edad:** 38 años
+**Sexo:** Masculino
+**Ocupación:** Administrador y dueño de un taller automotriz en Lima (zona industrial)
+**Ubicación:** Lima – Cercado de Lima
+
+**Objetivos y necesidades**
+
+- Organizar mejor las citas y disponibilidad de sus técnicos.
+
+- Ofrecer a sus clientes un servicio más moderno y confiable.
+
+- Aumentar la visibilidad del taller en internet para captar nuevos clientes.
+
+- Fidelizar clientes con transparencia y comunicación constante.
+
+- Reducir los reclamos por falta de información o retrasos.
+
+**Frustraciones**
+
+- No contar con una base de datos centralizada de clientes y técnicos.
+
+- Pérdida de clientes por saturación de horarios y mala organización.
+
+- Dificultad para competir con talleres grandes que tienen más visibilidad.
+
+- Manejo desordenado de la información en medios dispersos (llamadas, mensajes, hojas).
+
+**Comportamientos digitales**
+
+- Usa Facebook y WhatsApp para promocionar su taller.
+
+- Maneja citas en cuadernos y hojas de cálculo básicas.
+
+- Tiene interés en soluciones digitales, pero necesita que sean simples y rápidas de implementar.
+
+**Frase representativa**
+
+"Necesito una herramienta que me ayude a organizar mi taller y mostrarle a los clientes que somos confiables."
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
