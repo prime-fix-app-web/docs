@@ -29,7 +29,7 @@
 |       Cesar Augusto Arostegui Alzamora      |            u202114548                       |
 |       Gianmarco Fabian Jiménez Guerra       |            u202123843                       |
 |       Flor De María Contreras Leon          |            u202323243                      |
-|       Giorgio Marzouk Awad Vargas           |            u20#######                       |
+|       Giorgio Marzouk Awad Vargas           |            u202324041                       |
 |       Piero Francesco Tenorio Medina        |            u202318731                       |
 
 </div>
@@ -566,6 +566,13 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 | US05          | Filtro por distrito        | **Given** que busco un taller en una zona específica,<br>**When** selecciono un distrito,<br>**Then** el sistema lista únicamente los talleres ubicados allí.  |  |
 | US06          | Ver disponibilidad de técnicos     |  **Given** que estoy revisando un taller,<br>**When** accedo a la información de disponibilidad,<br>**Then** veo horarios libres de los técnicos para reservar. | |
 | US07          | Reservar cita con técnico                | **Given** que revisé la disponibilidad de un técnico,<br>**When** selecciono un horario,<br>**Then** el sistema confirma la cita y me envía notificación. | |
+| US08          | Registro de taller                | Given que soy administrador de un taller,<br>When lleno el formulario con toda la información solicitada,<br>Then el sistema guarda mi taller en proceso de revisión. | |
+| US09          | Registro de técnicos              | Given que ya registré mi taller,<br>When ingreso los datos y certificados de mis técnicos,<br>Then el sistema almacena su información para validación. | |
+| US10          | Evaluación de taller              | Given que un taller completó su registro,<br>When el evaluador revisa la información,<br>Then el sistema permite aprobar o rechazar el taller según criterios definidos. |  |
+| US11          | Aceptación o rechazo de taller    | Given que la evaluación fue realizada,<br>When el taller cumple o no con los requisitos,<br>Then el sistema cambia su estado a aceptado o rechazado. |  |
+| US12          | Acceso a solicitudes de mantenimiento | Given que un taller fue aceptado,<br>When accede a la plataforma,<br>Then el sistema le habilita las solicitudes de mantenimiento de clientes. |  |
+| US13          | Visualizar calificaciones y comentarios | Given que un cliente realizó una reseña,<br>When accedo al panel de mi taller,<br>Then puedo ver sus comentarios y calificaciones. |  |
+| US14          | Pago de inscripción               | Given que quiero registrar mi taller,<br>When realizo el pago de inscripción en línea,<br>Then el sistema valida la transacción y continúa con el registro. | |
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
