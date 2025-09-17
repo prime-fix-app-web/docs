@@ -372,16 +372,15 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 #### User Persona - Segmento 1 : Dueño de vehículo
 
-**Nombre: **José Ramírez
-**Edad:** 29 años
-**Género:** Masculino
-**Ocupación:** Analista de marketing digital
-**Ubicación: **Lima, Perú
-**Acceso digital:** Smartphone con conexión de datos móviles, laptop con internet en casa
-
-![](URL-de-la-imagen)
+- **Nombre:** José Ramírez
+- **Edad:** 29 años
+- **Género:** Masculino
+- **Ocupación:** Analista de marketing digital
+- **Ubicación:** Lima, Perú
+- **Acceso digital:** Smartphone con conexión de datos móviles, laptop con internet en casa
 
 
+![User_Person_Segmento1](Assets/chapter-II/User_Person_Segmento1.jpg)
 
 **Objetivos y necesidades**
 
@@ -421,11 +420,13 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 ------------
 #### User Persona - Segmento 2: Administrador de taller automotriz
 
-**Nombre: **Jorge Salazar
-**Edad:** 38 años
-**Sexo:** Masculino
-**Ocupación:** Administrador y dueño de un taller automotriz en Lima (zona industrial)
-**Ubicación:** Lima – Cercado de Lima
+- **Nombre:** Jorge Salazar
+- **Edad:** 38 años
+- **Sexo:** Masculino
+- **Ocupación:** Administrador y dueño de un taller automotriz en Lima (zona industrial)
+- **Ubicación:** Lima – Cercado de Lima
+
+![User_Person_Segmento2](Assets/chapter-II/User_Person_Segmento2.jpg)
 
 **Objetivos y necesidades**
 
@@ -461,16 +462,70 @@ Esta sección presenta dos arquetipos desarrollados para representar a los segme
 
 "Necesito una herramienta que me ayude a organizar mi taller y mostrarle a los clientes que somos confiables."
 ### 2.3.2. User Task Matrix
+
+Los segmentos considerados son:
+
+Conductores de Autos (Jose Ramirez)
+Administradores de Talleres Mecanicos(Jorge Salazar)
+
+| **Tarea** | **Dueño de vehículo – Frecuencia** | **Dueño de vehículo – Importancia** | **Administrador de taller – Frecuencia** | **Administrador de taller – Importancia** |
+|-----------|-------------------------------------|-------------------------------------|------------------------------------------|-------------------------------------------|
+| Buscar talleres de confianza en internet | Alta | Alta | Media | Alta |
+| Agendar una cita de mantenimiento/reparación | Media | Alta | Alta | Alta |
+| Hacer seguimiento al estado del vehículo en el taller | Media | Alta | Media | Alta |
+| Consultar disponibilidad y costos antes de acudir | Alta | Alta | Media | Alta |
+| Revisar reseñas o experiencias de otros usuarios | Media | Alta | Baja | Media |
+| Recibir notificaciones sobre avances del servicio | Media | Alta | Media | Alta |
+| Gestionar pedidos y citas de clientes | N/A | N/A | Alta | Alta |
+| Registrar técnicos y disponibilidad | N/A | N/A | Media | Alta |
+| Responder consultas de clientes (WhatsApp, llamadas) | Media | Media | Alta | Alta |
+| Promocionar el taller en canales digitales | Baja | Media | Alta | Media |
+| Organizar información sobre diagnósticos y servicios | N/A | N/A | Media | Alta |
+| Llevar un historial digital del vehículo | Media | Media | Baja | Media |
+
+
+**Análisis comparativo**
+
+Las tareas con mayor coincidencia en importancia para ambos segmentos son:
+
+- Agendar citas.
+
+- Hacer seguimiento del servicio.
+
+- Recibir información clara y transparente.
+
+**Para los dueños de vehículos las tareas con mas importancia son:**
+
+- Alta frecuencia en buscar talleres en línea y consultar disponibilidad antes de decidir.
+
+- Importancia alta en confianza, reseñas y notificaciones.
+
+**Para los administradores de taller las tareas con mas importancia son:**
+
+- Alta frecuencia en gestionar pedidos, responder consultas y organizar técnicos.
+
+- Importancia alta en la gestión digital de clientes y transparencia frente al mercado.
+  
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 
 ## 2.4. Big Picture Event Storming
+
 ## 2.5. Ubiquitous Language
 
 ---
 
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
+
+------------
+
+**1. Conductor de auto (Jose Ramirez)**
+
+Simular cómo sería una experiencia ideal con AutoFix, desde la perspectiva del conductor de auto, comparándola con el As-Is ya trabajado. El flujo debe enfocarse en una experiencia estructurada, empática y guiada, que acompañe al usuario en cada fase: desde el descubrimiento de la aplicación, el registro, la búsqueda de talleres, hasta la finalización del servicio y la fidelización.
+
+[![Scenario Mapping - Frame 1](Assets/chapter-III/Scenario Mapping - Frame 1.jpg)
+
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
