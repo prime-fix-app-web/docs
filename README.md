@@ -285,6 +285,21 @@ A partir de nuestras asunciones, formulamos las siguientes hipótesis que deben 
 Estas hipótesis serán validadas mediante pruebas con usuarios, entrevistas, prototipos de la plataforma y análisis de métricas de uso.
 
 #### 1.2.2.4. Lean UX Canvas
+| **Business Problem** | **Business Outcomes** |
+|----------------------|------------------------|
+| - El sector automotriz en Perú carece de digitalización.<br>- Dueños de vehículos no encuentran talleres confiables ni transparentes.<br>- Talleres tienen procesos manuales e ineficientes. | - Incrementar talleres afiliados.<br>- Reducir tiempo de búsqueda y agendamiento.<br>- Aumentar confianza con transparencia en precios y reseñas.<br>- Posicionar a FixTech como líder en Perú y LATAM. |
+
+| **Users** | **User Outcomes & Benefits** |
+|-----------|-------------------------------|
+| - Dueños de vehículos: buscan **confianza, transparencia y facilidad**.<br>- Talleres: necesitan digitalizar su gestión, captar clientes y mejorar organización. | - Dueños de vehículos: mayor confianza, ahorro de tiempo, historial de mantenimientos.<br>- Talleres: más visibilidad, captación de clientes y mejor gestión. |
+
+| **Hypotheses** | **Solutions** |
+|----------------|---------------|
+| - Creemos que los **dueños de vehículos** usarán Prime-Fix porque encontrarán confianza y transparencia.<br>- Creemos que los talleres se afiliarán para captar más clientes y organizar su gestión.<br>- Creemos que digitalizar procesos reducirá tiempos y aumentará satisfacción. | - Plataforma digital que conecte dueños de vehículos con talleres.<br>- Agenda en línea con recordatorios.<br>- Perfiles de talleres con reseñas y catálogo.<br>- Historial digital de mantenimientos.<br>- Futuras integraciones con app móvil e IoT. |
+
+| **What’s the most important thing we need to learn first?** | **What’s the least amount of work we need to do to learn the next most important thing?** |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| - Validar si los usuarios confían en la plataforma para agendar servicios.<br>- Verificar si los talleres están dispuestos a afiliarse y pagar por visibilidad. | - Entrevistar a un grupo reducido de talleres y usuarios.<br>- Recoger feedback y medir uso real. |
 
 ## 1.3. Segmentos objetivo
 
