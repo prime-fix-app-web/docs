@@ -732,6 +732,38 @@ Back-End:
 
 
 ### 5.1.4. Software Deployment Configuration
+## Despliegue de la Landing Page (Vercel + GitHub)
+
+1. **Registro en GitHub**  
+   Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de Prime-Fix-App-Web.
+
+2. **Creación del repositorio**  
+   Hicimos clic en **New** para crear un nuevo repositorio.  
+   Le asignamos el nombre **landing-page** dentro de la organización **prime-fix-app-web**.
+
+3. **Configuración del repositorio**  
+   - Visibilidad **pública** para permitir la integración con Vercel.  
+   - Añadimos un `README.md` inicial y un `.gitignore` adecuado.
+
+4. **Carga de los archivos de la landing**  
+   - Subimos los archivos del proyecto (**HTML, TailwindCSS, TypeScript, Astro**).  
+   - Confirmamos que los cambios estén en la rama **main**.  
+   - “**Commit changes**”.
+
+5. **Configuración en Vercel**  
+   - Iniciamos sesión en Vercel → **New Project** → vinculamos GitHub.  
+   - Importamos el repo `landing-page`.  
+   - Framework **Astro** (detección automática).  
+   - Definimos la rama de despliegue (**main** / `master`).
+
+6. **Verificación del sitio web**  
+   En pocos minutos, Vercel genera la **URL pública** del proyecto.
+
+7. **Actualización del sitio**  
+   Con cada **commit** a `main`, Vercel recompila y publica automáticamente.
+
+
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
