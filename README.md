@@ -639,6 +639,10 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
+#### Registro de talleres Bounded Context
+#### <img src= "Assets/chapter-IV/Auto Repair Register BC.png">
+
+
 ### 4.6.2. Software Architecture Context Diagram
 ### 4.6.3. Software Architecture Container Diagrams
 ### 4.6.4. Software Architecture Components Diagrams
