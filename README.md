@@ -330,8 +330,8 @@ Estas hipótesis serán validadas mediante pruebas con usuarios, entrevistas, pr
 **Aspectos Demográficos:**
 
 * Sexo: Masculino y Femenino
-* Edades: Entre 30 y 50 años
-* Ocupación: Dueño o administrador de un taller automotriz
+* Edades: Entre 21 y 50 años
+* Ocupación: Dueño, administrador o asesor de servicios de un taller automotriz
 
 **Aspectos Geográficos:**
 
@@ -356,35 +356,41 @@ Estas hipótesis serán validadas mediante pruebas con usuarios, entrevistas, pr
 ### 2.2.1. Diseño de entrevistas
 
 Segmento #1: Dueños de vehículos<br>
-"Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup Prime-Fix. Nos encontramos desarrollando una plataforma para que los dueños de vehículos tengan la facilidad de programar sus visitas a talleres de reparación de autos, hacer seguimiento al servicio y ver el diagnóstico de la falla detectada. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
+"Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup FixTech. Nos encontramos desarrollando una plataforma para que los dueños de vehículos tengan la facilidad de programar sus visitas a talleres de reparación de autos, hacer seguimiento al servicio y ver el diagnóstico de la falla detectada. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
 
 Preguntas:
 1. ¿Ha realizado la búsqueda de algún taller durante los últimos meses? De ser así, ¿Podría comentarnos su experiencia?
 2. ¿Qué plataformas o medios utiliza para realizar la búsqueda de talleres cuando su vehículo necesita reparación?
-3. ¿Qué aspectos valora más en un servicio de taller (distancia, disponibilidad, costo)?
+3. ¿Qué aspectos valora más en un servicio de taller? (distancia, disponibilidad, costo)
 4. ¿Ha tenido experiencias negativas con talleres? De ser así, ¿Le hubiera gustado registrar dichas experiencias de manera pública?
 5. ¿Usted mantiene un registro de su vehículo y del mantenimiento que le ha brindado durante todo este tiempo?
-6. ¿Ha dejado su vehículo en un taller durante días u horas?¿Cómo se le avisa que su vehículo ya está listo?
-7. ¿Estaría interesado en usar una plataforma que le permita agendar visita en talleres de su zoma? ¿Por qué?
-8. ¿Qué funcionalidades cree que harían que esta plataforma sea útil para el día a día?
-9. ¿Se sentiría cómodo recibiendo algunos recordatorios de mantenimiento preventivo desde una app?
-10. ¿Le gustaría hacer seguimiento al estado de su vehículo mientras este se encuentra en mantenimiento?
+6. ¿Ha dejado su vehículo en un taller durante días u horas? ¿Cómo se le avisa que su vehículo ya está listo?
+7. ¿Con qué dispositivo suele solicitar el servicio de mantenimiento?
+8. ¿Qué herramientas o software utiliza para encontrar algún taller cerca de una ubicación específica?
+9. Una vez terminado el servicio ¿Qué medios de pago utiliza? (efectivo, transferencia, etc)
+11. ¿Estaría interesado en usar una plataforma que le permita agendar visita en talleres de su zona? ¿Por qué?
+12. ¿Qué funcionalidades cree que harían que esta plataforma sea útil para el día a día?
+13. ¿Se sentiría cómodo recibiendo algunos recordatorios de mantenimiento preventivo desde una app?
+14. ¿Estaría de acuerdo con utilizar un aplicativo web para agilizar la programación de sus visitas?
+15. ¿Le gustaría hacer seguimiento al estado de su vehículo mientras este se encuentra en mantenimiento?
 
-Segmento #2: Administrador de taller automotriz<br>
-"Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup Prime-Fix. Nos encontramos desarrollando una plataforma para que los talleres tengan la facilidad de agendar y hacer seguimiento a las visitas de posibles clientes que solicitan la reparación de sus autos. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
+Segmento #2: Asesor de servicios de un taller automotriz<br>
+"Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup FixTech. Nos encontramos desarrollando una plataforma para que los talleres tengan la facilidad de agendar y hacer seguimiento a las visitas de posibles clientes que solicitan la reparación de sus autos. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
 
 Preguntas:
-1. ¿Cómo consigue actualmente a sus clientes para el taller?
+1. Actualmente, ¿Cómo consigue clientes para el taller?
 2. ¿En qué medio promociona sus servicios?
-3. ¿Encuentra dificultades al competir con talleres más grandes? De ser así ¿Podrías describirlas?
-4. ¿Cómo gestiona los pedidos o solicitudes de servicios de reparación? (ej. llamadas, WhatsApp o visitas directas)
-5. ¿Ha tenido algún reclamo sobre el desempeño de los téncnicos? ¿Podría detallar más la experiencia?
-6. ¿Cómo maneja la información sobre lso técnicos? ¿Tienen una base de datos?
-7. ¿Qué tan importante consideraría mostrar la disponibilidad de sus técnicos en tiempo real?
-8. ¿Qué tanto te ayudaría una plataforma donde puedas registrar tu taller, tus técnicos y mostrar reseñas de clientes?
-9. ¿Qué funcionalidades le añadirías a la plataforma?
-10. ¿Le parece importante que el cliente sepa en qué estado se encuentra su vehículo y cuál es su diagnóstico final?
-11. ¿Estaría interesado en una plataforma que notifique al cliente el momento en que puede recoger su vehículo?
+3. ¿Qué dispositivo se suele utilzar en la empresa para la programación de visitas de clientes? (celular, computadora de escritorio, laptop, etc)
+4. ¿Encuentra dificultades al competir con talleres más grandes? De ser así ¿Podrías describirlas?
+5. ¿Cómo gestiona los pedidos o solicitudes de servicios de reparación? (ej. llamadas, WhatsApp o visitas directas)
+6. ¿Ha tenido algún reclamo sobre el desempeño de los técnicos? ¿Podría detallar más la experiencia? ¿Por qué medios se presentaron estos reclamos?
+7. ¿Cómo maneja la información sobre los técnicos? ¿Cuenta con una base de datos?
+8. ¿Qué tan importante consideraría mostrar la disponibilidad de sus técnicos en tiempo real?
+9. ¿Qué tanto te ayudaría una plataforma donde puedas registrar tu taller, los técnicos y mostrar reseñas de clientes?
+10. ¿Qué funcionalidades le añadirías a la plataforma?
+11. ¿Le parece importante que el cliente sepa en qué estado se encuentra su vehículo y cuál es su diagnóstico final?
+12. ¿Estaría interesado en una plataforma que notifique al cliente el momento en que puede recoger su vehículo?
+
 
 ### 2.2.2. Registro de entrevistas
 
@@ -658,27 +664,502 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+
+En esta sección el equipo presenta la Guía de Estilos de Prime-Fix.
+
 ### 4.1.1. General Style Guidelines
+
+**Branding**
+
+El logo de FixTech representa el mensaje que nosotros queremos dar con nuestra StarUp que es una búsqueda de calidad en lo que talleres mecánicos se refiere. El logo se compone de un ícono de ubicación utilizado para referenciar el lugar en el que se encutran los talleres. Asimismo, se tiene un check dentro de este ícono, con esto queremos dar a entender que los vehiculos que son atendidos gracias al servicio de Prime-Fix, serán agendados a un mantenimiento vehicular que sea pertinente para el vehiculo. Los colores que hemos elegido para nuestro proyecto,transmiten una sensación de estar en un servicio que es enfocado en lo vehicular confiable y eficaz.
+
+**Variantes del Logo**
+
+<h3>Logo original</h3>
+<img src="Assets/logo/logo_fondo.png" width="150" height="180">
+
+<h3>Logo transparente sin letras</h3>
+<img src="Assets/logo/logo_transparente.png" width="150" height="150">
+
+<h3>Logo transparente con letras</h3>
+<img src="Assets/logo/logo_titulo.png" width="150" height="200">
+
+**Typography**
+
+Nuestra tipografía Exo proyecta una imagen de profesionalidad y confianza que se alinea con la misión de FixTech. Con su estilo moderno y geométrico, transmite una sensación de tecnología e innovación, mostrando que estamos al día con las últimas herramientas del mundo automotriz. Además, su claridad y legibilidad refuerzan la transparencia de nuestro servicio. Utilizaremos Exo en sus variantes más gruesas para títulos y llamadas a la acción, aportando un dinamismo que capta la atención. Para el cuerpo del texto, optaremos por un estilo más ligero, garantizando que toda la información sea fácil de leer, lo que contribuye a una experiencia de usuario que se percibe como limpia, ordenada y fiable. Todo esto se ve reforzado con los colores que impulsan y agilizan la lectura dentro de la página web. 
+
+**Colors**
+
+La paleta de colores elegida para la web de Prime-Fix fue diseñada para transmitir un mensaje dirigidos a los consumidores. El azul petróleo se asocia con la seguridad, la profesionalidad y la fiabilidad convirtiéndose en el color principal de la marca. El amarillo mostaza tiene la función de resaltar acciones importantes y de aportar energia al logo. El beige claro y el blanco se transmiten limpieza, simplicidad y frescura, con estos colores nuestra página es más ligera a la hora de navegar en ella. El color negro refuerza la seriedad a la sofisticación, al elegancia y la seriedad mientras que el gris medio aporta equilibrio. Finalmente, el azul grisáceo actúa como tono de apoyo.
+
+<h3>Estilos</h3>
+<img src="Assets/estilos.PNG" width="550" height="450">
+
+**Paleta de colores**
+| **Color**        | **Código Hex** | **Descripción de uso** |
+|------------------|----------------|-------------------------|
+| Azul petróleo     | `#114358`      | Color principal de la marca, se usa en fondos, sidebar, y elementos que transmiten confianza y profesionalidad. |
+| Amarillo mostaza  | `#F2AA1F`      | Color complementario y de acción; destaca botones principales y enlaces. |
+| Beige claro       | `#F1ECE7`      | Color de soporte; aplicado en tarjetas, fondos de secciones (landing page) y formularios para dar claridad y frescura. |
+| Blanco            | `#FFFFFF`      | Neutro principal para contraste; usado en textos que requieren limpieza visual. |
+| Negro             | `#090909`      | Neutro fuerte; aplicado en textos principales para dar sensación de seriedad y sofisticación. |
+| Gris medio        | `#B1B1B1`      | Secundario; usado para el trackeo de estados inactivos y elementos que requieren menor jerarquía. |
+| Azul grisáceo     | `#6491A4`      | Color adicional; utilizado en iconografía secundaria y visualización de pestañas activas|
+
+
 ### 4.1.2. Web Style Guidelines
 
+Respecto al estilo de la estructura de la web, se ha empleado el patrón Persistent Navigation, con una barra de navegación mediante la cual el usuario podrá tener acceso a las secciones principales sin perderse en el flujo y con la posibilidad de volver. Con este patrón se puede cumplir la heurística de visibilidad del estado del sistema donde el menú ne navegación resaltará la sección activa en todo momento.
+El patrón de diseño Card Layout es visible en algunas secciones, este se encarga de organizar información relevante en bloques.
+En la web de Prime-Fix se puede visualizar el uso de la huerística de brindar retroalimentación del usuario mediante la barra de progreso que permite rastrear el estado actual del vehículo.
+En cuanto a los botones, destaca el patrón Primary Call to Action, con el que se permite destacar lo importante mediante un contraste y se guía al usuario hacia acciones críticas. 
+
+
 ## 4.2. Information Architecture
+
+En esta sección se detallará parte importante de la estructura y etiquetado del aplicativo
+
 ### 4.2.1. Organization Systems
+
+<img src="Assets/Organization Systems/organization_ systems.png">
+
 ### 4.2.2. Labeling Systems
+
+| Sección            | Etiqueta                 | Descripción                                                                                                                                                                                                                      |
+| ------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Menú principal     | Visitas agendadas        | Apartado que muestra las visitas que el dueño del coche tenga programadas con el taller. Este se mostrará tanto para el dueño del vehículo como para el asesor de servicios que use el aplicativo en representación de un taller |
+|                    | Calificaciones recibidas | Muestra información sobre calificaciones realizadas por parte de algunos clientes al servicio brindado por el taller.                                                                                                            |
+| Perfil             | Editar perfil            | Botón que permitirá que el usuario pueda cambiar información de su perfil                                                                                                                                                        |
+| Coches             | Agregar coche            | Permite que un usuario dueño de más de un coche los pueda registrar según sus necesidades                                                                                                                                        |
+| Buscar taller      | Departamento             | El usuario que requiera una reparación deberá registrar el departamento en que se encuentra para realizar la búsqueda                                                                                                            |
+|                    | Distrito                 | El usuario que requiera una reparación deberá registrar el distrito en que se encuentra para realizar la búsqueda                                                                                                                |
+|                    | Programación de visita   | Es un apartado diseñado para que el usuario pueda programar su vida de manera correcta                                                                                                                                           |
+| Historial          | Historial de visitas     | Contiene información relevante sobre visitas ya realizadas por el usuario                                                                                                                                                        |
+| Seguir estado      | Estado                   | Muestra el estado actual del vehículo que ha sido dejado en el taller y cuya información será modificada por parte del propio taller                                                                                             |
+| Configuración      | Cambiar contraseña       | Se le brinda a ambos tipos de usuario la posibilidad de cambiar las contraseñas que correspondan a la cuenta.                                                                                                                    |
+|                    | Métodos de pago          | Apartado que le brinda la posibilidad de eliminar o agregar un nuevo método de pago.                                                                                                                                             |
+|                    | Suscripción              | Muestra el plan de suscripciones adquirido por el momento                                                                                                                                                                        |
+|                    | Ajustes                  | Permite que el usuario pueda  realizar ajustes de uso de aplicativo                                                                                                                                                              |
+| Taller             | Nombre                   | Se ve el nombre del taller registrado                                                                                                                                                                                            |
+|                    | Dirección                | Se muestra en escrito la dirección del taller registrada                                                                                                                                                                         |
+|                    | Ubicación                | Se muestra en un mapa marcado la ubicación exacta del taller y sus alrededores                                                                                                                                                   |
+| Gestionar técnicos | Agregar técnico          | Botón que permite agregar un nuevo técnico                                                                                                                                                                                       |
+| Estado de coches   | Modificar estado         | Permite que el taller pueda cambiar el estado del vehículo que está siendo reparado en tiempo real                                                                                                                               |
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
 
 ## 4.3. Landing Page UI Design
+
+A continuación se mostrarán los diseños realizados en Figma para la creación de la landing page de Prime-Fix
+
 ### 4.3.1. Landing Page Wireframe
+
+<img src="Assets/landing_page/landing_wireframe1.png">
+<img src="Assets/landing_page/landing_wireframe2.png">
+
 ### 4.3.2. Landing Page Mock-up
+
+<img src="Assets/landing_page/landing_mockup1.png">
+<img src="Assets/landing_page/landing_mockup2.png">
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+En este apartado se presentarán los Wireframes más relevantes del proyecto
+
+**Formulario de registro de dueño de coche**
+
+<img src="Assets/Wireframes/registro_dueño.png">
+<hr>
+
+**Plan de pago para dueño de coche**
+
+<img src="Assets/Wireframes/plan_dueño.png">
+<hr>
+
+**Menú inicial para dueño de coche**
+
+<img src="Assets/Wireframes/menu_inicial_dueño1.png">
+<img src="Assets/Wireframes/menu_inicial_dueño2.png">
+<hr>
+
+**Configuración para dueño de coche**
+
+<img src="Assets/Wireframes/configuracion_dueño1.png">
+<hr>
+
+**Perfil de dueño de coche**
+
+<img src="Assets/Wireframes/perfil_dueño.png">
+<hr>
+
+**Registro de coches del usuario dueño de coche**
+
+<img src="Assets/Wireframes/coches_dueño.png">
+<img src="Assets/Wireframes/coches_dueño_editar.png">
+
+<hr>
+
+**Búsqueda da taller y programación de visita**
+
+<img src="Assets/Wireframes/buscar_taller_dueño1.png">
+<img src="Assets/Wireframes/buscar_taller_dueño2.png">
+<img src="Assets/Wireframes/buscar_taller_dueño_visita.png">
+
+<hr>
+
+**Historial de visitas realizadas**
+
+<img src="Assets/Wireframes/historial_dueño.png">
+
+<hr>
+
+
+**Seguimiento de estado de coche**
+
+<img src="Assets/Wireframes/trackear_dueño_estado1.png">
+
+<hr>
+
+**Realizacion de pago del servicio**
+
+<img src="Assets/Wireframes/pagar_dueño.png">
+<img src="Assets/Wireframes/pagar_dueño_pagado.png">
+
+<hr>
+
+**Formulario de registro del taller**
+
+<img src="Assets/Wireframes/registro_taller.png">
+<hr>
+
+**Planes de pago para el taller**
+
+<img src="Assets/Wireframes/plan_taller.png">
+<hr>
+
+**Menú inicial para el taller**
+
+<img src="Assets/Wireframes/menu_inicial_taller1.png">
+<img src="Assets/Wireframes/menu_inicial_taller4.png">
+<hr>
+
+**Configuración para el taller**
+
+<img src="Assets/Wireframes/configuración_taller1.png">
+<hr>
+
+**Perfil de taller**
+
+<img src="Assets/Wireframes/perfil_taller.png">
+<hr>
+
+**Información del taller**
+
+<img src="Assets/Wireframes/taller_taller.png">
+<hr>
+
+**Solicitudes de servicio para el taller**
+
+<img src="Assets/Wireframes/soliicitudes_taller.png">
+<hr>
+
+**Gestión de técnicos del taller**
+
+<img src="Assets/Wireframes/getionar_taller1.png">
+<img src="Assets/Wireframes/getionar_taller2.png">
+<hr>
+
+**Estado de coches desde la vista del taller**
+
+<img src="Assets/Wireframes/estado_coches_taller.png">
+<hr>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
-### 4.4.2. Web Applications Mock-ups
-### 4.4.3. Web Applications User Flow Diagrams
+
+**En este apartado se mostrarán mediante los Wireframes los flujos de actividades a realizar para que el usuario pueda alcanzar sus respectivas metas**
+
+**Ambos usuarios**
+
+**User Goal 1: Registro, inicio de sesión y acceso al aplicativo**<br>
+En esta meta, ambos usuarios deberán registrarse seleccionando su tipo de usuario correspondente, luego llenando el formulario de su información y finalmente realizando el pago del plan que van a comprar para poder tener acceso a las funcionalidades.
+
+<img src="Assets/Flow/Wireframe flows/UG1.PNG">
+<hr>
+
+
+<hr>
+
+**Apartado de dueños de coches**
+
+**User Goal 2: Reservar cita con taller**<br>
+Para esta meta, el usuario comenzará desde el menú inicial para lugo dirigirse al apartado "Buscar taller", luego procede a llenar la información correspondiente a la ubicación donde querrá ser atendido. Posteriormente, se le muestra una lista de talleres disponibles con información útil para que el usuario pueda elegir entre lo que mejor le parezca. Finalmente, procede a llenar el formulario para la programación de visita y recibe las notificaciones correspondientes: si el taller no acepta la solicitud se muestra que no será posible agendar la visita; caso contrario, se comentará que la visita fue programada con éxito.
+
+<img src="Assets/Flow/Wireframe flows/UG2.PNG">
+<hr>
+
+**User Goal 3: Seguir estado de coche en reparación**<br>
+En esta meta, se procederá a acceder a "Seguir estado". Luego se selecciona el auto que está siendo reparado y a continuación se mostrará el estado actual del coche. Cada vez que se actualice el estado, se enviará una notificación. Esto sucede hasta que la reparación halla culminado.
+
+<img src="Assets/Flow/Wireframe flows/UG3.PNG">
+<hr>
+
+**User Goal 4: Realizar pago**<br>
+Luego de realizar el seguimiento debido, se le ofrece al usuario la posibilidad de pagar tanto con efectivo o por medio del aplicativo. En caso se opte por utilizar el aplicativo, el usuario deberá agregar/elegir su método para luego recibir la notificación de que el pago fue confirmado. Si opta por el pago en efectivo, la notificación de servicio pagado será enviada una vez el taller confirme el pago.
+
+<img src="Assets/Flow/Wireframe flows/UG4.PNG">
+<hr>
+
+**User Goal 5: Calificar servicio**<br>
+Este flujo se sigue luego del pago para que el usuario brinde una calificación del servicio voluntaria. Si el usuario decide calificarlo, tendrá un sistema de puntuación de 1 a 5 y la posibilidad de dejar un comentario opcional.
+
+<img src="Assets/Flow/Wireframe flows/UG5.PNG">
+<hr>
+
+**User Goal 6: Configurar información**<br>
+El usuario tendrá 3 apartados para configurar información privada:
+ - En "Configuración" podrá modificar su contraseña, métodos de pago, suscripción y ajustes del sistema.
+ - En "Perfil" podrá modificar su nombre de usuario, dirección y contraseña.
+ - En "Coches", puede agregar, editar o eliminar los coches registrados
+
+<img src="Assets/Flow/Wireframe flows/UG6.PNG">
+<hr>
+
+**Apartado de talleres**
+
+
+**User Goal 7: Actualizar estado de coche**<br>
+El usuario deberá cambiar el estado del coche en reparación desde "Estado de coches"
+
+<img src="Assets/Flow/Wireframe flows/UG7.PNG">
+<hr>
+
+**User Goal 8: Gestionar técnicos**<br>
+El usuario deberá dirigirse al apartado "Gestionar ténicos" y llenar el formulario correspondiente tanto para agregar a un nuevo técnico como para editar información de uno ya existente.
+
+<img src="Assets/Flow/Wireframe flows/UG8.PNG">
+<hr>
+
+**User Goal 9: Gestionar solicitudes**<br>
+El usuario deberá dirigirse al apartado "Gestionar solicitudes" y decidir si acepta o no alguna solicitud pendiente.
+
+<img src="Assets/Flow/Wireframe flows/UG9.PNG">
+<hr>
+
+**User Goal 10: Configurar información**<br>
+El usuario tendrá 3 apartados para configurar información privada:
+ - En "Configuración" podrá modificar su contraseña, métodos de pago, suscripción y ajustes del sistema.
+ - En "Perfil" podrá modificar su nombre de usuario, dirección y contraseña.
+ - En "Taller", puede cambiar el nombre, la dirección y la ubicación en mapa con el marcador.
+
+<img src="Assets/Flow/Wireframe flows/UG10.PNG">
+<hr>
+
+
+### 4.4.3. Web Applications Mock-ups
+
+En este apartado se presentarán los Mock-ups más relevantes del proyecto
+
+**Formulario de registro de dueño de coche**
+
+<img src="Assets/Mockups/registro_dueño.png">
+<hr>
+
+**Plan de pago para dueño de coche**
+
+<img src="Assets/Mockups/plan_dueño.png">
+<hr>
+
+**Menú inicial para dueño de coche**
+
+<img src="Assets/Mockups/menu_inicial_dueño1.png">
+<img src="Assets/Mockups/menu_inicial_dueño2.png">
+<hr>
+
+**Configuración para dueño de coche**
+
+<img src="Assets/Mockups/configuracion_dueño1.png">
+<hr>
+
+**Perfil de dueño de coche**
+
+<img src="Assets/Mockups/perfil_dueño.png">
+<hr>
+
+**Registro de coches del usuario dueño de coche**
+
+<img src="Assets/Mockups/coches_dueño.png">
+<img src="Assets/Mockups/coches_dueño_editar.png">
+
+<hr>
+
+**Búsqueda da taller y programación de visita**
+
+<img src="Assets/Mockups/buscar_taller_dueño1.png">
+<img src="Assets/Mockups/buscar_taller_dueño2.png">
+<img src="Assets/Mockups/buscar_taller_dueño_visita.png">
+
+<hr>
+
+**Historial de visitas realizadas**
+
+<img src="Assets/Mockups/historial_dueño.png">
+
+<hr>
+
+
+**Seguimiento de estado de coche**
+
+<img src="Assets/Mockups/trackear_dueño_estado1.png">
+
+<hr>
+
+**Realizacion de pago del servicio**
+
+<img src="Assets/Mockups/pagar_dueño.png">
+<img src="Assets/Mockups/pagar_dueño_pagado.png">
+
+<hr>
+
+**Formulario de registro del taller**
+
+<img src="Assets/Mockups/registro_taller.png">
+<hr>
+
+**Planes de pago para el taller**
+
+<img src="Assets/Mockups/plan_taller.png">
+<hr>
+
+**Menú inicial para el taller**
+
+<img src="Assets/Mockups/menu_inicial_taller1.png">
+<img src="Assets/Mockups/menu_inicial_taller4.png">
+<hr>
+
+**Configuración para el taller**
+
+<img src="Assets/Mockups/configuración_taller1.png">
+<hr>
+
+**Perfil de taller**
+
+<img src="Assets/Mockups/perfil_taller.png">
+<hr>
+
+**Información del taller**
+
+<img src="Assets/Mockups/taller_taller.png">
+<hr>
+
+**Solicitudes de servicio para el taller**
+
+<img src="Assets/Mockups/soliicitudes_taller.png">
+<hr>
+
+**Gestión de técnicos del taller**
+
+<img src="Assets/Mockups/getionar_taller1.png">
+<img src="Assets/Mockups/getionar_taller2.png">
+<hr>
+
+**Estado de coches desde la vista del taller**
+
+<img src="Assets/Mockups/estado_coches_taller.png">
+<hr>
+
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+**En este apartado se mostrarán los flujos de actividades a realizar para que el usuario pueda alcanzar sus respectivas metas**
+
+**Ambos usuarios**
+
+**User Goal 1: Registro, inicio de sesión y acceso al aplicativo**<br>
+En esta meta, ambos usuarios deberán registrarse seleccionando su tipo de usuario correspondente, luego llenando el formulario de su información y finalmente realizando el pago del plan que van a comprar para poder tener acceso a las funcionalidades.
+
+<img src="Assets/Flow/Mockups flows/UG1.PNG">
+<hr>
+
+
+<hr>
+
+**Apartado de dueños de coches**
+
+**User Goal 2: Reservar cita con taller**<br>
+Para esta meta, el usuario comenzará desde el menú inicial para lugo dirigirse al apartado "Buscar taller", luego procede a llenar la información correspondiente a la ubicación donde querrá ser atendido. Posteriormente, se le muestra una lista de talleres disponibles con información útil para que el usuario pueda elegir entre lo que mejor le parezca. Finalmente, procede a llenar el formulario para la programación de visita y recibe las notificaciones correspondientes: si el taller no acepta la solicitud se muestra que no será posible agendar la visita; caso contrario, se comentará que la visita fue programada con éxito.
+
+<img src="Assets/Flow/Mockups flows/UG2.PNG">
+<hr>
+
+**User Goal 3: Seguir estado de coche en reparación**<br>
+En esta meta, se procederá a acceder a "Seguir estado". Luego se selecciona el auto que está siendo reparado y a continuación se mostrará el estado actual del coche. Cada vez que se actualice el estado, se enviará una notificación. Esto sucede hasta que la reparación halla culminado.
+
+<img src="Assets/Flow/Mockups flows/UG3.PNG">
+<hr>
+
+**User Goal 4: Realizar pago**<br>
+Luego de realizar el seguimiento debido, se le ofrece al usuario la posibilidad de pagar tanto con efectivo o por medio del aplicativo. En caso se opte por utilizar el aplicativo, el usuario deberá agregar/elegir su método para luego recibir la notificación de que el pago fue confirmado. Si opta por el pago en efectivo, la notificación de servicio pagado será enviada una vez el taller confirme el pago.
+
+<img src="Assets/Flow/Mockups flows/UG4.PNG">
+<hr>
+
+**User Goal 5: Calificar servicio**<br>
+Este flujo se sigue luego del pago para que el usuario brinde una calificación del servicio voluntaria. Si el usuario decide calificarlo, tendrá un sistema de puntuación de 1 a 5 y la posibilidad de dejar un comentario opcional.
+
+<img src="Assets/Flow/Mockups flows/UG5.PNG">
+<hr>
+
+**User Goal 6: Configurar información**<br>
+El usuario tendrá 3 apartados para configurar información privada:
+ - En "Configuración" podrá modificar su contraseña, métodos de pago, suscripción y ajustes del sistema.
+ - En "Perfil" podrá modificar su nombre de usuario, dirección y contraseña.
+ - En "Coches", puede agregar, editar o eliminar los coches registrados
+
+<img src="Assets/Flow/Mockups flows/UG6.PNG">
+<hr>
+
+**Apartado de talleres**
+
+
+**User Goal 7: Actualizar estado de coche**<br>
+El usuario deberá cambiar el estado del coche en reparación desde "Estado de coches"
+
+<img src="Assets/Flow/Mockups flows/UG7.PNG">
+<hr>
+
+**User Goal 8: Gestionar técnicos**<br>
+El usuario deberá dirigirse al apartado "Gestionar ténicos" y llenar el formulario correspondiente tanto para agregar a un nuevo técnico como para editar información de uno ya existente.
+
+<img src="Assets/Flow/Mockups flows/UG8.PNG">
+<hr>
+
+**User Goal 9: Gestionar solicitudes**<br>
+El usuario deberá dirigirse al apartado "Gestionar solicitudes" y decidir si acepta o no alguna solicitud pendiente.
+
+<img src="Assets/Flow/Mockups flows/UG9.PNG">
+<hr>
+
+**User Goal 10: Configurar información**<br>
+El usuario tendrá 3 apartados para configurar información privada:
+ - En "Configuración" podrá modificar su contraseña, métodos de pago, suscripción y ajustes del sistema.
+ - En "Perfil" podrá modificar su nombre de usuario, dirección y contraseña.
+ - En "Taller", puede cambiar el nombre, la dirección y la ubicación en mapa con el marcador.
+
+<img src="Assets/Flow/Mockups flows/UG10.PNG">
+<hr>
+
 
 ## 4.5. Web Applications Prototyping
+
+A continuación, se presentarán los prototipos de la aplicación web que cuentan con un flujo definido e interactividad para algunos botones. Este prototipo nos permitirá conocer un poco más sobre lo pensado para el desarrollo de Prime-Fix.
+
+<img src="Assets/Mockups/menu_inicial_dueño1.png">
+
+Link del prototipo: [Prototype](https://www.figma.com/proto/wf74HMrT48NvWY5Bq8MgZi/Prime-Fix?node-id=111-2886&t=MyqoCycGjMiKmrHp-1&scaling=contain&content-scaling=fixed&page-id=1%3A2)
+
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
