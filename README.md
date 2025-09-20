@@ -602,7 +602,7 @@ Simular cómo sería una experiencia ideal con AutoFix, desde la perspectiva del
 
 **Landing Page Title:** Prime-Fix
 
-**Description:** FixTech es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con Prime-Fix, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
+**Description:** Prime-Fix es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con FixTech, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
 
 **Meta Keywords:** Mantenimiento automotriz, reparación de vehiculos, talleres confiables, gestion digital, tecnología automotriz.
 
@@ -610,9 +610,9 @@ Simular cómo sería una experiencia ideal con AutoFix, desde la perspectiva del
 
 **Meta Description:** Facilitar la conexión entre los dueños de vehículos que necesiten un mantenimiento y los talleres automotrices.  
 
-**Title:** Prime-Fix
+**Title:** FixTech
 
-**Description:** Prime-Fix, la plataforma digital de FixTech, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
+**Description:** FixTech, la plataforma digital de Prime-Fix, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
 
 **Meta Author:** FixTech
 
