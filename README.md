@@ -687,48 +687,49 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 #### Landing Page:
 
 | **Tecnología** | **Convenciones principales** |
-|----------------|-------------------------------|
+|---|---|
 | **Tailwind CSS** | - Usar solo clases utilitarias de Tailwind.<br>- Ordenar clases en bloques: Layout → Box Model → Tipografía → Colores/Fondos → Otros.<br>- Mantener legibilidad en clases largas. |
-| **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.).<br>- Indentación de 2 espacios.<br>- Atributos entre comillas dobles `" "`.<br>- Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`).<br>- Nombres en **kebab-case** (`main-section`). |
-| **C#** | - Variables y métodos en **camelCase**.<br>- Clases, interfaces y controladores en **PascalCase**.<br>- Constantes en **ALL_CAPS**.<br>- Propiedades en **PascalCase**.<br>- Usar `var` solo cuando el tipo es evidente.<br>- Mantener un máximo de una clase por archivo.<br>- Usar `async`/`await` de forma consistente para operaciones asíncronas.<br>- Seguir principios SOLID y convenciones de .NET.<br>- Ordenar `using`: primero los del framework, luego externos, finalmente internos. |
-| **Astro** | - Archivos `.astro` en **PascalCase**.<br>- Orden del archivo: `frontmatter` → HTML/JSX → estilos `<style>`.<br>- Props siempre tipadas con TypeScript.<br>- Importaciones cortas y claras.<br>- Componentes pequeños y reutilizables. |
-| **Gherkin** | - Los escenarios deben escribirse en **lenguaje claro y entendible**.<br>- Estructura: **Given, When, Then**, y opcionalmente **And**.<br>- Un escenario debe reflejar un caso de uso específico.<br>- Las historias de usuario deben agruparse en **Features**.<br>- Mantener consistencia en la redacción (tiempos verbales en presente). | <br></br>
+| **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.).<br>- Indentación de 2 espacios.<br>- Atributos entre comillas dobles `"`.<br>- Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`).<br>- Nombres en kebab-case (`main-section`). |
+| **TypeScript** | - Variables/funciones en `camelCase`.<br>- Clases/interfaces en `PascalCase`.<br>- Constantes en `UPPER_SNAKE_CASE`.<br>- Tipado obligatorio en variables, parámetros y retornos.<br>- Ordenar imports de externos a internos. |
+| **Astro** | - Archivos `.astro` en `PascalCase`.<br>- Orden del archivo: frontmatter → HTML/JSX → estilos `\<style>`.<br>- Props siempre tipadas con TypeScript.<br>- Importaciones cortas y claras.<br>- Componentes pequeños y reutilizables. |
+| **Gherkin** | - Los escenarios deben escribirse en lenguaje claro y entendible.<br>- Estructura: **Given, When, Then**, y opcionalmente **And**.<br>- Un escenario debe reflejar un caso de uso específico.<br>- Las historias de usuario deben agruparse en **Features**.<br>- Mantener consistencia en la redacción (tiempos verbales en presente). |
+
 
 Front-End:
 
-**Resumen:** Reglas para Vue 3 con Vite. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
+**Resumen:** Como principales tecnologías, usaremos Vue, HTML, JavaScript y CSS. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
 
 | **Tecnología** | **Convención** |
 |-------------|-----------------|
-| **Stack** | Vue 3 + Vite + SFC (`*.vue`) + Tailwind; ESLint + Prettier; (opcional) TypeScript. |
-| **Estructura** | `src/components`, `src/views`, `src/composables`, `src/services`, `src/store` (Pinia), `src/router`, `src/assets`. |
+| **Stack** | HTML + CSS + JavaScript + Vue 3 (SFC o CDN); ESLint + Prettier. |
+| **Estructura** | `src/components`, `src/views`, `src/composables`, `src/services`, `src/router`, `src/assets`. |
 | **Componentes** | Nombres **PascalCase** (`UserCard.vue`); 1 componente por archivo; extraer subcomponentes cuando superen ~200 líneas. |
 | **Script** | `<script setup>`; Composition API; evitar lógica compleja en el template; composables para lógica reutilizable. |
-| **Props/Emits** | `props` tipadas/validadas; `emits` declarados; eventos en **kebab-case** (`update:model-value`). |
-| **Estado/Routing** | Pinia modular; no lógica de negocio en componentes; rutas perezosas (lazy) y guards en router. |
-| **Estilo de código** | Indentación 2 espacios; comillas simples; imports ordenados; evitar `any` si hay TS. |
+| **Props/Emits** | `props` validadas; `emits` declarados; eventos en **kebab-case** (`update:model-value`). |
+| **Estado/Routing** | Estado local/composables; **Vue Router** (opcional); rutas perezosas (lazy) y guards en router. |
+| **Estilo de código** | Indentación 2 espacios; comillas simples; imports ordenados. |
 | **Accesibilidad** | Roles/`aria-*`; foco gestionado; mensajes de error con `aria-live`. |
-| **CSS/Tailwind** | Utilitarias; evitar `!important`; patrones repetidos a componentes o `@apply` en CSS global. |
-| **API** | `src/services/*` con axios/fetch envuelto; interceptores para auth/errores; timeouts/reintentos. |
-| **Pruebas** | Unit con Vitest; Vue Test Utils para componentes; mocks de store/router/HTTP. |
+| **CSS** | Evitar `!important`; reutilizar clases; extraer patrones repetidos a componentes u hojas globales. |
+| **API** | `src/services/*` con `fetch/axios` envuelto; interceptores para auth/errores; timeouts/reintentos. |
+| **Pruebas** | Unit con Vitest; Vue Test Utils para componentes; mocks de router/HTTP. |
 
 Back-End:
 
-**Resumen:** Convenciones para APIs limpias, seguras y testables con ASP.NET Core y EF Core. Separación por capas, DTOs, validación y observabilidad.
+**Resumen:** Como principales tecnologías, C# y .NET. Como principales tecnologías, se utilizarán C# y .NET, enfocándose en un código limpio, seguro y mantenible bajo buenas prácticas de arquitectura, nomenclatura, validación, seguridad y pruebas.
 
-| **Aspecto** | **Convención** |
-|-------------|-----------------|
-| **Arquitectura** | Capas: **API** (Controllers/Minimal API) → **Application** (Services/Casos de uso) → **Domain** (Entidades/Reglas) → **Infrastructure** (EF Core/Repos/Integraciones). |
-| **Nomenclatura** | Clases/métodos/propiedades en **PascalCase**; variables locales en **camelCase**; privados `_camelCase`; constantes **ALL_CAPS**. |
-| **DI & Config** | DI nativa; opciones con `IOptions<T>`; secretos con **User Secrets**/vault; no credenciales en código. |
-| **DTOs/Mapping** | Exponer DTOs (nunca entidades); AutoMapper o mapeo explícito; contratos versionados. |
-| **Validación** | `DataAnnotations` o **FluentValidation**; respuestas 400 con detalle de errores; reglas de dominio en capa Domain. |
-| **EF Core** | `DbContext` por request; `AsNoTracking` en lecturas; migraciones versionadas; transacciones cuando aplique; `CancellationToken`. |
-| **Asincronía** | I/O con `async/await`; evitar `.Result/.Wait()`; timeouts/circuit breaker en integraciones. |
-| **Errores & Logs** | Middleware global → ProblemDetails (RFC 7807); `ILogger<T>`; correlación (`TraceId`) y métricas (Prometheus/OpenTelemetry). |
-| **API** | Versionado (`/api/v1`); Swagger/Swashbuckle; paginación/orden/búsqueda; códigos HTTP correctos; idempotencia en operaciones sensibles. |
-| **Seguridad** | Autenticación **JWT**; autorización por políticas/roles; CORS explícito; rate limiting; validación de entrada estricta. |
-| **Pruebas** | Unit con xUnit; integración con `WebApplicationFactory`; pruebas de repos y servicios; fixtures de datos. |
+| **Tecnología** | **Convención** |
+|----------------|----------------|
+| **C# .NET – Arquitectura** | Capas separadas: **API** (Controllers/Minimal API) → **Application** (Services/Casos de uso) → **Domain** (Entidades/Reglas) → **Infrastructure** (EF Core/Repos/Integraciones). |
+| **C# .NET – Nomenclatura** | Clases, métodos y propiedades en **PascalCase**; variables locales en **camelCase**; privados `_camelCase`; constantes en **ALL_CAPS**. |
+| **C# .NET – Inyección de Dependencias & Configuración** | Usar **DI nativa**; configuración con `IOptions<T>`; secretos con **User Secrets** o vault; prohibido hardcodear credenciales. |
+| **C# .NET – DTOs/Mapping** | Exponer **DTOs** (nunca entidades); AutoMapper o mapeo explícito; contratos versionados para compatibilidad. |
+| **C# .NET – Validación** | `DataAnnotations` o **FluentValidation**; respuestas 400 con detalle de errores; reglas de negocio validadas en capa Domain. |
+| **EF Core** | `DbContext` por request; `AsNoTracking` en consultas de solo lectura; migraciones versionadas; transacciones cuando apliquen; soporte de `CancellationToken`. |
+| **C# .NET – Asincronía** | Todo I/O con `async/await`; evitar `.Result` o `.Wait()`; definir timeouts y circuit breakers en integraciones. |
+| **C# .NET – Errores & Logs** | Middleware global con **ProblemDetails (RFC 7807)**; logging con `ILogger<T>`; correlación con `TraceId`; métricas con **Prometheus/OpenTelemetry**. |
+| **C# .NET – API** | Versionado (`/api/v1`); documentación con Swagger/Swashbuckle; soportar paginación, orden y búsqueda; códigos HTTP correctos; operaciones sensibles idempotentes. |
+| **C# .NET – Seguridad** | Autenticación con **JWT**; autorización por roles/políticas; CORS explícito; rate limiting; sanitización y validación estricta de entrada. |
+| **C# .NET – Pruebas** | Unit testing con **xUnit**; integración con `WebApplicationFactory`; pruebas de repositorios y servicios; uso de fixtures de datos. |
 
 
 ### 5.1.4. Software Deployment Configuration
