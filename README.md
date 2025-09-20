@@ -1,10 +1,12 @@
-<h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="logo-upc" width="200px" height="200px" align="center">
+<h2 style="text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"
+       alt="logo-upc" width="200" height="200"
+       style="display:block; margin:0 auto;">
 </h2>
 
-<h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
+<h1 style="text-align:center">Universidad Peruana de Ciencias Aplicadas</h1>
 
-<h3 align="center">
+<h3 style="text-align:center; margin-top:18px; margin-bottom:18px;">
   Ingeniería de Software
   <br><br>
   Curso: Aplicaciones Web
@@ -17,24 +19,28 @@
   <br><br>
   Informe del Trabajo Final
   <br><br>
-  Startup: Prime-Fix
+  Startup: FixTech
   <br><br>
-  Producto: AutoFix
+  Producto: Prime-Fix
 </h3>
 
-<div align="center">
+<table style="margin: 0 auto; width: auto; display: table; border-collapse: collapse; font-size: 12pt;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #000; padding:6px 12px; text-align:center;">Alumno</th>
+      <th style="border:1px solid #000; padding:6px 12px; text-align:center;">Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Cesar Augusto Arostegui Alzamora</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202114548</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Gianmarco Fabian Jiménez Guerra</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202123843</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Giorgio Marzouk Awad Vargas</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202324041</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Flor De María Contreras Leon</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202323243</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Piero Francesco Tenorio Medina</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202318731</td></tr>
+  </tbody>
+</table>
 
-| <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
-|:-------------------------------------------:|:-------------------------------------------:|
-|       Cesar Augusto Arostegui Alzamora      |            u202114548                       |
-|       Gianmarco Fabian Jiménez Guerra       |            u202123843                       |
-|       Flor De María Contreras Leon          |            u202323243                      |
-|       Giorgio Marzouk Awad Vargas           |            u202324041                       |
-|       Piero Francesco Tenorio Medina        |            u202318731                       |
-
-</div>
-
-<div align="center"> Setiembre 2025 </div>
+<div style="text-align:center; margin-top:18px;"> Setiembre 2025 </div>
 
 <hr>
 
@@ -285,6 +291,21 @@ A partir de nuestras asunciones, formulamos las siguientes hipótesis que deben 
 Estas hipótesis serán validadas mediante pruebas con usuarios, entrevistas, prototipos de la plataforma y análisis de métricas de uso.
 
 #### 1.2.2.4. Lean UX Canvas
+| **Business Problem** | **Business Outcomes** |
+|----------------------|------------------------|
+| - El sector automotriz en Perú carece de digitalización.<br>- Dueños de vehículos no encuentran talleres confiables ni transparentes.<br>- Talleres tienen procesos manuales e ineficientes. | - Incrementar talleres afiliados.<br>- Reducir tiempo de búsqueda y agendamiento.<br>- Aumentar confianza con transparencia en precios y reseñas.<br>- Posicionar a FixTech como líder en Perú y LATAM. |
+
+| **Users** | **User Outcomes & Benefits** |
+|-----------|-------------------------------|
+| - Dueños de vehículos: buscan **confianza, transparencia y facilidad**.<br>- Talleres: necesitan digitalizar su gestión, captar clientes y mejorar organización. | - Dueños de vehículos: mayor confianza, ahorro de tiempo, historial de mantenimientos.<br>- Talleres: más visibilidad, captación de clientes y mejor gestión. |
+
+| **Hypotheses** | **Solutions** |
+|----------------|---------------|
+| - Creemos que los **dueños de vehículos** usarán Prime-Fix porque encontrarán confianza y transparencia.<br>- Creemos que los talleres se afiliarán para captar más clientes y organizar su gestión.<br>- Creemos que digitalizar procesos reducirá tiempos y aumentará satisfacción. | - Plataforma digital que conecte dueños de vehículos con talleres.<br>- Agenda en línea con recordatorios.<br>- Perfiles de talleres con reseñas y catálogo.<br>- Historial digital de mantenimientos.<br>- Futuras integraciones con app móvil e IoT. |
+
+| **What’s the most important thing we need to learn first?** | **What’s the least amount of work we need to do to learn the next most important thing?** |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| - Validar si los usuarios confían en la plataforma para agendar servicios.<br>- Verificar si los talleres están dispuestos a afiliarse y pagar por visibilidad. | - Entrevistar a un grupo reducido de talleres y usuarios.<br>- Recoger feedback y medir uso real. |
 
 ## 1.3. Segmentos objetivo
 
@@ -523,7 +544,22 @@ Las tareas con mayor coincidencia en importancia para ambos segmentos son:
 - Importancia alta en la gestión digital de clientes y transparencia frente al mercado.
   
 ### 2.3.3. User Journey Mapping
+Segmento 1 (Dueño de vehículo: José Paredes):
+<img src="Assets/chapter-II/User-Journey-mapping-1.png">
+
+Segmento 2 (Asesor de taller automotriz: Luis Chávez):
+<img src="Assets/chapter-II/User-Journey-mapping-2.png">
+
 ### 2.3.4. Empathy Mapping
+Segmento 1 - Dueño de vehículo <br></br>
+Empathy Mapping - José Paredes
+
+<img src="Assets/chapter-II/Empathy-mapping-1.png">
+
+Segmento 2 - Asesor de taller automotriz <br></br>
+Empathy Mapping - Luis Chávez
+
+<img src="Assets/chapter-II/Empathy-mapping-2.png">
 
 ## 2.4. Big Picture Event Storming
 
@@ -607,6 +643,13 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 | US-25        | Adición de la información general del taller  | Como asesor de servicios de un taller quiero registrar la información básica en mi taller para que los clientes puedan conocer mejor mi negocio       | Scenario 1: Registro exitoso de la información del taller Given que el asesor de servicios accede a la sección “Información del taller” And relleno los campos nombre, dirección, teléfono, horario y servicios When hace clic en “Guardar” Then el sistema mostrará el mensaje “La información del taller ha sido registrada correctamente” Scenario 2: Error por campos incompletos Given que el asesor de servicios accede a la sección “Información del taller” And no ha rellenado los campos When hace clic en “Guardar” Then el sistema muestra el mensaje: “Por favor completa todos los campos obligatorios”| EP-10                 |
 | US-26        | Adición de trabajadores del taller  | Como dueño de un taller de autos quiero registrar la información de los trabajadores para que los clientes puedan conocer a mi equipo y confiar en nuestro taller       | Scenario 1: Registro exitoso de un trabajador Given que el asesor accede a la sección “Trabajadores del taller” And ha ingresado el nombre, especialidad y experiencia del trabajador When hace clic en “Guardar” Then el sistema mostrará el mensaje “El trabajador ha sido registrado correctamente” Scenario 2: Given que el asesor accede a la sección “Trabajadores del taller” And ha dejado vacío el campo de nombre y especialidad When hace clic en “Guardar” Then el sistema debe mostrar el mensaje “Por favor completa los campos obligatorios”| EP-10                 |
 | US-27        | Visualización de los talleres con los distintos requerimientos  | Como dueño del vehículo quiero visualizar los distintos talleres recomendados por la aplicación para decidir cuál taller se adecua a mis posibilidades como usuario.     | Scenario 1: Visualizar los talleres una vez completado los filtros Given me encuentro en la sección de Talleres When completo todas los requisitos de búsqueda Then la pagina me recomienda distintos talleres que tengan esos atributos| EP-11                 |
+| US-28        | Visualización de los talleres dentro de la sección de Búsqueda  | Como dueño de vehiculos quiero dirigirme a la sección de Búsqueda de Talleres para encontrar el taller necesario y adecuado para mi vehículo       | Scenario 1: Ingresar a la sección de Búsqueda Given quiero buscar un taller adecuado para mi vehículo When me muevo por los distintos apartados de la página Then seleccionar la opción de Taller And me redirige al apartado que sirve para la búsqueda de talleres.| EP-11                 |
+| US-29        | Visualización reseñas de Talleres  | Como dueño de vehículo, quiero ver calificaciones y comentarios para elegir un taller confiable.       | Scenario 1: Visualizar reseñas existentes Given ingreso al perfil de un taller When solicito ver reseñas Then se muestra la lista de reseñas con puntajes Scenario 2: No hay reseñas aún Given el taller no tiene reseñas When intento ver reseñas Then el sistema muestra “No hay reseñas disponibles”| EP-11                 |
+| US-30        | Selección del vehículo registrado en la sección de Agendar Visita  | Como dueño de vehículo, quiero seleccionar uno de los vehículos anteriormente registrados, para agendar una visita en el taller con el vehículo que presenta fallas       | Scenario 1: Seleccionar el vehículo registrado de manera manual Given estoy dentro de la sección Programación de Visita When me dirijo a la sección de Modelo de Coche Then selecciono el vehículo a reparar Scenario 2: Seleccionar el vehículo registrado de automática Given estoy dentro de la sección Programación de Visita When me dirijo a la sección de Modelo de Coche And no selecciono un modelo en especifico And solo hay un modelo registrado Then se selecciona el modelo de manguera automáticamente.Scenario 3: No se selecciona ningún modelo Given estoy dentro de la sección Programación de Visita When me dirijo a la sección de Modelo de Coche And no selecciono ningun coche Then la página me recomienda seleccionar alguno.| EP-12                 |
+| US-31        | Selección de fecha y hora  | Como dueño de coche, quiero seleccionar la fecha y hora de mi visita al taller, para ajustar la atención de mi vehículo a mi disponibilidad.       | Scenario 1: Selección de fecha y hora correcta Given el dueño del coche quiere agendar una visita When programa su visita, selecciona las fechas que tenía previstas Then agenda la visita de manera correcta. Scenario 2: Selección de fecha y hora erróneas Given el dueño del coche quiere agendar una visita When programa su visita, selecciona una fecha distinta a la que planeaba Then agenda la visita de manera incorrecta y luego tendrá que cancelar la visita.| EP-12                 |
+| US-32        | Finalización de registro de fallas  | Como dueño de vehículo,quiero registrar las fallas de mi vehículo en un espacio determinado para detallar al técnico del taller que está fallando dentro de mi vehículo       | Scenario 1: Registrar fallas del vehículo Given me encuentro en la sección de Programación de Visita When me dirijo a la sección de Fallas Then escribo las fallas registradas en mi vehiculos| EP-12                 |
+| US-33        | Visualización de Solicitudes disponibles  | Como asesor de taller, quiero visualizar las distintas solicitudes pendientes de nuestro taller,para tener un control general de las distintas visitas.       | Scenario 1: Visualizar las solicitudes pendientes Given deseo visualizar las solicitudes del taller When me dirijo a la sección de Solicitudes Then se mostrarán las solicitudes pendientes del taller| EP-13                 |
+| US-34        | Verificación de solicitudes de visita  | Como asesor de servicios de un taller quiero poder visualizar las solicitudes de visita que envían los clientes para evaluar la disponibilidad y decidir si agendarlas o no       | Scenario 1: Visualización de solicitudes pendientes Given que el asesor accede al módulo “Gestión de visitas” When consulta la lista de solicitudes then el sistema debe mostrar todas las solicitudes con estado “pendiente” And despegar la información básica como cliente, vehículo, fecha y motivo de la visita Scenario 2: Aceptación de una solicitud Given que el asesor accede al módulo “Gestión de Visitas” And selecciona una solicitud pendiente When hace clic en aceptar Then el sistema debe actualizar el estado de la solicitud a “Aceptada” And enviar una notificación al cliente confirmando la cita| EP-13
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
@@ -639,6 +682,10 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
+#### Registro de talleres Bounded Context
+#### <img src= "Assets/chapter-IV/Auto Repair Register BC.png">
+
+
 ### 4.6.2. Software Architecture Context Diagram
 ### 4.6.3. Software Architecture Container Diagrams
 ### 4.6.4. Software Architecture Components Diagrams
@@ -656,18 +703,196 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
+En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto. <br></br>
+
+#### Landing Page:
+
+| **Tecnología** | **Convenciones principales** |
+|----------------|-------------------------------|
+| **Tailwind CSS** | - Usar solo clases utilitarias de Tailwind.<br>- Ordenar clases en bloques: Layout → Box Model → Tipografía → Colores/Fondos → Otros.<br>- Mantener legibilidad en clases largas. |
+| **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.).<br>- Indentación de 2 espacios.<br>- Atributos entre comillas dobles `" "`.<br>- Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`).<br>- Nombres en **kebab-case** (`main-section`). |
+| **C#** | - Variables y métodos en **camelCase**.<br>- Clases, interfaces y controladores en **PascalCase**.<br>- Constantes en **ALL_CAPS**.<br>- Propiedades en **PascalCase**.<br>- Usar `var` solo cuando el tipo es evidente.<br>- Mantener un máximo de una clase por archivo.<br>- Usar `async`/`await` de forma consistente para operaciones asíncronas.<br>- Seguir principios SOLID y convenciones de .NET.<br>- Ordenar `using`: primero los del framework, luego externos, finalmente internos. |
+| **Astro** | - Archivos `.astro` en **PascalCase**.<br>- Orden del archivo: `frontmatter` → HTML/JSX → estilos `<style>`.<br>- Props siempre tipadas con TypeScript.<br>- Importaciones cortas y claras.<br>- Componentes pequeños y reutilizables. |
+| **Gherkin** | - Los escenarios deben escribirse en **lenguaje claro y entendible**.<br>- Estructura: **Given, When, Then**, y opcionalmente **And**.<br>- Un escenario debe reflejar un caso de uso específico.<br>- Las historias de usuario deben agruparse en **Features**.<br>- Mantener consistencia en la redacción (tiempos verbales en presente). | <br></br>
+
+Front-End:
+
+**Resumen:** Reglas para Vue 3 con Vite. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
+
+| **Tecnología** | **Convención** |
+|-------------|-----------------|
+| **Stack** | Vue 3 + Vite + SFC (`*.vue`) + Tailwind; ESLint + Prettier; (opcional) TypeScript. |
+| **Estructura** | `src/components`, `src/views`, `src/composables`, `src/services`, `src/store` (Pinia), `src/router`, `src/assets`. |
+| **Componentes** | Nombres **PascalCase** (`UserCard.vue`); 1 componente por archivo; extraer subcomponentes cuando superen ~200 líneas. |
+| **Script** | `<script setup>`; Composition API; evitar lógica compleja en el template; composables para lógica reutilizable. |
+| **Props/Emits** | `props` tipadas/validadas; `emits` declarados; eventos en **kebab-case** (`update:model-value`). |
+| **Estado/Routing** | Pinia modular; no lógica de negocio en componentes; rutas perezosas (lazy) y guards en router. |
+| **Estilo de código** | Indentación 2 espacios; comillas simples; imports ordenados; evitar `any` si hay TS. |
+| **Accesibilidad** | Roles/`aria-*`; foco gestionado; mensajes de error con `aria-live`. |
+| **CSS/Tailwind** | Utilitarias; evitar `!important`; patrones repetidos a componentes o `@apply` en CSS global. |
+| **API** | `src/services/*` con axios/fetch envuelto; interceptores para auth/errores; timeouts/reintentos. |
+| **Pruebas** | Unit con Vitest; Vue Test Utils para componentes; mocks de store/router/HTTP. |
+
+Back-End:
+
+**Resumen:** Convenciones para APIs limpias, seguras y testables con ASP.NET Core y EF Core. Separación por capas, DTOs, validación y observabilidad.
+
+| **Aspecto** | **Convención** |
+|-------------|-----------------|
+| **Arquitectura** | Capas: **API** (Controllers/Minimal API) → **Application** (Services/Casos de uso) → **Domain** (Entidades/Reglas) → **Infrastructure** (EF Core/Repos/Integraciones). |
+| **Nomenclatura** | Clases/métodos/propiedades en **PascalCase**; variables locales en **camelCase**; privados `_camelCase`; constantes **ALL_CAPS**. |
+| **DI & Config** | DI nativa; opciones con `IOptions<T>`; secretos con **User Secrets**/vault; no credenciales en código. |
+| **DTOs/Mapping** | Exponer DTOs (nunca entidades); AutoMapper o mapeo explícito; contratos versionados. |
+| **Validación** | `DataAnnotations` o **FluentValidation**; respuestas 400 con detalle de errores; reglas de dominio en capa Domain. |
+| **EF Core** | `DbContext` por request; `AsNoTracking` en lecturas; migraciones versionadas; transacciones cuando aplique; `CancellationToken`. |
+| **Asincronía** | I/O con `async/await`; evitar `.Result/.Wait()`; timeouts/circuit breaker en integraciones. |
+| **Errores & Logs** | Middleware global → ProblemDetails (RFC 7807); `ILogger<T>`; correlación (`TraceId`) y métricas (Prometheus/OpenTelemetry). |
+| **API** | Versionado (`/api/v1`); Swagger/Swashbuckle; paginación/orden/búsqueda; códigos HTTP correctos; idempotencia en operaciones sensibles. |
+| **Seguridad** | Autenticación **JWT**; autorización por políticas/roles; CORS explícito; rate limiting; validación de entrada estricta. |
+| **Pruebas** | Unit con xUnit; integración con `WebApplicationFactory`; pruebas de repos y servicios; fixtures de datos. |
+
+
 ### 5.1.4. Software Deployment Configuration
+## Despliegue de la Landing Page (Vercel + GitHub)
+
+1. **Registro en GitHub**  
+   Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de Prime-Fix-App-Web.
+
+2. **Creación del repositorio**  
+   Hicimos clic en **New** para crear un nuevo repositorio.  
+   Le asignamos el nombre **landing-page** dentro de la organización **prime-fix-app-web**.
+
+3. **Configuración del repositorio**  
+   - Visibilidad **pública** para permitir la integración con Vercel.  
+   - Añadimos un `README.md` inicial y un `.gitignore` adecuado.
+
+4. **Carga de los archivos de la landing**  
+   - Subimos los archivos del proyecto (**HTML, TailwindCSS, TypeScript, Astro**).  
+   - Confirmamos que los cambios estén en la rama **main**.  
+   - “**Commit changes**”.
+
+5. **Configuración en Vercel**  
+   - Iniciamos sesión en Vercel → **New Project** → vinculamos GitHub.  
+   - Importamos el repo `landing-page`.  
+   - Framework **Astro** (detección automática).  
+   - Definimos la rama de despliegue (**main** / `master`).
+
+6. **Verificación del sitio web**  
+   En pocos minutos, Vercel genera la **URL pública** del proyecto.
+
+7. **Actualización del sitio**  
+   Con cada **commit** a `main`, Vercel recompila y publica automáticamente.
+
+
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
+En esta sección se documenta el proceso de implementación, pruebas, documentación y despliegue del Landing Page, los Web Services y las Frontend Web Applications.
+Cada Sprint se registra con detalle en términos de producto, trabajo colaborativo y evidencias de revisión.
+
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
+| **Sprint #** | Sprint 1 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2025-09-16 |
+| **Time** | 09:00 PM |
+| **Location** | Virtual (Discord) |
+| **Prepared By** | Aróstegui Alzamora, César Augusto |
+| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Tenorio Medina, Piero Francesco / Contreras Leon, Flor De María / Awad Vargas, Giorgio Marzouk |
+| **Sprint 0 Review Summary** | No aplica por que es el primer Sprint |
+| **Sprint 0 Retrospective Summary** | No aplica por que es el primer Sprint |
+| **Sprint Goal & User Stories** | |
+| **Sprint 1 Goal** | Desplegar la Landing Page inicial con estructura básica, estilos globales y primeras secciones funcionales. |
+| **Sprint 1 Velocity** | 20 Story Points |
+| **Sum of Story Points** | 20 Story Points |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)**.  
+Se indican los aspectos principales considerados en el Sprint, especificando quién asume el rol de **Líder (L)** y quiénes participan como **Colaboradores (C)**.  
+Esta organización asegura claridad en la comunicación y coherencia en la selección de tareas del Sprint.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Landing Page** (L / C) | **Services** (L / C) | **Applications** (L / C) | **Deployment** (L / C) |
+|-----------------------------------------|---------------------|--------------------------|----------------------|--------------------------|------------------------|
+| Aróstegui Alzamora, César Augusto        | Legendnt1             | L                        | C                    | C                        | L                      |
+| Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                        | L                    | C                        | C                      |
+| Tenorio Medina, Piero Francesco          | PieroTM2005             | C                        | C                    | L                        | C                      |
+| Contreras Leon, Flor De María              | FlorDeMa             | C                        | C                    | C                        | L                      |
+| Awad Vargas, Giorgio Marzouk        | GiorgioAwad             | C                        | C                    | C                        | C                      |
+
 #### 5.2.1.3. Sprint Backlog 1
+
+El Sprint Backlog 1 se centra en implementar las primeras funcionalidades de la solución, asegurando la construcción inicial de la **Landing Page**.  
+A continuación se muestra la tabla de control de estado para este Sprint.
+
+| **Sprint #** | Sprint 1 |
+|--------------|----------|
+
+| **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| US-18      | Visualización de servicios principales         | T-01        | Maquetar sección de servicios          | Crear estructura base de la sección de beneficios con Astro y Tailwind           | 3                     | César           | Done      |
+| US-18      | Visualización de servicios principales         | T-02        | Integrar contenido dinámico            | Mostrar servicios diferenciados para dueños de vehículos y talleres              | 2                     | Gianmarco       | Done      |
+| US-18      | Visualización de servicios principales         | T-03        | Ajustes de diseño responsive           | Optimizar visualización en desktop, tablet y móvil                              | 3                     | Flor          | Done      |
+| US-19      | Comprensión del proceso de funcionamiento      | T-04        | Crear sección “¿Cómo funciona?”        | Diseñar e implementar layout con 3 pasos claros (registro, solicitud, seguimiento) | 3                     | Piero           | Done      |
+| US-19      | Comprensión del proceso de funcionamiento      | T-05        | Redacción de textos explicativos       | Redactar contenido para cada etapa del flujo                                    | 4                     | Giorgio       | Done      |
+| US-19      | Comprensión del proceso de funcionamiento      | T-06        | Diseño gráfico de ilustraciones        | Incluir íconos o diagramas representativos de los pasos                          | 2                     | Flor          | Done      |
+| US-20      | Acceso a información detallada de características | T-07     | Maquetación de la sección              | Implementar bloque con funcionalidades detalladas para usuarios                 | 1                     | César           | Done      |
+| US-20      | Acceso a información detallada de características | T-08     | Integrar listas de características     | Organizar funcionalidades específicas para talleres y dueños de vehículos       | 6                     | Gianmarco       | Done      |
+| US-21      | Acceso a información de contacto                | T-10        | Implementar sección de contacto        | Crear footer con dirección de correo y teléfono                                 | 1                     | Cesar       | Done      |
+| US-21      | Acceso a información de contacto                | T-11        | Vincular menú de navegación            | Agregar enlace desde el menú principal a la sección de contacto                  | 1                     | Gianmarco       | Done      |
+| US-22      | Múltiples canales de comunicación               | T-13        | Configuración de email clickeable      | Integrar enlace `mailto:` para abrir cliente de correo automáticamente          | 1                     | César           | Done      |
+| US-22      | Múltiples canales de comunicación               | T-14        | Integración de teléfono                | Mostrar número de contacto con enlace directo a llamada                         | 1                     | César           | Done      |
+| US-22      | Múltiples canales de comunicación               | T-15        | Enlace a redes sociales                | Incluir enlace a Instagram con íconos representativos                           | 1                     | César          | Done      |
+| US-23             | Botón de cambio de idioma (ES/EN)           | T-06        | Implementación de selector de idioma | Agregar botón para alternar entre español e inglés en la interfaz | 2                      | Piero       | Done  |
+| US-23             | Botón de cambio de idioma (ES/EN)           | T-07        | Configuración de archivos i18n       | Crear y organizar archivos de traducción para ES y EN            | 3                     | Gianmarco       | Done       |
+| US-24            | Botón de cambio de tema    | T-09        | Implementar switch de tema           | Desarrollar botón que permita cambiar entre modo claro y oscuro  | 3                    | Flor           | Done       |
+| US-24             | Botón de cambio de tema    | T-10        | Configuración de estilos en Tailwind | Definir variables y clases para ambos temas en Tailwind          | 3                     | Giorgio           | Done       |
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+| **Repository**              | **Branch**            | **Commit Id** | **Commit Message**                | **Commit Message Body**                                | **Committed on (Date)** |
+|------------------------------|-----------------------|---------------|-----------------------------------|--------------------------------------------------------|--------------------------|
+| prime-fix-app-web/landing-page       | development       | xxxxxx       | feat: Implement internationalization        | Implement internationalization for feature, footer, header, home, and home guide components   | 2025-09-XX               |
+| prime-fix-app-web/landing-page       | development      | xxxxxx       |  feat: Refactor language      | Refactor language handling and UI translations; remove unused components and implement dynamic language support in pages       | 2025-09-XX               |
+| prime-fix-app-web/landing-page        | development          | xxxxxx       | feat: introducing button change theme          | Added button change Theme     | 2025-09-XX               |
+| prime-fix-app-web/landing-page           | development  | xxxxxx       | feat: Implement dark theme support and improve theme toggle functionality    | Improve toggle functionality      | 2025-09-XX               |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Se completó la primera versión de la Landing Page con sección de bienvenida, navegación y estructura inicial de servicios.  
+
+Landing Page modo claro en inglés:
+<img src="Assets/chapter-V/evidences/landing_evidence_1.png">
+
+Landing Page modo oscuro en inglés:
+<img src="Assets/chapter-V/evidences/landing_evidence_2.png">
+
+Landing Page modo claro en español:
+<img src="Assets/chapter-V/evidences/landing_evidence_3.png">
+
+Landing Page modo oscuro en español:
+<img src="Assets/chapter-V/evidences/landing_evidence_4.png">
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+No aplica por que el Sprint se centró en la Landing Page.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+- Se configuró un pipeline de CI/CD en GitHub Actions.  
+- Se desplegó la Landing Page en Vercel con integración automática desde la rama main.  
+- Se validaron configuraciones de DNS y HTTPS.  
+
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+- El equipo trabajó con ramas **development/** y revisiones vía **pull requests**.  
+- Cada miembro realizó commits relacionados con su área principal.
+
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
@@ -684,3 +909,16 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 # Bibliografía
 # Anexos
 
+Link de la organización de Github de la Startup: [https://github.com/prime-fix-app-web](https://github.com/prime-fix-app-web)
+
+Link del repositorio de Github del reporte del trabajo: [https://github.com/prime-fix-app-web/docs](https://github.com/prime-fix-app-web/docs)
+
+Link del repositorio de Github de la Landing Page: [https://github.com/prime-fix-app-web/landing-page](https://github.com/prime-fix-app-web/landing-page)
+
+Link del repositorio de Github del Frontend Web Applications: [https://github.com/prime-fix-app-web/frontend](https://github.com/prime-fix-app-web/frontend)
+
+Link del repositorio de Github del RESTful Web Services: [https://github.com/prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend)
+
+Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)
+
+Link del Diagrama de Clases: [https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
