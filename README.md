@@ -191,6 +191,14 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+El sector automotriz en el Perú y en gran parte de Latinoamérica aún se encuentra rezagado en términos de digitalización de servicios, debido a que la mayoría de talleres funcionan con procesos manuales, tales como agendas físicas, llamadas telefónicas y mensajería web, afectando la trazabilidad de reparaciones y la atención que reciben los dueños de vehículos. Esto genera dificultades para ellos al obstaculizar la búsqueda de talleres confiables hoy en día.
+
+A nivel global, ya existen plataformas que conectan a usuarios con talleres y servicios automotrices, lo que demuestra que hay una tendencia hacia la digitalización dentro de este sector. Sin embargo, en el Perú este modelo no ha sido consolidado y, por ende, se ha retrasado la modernización del servicio al cliente dentro de este sector, aumentando la desorganización en la gestión de talleres, debido a que no se cuenta con sistemas digitales de registro de citas ni sistemas para facilitar el seguimiento de las reparaciones. Según **Manrique (2011)**, los talleres en el Perú requieren de sistemas electrónicos para reservar citas previas a la atención, con el fin de optimizar recursos del taller en cuanto a organización y planificación.
+
+En este contexto, **Fixtech** surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante la creación de nuestro aplicativo **PrimeFix**, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios. 
+
+Además, en Latinoamérica la inversión publicitaria digital en la industria automotriz está creciendo y señalando que los negocios del rubro están obligados a adaptarse al entorno digital para mantenerse competitivos. Por ejemplo, en octubre de 2024, Perú representó aproximadamente un **2,67 % de la inversión digital en publicidad automotriz en LATAM**, lo que indica interés y movimiento en el ecosistema digital automotriz del país (**Similarweb, 2024**).
+
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 En el Perú, miles de dueños de vehículos enfrentan a diario la dificultad de acceder a servicios de mantenimiento y reparación de manera confiable y eficiente. La búsqueda de talleres suele convertirse en un proceso poco claro y desgastante, donde predominan la informalidad, la falta de información sobre disponibilidad y la ausencia de canales digitales que faciliten la comunicación. Como consecuencia, muchos conductores pierden tiempo llamando o visitando distintos talleres, enfrentan largas esperas y experimentan desconfianza frente a la calidad y transparencia del servicio recibido.
@@ -394,21 +402,45 @@ Preguntas:
 
 ### 2.2.2. Registro de entrevistas
 
-##### Segmento 1: Dueños de Vehiculos
+### Segmento 1: Dueños de Vehiculos
 
 ##### Entrevista N°1: Dionisio Rodriguez
 
-- Sexo: Maculino
+- Sexo: Masculino
 - Edad:25 años
-- Direccion: Lima, Av Arequipa Miraflores.
+- Dirección: Lima, Av Arequipa Miraflores.
 
 | ![Entrevista Dionisio Segmento 1](Assets/chapter-II/Entrevista_Dionisio_Rodriguez.png) |
 |-------------------------------------------------------------------------------------------------------------------|
 |** Link De la Entrevista:** |
 |Duracion:**00:05:02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:31**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:02**|
 | Dionisio Rodríguez, de 25 años, es conductor de automóvil y comentó que al momento de elegir un taller prioriza la confianza en el servicio, incluso si esto implica desplazarse a zonas más lejanas. Para ubicar opciones suele utilizar Google Maps, aunque reconoce que no siempre refleja la calidad real del taller. Señaló que en una ocasión tuvo una experiencia negativa, pues su vehículo fue dañado en un taller y los responsables no asumieron la reparación, lo que generó desconfianza y la necesidad de contar con mecanismos de referencia más seguros.Asimismo, resaltó que le resultaría valioso contar con una plataforma que permita no solo agendar visitas a talleres, sino también hacer seguimiento en tiempo real al estado del vehículo mientras se encuentra en mantenimiento. Además, considera importante que los usuarios puedan registrar y compartir públicamente sus experiencias, ya que esto ofrecería mayor transparencia y ayudaría a otros conductores a tomar mejores decisiones.|
-### 2.2.3. Análisis de entrevistas
 
+##### Entrevista N°2: Marcos Contreras
+- Sexo: Masculino
+- Edad:24 años
+- Dirección: Lima, Independencia.
+
+| ![Entrevista Marcos Segmento 1](Assets/chapter-II/Entrevista_Marcos_Contreras.png) |
+|-------------------------------------------------------------------------------------------------------------------|
+|**Link De la Entrevista: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EU-OfAcUkxlLsrpkalhCNRQBkang9sWzDtFzbJ4EEzaXvQ?e=Rq6OAR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** |
+|Duracion:**00:06:45**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:45**|
+| Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paralela. Marcos nos cuenta que el tiene un vehiculo por la cual facilita movilizarse dentro de la ciudad. Marcos nos comenta que a la hora de encontrar un buen servicio que pueda atender a su vehículo, más que nada resalta que no llega a encontrar un lugar accesible. Marcos tambien nos cuenta que utiliza Google Maps,WhastApp e incluso Fcaebook para poder encontrar un taller que sea recomendado. Nos dice que valora la confianza y la calidad sobre el precio dentro de un servicio. Dentro de las experiencia negativas nos cuenta que si llego a presentar alguna, en la entrega de su vehículo. Finalmente, Marcos resalta que una aplicación que le ayude a gestionar los talleres a los que va, le puede hacer de mucha utilidad en su día a día. Que implemente funcionalidades que sean pertinentes para él como las agendas y las ubicaciones en mapas.|
+
+##### Entrevista N°3: Anyelo Alejos
+- Sexo: Masculino
+- Edad: 23 años
+- Dirección: Lima, Comas.
+
+| ![Entrevista Anyelo Alejos 1](Assets/chapter-II/Entrevista_Anyelo_Alejos.png) |
+|-------------------------------------------------------------------------------------------------------------------|
+|**Link De la Entrevista: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EbUouuLCEqlGvWQEGCCiPf4B8TQJNZIvqrxVh6ufl-rZQQ?e=zp4nf9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** |
+|Duracion:**00:05:40**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:40**|
+| Anyelo Alejos es un chico de 23 años de edad. Él solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. Él comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Él valora aspectos como la confiabilidad dentro de un taller. Además, cuenta que no tuvo problemas con los talleres. Él suele solicitar servicios por un móvil y raras veces de manera manual. Anyelo comenta que le gustaría tener una aplicación que le ayude a a gendar citas en talleres para su vehículo, teniendo funcionalidades como reseña, precios y calificaciones de talleres.|
+
+### Segmento #2: Asesor de servicios de un taller automotriz
+
+### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 Esta sección presenta dos arquetipos desarrollados para representar a los segmentos objetivos de Prime-Fix: Conductores de Autos y Administradores de talleres automotriz.
@@ -571,6 +603,40 @@ Empathy Mapping - Luis Chávez
 
 ## 2.5. Ubiquitous Language
 
+En esta sección, presentaremos el lenguaje ubicuo del proyecto.
+
+**Glosario del Dominio del Negocio - Prime-Fix**
+
+Este glosario contiene términos relacionados al dominio del proyecto Prime-Fix. Los a presentar estan en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones redactadas están en el idioma español, explicando de manera clara y sin ambigüedades sus significados. Esto se hace para facilitar la comunicación entre todos los miembros del equipo y los stakeholders.  
+
+**1. Stakeholders & Roles**
+- Technician (Técnico de Taller): Persona asignada a un taller en específico. Enacragdo del mantenimiento de los vehiculos que llegan al taller.
+
+- Vehicle Owner: Persona que es dueña de un vehículo y busca un taller adecuado para el mantenimiento de su vehículo.
+
+**2. Funcionalidades de la Plataforma**
+- Register Auto Repair (Registro de Taller): Proceso en la que el usuario registra el taller al sistema.
+
+- Register Technician (Registro de Técnico): Proceso en la que el encargado del taller registra a los técnicos asignados del taller.
+
+- Register Vehicle (Registro de Vehículo): Proceso en la que el usuario registra el vehúclo con sus especificaciones dentro de la plataforma.
+
+- Search Auto Repair (Búsqueda de Taller mecánico): Proceso en la cual el usuario busca los talleres para su vehículo por medio de las especificaciones que él mismo ingrese. 
+
+- Follow Status (Seguimiento de estado): Apartado donde se puede visualizar el estado en la que el vehículo registrado se encuentra. 
+
+**3. Otros conceptos del dominio**
+- Auto Repair (Taller mecánico): Se refiere al taller que es registrado por el usuario. Contiene información clave como técnicos asignados, ubicación, valoraciones, entre otros.
+
+- Visit Schedule (Programación de Visita): Referido a la visita que es programada por el usuario, donde se especifica el costo, el vehículo a antender y los problemas que este presenta.
+
+- Visit Attended (Vista en espera): Visita programada que ya a sido antendida por el taller.
+
+- Record (Historial): Historial donde el usuario puede visualizar las Visitas completadas en el pasado.
+
+- Rating (Valoración): Apartado donde el usuario puede escribir un comentario sobre el servicio ofrecido.
+
+
 ---
 
 # Capítulo III: Requirements Specification
@@ -581,6 +647,9 @@ Empathy Mapping - Luis Chávez
 **1. Conductor de auto (Jose Ramirez)**
 
 Simular cómo sería una experiencia ideal con AutoFix, desde la perspectiva del conductor de auto, comparándola con el As-Is ya trabajado. El flujo debe enfocarse en una experiencia estructurada, empática y guiada, que acompañe al usuario en cada fase: desde el descubrimiento de la aplicación, el registro, la búsqueda de talleres, hasta la finalización del servicio y la fidelización.
+
+
+![Scenario Mapping - Frame 1](Assets/chapter-III/Scenario Mapping - Frame 1.jpg)
 
 ![TobeScenarioFrameSegmento1](Assets/chapter-III/Scenario%20Mapping_Frame1.jpg)
 
@@ -593,6 +662,7 @@ Simular cómo sería una experiencia ideal con AutoFix, desde la perspectiva del
 
 Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva del administrador de taller, comparándola con el As-Is ya trabajado. El flujo debe enfocarse en una experiencia estructurada, empática y guiada, que acompañe al usuario en cada fase: desde el descubrimiento de la aplicación, el registro de su taller, la gestión de citas y clientes, hasta el seguimiento de servicios realizados y la fidelización de los conductores.
 ![TobeScenarioFrameSegmento1](Assets/chapter-III/ScenarioMapping_Frame2.jpg)
+
 
 
 ## 3.2. User Stories
@@ -656,6 +726,13 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 | US-32        | Finalización de registro de fallas  | Como dueño de vehículo,quiero registrar las fallas de mi vehículo en un espacio determinado para detallar al técnico del taller que está fallando dentro de mi vehículo       | Scenario 1: Registrar fallas del vehículo Given me encuentro en la sección de Programación de Visita When me dirijo a la sección de Fallas Then escribo las fallas registradas en mi vehiculos| EP-12                 |
 | US-33        | Visualización de Solicitudes disponibles  | Como asesor de taller, quiero visualizar las distintas solicitudes pendientes de nuestro taller,para tener un control general de las distintas visitas.       | Scenario 1: Visualizar las solicitudes pendientes Given deseo visualizar las solicitudes del taller When me dirijo a la sección de Solicitudes Then se mostrarán las solicitudes pendientes del taller| EP-13                 |
 | US-34        | Verificación de solicitudes de visita  | Como asesor de servicios de un taller quiero poder visualizar las solicitudes de visita que envían los clientes para evaluar la disponibilidad y decidir si agendarlas o no       | Scenario 1: Visualización de solicitudes pendientes Given que el asesor accede al módulo “Gestión de visitas” When consulta la lista de solicitudes then el sistema debe mostrar todas las solicitudes con estado “pendiente” And despegar la información básica como cliente, vehículo, fecha y motivo de la visita Scenario 2: Aceptación de una solicitud Given que el asesor accede al módulo “Gestión de Visitas” And selecciona una solicitud pendiente When hace clic en aceptar Then el sistema debe actualizar el estado de la solicitud a “Aceptada” And enviar una notificación al cliente confirmando la cita| EP-13
+| US-35        | Consulta de Historial de Servicios  | Como dueño de vehículo, quiero revisar las visitas pasadas para controlar el mantenimiento.       | Scenario 1: Listar historial completo Given tengo servicios registrados When accedo a historial Then se presentan fechas, talleres y tipos de servicio Scenario 2: No hay historial registrado Given no he realizado servicios When accedo a historial Then aparece mensaje “No hay registros”| EP-14                 |
+| US-36        | Visualización de estado y avance  | Como dueño de vehículo, quiero ver el estado actual de mi orden de servicio y el porcentaje de avance con la hora de la última actualización y el responsable, para conocer con precisión cómo progresa el trabajo.       | Scenario 1: Given una orden activa, When abro Seguimiento, Then veo estado, porcentaje de avance, hora de última actualización y responsable. Scenario 2: Given un cambio de estado, When permanezco en Seguimiento, Then la información se actualiza automáticamente sin recargar.| EP-14                 |
+| US-37        | Línea de tiempo con hitos y evidencias  | Como dueño de vehículo, quiero consultar una línea de tiempo con hitos, fotografías, documentos digitales y notas del taller.       | Scenario 1: Given una orden, When abro la línea de tiempo, Then veo hitos en orden cronológico con autor y fecha. Scenario 2: Given una evidencia, When la selecciono, Then puedo visualizarla y descargarla.| EP-14                 |
+| US-38        | Inquietudes desde el seguimiento  | Como dueño de vehículo, quiero registrar una inquietud con texto y fotografías desde el seguimiento, para resolver dudas sobre mi servicio.       | Scenario 1: Dado que envío una inquietud, When se registra, Then se crea un caso vinculado y el asesor es notificado. Scenario 2: Given una respuesta del asesor, When abro la inquietud, Then veo el estado y el historial de mensajes.| EP-14                 |
+| US-39        | Programación entrega del vehículo  | Como dueño de vehículo, quiero seleccionar y confirmar una franja horaria disponible para la entrega, para coordinar el retiro de manera conveniente.       | Scenario 1: Dado una orden en Listo para entrega, cuando abro el agendamiento, entonces selecciono y confirmo una franja disponible. Scenario 2: Given una reprogramación del taller, When proponga una nueva franja, Then confirmo y ambos recibimos notificación.| EP-14                 |
+| US-40        | Pago completo del mantenimiento  | Como dueño de vehículo, quiero pagar el monto total del mantenimiento de mi vehículo desde la aplicación con el medio de pago de mi preferencia, para finalizar el servicio y recibir el comprobante de pago de manera inmediata.       | Scenario 1: Given que la orden de servicio tiene un monto total aprobado, When confirmo el medio de pago y autorizo la operación, Then el pago se registra como aprobado y la orden de servicio cambia a estado pagado. Scenario 2: Given que el pago fue aprobado, When finaliza la transacción, Then recibo el comprobante digital y puedo descargarlo y consultarlo en mi historial; si el pago es rechazado, entonces se muestra el motivo y se ofrece reintentar o cambiar el medio de pago.| EP-15                 |
+| US-41        | Encuesta de satisfacción y calificación  | Como dueño de vehículo, quiero responder una encuesta de satisfacción y calificar el servicio, para contribuir a la mejora continua.       | Scenario 1: Given una orden entregada, When abro la encuesta, Then puedo calificar y dejar comentarios. Given una calificación baja según el umbral de la empresa, When envío la encuesta, Then se crea una alerta interna para seguimientos.| EP-15                 |
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
@@ -747,8 +824,49 @@ En esta sección se detallará parte importante de la estructura y etiquetado de
 | Estado de coches   | Modificar estado         | Permite que el taller pueda cambiar el estado del vehículo que está siendo reparado en tiempo real                                                                                                                               |
 
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page Title:** Prime-Fix
+
+**Description:** Prime-Fix es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con FixTech, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
+
+**Meta Keywords:** Mantenimiento automotriz, reparación de vehiculos, talleres confiables, gestion digital, tecnología automotriz.
+
+**Meta Author:** FixTech
+
+**Meta Description:** Facilitar la conexión entre los dueños de vehículos que necesiten un mantenimiento y los talleres automotrices.  
+
+**Title:** FixTech
+
+**Description:** FixTech, la plataforma digital de Prime-Fix, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
+
+**Meta Author:** FixTech
+
 ### 4.2.4. Searching Systems
+
+Prime-Fix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
+
+| Filtros | Descripción |
+| --- | --- |
+| Departamento | Filtro geográfico que ayuda a ecnontrar los talleres disponibles en una zona específica. |
+| Cantidad de Técnicos | Filtra los talleres según la cantidad de técnicos registrados en el taler. |
+| Técnicos Disponibles | Filtra la cantidad de técnicos disponibles en el taller. |
+| Reseñas  | Filtro que muestra los talleres que tienen mejor/pero reseña por parte de los usuarios. |
+| Distrito | Filtro que selecciona a los talleres que se encuentran en un rango limitado por distrito. |
+
 ### 4.2.5. Navigation Systems
+
+Los sistemas de navegación de Prime-Fix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. Prime-Fix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
+
+| Icono | Funcionalidad |
+|---|---|
+| <img src="Assets/chapter-IV/figma_icons/figma_icon.png"> | Este ícono permite que el usuario pueda dirigirse a la pantalla inicial que brinda información vital sobre el funcionamiento de Prime-Fix.  |N
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_2.png"> | Este ícono, que pertenece al lado del dueños de vehiculos, permite visualizar los coches que el usuario ha registrado. |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_3.png"> | Este ícono permite buscar un taller que se adecue a la situación del usuario. |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_4.png"> | Este ícono dirige al usuario al apartado de Historial, donde podrá visualizar los mantenimientos anteriores de su vehículo. |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_5.png"> | Permite visualizar el estado de los distintos vehiculos registrados dentro de Prime-Fix |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_6.png"> | Permite visualizar las solicitudes que están pednientes dentro del taller. |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_7.png"> | Permite gestionar y viualizar a los distintos técnicos dentro del taller registrado. |
+| <img src="Assets/chapter-IV/figma_icons/figma_icon_8.png"> | Permite al usuario visualizar el perfil con el que se ha registrado, brindado información pertinente como Nombres, contraseña, etc. |
 
 ## 4.3. Landing Page UI Design
 
@@ -1189,48 +1307,49 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 #### Landing Page:
 
 | **Tecnología** | **Convenciones principales** |
-|----------------|-------------------------------|
+|---|---|
 | **Tailwind CSS** | - Usar solo clases utilitarias de Tailwind.<br>- Ordenar clases en bloques: Layout → Box Model → Tipografía → Colores/Fondos → Otros.<br>- Mantener legibilidad en clases largas. |
-| **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.).<br>- Indentación de 2 espacios.<br>- Atributos entre comillas dobles `" "`.<br>- Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`).<br>- Nombres en **kebab-case** (`main-section`). |
-| **C#** | - Variables y métodos en **camelCase**.<br>- Clases, interfaces y controladores en **PascalCase**.<br>- Constantes en **ALL_CAPS**.<br>- Propiedades en **PascalCase**.<br>- Usar `var` solo cuando el tipo es evidente.<br>- Mantener un máximo de una clase por archivo.<br>- Usar `async`/`await` de forma consistente para operaciones asíncronas.<br>- Seguir principios SOLID y convenciones de .NET.<br>- Ordenar `using`: primero los del framework, luego externos, finalmente internos. |
-| **Astro** | - Archivos `.astro` en **PascalCase**.<br>- Orden del archivo: `frontmatter` → HTML/JSX → estilos `<style>`.<br>- Props siempre tipadas con TypeScript.<br>- Importaciones cortas y claras.<br>- Componentes pequeños y reutilizables. |
-| **Gherkin** | - Los escenarios deben escribirse en **lenguaje claro y entendible**.<br>- Estructura: **Given, When, Then**, y opcionalmente **And**.<br>- Un escenario debe reflejar un caso de uso específico.<br>- Las historias de usuario deben agruparse en **Features**.<br>- Mantener consistencia en la redacción (tiempos verbales en presente). | <br></br>
+| **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.).<br>- Indentación de 2 espacios.<br>- Atributos entre comillas dobles `"`.<br>- Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`).<br>- Nombres en kebab-case (`main-section`). |
+| **TypeScript** | - Variables/funciones en `camelCase`.<br>- Clases/interfaces en `PascalCase`.<br>- Constantes en `UPPER_SNAKE_CASE`.<br>- Tipado obligatorio en variables, parámetros y retornos.<br>- Ordenar imports de externos a internos. |
+| **Astro** | - Archivos `.astro` en `PascalCase`.<br>- Orden del archivo: frontmatter → HTML/JSX → estilos `\<style>`.<br>- Props siempre tipadas con TypeScript.<br>- Importaciones cortas y claras.<br>- Componentes pequeños y reutilizables. |
+| **Gherkin** | - Los escenarios deben escribirse en lenguaje claro y entendible.<br>- Estructura: **Given, When, Then**, y opcionalmente **And**.<br>- Un escenario debe reflejar un caso de uso específico.<br>- Las historias de usuario deben agruparse en **Features**.<br>- Mantener consistencia en la redacción (tiempos verbales en presente). |
+
 
 Front-End:
 
-**Resumen:** Reglas para Vue 3 con Vite. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
+**Resumen:** Como principales tecnologías, usaremos Vue, HTML, JavaScript y CSS. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
 
 | **Tecnología** | **Convención** |
 |-------------|-----------------|
-| **Stack** | Vue 3 + Vite + SFC (`*.vue`) + Tailwind; ESLint + Prettier; (opcional) TypeScript. |
-| **Estructura** | `src/components`, `src/views`, `src/composables`, `src/services`, `src/store` (Pinia), `src/router`, `src/assets`. |
+| **Stack** | HTML + CSS + JavaScript + Vue 3 (SFC o CDN); ESLint + Prettier. |
+| **Estructura** | `src/components`, `src/views`, `src/composables`, `src/services`, `src/router`, `src/assets`. |
 | **Componentes** | Nombres **PascalCase** (`UserCard.vue`); 1 componente por archivo; extraer subcomponentes cuando superen ~200 líneas. |
 | **Script** | `<script setup>`; Composition API; evitar lógica compleja en el template; composables para lógica reutilizable. |
-| **Props/Emits** | `props` tipadas/validadas; `emits` declarados; eventos en **kebab-case** (`update:model-value`). |
-| **Estado/Routing** | Pinia modular; no lógica de negocio en componentes; rutas perezosas (lazy) y guards en router. |
-| **Estilo de código** | Indentación 2 espacios; comillas simples; imports ordenados; evitar `any` si hay TS. |
+| **Props/Emits** | `props` validadas; `emits` declarados; eventos en **kebab-case** (`update:model-value`). |
+| **Estado/Routing** | Estado local/composables; **Vue Router** (opcional); rutas perezosas (lazy) y guards en router. |
+| **Estilo de código** | Indentación 2 espacios; comillas simples; imports ordenados. |
 | **Accesibilidad** | Roles/`aria-*`; foco gestionado; mensajes de error con `aria-live`. |
-| **CSS/Tailwind** | Utilitarias; evitar `!important`; patrones repetidos a componentes o `@apply` en CSS global. |
-| **API** | `src/services/*` con axios/fetch envuelto; interceptores para auth/errores; timeouts/reintentos. |
-| **Pruebas** | Unit con Vitest; Vue Test Utils para componentes; mocks de store/router/HTTP. |
+| **CSS** | Evitar `!important`; reutilizar clases; extraer patrones repetidos a componentes u hojas globales. |
+| **API** | `src/services/*` con `fetch/axios` envuelto; interceptores para auth/errores; timeouts/reintentos. |
+| **Pruebas** | Unit con Vitest; Vue Test Utils para componentes; mocks de router/HTTP. |
 
 Back-End:
 
-**Resumen:** Convenciones para APIs limpias, seguras y testables con ASP.NET Core y EF Core. Separación por capas, DTOs, validación y observabilidad.
+**Resumen:** Como principales tecnologías, C# y .NET. Como principales tecnologías, se utilizarán C# y .NET, enfocándose en un código limpio, seguro y mantenible bajo buenas prácticas de arquitectura, nomenclatura, validación, seguridad y pruebas.
 
-| **Aspecto** | **Convención** |
-|-------------|-----------------|
-| **Arquitectura** | Capas: **API** (Controllers/Minimal API) → **Application** (Services/Casos de uso) → **Domain** (Entidades/Reglas) → **Infrastructure** (EF Core/Repos/Integraciones). |
-| **Nomenclatura** | Clases/métodos/propiedades en **PascalCase**; variables locales en **camelCase**; privados `_camelCase`; constantes **ALL_CAPS**. |
-| **DI & Config** | DI nativa; opciones con `IOptions<T>`; secretos con **User Secrets**/vault; no credenciales en código. |
-| **DTOs/Mapping** | Exponer DTOs (nunca entidades); AutoMapper o mapeo explícito; contratos versionados. |
-| **Validación** | `DataAnnotations` o **FluentValidation**; respuestas 400 con detalle de errores; reglas de dominio en capa Domain. |
-| **EF Core** | `DbContext` por request; `AsNoTracking` en lecturas; migraciones versionadas; transacciones cuando aplique; `CancellationToken`. |
-| **Asincronía** | I/O con `async/await`; evitar `.Result/.Wait()`; timeouts/circuit breaker en integraciones. |
-| **Errores & Logs** | Middleware global → ProblemDetails (RFC 7807); `ILogger<T>`; correlación (`TraceId`) y métricas (Prometheus/OpenTelemetry). |
-| **API** | Versionado (`/api/v1`); Swagger/Swashbuckle; paginación/orden/búsqueda; códigos HTTP correctos; idempotencia en operaciones sensibles. |
-| **Seguridad** | Autenticación **JWT**; autorización por políticas/roles; CORS explícito; rate limiting; validación de entrada estricta. |
-| **Pruebas** | Unit con xUnit; integración con `WebApplicationFactory`; pruebas de repos y servicios; fixtures de datos. |
+| **Tecnología** | **Convención** |
+|----------------|----------------|
+| **C# .NET – Arquitectura** | Capas separadas: **API** (Controllers/Minimal API) → **Application** (Services/Casos de uso) → **Domain** (Entidades/Reglas) → **Infrastructure** (EF Core/Repos/Integraciones). |
+| **C# .NET – Nomenclatura** | Clases, métodos y propiedades en **PascalCase**; variables locales en **camelCase**; privados `_camelCase`; constantes en **ALL_CAPS**. |
+| **C# .NET – Inyección de Dependencias & Configuración** | Usar **DI nativa**; configuración con `IOptions<T>`; secretos con **User Secrets** o vault; prohibido hardcodear credenciales. |
+| **C# .NET – DTOs/Mapping** | Exponer **DTOs** (nunca entidades); AutoMapper o mapeo explícito; contratos versionados para compatibilidad. |
+| **C# .NET – Validación** | `DataAnnotations` o **FluentValidation**; respuestas 400 con detalle de errores; reglas de negocio validadas en capa Domain. |
+| **EF Core** | `DbContext` por request; `AsNoTracking` en consultas de solo lectura; migraciones versionadas; transacciones cuando apliquen; soporte de `CancellationToken`. |
+| **C# .NET – Asincronía** | Todo I/O con `async/await`; evitar `.Result` o `.Wait()`; definir timeouts y circuit breakers en integraciones. |
+| **C# .NET – Errores & Logs** | Middleware global con **ProblemDetails (RFC 7807)**; logging con `ILogger<T>`; correlación con `TraceId`; métricas con **Prometheus/OpenTelemetry**. |
+| **C# .NET – API** | Versionado (`/api/v1`); documentación con Swagger/Swashbuckle; soportar paginación, orden y búsqueda; códigos HTTP correctos; operaciones sensibles idempotentes. |
+| **C# .NET – Seguridad** | Autenticación con **JWT**; autorización por roles/políticas; CORS explícito; rate limiting; sanitización y validación estricta de entrada. |
+| **C# .NET – Pruebas** | Unit testing con **xUnit**; integración con `WebApplicationFactory`; pruebas de repositorios y servicios; uso de fixtures de datos. |
 
 
 ### 5.1.4. Software Deployment Configuration
@@ -1331,6 +1450,7 @@ A continuación se muestra la tabla de control de estado para este Sprint.
 | US-23             | Botón de cambio de idioma (ES/EN)           | T-07        | Configuración de archivos i18n       | Crear y organizar archivos de traducción para ES y EN            | 3                     | Gianmarco       | Done       |
 | US-24            | Botón de cambio de tema    | T-09        | Implementar switch de tema           | Desarrollar botón que permita cambiar entre modo claro y oscuro  | 3                    | Flor           | Done       |
 | US-24             | Botón de cambio de tema    | T-10        | Configuración de estilos en Tailwind | Definir variables y clases para ambos temas en Tailwind          | 3                     | Giorgio           | Done       |
+
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
