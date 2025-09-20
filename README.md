@@ -781,15 +781,112 @@ Back-End:
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
+En esta sección se documenta el proceso de implementación, pruebas, documentación y despliegue del Landing Page, los Web Services y las Frontend Web Applications.
+Cada Sprint se registra con detalle en términos de producto, trabajo colaborativo y evidencias de revisión.
+
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
+| **Sprint #** | Sprint 1 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2025-09-16 |
+| **Time** | 09:00 PM |
+| **Location** | Virtual (Discord) |
+| **Prepared By** | Aróstegui Alzamora, César Augusto |
+| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Tenorio Medina, Piero Francesco / Contreras Leon, Flor De María / Awad Vargas, Giorgio Marzouk |
+| **Sprint 0 Review Summary** | No aplica por que es el primer Sprint |
+| **Sprint 0 Retrospective Summary** | No aplica por que es el primer Sprint |
+| **Sprint Goal & User Stories** | |
+| **Sprint 1 Goal** | Desplegar la Landing Page inicial con estructura básica, estilos globales y primeras secciones funcionales. |
+| **Sprint 1 Velocity** | 20 Story Points |
+| **Sum of Story Points** | 20 Story Points |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)**.  
+Se indican los aspectos principales considerados en el Sprint, especificando quién asume el rol de **Líder (L)** y quiénes participan como **Colaboradores (C)**.  
+Esta organización asegura claridad en la comunicación y coherencia en la selección de tareas del Sprint.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Landing Page** (L / C) | **Services** (L / C) | **Applications** (L / C) | **Deployment** (L / C) |
+|-----------------------------------------|---------------------|--------------------------|----------------------|--------------------------|------------------------|
+| Aróstegui Alzamora, César Augusto        | Legendnt1             | L                        | C                    | C                        | L                      |
+| Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                        | L                    | C                        | C                      |
+| Tenorio Medina, Piero Francesco          | PieroTM2005             | C                        | C                    | L                        | C                      |
+| Contreras Leon, Flor De María              | FlorDeMa             | C                        | C                    | C                        | L                      |
+| Awad Vargas, Giorgio Marzouk        | GiorgioAwad             | C                        | C                    | C                        | C                      |
+
 #### 5.2.1.3. Sprint Backlog 1
+
+El Sprint Backlog 1 se centra en implementar las primeras funcionalidades de la solución, asegurando la construcción inicial de la **Landing Page**.  
+A continuación se muestra la tabla de control de estado para este Sprint.
+
+| **Sprint #** | Sprint 1 |
+|--------------|----------|
+
+| **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| US-18      | Visualización de servicios principales         | T-01        | Maquetar sección de servicios          | Crear estructura base de la sección de beneficios con Astro y Tailwind           | 3                     | César           | Done      |
+| US-18      | Visualización de servicios principales         | T-02        | Integrar contenido dinámico            | Mostrar servicios diferenciados para dueños de vehículos y talleres              | 2                     | Gianmarco       | Done      |
+| US-18      | Visualización de servicios principales         | T-03        | Ajustes de diseño responsive           | Optimizar visualización en desktop, tablet y móvil                              | 3                     | Flor          | Done      |
+| US-19      | Comprensión del proceso de funcionamiento      | T-04        | Crear sección “¿Cómo funciona?”        | Diseñar e implementar layout con 3 pasos claros (registro, solicitud, seguimiento) | 3                     | Piero           | Done      |
+| US-19      | Comprensión del proceso de funcionamiento      | T-05        | Redacción de textos explicativos       | Redactar contenido para cada etapa del flujo                                    | 4                     | Giorgio       | Done      |
+| US-19      | Comprensión del proceso de funcionamiento      | T-06        | Diseño gráfico de ilustraciones        | Incluir íconos o diagramas representativos de los pasos                          | 2                     | Flor          | Done      |
+| US-20      | Acceso a información detallada de características | T-07     | Maquetación de la sección              | Implementar bloque con funcionalidades detalladas para usuarios                 | 1                     | César           | Done      |
+| US-20      | Acceso a información detallada de características | T-08     | Integrar listas de características     | Organizar funcionalidades específicas para talleres y dueños de vehículos       | 6                     | Gianmarco       | Done      |
+| US-21      | Acceso a información de contacto                | T-10        | Implementar sección de contacto        | Crear footer con dirección de correo y teléfono                                 | 1                     | Cesar       | Done      |
+| US-21      | Acceso a información de contacto                | T-11        | Vincular menú de navegación            | Agregar enlace desde el menú principal a la sección de contacto                  | 1                     | Gianmarco       | Done      |
+| US-22      | Múltiples canales de comunicación               | T-13        | Configuración de email clickeable      | Integrar enlace `mailto:` para abrir cliente de correo automáticamente          | 1                     | César           | Done      |
+| US-22      | Múltiples canales de comunicación               | T-14        | Integración de teléfono                | Mostrar número de contacto con enlace directo a llamada                         | 1                     | César           | Done      |
+| US-22      | Múltiples canales de comunicación               | T-15        | Enlace a redes sociales                | Incluir enlace a Instagram con íconos representativos                           | 1                     | César          | Done      |
+| US-23             | Botón de cambio de idioma (ES/EN)           | T-06        | Implementación de selector de idioma | Agregar botón para alternar entre español e inglés en la interfaz | 2                      | Piero       | Done  |
+| US-23             | Botón de cambio de idioma (ES/EN)           | T-07        | Configuración de archivos i18n       | Crear y organizar archivos de traducción para ES y EN            | 3                     | Gianmarco       | Done       |
+| US-24            | Botón de cambio de tema    | T-09        | Implementar switch de tema           | Desarrollar botón que permita cambiar entre modo claro y oscuro  | 3                    | Flor           | Done       |
+| US-24             | Botón de cambio de tema    | T-10        | Configuración de estilos en Tailwind | Definir variables y clases para ambos temas en Tailwind          | 3                     | Giorgio           | Done       |
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+| **Repository**              | **Branch**            | **Commit Id** | **Commit Message**                | **Commit Message Body**                                | **Committed on (Date)** |
+|------------------------------|-----------------------|---------------|-----------------------------------|--------------------------------------------------------|--------------------------|
+| prime-fix-app-web/landing-page       | development       | xxxxxx       | feat: Implement internationalization        | Implement internationalization for feature, footer, header, home, and home guide components   | 2025-09-XX               |
+| prime-fix-app-web/landing-page       | development      | xxxxxx       |  feat: Refactor language      | Refactor language handling and UI translations; remove unused components and implement dynamic language support in pages       | 2025-09-XX               |
+| prime-fix-app-web/landing-page        | development          | xxxxxx       | feat: introducing button change theme          | Added button change Theme     | 2025-09-XX               |
+| prime-fix-app-web/landing-page           | development  | xxxxxx       | feat: Implement dark theme support and improve theme toggle functionality    | Improve toggle functionality      | 2025-09-XX               |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Se completó la primera versión de la Landing Page con sección de bienvenida, navegación y estructura inicial de servicios.  
+
+Landing Page modo claro en inglés:
+<img src="Assets/chapter-V/evidences/landing_evidence_1.png">
+
+Landing Page modo oscuro en inglés:
+<img src="Assets/chapter-V/evidences/landing_evidence_2.png">
+
+Landing Page modo claro en español:
+<img src="Assets/chapter-V/evidences/landing_evidence_3.png">
+
+Landing Page modo oscuro en español:
+<img src="Assets/chapter-V/evidences/landing_evidence_4.png">
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+No aplica por que el Sprint se centró en la Landing Page.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+- Se configuró un pipeline de CI/CD en GitHub Actions.  
+- Se desplegó la Landing Page en Vercel con integración automática desde la rama main.  
+- Se validaron configuraciones de DNS y HTTPS.  
+
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+- El equipo trabajó con ramas **development/** y revisiones vía **pull requests**.  
+- Cada miembro realizó commits relacionados con su área principal.
+
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
@@ -805,4 +902,3 @@ Back-End:
 # Video About-the-Team
 # Bibliografía
 # Anexos
-
