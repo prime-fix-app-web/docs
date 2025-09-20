@@ -546,7 +546,21 @@ Las tareas con mayor coincidencia en importancia para ambos segmentos son:
 - Importancia alta en la gestión digital de clientes y transparencia frente al mercado.
   
 ### 2.3.3. User Journey Mapping
+Segmento 1: Jose Ramirez 
+
+<img src="Assets/chapter-II/USERJOURNEYMAPPING.png">
+
+Segmento 2: Jorge Salazar
+
+<img src="Assets/chapter-II/USERJOURNEYMAPPING2.png">
+
 ### 2.3.4. Empathy Mapping
+
+Segmento 1: Jose Ramirez
+<img src="Assets/chapter-II/EMPATHYMAPPING1.png">
+
+Segmento 2: Jorge Salazar 
+<img src="Assets/chapter-II/EMPATHYMAPPING2.png">
 
 ## 2.4. Big Picture Event Storming
 
