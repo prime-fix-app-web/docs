@@ -185,6 +185,14 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+El sector automotriz en el Perú y en gran parte de Latinoamérica aún se encuentra rezagado en términos de digitalización de servicios, debido a que la mayoría de talleres funcionan con procesos manuales, tales como agendas físicas, llamadas telefónicas y mensajería web, afectando la trazabilidad de reparaciones y la atención que reciben los dueños de vehículos. Esto genera dificultades para ellos al obstaculizar la búsqueda de talleres confiables hoy en día.
+
+A nivel global, ya existen plataformas que conectan a usuarios con talleres y servicios automotrices, lo que demuestra que hay una tendencia hacia la digitalización dentro de este sector. Sin embargo, en el Perú este modelo no ha sido consolidado y, por ende, se ha retrasado la modernización del servicio al cliente dentro de este sector, aumentando la desorganización en la gestión de talleres, debido a que no se cuenta con sistemas digitales de registro de citas ni sistemas para facilitar el seguimiento de las reparaciones. Según **Manrique (2011)**, los talleres en el Perú requieren de sistemas electrónicos para reservar citas previas a la atención, con el fin de optimizar recursos del taller en cuanto a organización y planificación.
+
+En este contexto, **Fixtech** surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante la creación de nuestro aplicativo **PrimeFix**, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios. 
+
+Además, en Latinoamérica la inversión publicitaria digital en la industria automotriz está creciendo y señalando que los negocios del rubro están obligados a adaptarse al entorno digital para mantenerse competitivos. Por ejemplo, en octubre de 2024, Perú representó aproximadamente un **2,67 % de la inversión digital en publicidad automotriz en LATAM**, lo que indica interés y movimiento en el ecosistema digital automotriz del país (**Similarweb, 2024**).
+
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 En el Perú, miles de dueños de vehículos enfrentan a diario la dificultad de acceder a servicios de mantenimiento y reparación de manera confiable y eficiente. La búsqueda de talleres suele convertirse en un proceso poco claro y desgastante, donde predominan la informalidad, la falta de información sobre disponibilidad y la ausencia de canales digitales que faciliten la comunicación. Como consecuencia, muchos conductores pierden tiempo llamando o visitando distintos talleres, enfrentan largas esperas y experimentan desconfianza frente a la calidad y transparencia del servicio recibido.
