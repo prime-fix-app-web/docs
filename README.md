@@ -908,3 +908,17 @@ No aplica por que el Sprint se centró en la Landing Page.
 # Video About-the-Team
 # Bibliografía
 # Anexos
+
+Link de la organización de Github de la Startup: [https://github.com/prime-fix-app-web](https://github.com/prime-fix-app-web)
+
+Link del repositorio de Github del reporte del trabajo: [https://github.com/prime-fix-app-web/docs](https://github.com/prime-fix-app-web/docs)
+
+Link del repositorio de Github de la Landing Page: [https://github.com/prime-fix-app-web/landing-page](https://github.com/prime-fix-app-web/landing-page)
+
+Link del repositorio de Github del Frontend Web Applications: [https://github.com/prime-fix-app-web/frontend](https://github.com/prime-fix-app-web/frontend)
+
+Link del repositorio de Github del RESTful Web Services: [https://github.com/prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend)
+
+Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)
+
+Link del Diagrama de Clases: [https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
