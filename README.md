@@ -1,10 +1,12 @@
-<h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="logo-upc" width="200px" height="200px" align="center">
+<h2 style="text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"
+       alt="logo-upc" width="200" height="200"
+       style="display:block; margin:0 auto;">
 </h2>
 
-<h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
+<h1 style="text-align:center">Universidad Peruana de Ciencias Aplicadas</h1>
 
-<h3 align="center">
+<h3 style="text-align:center; margin-top:18px; margin-bottom:18px;">
   Ingeniería de Software
   <br><br>
   Curso: Aplicaciones Web
@@ -17,24 +19,28 @@
   <br><br>
   Informe del Trabajo Final
   <br><br>
-  Startup: Prime-Fix
+  Startup: FixTech
   <br><br>
-  Producto: AutoFix
+  Producto: Prime-Fix
 </h3>
 
-<div align="center">
+<table style="margin: 0 auto; width: auto; display: table; border-collapse: collapse; font-size: 12pt;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #000; padding:6px 12px; text-align:center;">Alumno</th>
+      <th style="border:1px solid #000; padding:6px 12px; text-align:center;">Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Cesar Augusto Arostegui Alzamora</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202114548</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Gianmarco Fabian Jiménez Guerra</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202123843</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Giorgio Marzouk Awad Vargas</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202324041</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Flor De María Contreras Leon</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202323243</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Piero Francesco Tenorio Medina</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202318731</td></tr>
+  </tbody>
+</table>
 
-| <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
-|:-------------------------------------------:|:-------------------------------------------:|
-|       Cesar Augusto Arostegui Alzamora      |            u202114548                       |
-|       Gianmarco Fabian Jiménez Guerra       |            u202123843                       |
-|       Flor De María Contreras Leon          |            u202323243                      |
-|       Giorgio Marzouk Awad Vargas           |            u202324041                       |
-|       Piero Francesco Tenorio Medina        |            u202318731                       |
-
-</div>
-
-<div align="center"> Setiembre 2025 </div>
+<div style="text-align:center; margin-top:18px;"> Setiembre 2025 </div>
 
 <hr>
 
@@ -902,3 +908,17 @@ No aplica por que el Sprint se centró en la Landing Page.
 # Video About-the-Team
 # Bibliografía
 # Anexos
+
+Link de la organización de Github de la Startup: [https://github.com/prime-fix-app-web](https://github.com/prime-fix-app-web)
+
+Link del repositorio de Github del reporte del trabajo: [https://github.com/prime-fix-app-web/docs](https://github.com/prime-fix-app-web/docs)
+
+Link del repositorio de Github de la Landing Page: [https://github.com/prime-fix-app-web/landing-page](https://github.com/prime-fix-app-web/landing-page)
+
+Link del repositorio de Github del Frontend Web Applications: [https://github.com/prime-fix-app-web/frontend](https://github.com/prime-fix-app-web/frontend)
+
+Link del repositorio de Github del RESTful Web Services: [https://github.com/prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend)
+
+Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)
+
+Link del Diagrama de Clases: [https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
