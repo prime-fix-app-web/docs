@@ -1,10 +1,12 @@
-<h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="logo-upc" width="200px" height="200px" align="center">
+<h2 style="text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"
+       alt="logo-upc" width="200" height="200"
+       style="display:block; margin:0 auto;">
 </h2>
 
-<h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
+<h1 style="text-align:center">Universidad Peruana de Ciencias Aplicadas</h1>
 
-<h3 align="center">
+<h3 style="text-align:center; margin-top:18px; margin-bottom:18px;">
   Ingeniería de Software
   <br><br>
   Curso: Aplicaciones Web
@@ -22,19 +24,23 @@
   Producto: Prime-Fix
 </h3>
 
-<div align="center">
+<table style="margin: 0 auto; width: auto; display: table; border-collapse: collapse; font-size: 12pt;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #000; padding:6px 12px; text-align:center;">Alumno</th>
+      <th style="border:1px solid #000; padding:6px 12px; text-align:center;">Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Cesar Augusto Arostegui Alzamora</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202114548</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Gianmarco Fabian Jiménez Guerra</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202123843</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Giorgio Marzouk Awad Vargas</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202324041</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Flor De María Contreras Leon</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202323243</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Piero Francesco Tenorio Medina</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202318731</td></tr>
+  </tbody>
+</table>
 
-| <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
-|:-------------------------------------------:|:-------------------------------------------:|
-|       Cesar Augusto Arostegui Alzamora      |            u202114548                       |
-|       Gianmarco Fabian Jiménez Guerra       |            u202123843                       |
-|       Flor De María Contreras Leon          |            u202323243                      |
-|       Giorgio Marzouk Awad Vargas           |            u202324041                       |
-|       Piero Francesco Tenorio Medina        |            u202318731                       |
-
-</div>
-
-<div align="center"> Setiembre 2025 </div>
+<div style="text-align:center; margin-top:18px;"> Setiembre 2025 </div>
 
 <hr>
 
