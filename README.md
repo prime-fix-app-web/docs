@@ -17,9 +17,9 @@
   <br><br>
   Informe del Trabajo Final
   <br><br>
-  Startup: Prime-Fix
+  Startup: FixTech
   <br><br>
-  Producto: AutoFix
+  Producto: Prime-Fix
 </h3>
 
 <div align="center">
