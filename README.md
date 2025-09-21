@@ -440,7 +440,55 @@ Preguntas:
 
 ### Segmento #2: Asesor de servicios de un taller automotriz
 
+##### Entrevista N°1: Jesús Valenzuela
+
+- Sexo: Masculino
+- Edad:21 años
+- Dirección: Lima, Av la Marina.
+
+| ![Entrevista Jesús Valenzuela](Assets/chapter-II/Entrevista_Jesus_Valenzuela.png) |
+|-------------------------------------------------------------------------------------------------------------------|
+|** Link De la Entrevista:** [Enlace](link)** |
+|Duracion:**00:06:31**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:05**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:06:31**|
+| Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas, nos comenta que para atraer clientes, utiliza las redes sociales como Facebook y TikTok y una landing page. El entrevistado comenta que no siente que el taller donde trabaja sea afectado por la competencia dada su ubicación estratégica junto con la de sus otras sedes. Jesús menciona que la gestión de las solicitudes de servicios se realizan principalmente mediante WhatsApp, también reciben llamadas telefónicas y visitas directas al taller. En cuanto al desempeño de los técnicos y los servicios brindados, sí han recibido cierta retroalimentación. Se menciona que la gestión de los técnicos y de su información es un poco desordenada; sin embargo, considera interesante la idea de digitalizar ello y permitir que los clientes puedan conocer la disponibilidad de los trabajadores en tiempo real. El asesor menciona que en su taller se hace uso de un software llamado Qumpa para la gestión de su inventario de llantas de manera organizada, pero le parece interesante una plataforma que pueda ser utilizada por el cliente para la gestión de visitas con el fin de agilizar el proceso. Jesús menciona que este aplicativo puede ser de gran utilidad si cuenta con notificaciones para que el cliente pueda estar atento al estado de su vehículo. El diagnóstico de las fallas que ofrecen en Alvillantas se realiza mediante un documento físico, por lo que Jesús considera que podría ser buena idea virtualizar esta función para que el cliente pueda obtener esta información en sus dispositivos. Para finalizar, recalcó lo importante que es tener una plataforma con todas las funcionalidades mencionadas para garatizarle un buen servicio al cliente.|
+
 ### 2.2.3. Análisis de entrevistas
+
+**Segmento #2**
+
+Total de entrevistados: 3
+
+Datos sobre las preguntas:
+  - 100% usa las redes sociales para promocionarse
+  - 33% tiene dificultades al momento de competir con talleres más grandes
+  - 67% no maneja una base de datos para la gestión de técnicos
+  - 100% opina que la plataforma es buena idea
+
+En resumen, la información brindada por este segmento es muy similar a lo previsto. Todos los talleres tienen algunas dificultados para mejorar la calidad de su servicio y todos consideran que Prime-Fix podría ser una muy buena plataforma que implementarían en sus talleres.
+
+A continuación se mostrará de manera gráfica el análisis de las preguntas más relevantes:
+
+**Redes sociales para promoción**
+
+<img src="Assets/análisis_entrevistas/redes_sociales.png" width="550" height="350">
+<hr>
+
+**Competencia con talleres más grandes**
+
+<img src="Assets/análisis_entrevistas/dificultades.png" width="550" height="350">
+<hr>
+
+**Base de datos para los técnicos**
+
+<img src="Assets/análisis_entrevistas/bd_tecnicos.png" width="550" height="350">
+<hr>
+
+**Opinión de Prime-Fix**
+
+<img src="Assets/análisis_entrevistas/buena_idea.png" width="550" height="350">
+<hr>
+
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 Esta sección presenta dos arquetipos desarrollados para representar a los segmentos objetivos de Prime-Fix: Conductores de Autos y Administradores de talleres automotriz.
@@ -604,6 +652,40 @@ Empathy Mapping - Luis Chávez
 ## 2.5. Ubiquitous Language
 
 En esta sección, presentaremos el lenguaje ubicuo del proyecto.
+
+Glosario del Dominio del Negocio - PrimeFix
+
+Este glosario contiene términos relacionados al dominio del proyecto PrimeFix. Los a presentar estan en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones redactadas están en el idioma español, explicando de manera clara y sin ambigüedades sus significados. Esto se hace para facilitar la comunicación entre todos los miembros del equipo y los stakeholders.
+
+1. Stakeholders & Roles
+
+Technician (Técnico de Taller): Persona asignada a un taller en específico. Enacragdo del mantenimiento de los vehiculos que llegan al taller.
+
+Vehicle Owner: Persona que es dueña de un vehículo y busca un taller adecuado para el mantenimiento de su vehículo.
+
+2. Funcionalidades de la Plataforma
+
+Register Auto Repair (Registro de Taller): Proceso en la que el usuario registra el taller al sistema.
+
+Register Technician (Registro de Técnico): Proceso en la que el encargado del taller registra a los técnicos asignados del taller.
+
+Register Vehicle (Registro de Vehículo): Proceso en la que el usuario registra el vehúclo con sus especificaciones dentro de la plataforma.
+
+Search Auto Repair (Búsqueda de Taller mecánico): Proceso en la cual el usuario busca los talleres para su vehículo por medio de las especificaciones que él mismo ingrese.
+
+Follow Status (Seguimiento de estado): Apartado donde se puede visualizar el estado en la que el vehículo registrado se encuentra.
+
+3. Otros conceptos del dominio
+
+Auto Repair (Taller mecánico): Se refiere al taller que es registrado por el usuario. Contiene información clave como técnicos asignados, ubicación, valoraciones, entre otros.
+
+Visit Schedule (Programación de Visita): Referido a la visita que es programada por el usuario, donde se especifica el costo, el vehículo a antender y los problemas que este presenta.
+
+Visit Attended (Vista en espera): Visita programada que ya a sido antendida por el taller.
+
+Record (Historial): Historial donde el usuario puede visualizar las Visitas completadas en el pasado.
+
+Rating (Valoración): Apartado donde el usuario puede escribir un comentario sobre el servicio ofrecido.
 
 **Glosario del Dominio del Negocio - Prime-Fix**
 
