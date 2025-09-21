@@ -1498,7 +1498,21 @@ Durante el desarrollo del proyecto, el equipo aplicó buenas prácticas de contr
 ![Commits1](Assets/chapter-V/Commits-1.jpg)
 
 ![Commits2](Assets/chapter-V/Comits-2.jpg)
-    
+
+## Convención de Commits  
+
+Con el fin de mantener un historial de cambios claro y uniforme, el equipo adoptó la convención de **Conventional Commits**, la cual establece una estructura estandarizada para redactar los mensajes de commit. Bajo este enfoque, se emplearon prefijos como:  
+
+- **feat**: para la incorporación de nuevas funcionalidades.  
+- **fix**: para la corrección de errores.  
+- **docs**: para actualizaciones en la documentación.  
+- **style**: para ajustes relacionados con formato o estilos que no afectan la lógica del código.  
+- **refactor**: para modificaciones en la estructura interna del código sin alterar su comportamiento.  
+- **test**: para la creación o modificación de pruebas.  
+
+La aplicación de esta práctica no solo permitió una mejor comprensión del historial del proyecto, sino que también facilitó la automatización de procesos y potenció la colaboración entre los miembros del equipo, garantizando un flujo de trabajo más eficiente y ordenado.  
+
+
 
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto. <br></br>
