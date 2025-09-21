@@ -581,6 +581,9 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 | US06          | Ver disponibilidad de técnicos     |  **Given** que estoy revisando un taller,<br>**When** accedo a la información de disponibilidad,<br>**Then** veo horarios libres de los técnicos para reservar. | |
 | US07          | Reservar cita con técnico                | **Given** que revisé la disponibilidad de un técnico,<br>**When** selecciono un horario,<br>**Then** el sistema confirma la cita y me envía notificación. | |
 ## 3.3. Impact Mapping
+![Impact_Mapping_General](Assets/chapter-III/Impsct_Mapping_General.png)
+
+
 ## 3.4. Product Backlog
 
 ---
