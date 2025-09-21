@@ -452,6 +452,32 @@ Preguntas:
 |Duracion:**00:06:31**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:05**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:06:31**|
 | Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas, nos comenta que para atraer clientes, utiliza las redes sociales como Facebook y TikTok y una landing page. El entrevistado comenta que no siente que el taller donde trabaja sea afectado por la competencia dada su ubicación estratégica junto con la de sus otras sedes. Jesús menciona que la gestión de las solicitudes de servicios se realizan principalmente mediante WhatsApp, también reciben llamadas telefónicas y visitas directas al taller. En cuanto al desempeño de los técnicos y los servicios brindados, sí han recibido cierta retroalimentación. Se menciona que la gestión de los técnicos y de su información es un poco desordenada; sin embargo, considera interesante la idea de digitalizar ello y permitir que los clientes puedan conocer la disponibilidad de los trabajadores en tiempo real. El asesor menciona que en su taller se hace uso de un software llamado Qumpa para la gestión de su inventario de llantas de manera organizada, pero le parece interesante una plataforma que pueda ser utilizada por el cliente para la gestión de visitas con el fin de agilizar el proceso. Jesús menciona que este aplicativo puede ser de gran utilidad si cuenta con notificaciones para que el cliente pueda estar atento al estado de su vehículo. El diagnóstico de las fallas que ofrecen en Alvillantas se realiza mediante un documento físico, por lo que Jesús considera que podría ser buena idea virtualizar esta función para que el cliente pueda obtener esta información en sus dispositivos. Para finalizar, recalcó lo importante que es tener una plataforma con todas las funcionalidades mencionadas para garatizarle un buen servicio al cliente.|
 
+##### Entrevista N°2: William Espinoza
+
+- Sexo: Masculino
+- Edad: 47 años
+- Dirección: Lima, San Miguel.
+
+| ![Entrevista William Espinoza](Assets/chapter-II/Entrevista_Cesar_1.png) |
+|-------------------------------------------------------------------------------------------------------------------|
+|** Link De la Entrevista:** [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EYKmpMYFGk5BnxR4GI37EcsBrQaCB2q7n-PhGydUdeJAvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zfkZrQ)** |
+|Duracion:**00:03:53**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:03:53**|
+| William Espinoza se desempeña en el área de almacén, repuestos y mantenimiento de un taller automotriz. Comenta que la captación de clientes se realiza principalmente a través de redes sociales y avisos publicitarios en la puerta del local. Para la programación de visitas utilizan una computadora con Excel. Señala que no perciben dificultades frente a talleres más grandes, ya que la atención depende más de la capacidad instalada que de la competencia.
+La gestión de pedidos se lleva a cabo mediante un diagnóstico inicial, tras el cual se presenta al cliente una cotización del repuesto y del servicio requerido. Ha recibido algunos reclamos relacionados con la actitud o comunicación de los técnicos, normalmente de forma presencial. Explica que cuentan con una base de datos para evaluar la trayectoria de los técnicos y destaca la importancia de mostrar la disponibilidad de los mismos en tiempo real, pues considera que esto transmite confianza y rapidez al cliente.
+Respecto a la posibilidad de digitalizar procesos, considera útil una plataforma que permita registrar el taller, técnicos y reseñas de clientes, resaltando que dicha información debería estar disponible también para los usuarios externos. Actualmente, la comunicación del estado del vehículo y los diagnósticos finales se realiza mediante WhatsApp, enviando fotos o videos desde el área técnica al área administrativa y de allí al cliente. Valora positivamente la idea de una plataforma que notifique cuándo el vehículo está listo para ser recogido y que permita al técnico subir directamente la información para que el cliente la consulte en línea. En conclusión, William considera que una herramienta digital con estas funcionalidades resultaría de gran utilidad para mejorar la transparencia y la experiencia del cliente.|
+
+##### Entrevista N°3: Héctor Cárdenas
+
+- Sexo: Masculino
+- Edad: 35 años
+- Dirección: Lima, San Miguel.
+
+| ![Entrevista Héctor Cárdenas](Assets/chapter-II/Entrevista_Cesar_2.png) |
+|-------------------------------------------------------------------------------------------------------------------|
+|** Link De la Entrevista:** [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EWUY_frgM_RKtA929ZLKHA0Bd6suNWEVHuj-_ofQHR_Ecg?e=1yRvjo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** |
+|Duracion:**00:05:26**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:26**|
+| Héctor Cárdenas es un joven asesor de servicios de reparación del taller Alvillantas, nos comenta que para atraer clientes, utiliza las redes sociales como Facebook y TikTok y una landing page. El entrevistado comenta que no siente que el taller donde trabaja sea afectado por la competencia dada su ubicación estratégica junto con la de sus otras sedes. Jesús menciona que la gestión de las solicitudes de servicios se realizan principalmente mediante WhatsApp, también reciben llamadas telefónicas y visitas directas al taller. En cuanto al desempeño de los técnicos y los servicios brindados, sí han recibido cierta retroalimentación. Se menciona que la gestión de los técnicos y de su información es un poco desordenada; sin embargo, considera interesante la idea de digitalizar ello y permitir que los clientes puedan conocer la disponibilidad de los trabajadores en tiempo real. El asesor menciona que en su taller se hace uso de un software llamado Qumpa para la gestión de su inventario de llantas de manera organizada, pero le parece interesante una plataforma que pueda ser utilizada por el cliente para la gestión de visitas con el fin de agilizar el proceso. Jesús menciona que este aplicativo puede ser de gran utilidad si cuenta con notificaciones para que el cliente pueda estar atento al estado de su vehículo. El diagnóstico de las fallas que ofrecen en Alvillantas se realiza mediante un documento físico, por lo que Jesús considera que podría ser buena idea virtualizar esta función para que el cliente pueda obtener esta información en sus dispositivos. Para finalizar, recalcó lo importante que es tener una plataforma con todas las funcionalidades mencionadas para garatizarle un buen servicio al cliente.|
+
 ### 2.2.3. Análisis de entrevistas
 
 **Segmento #2**
@@ -630,20 +656,20 @@ Las tareas con mayor coincidencia en importancia para ambos segmentos son:
 - Importancia alta en la gestión digital de clientes y transparencia frente al mercado.
   
 ### 2.3.3. User Journey Mapping
-Segmento 1 (Dueño de vehículo: José Paredes):
+Segmento 1 (Dueño de vehículo: José Ramírez):
 <img src="Assets/chapter-II/User-Journey-mapping-1.png">
 
-Segmento 2 (Asesor de taller automotriz: Luis Chávez):
+Segmento 2 (Asesor de taller automotriz: Jorge Salazar):
 <img src="Assets/chapter-II/User-Journey-mapping-2.png">
 
 ### 2.3.4. Empathy Mapping
 Segmento 1 - Dueño de vehículo <br></br>
-Empathy Mapping - José Paredes
+Empathy Mapping - José Ramírez
 
 <img src="Assets/chapter-II/Empathy-mapping-1.png">
 
 Segmento 2 - Asesor de taller automotriz <br></br>
-Empathy Mapping - Luis Chávez
+Empathy Mapping - Jorge Salazar
 
 <img src="Assets/chapter-II/Empathy-mapping-2.png">
 
@@ -1529,7 +1555,7 @@ La aplicación de esta práctica no solo permitió una mejor comprensión del hi
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto. <br></br>
 
-#### Landing Page:
+### Landing Page:
 
 | **Tecnología** | **Convenciones principales** |
 |---|---|
@@ -1537,44 +1563,32 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 | **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.).<br>- Indentación de 2 espacios.<br>- Atributos entre comillas dobles `"`.<br>- Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`).<br>- Nombres en kebab-case (`main-section`). |
 | **TypeScript** | - Variables/funciones en `camelCase`.<br>- Clases/interfaces en `PascalCase`.<br>- Constantes en `UPPER_SNAKE_CASE`.<br>- Tipado obligatorio en variables, parámetros y retornos.<br>- Ordenar imports de externos a internos. |
 | **Astro** | - Archivos `.astro` en `PascalCase`.<br>- Orden del archivo: frontmatter → HTML/JSX → estilos `\<style>`.<br>- Props siempre tipadas con TypeScript.<br>- Importaciones cortas y claras.<br>- Componentes pequeños y reutilizables. |
-| **Gherkin** | - Los escenarios deben escribirse en lenguaje claro y entendible.<br>- Estructura: **Given, When, Then**, y opcionalmente **And**.<br>- Un escenario debe reflejar un caso de uso específico.<br>- Las historias de usuario deben agruparse en **Features**.<br>- Mantener consistencia en la redacción (tiempos verbales en presente). |
 
 
-Front-End:
+### Front-End:
 
-**Resumen:** Como principales tecnologías, usaremos Vue, HTML, JavaScript y CSS. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
+**Resumen:** Como principales tecnologías, usaremos Vue.js, HTML, JavaScript y CSS. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
 
 | **Tecnología** | **Convención** |
-|-------------|-----------------|
-| **Stack** | HTML + CSS + JavaScript + Vue 3 (SFC o CDN); ESLint + Prettier. |
-| **Estructura** | `src/components`, `src/views`, `src/composables`, `src/services`, `src/router`, `src/assets`. |
-| **Componentes** | Nombres **PascalCase** (`UserCard.vue`); 1 componente por archivo; extraer subcomponentes cuando superen ~200 líneas. |
-| **Script** | `<script setup>`; Composition API; evitar lógica compleja en el template; composables para lógica reutilizable. |
-| **Props/Emits** | `props` validadas; `emits` declarados; eventos en **kebab-case** (`update:model-value`). |
-| **Estado/Routing** | Estado local/composables; **Vue Router** (opcional); rutas perezosas (lazy) y guards en router. |
-| **Estilo de código** | Indentación 2 espacios; comillas simples; imports ordenados. |
-| **Accesibilidad** | Roles/`aria-*`; foco gestionado; mensajes de error con `aria-live`. |
-| **CSS** | Evitar `!important`; reutilizar clases; extraer patrones repetidos a componentes u hojas globales. |
-| **API** | `src/services/*` con `fetch/axios` envuelto; interceptores para auth/errores; timeouts/reintentos. |
-| **Pruebas** | Unit con Vitest; Vue Test Utils para componentes; mocks de router/HTTP. |
+|----------------|----------------|
+| **HTML5** | Uso semántico de etiquetas (`header`, `main`, `section`, `footer`). Atributos en comillas dobles. Indentación de 2 espacios. |
+| **CSS3** | Estilos modulares y reutilizables. Variables globales para colores/tipografía. Evitar `!important`. |
+| **JavaScript** | Sintaxis moderna. Variables y funciones en `camelCase`. Constantes en `UPPER_SNAKE_CASE`. Imports ordenados. |
+| **Vue.js** | Uso de **Single File Components (SFC)** con `<script setup>`. Nombres de componentes en **PascalCase**. Props tipadas y `emits` declarados. Composition API preferida sobre Options API. |
+| **PrimeVue** | Librería de UI recomendada para formularios, tablas y componentes complejos. Personalizado vía tema, no con overrides en línea. |
 
-Back-End:
+
+### Back-End:
 
 **Resumen:** Como principales tecnologías, C# y .NET. Como principales tecnologías, se utilizarán C# y .NET, enfocándose en un código limpio, seguro y mantenible bajo buenas prácticas de arquitectura, nomenclatura, validación, seguridad y pruebas.
 
 | **Tecnología** | **Convención** |
 |----------------|----------------|
-| **C# .NET – Arquitectura** | Capas separadas: **API** (Controllers/Minimal API) → **Application** (Services/Casos de uso) → **Domain** (Entidades/Reglas) → **Infrastructure** (EF Core/Repos/Integraciones). |
-| **C# .NET – Nomenclatura** | Clases, métodos y propiedades en **PascalCase**; variables locales en **camelCase**; privados `_camelCase`; constantes en **ALL_CAPS**. |
-| **C# .NET – Inyección de Dependencias & Configuración** | Usar **DI nativa**; configuración con `IOptions<T>`; secretos con **User Secrets** o vault; prohibido hardcodear credenciales. |
-| **C# .NET – DTOs/Mapping** | Exponer **DTOs** (nunca entidades); AutoMapper o mapeo explícito; contratos versionados para compatibilidad. |
-| **C# .NET – Validación** | `DataAnnotations` o **FluentValidation**; respuestas 400 con detalle de errores; reglas de negocio validadas en capa Domain. |
-| **EF Core** | `DbContext` por request; `AsNoTracking` en consultas de solo lectura; migraciones versionadas; transacciones cuando apliquen; soporte de `CancellationToken`. |
-| **C# .NET – Asincronía** | Todo I/O con `async/await`; evitar `.Result` o `.Wait()`; definir timeouts y circuit breakers en integraciones. |
-| **C# .NET – Errores & Logs** | Middleware global con **ProblemDetails (RFC 7807)**; logging con `ILogger<T>`; correlación con `TraceId`; métricas con **Prometheus/OpenTelemetry**. |
-| **C# .NET – API** | Versionado (`/api/v1`); documentación con Swagger/Swashbuckle; soportar paginación, orden y búsqueda; códigos HTTP correctos; operaciones sensibles idempotentes. |
-| **C# .NET – Seguridad** | Autenticación con **JWT**; autorización por roles/políticas; CORS explícito; rate limiting; sanitización y validación estricta de entrada. |
-| **C# .NET – Pruebas** | Unit testing con **xUnit**; integración con `WebApplicationFactory`; pruebas de repositorios y servicios; uso de fixtures de datos. |
+| **C#** | Lenguaje principal. Usar sintaxis moderna (C# 10/11+), convenciones de nomenclatura estándar de Microsoft, y programación orientada a objetos junto con patrones modernos (LINQ, async/await, records, etc.). |
+| **.NET Core** | Framework principal para el backend. Uso de **arquitectura en capas** (API, Application, Domain, Infrastructure). Enfoque en modularidad, mantenibilidad y soporte multiplataforma. |
+| **Entity Framework Core** | ORM oficial para acceso a datos. Uso de `DbContext` por request, `AsNoTracking` para consultas de solo lectura, migraciones versionadas, y compatibilidad con transacciones. |
+| **Swagger / Swashbuckle** | Generación automática de documentación de la API REST. Versionado claro (`/api/v1`, `/api/v2`) y contratos visibles para clientes externos. |
+| **xUnit** | Framework de pruebas unitarias. Uso combinado con **WebApplicationFactory** para pruebas de integración y validación de endpoints. |
 
 
 ### 5.1.4. Software Deployment Configuration
@@ -1591,24 +1605,20 @@ Back-End:
    - Visibilidad **pública** para permitir la integración con Vercel.  
    - Añadimos un `README.md` inicial y un `.gitignore` adecuado.
 
+<img src="Assets/chapter-V/evidences/landing_github_evidence.png">
+
 4. **Carga de los archivos de la landing**  
    - Subimos los archivos del proyecto (**HTML, TailwindCSS, TypeScript, Astro**).  
-   - Confirmamos que los cambios estén en la rama **main**.  
+   - Confirmamos que los cambios estén en la rama **master**.  
    - “**Commit changes**”.
 
 5. **Configuración en Vercel**  
    - Iniciamos sesión en Vercel → **New Project** → vinculamos GitHub.  
    - Importamos el repo `landing-page`.  
    - Framework **Astro** (detección automática).  
-   - Definimos la rama de despliegue (**main** / `master`).
+   - Definimos la rama de despliegue (**master**).
 
-6. **Verificación del sitio web**  
-   En pocos minutos, Vercel genera la **URL pública** del proyecto.
-
-7. **Actualización del sitio**  
-   Con cada **commit** a `main`, Vercel recompila y publica automáticamente.
-
-
+<img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
@@ -1681,10 +1691,11 @@ A continuación se muestra la tabla de control de estado para este Sprint.
 
 | **Repository**              | **Branch**            | **Commit Id** | **Commit Message**                | **Commit Message Body**                                | **Committed on (Date)** |
 |------------------------------|-----------------------|---------------|-----------------------------------|--------------------------------------------------------|--------------------------|
-| prime-fix-app-web/landing-page       | development       | xxxxxx       | feat: Implement internationalization        | Implement internationalization for feature, footer, header, home, and home guide components   | 2025-09-XX               |
-| prime-fix-app-web/landing-page       | development      | xxxxxx       |  feat: Refactor language      | Refactor language handling and UI translations; remove unused components and implement dynamic language support in pages       | 2025-09-XX               |
-| prime-fix-app-web/landing-page        | development          | xxxxxx       | feat: introducing button change theme          | Added button change Theme     | 2025-09-XX               |
-| prime-fix-app-web/landing-page           | development  | xxxxxx       | feat: Implement dark theme support and improve theme toggle functionality    | Improve toggle functionality      | 2025-09-XX               |
+| prime-fix-app-web/landing-page       | development       | 89476f8       | feat: start project        | Start project landing page with astro  | 2025-09-15               |
+| prime-fix-app-web/landing-page       | development       | ed4746b       | feat: Implement internationalization        | Implement internationalization for feature, footer, header, home, and home guide components   | 2025-09-15               |
+| prime-fix-app-web/landing-page       | development      | 370fdff       |  feat: Refactor language      | Refactor language handling and UI translations; remove unused components and implement dynamic language support in pages       | 2025-09-15               |
+| prime-fix-app-web/landing-page        | development          | c254f47       | feat: introducing button change theme          | Added button change Theme     | 2025-09-15               |
+| prime-fix-app-web/landing-page           | development  | 332f3a9       | feat: Implement dark theme support and improve theme toggle functionality    | Improve toggle functionality      | 2025-09-15               |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -1712,13 +1723,14 @@ No aplica por que el Sprint se centró en la Landing Page.
 - Se desplegó la Landing Page en Vercel con integración automática desde la rama main.  
 - Se validaron configuraciones de DNS y HTTPS.  
 
-
+<img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 - El equipo trabajó con ramas **development/** y revisiones vía **pull requests**.  
 - Cada miembro realizó commits relacionados con su área principal.
 
+<img src="Assets/chapter-V/evidences/landing_repository_evidence.png">
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
