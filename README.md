@@ -373,7 +373,21 @@ En el mercado peruano de servicios automotrices, los competidores se pueden clas
 - La **informalidad y falta de confianza** en talleres es el principal dolor de los usuarios.  
 - Las **herramientas actuales no garantizan trazabilidad ni transparencia**.  
 - Existe una **oportunidad de primer mover** en Perú para centralizar la gestión digital de talleres.  
-- Los usuarios ya están acostumbrados a usar apps y redes sociales, por lo que la barrera de adopción tecnológica es baja.  
+- Los usuarios ya están acostumbrados a usar apps y redes sociales, por lo que la barrera de adopción tecnológica es baja.
+
+| **Fortalezas** | **Oportunidades** |
+|----------------|-------------------|
+| - Plataforma innovadora en el Perú que centraliza la gestión de talleres y clientes. | - Creciente tendencia hacia la digitalización en el sector automotriz en Latinoamérica. |
+| - Funcionalidades diferenciales: reseñas verificadas, disponibilidad en tiempo real, historial digital de mantenimientos. | - Aumento de la inversión en publicidad digital automotriz en Perú. |
+| - Modelo freemium que facilita la captación de talleres y clientes desde la etapa inicial. | - Falta de plataformas consolidadas en el país, lo que ofrece ventaja de ser pioneros. |
+| - Equipo multidisciplinario con visión tecnológica y conocimiento del mercado local. | - Posibilidad de expansión a mercados regionales (Arequipa, Trujillo, luego LATAM). |
+
+| **Debilidades** | **Amenazas** |
+|-----------------|---------------|
+| - Dependencia inicial de la confianza de talleres y clientes para generar adopción. | - Competidores internacionales podrían ingresar al mercado peruano con más recursos. |
+| - Recursos limitados para competir en marketing frente a grandes agencias automotrices. | - La informalidad en talleres pequeños puede dificultar la adopción digital. |
+| - Riesgo de complejidad tecnológica en la implementación de funcionalidades avanzadas (IoT, app móvil). | - Posible desconfianza de usuarios al inicio respecto a pagos y transparencia en reseñas. |
+| - Necesidad de soporte continuo y capacitación para talleres menos digitalizados. | - Cambios regulatorios en el sector automotriz que afecten la operación de talleres. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 **Estrategia de diferenciación (vs. talleres tradicionales y Google Maps):**  
