@@ -649,6 +649,20 @@ Empathy Mapping - Luis Chávez
 
 ## 2.4. Big Picture Event Storming
 
+En esta sección el equipo introduce, resume el proceso realizado por el equipo y presenta capturas y explicaciones de las etapas del Big Picture Event Storming. En una sesión colaborativa, el equipo se enfoca en entender el dominio del negocio en general, plasmando los eventos significativos y sus relaciones. Es una primera aproximación visual de alto nivel que explora el landscape del negocio, identificando procesos clave, exponiendo potenciales problemas u oportunidades.
+
+- **Identificar los actores principales:** el taller mecánico (como proveedor de servicios) y el dueño de auto (como cliente que solicita reparación/mantenimiento).
+
+- **Mapear eventos clave del negocio:** registro de talleres, consulta en el catálogo de talleres, recopilación y diagnóstico del vehículo, seguimiento del mantenimiento, pago del servicio y retroalimentación mediante calificaciones.
+
+- **Definir relaciones y flujos de información:** se evidenció la interacción entre los usuarios, la aplicación web y la base de datos, así como la integración con servicios externos para pagos.
+
+- **Detectar posibles problemas u oportunidades:** como la necesidad de garantizar la confiabilidad de la información de talleres, la transparencia en la calificación de técnicos y la facilidad en el proceso de pago.
+
+El resultado de este ejercicio fue un mapa visual de alto nivel, que permitió comprender el landscape del negocio y sentar las bases para fases posteriores del proyecto, tales como el diseño de escenarios To-Be, la priorización del backlog y la identificación de puntos críticos en la experiencia de usuario.
+
+![Big_Picture_Event_Storming](Assets/chapter-II/Big-Picture-EvenStorming.png)
+
 ## 2.5. Ubiquitous Language
 
 En esta sección, presentaremos el lenguaje ubicuo del proyecto.
