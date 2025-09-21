@@ -57,7 +57,7 @@
 |   TB1   | XX/09/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé ... |
 |   TB1   | XX/09/2025  | Flor De María Contreras Leon                                              | Realicé 1.2.2.1. Lean UX Problem Statements; 1.2.2.2. Lean UX Assumptions; 1.2.2.3. Lean UX Hypothesis Statements; 2.3.1. User Personas; 2.3.2. User Task Matrix; 2.4. Big Picture Event Storming; 3.1. To-Be Scenario Mapping; 3.3. Impact Mapping; 4.1. Style Guidelines; 4.1.1. General Style Guidelines; 4.1.2. Web Style Guidelines; 3.2. User Stories; 3.4. Product Backlog; 5.1. Software Configuration Management; 5.1.1. Software Development Environment Configuration; 5.1.2. Source Code Management; 5.2. Landing Page, Services & Applications Implementation. |
 |   TB1   | XX/09/2025  | Giorgio Marzouk Awad Vargas                                               | Realicé ... |
-|   TB1   | XX/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé ... |
+|   TB1   | 21/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé la secciones de User Stories, evaluando cada escenario posible de cada funcionalidad.Tambien el Diagrama de Clase en una versión temprana. Además de hacer los segmentos objetivos del proyecto. Evaluando los posibles usuarios a los que va dirijido el trabajo. |
 
 </div>
 
@@ -165,8 +165,8 @@ En el siguiente cuadro se presentan las acciones desarrolladas por el grupo, jun
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| 1. Trabaja en equipo para proporcionar liderazgo    |**Flor De Maria Contreras Leon  TB1: **  Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto como 1.2.2.1. Lean UX Problem Statements, 1.2.2.2. Lean UX Assumptions y 1.2.2.3. Lean UX Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, de manera que se estableciera una base conceptual sólida para estructurar el producto. Con ello se fortaleció la organización del trabajo y se aseguró que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo.<br> **Gianmarco Fabian Jiménez Guerra TB1: ** Logré contribuir y organizarme con el grupo para el desarrollo de Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.   |**Flor De Maria Contreras Leon  TB1: **     Mi participación en la elaboración de los apartados vinculados a Lean UX (Problem Statements, Assumptions e Hypothesis Statements) permitió brindar liderazgo en la identificación y organización de los problemas centrales del proyecto. Esto contribuyó a guiar al equipo hacia una visión compartida y a alinear los esfuerzos individuales con los objetivos generales del trabajo.<br> **Gianmarco Fabian Jiménez Guerra TB1: Mi aporte principalmente en el capítulo IV fue de gran ayuda par apoder proporcionar una visión clara de lo que buscamos tener en el aplicativo, ello lo realicé coordinando y organizando las tareas con mis compañeros.    |
-| 2. Crea un entorno colaborativo, establece metas, planifica tareas y cumple objetivos | **Flor De Maria Contreras Leon  TB1: **   Contribuí a crear un entorno colaborativo, estableciendo metas y cumpliendo objetivos mediante la elaboración de entregables como 2.3.1. User Personas, 2.3.2. User Task Matrix, 2.4. Big Picture Event Storming, 3.1. To-Be Scenario Mapping, 3.3. Impact Mapping y 3.2. User Stories, además de secciones técnicas como 4.1. Style Guidelines, 3.4. Product Backlog y la configuración en 5.1. Software Configuration Management. Estas contribuciones hicieron posible cumplir con los objetivos del TB1, fomentar la colaboración entre los integrantes y garantizar insumos consistentes para avanzar en las siguientes fases del proyecto.<br><br> **Gianmarco Fabian Jiménez Guerra TB1: ** Junto con mis compañeros, pude avanzar cada una de mis partes especificadas previamente estableciendo algunas metas semanales y organizándonos mediante reuniones virtuales, ello me permitió cumplir de manera exitosa con cada una de las tareas asignadas.   | **Flor De Maria Contreras Leon  TB1: **   Al desarrollar entregables como User Personas, User Task Matrix, Big Picture Event Storming, To-Be Scenario Mapping, Impact Mapping, User Stories y Product Backlog, propicié un entorno colaborativo en el que cada integrante pudo aportar de manera ordenada. Gracias a la planificación de estas tareas y a la definición de metas claras, se alcanzaron los objetivos propuestos en el TB1, consolidando un avance estructurado y efectivo del proyecto.<br> **Gianmarco Fabian Jiménez Guerra TB1: ** Parte importante de mi avance fue desarrollar el aplicativo en Figma, para ello, tuve que establecer metas con el fin de que mis compañeros puedan ver mis avances y poder aprobarlos entre todos. Además, ello me sirvió para reforzar mis conocimientos sobre Figma.   |
+| 1. Trabaja en equipo para proporcionar liderazgo    |**Flor De Maria Contreras Leon  TB1: **  Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto como 1.2.2.1. Lean UX Problem Statements, 1.2.2.2. Lean UX Assumptions y 1.2.2.3. Lean UX Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, de manera que se estableciera una base conceptual sólida para estructurar el producto. Con ello se fortaleció la organización del trabajo y se aseguró que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo.<br> **Gianmarco Fabian Jiménez Guerra TB1: ** Logré contribuir y organizarme con el grupo para el desarrollo de Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping. **Piero Francesco Tenorio Media TB1: ** Durante el desarrollo del trabajo, realice y participe de manera activa en el grupo de trabajo. Se me llegó a asignar los puntos de Diagrama de Clases, Diagramas de Arquitectura de Software, el desarrollo de las User Stories y el desarrollo de los Segmentos Objetivos.   |**Flor De Maria Contreras Leon  TB1: **     Mi participación en la elaboración de los apartados vinculados a Lean UX (Problem Statements, Assumptions e Hypothesis Statements) permitió brindar liderazgo en la identificación y organización de los problemas centrales del proyecto. Esto contribuyó a guiar al equipo hacia una visión compartida y a alinear los esfuerzos individuales con los objetivos generales del trabajo.<br> **Gianmarco Fabian Jiménez Guerra TB1: Mi aporte principalmente en el capítulo IV fue de gran ayuda par apoder proporcionar una visión clara de lo que buscamos tener en el aplicativo, ello lo realicé coordinando y organizando las tareas con mis compañeros.<br> Piero Francesco Tenorio Medina TB1: Los aportes realizados para los distintos capitulos fueron fundamentales para el desarrollo completo del trabajo. Poder identificar y investigar me permitió centrarnos en el correcto desarrollo del trabajo.    |
+| 2. Crea un entorno colaborativo, establece metas, planifica tareas y cumple objetivos | **Flor De Maria Contreras Leon  TB1: **   Contribuí a crear un entorno colaborativo, estableciendo metas y cumpliendo objetivos mediante la elaboración de entregables como 2.3.1. User Personas, 2.3.2. User Task Matrix, 2.4. Big Picture Event Storming, 3.1. To-Be Scenario Mapping, 3.3. Impact Mapping y 3.2. User Stories, además de secciones técnicas como 4.1. Style Guidelines, 3.4. Product Backlog y la configuración en 5.1. Software Configuration Management. Estas contribuciones hicieron posible cumplir con los objetivos del TB1, fomentar la colaboración entre los integrantes y garantizar insumos consistentes para avanzar en las siguientes fases del proyecto.<br><br> **Gianmarco Fabian Jiménez Guerra TB1: ** Junto con mis compañeros, pude avanzar cada una de mis partes especificadas previamente estableciendo algunas metas semanales y organizándonos mediante reuniones virtuales, ello me permitió cumplir de manera exitosa con cada una de las tareas asignadas.<br><br> Piero Francesco Tenorio Medina  <br>TB1: Junto a los integrantes del grupo, pude avanzar con los distintos puntos asignados en el trabajo. Todo gracias a una comunicación constante y acertiva sobre los distintos puntos en los que cada integrante presentaba dudas. | **Flor De Maria Contreras Leon  TB1: **   Al desarrollar entregables como User Personas, User Task Matrix, Big Picture Event Storming, To-Be Scenario Mapping, Impact Mapping, User Stories y Product Backlog, propicié un entorno colaborativo en el que cada integrante pudo aportar de manera ordenada. Gracias a la planificación de estas tareas y a la definición de metas claras, se alcanzaron los objetivos propuestos en el TB1, consolidando un avance estructurado y efectivo del proyecto.<br> **Gianmarco Fabian Jiménez Guerra TB1: ** Parte importante de mi avance fue desarrollar el aplicativo en Figma, para ello, tuve que establecer metas con el fin de que mis compañeros puedan ver mis avances y poder aprobarlos entre todos. Además, ello me sirvió para reforzar mis conocimientos sobre Figma.   |
 ---
 
 # Capítulo I: Introducción
@@ -185,7 +185,7 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 |------|-------------|
 | <img width="250" src="Assets/chapter-I/PerfilEstudiante_FlorContreras.jpeg"> | Mi nombre es Flor de María Contreras León y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida y dedicada a mi formación profesional.Me apasiona la programación y la investigación, áreas en las que busco seguir aprendiendo y desarrollando nuevas habilidades. Aunque me considero una persona callada, siempre estoy atenta a los detalles, lo que me permite trabajar de manera cuidadosa y eficiente en mis proyectos. Asimismo, valoro el trabajo en equipo y creo que un entorno colaborativo y respetuoso es clave para alcanzar los mejores resultados. |
 | <img width="250" src="Assets/chapter-I/Perfil_Gianmarco.png"> | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks. |
-| <img width="250" src=""> |  |
+| <img width="250" src="Assets/chapter-I/Perfil_Piero.png"> | Soy Piero Tenorio, estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello.  |
 | <img width="250" src=""> |  |   
 | <img width="250" src=""> |  |
 
@@ -1385,14 +1385,41 @@ Link del prototipo: [Prototype](https://www.figma.com/proto/wf74HMrT48NvWY5Bq8Mg
 
 
 ### 4.6.2. Software Architecture Context Diagram
+Diagrama de Contexto de PrimeFix
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/ContextDiagram.png">
+
 ### 4.6.3. Software Architecture Container Diagrams
+Diagrama de Contenedores de PrimeFix
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/ContainerDiagram.png">
+
 ### 4.6.4. Software Architecture Components Diagrams
+Diagrama de Componente Auto Repair Registration
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/AutoRepairRegistrationBC.png">
+
+Diagrama de Componente Auto Repair Catalog
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/AutoRepairCatalogBC.png">
+
+Diagrama de Componente Collection Diagnosis 
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/CollectionDiagnosisBC.png">
+
+Diagrama de Componente de Maintenance Tracking
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/MaintenanceTrackingComponent.png">
+
+Diagrama de Componente de Payment Service
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/PaymentServiceComponent.png">
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+Diagrama de Clases de PrimeFix
+<img src="Assets/chapter-IV/diagrams/Diagram_Class.png">
+URL: [Enlace del Diagrama](https://lucid.app/lucidchart/eb6fe88f-56d7-4914-b847-c77bdce717fa/edit?viewport_loc=-4049%2C-1831%2C10453%2C4825%2C0_0&invitationId=inv_89395be7-d9c0-44e9-9b5a-6a690082d61a)
 
 ## 4.8. Database Design
+
 ### 4.8.1. Database Diagrams
+Diagrama de Base de datos
+<img src="Assets/chapter-IV/diagrams/Diagram_Database.png">
+
 
 ---
 
