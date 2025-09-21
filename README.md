@@ -470,22 +470,22 @@ A continuación se mostrará de manera gráfica el análisis de las preguntas m�
 
 **Redes sociales para promoción**
 
-<img src="Assets/análisis_entrevistas/redes_sociales.png" width="550" height="350">
+<img src="Assets/chapter-II/análisis_entrevistas/redes_sociales.png" width="550" height="350">
 <hr>
 
 **Competencia con talleres más grandes**
 
-<img src="Assets/análisis_entrevistas/dificultades.png" width="550" height="350">
+<img src="Assets/chapter-II/análisis_entrevistas/dificultades.png" width="550" height="350">
 <hr>
 
 **Base de datos para los técnicos**
 
-<img src="Assets/análisis_entrevistas/bd_tecnicos.png" width="550" height="350">
+<img src="Assets/chapter-II/análisis_entrevistas/bd_tecnicos.png" width="550" height="350">
 <hr>
 
 **Opinión de Prime-Fix**
 
-<img src="Assets/análisis_entrevistas/buena_idea.png" width="550" height="350">
+<img src="Assets/chapter-II/análisis_entrevistas/buena_idea.png" width="550" height="350">
 <hr>
 
 
