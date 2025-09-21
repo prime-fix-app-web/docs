@@ -1707,10 +1707,11 @@ A continuación se muestra la tabla de control de estado para este Sprint.
 
 | **Repository**              | **Branch**            | **Commit Id** | **Commit Message**                | **Commit Message Body**                                | **Committed on (Date)** |
 |------------------------------|-----------------------|---------------|-----------------------------------|--------------------------------------------------------|--------------------------|
-| prime-fix-app-web/landing-page       | development       | xxxxxx       | feat: Implement internationalization        | Implement internationalization for feature, footer, header, home, and home guide components   | 2025-09-XX               |
-| prime-fix-app-web/landing-page       | development      | xxxxxx       |  feat: Refactor language      | Refactor language handling and UI translations; remove unused components and implement dynamic language support in pages       | 2025-09-XX               |
-| prime-fix-app-web/landing-page        | development          | xxxxxx       | feat: introducing button change theme          | Added button change Theme     | 2025-09-XX               |
-| prime-fix-app-web/landing-page           | development  | xxxxxx       | feat: Implement dark theme support and improve theme toggle functionality    | Improve toggle functionality      | 2025-09-XX               |
+| prime-fix-app-web/landing-page       | development       | 89476f8       | feat: start project        | Start project landing page with astro  | 2025-09-15               |
+| prime-fix-app-web/landing-page       | development       | ed4746b       | feat: Implement internationalization        | Implement internationalization for feature, footer, header, home, and home guide components   | 2025-09-15               |
+| prime-fix-app-web/landing-page       | development      | 370fdff       |  feat: Refactor language      | Refactor language handling and UI translations; remove unused components and implement dynamic language support in pages       | 2025-09-15               |
+| prime-fix-app-web/landing-page        | development          | c254f47       | feat: introducing button change theme          | Added button change Theme     | 2025-09-15               |
+| prime-fix-app-web/landing-page           | development  | 332f3a9       | feat: Implement dark theme support and improve theme toggle functionality    | Improve toggle functionality      | 2025-09-15               |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -1738,13 +1739,14 @@ No aplica por que el Sprint se centró en la Landing Page.
 - Se desplegó la Landing Page en Vercel con integración automática desde la rama main.  
 - Se validaron configuraciones de DNS y HTTPS.  
 
-
+<img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 - El equipo trabajó con ramas **development/** y revisiones vía **pull requests**.  
 - Cada miembro realizó commits relacionados con su área principal.
 
+<img src="Assets/chapter-V/evidences/landing_repository_evidence.png">
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
