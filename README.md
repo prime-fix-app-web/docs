@@ -1399,7 +1399,80 @@ Link del prototipo: [Prototype](https://www.figma.com/proto/wf74HMrT48NvWY5Bq8Mg
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+# Herramientas Utilizadas
+
+**Project Management**
+- **Discord**: Herramienta de comunicación en línea que permitió al equipo realizar reuniones de coordinación en tiempo real mediante videollamadas y mensajes. 
+
+
+- **Zoom**: Plataforma utilizada para llevar a cabo y registrar la exposición final, garantizando una grabación clara y accesible de la presentación grupal.  
+- **Miro**: Herramienta de colaboración visual en línea que permite crear mapas mentales, diagramas de flujo y tableros interactivos, facilitando la planificación, organización y co-creación de ideas en tiempo real.  
+- **GitHub**: Plataforma de desarrollo en línea que permite crear, editar y compartir proyectos web de manera rápida, ofreciendo un entorno de codificación colaborativo y basado en la nube, ideal para prototipado y desarrollo ágil.  
+- **Uxpressia**: Herramienta para el diseño de experiencias de usuario y customer journey maps, que permitió representar de manera clara los procesos y la interacción de los usuarios con el sistema.  
+- **Excalidraw**: Aplicación de diagramación colaborativa que facilitó la creación de esquemas, flujos y wireframes de manera simple e intuitiva.
+- **Lucidchart**: Herramienta en línea de diagramación que permite crear diagramas de flujo, mapas de procesos, organigramas, wireframes y diagramas UML de manera colaborativa en tiempo real, facilitando la comunicación visual y la planificación estructurada de proyectos.
+
+
+**Requirements Management**
+- **Lucidchart**: Herramienta en línea de diagramación que permite crear diagramas de flujo, mapas de procesos, organigramas, wireframes y diagramas UML de manera colaborativa en tiempo real, facilitando la comunicación visual y la planificación estructurada de proyectos.  
+
+![Lucid_Chart](Assets/chapter-V/Lucid_Chart.jpg)
+
+
+**Product UX/UI Design**
+- **Figma**: Plataforma de diseño colaborativo en línea que permite crear, prototipar y compartir interfaces de usuario en tiempo real, facilitando el trabajo en equipo de forma ágil y visual.  
+
+![Figma](Assets/chapter-V/Figma_V5.jpg)
+
+**Software Development**
+- **HTML**: Quinta versión del lenguaje de marcado estándar para la creación de páginas web, que incorpora nuevas etiquetas y funcionalidades para estructurar mejor los contenidos, integrar multimedia y mejorar la experiencia de usuario en distintos dispositivos.
+
+- **CSS**: Lenguaje de hojas de estilo que permite definir la apariencia y el diseño de los documentos HTML, controlando aspectos como colores, tipografías, márgenes, posiciones y adaptabilidad de los elementos.  
+![Css](Assets/chapter-V/Styles_css.jpg)
+
+- **JavaScript**: Lenguaje de programación que permite agregar interactividad, dinamismo y funcionalidades avanzadas a los sitios web, trabajando en conjunto con HTML y CSS.
+![Java](Assets/chapter-V/Java_Script.jpg)
+
+
+**Software Documentation**
+- **GitHub**: Plataforma de alojamiento de código basada en Git que permite gestionar proyectos, realizar control de versiones, colaborar en equipo y facilitar el seguimiento de cambios.  
+- **Vercel**: Plataforma de despliegue que facilita la publicación y el hosting de aplicaciones web con integración continua y escalabilidad automática.  
 ### 5.1.2. Source Code Management
+
+## Commits y Uso de Ramas  
+
+Durante el desarrollo del proyecto, el equipo aplicó buenas prácticas de control de versiones utilizando **Git y GitHub**.  
+
+- **Commits**  
+  Cada integrante realizó *commits* claros y descriptivos que documentan los cambios efectuados.  
+  Los mensajes de commit siguieron un formato breve pero preciso, lo cual permitió mantener un historial ordenado y comprensible del progreso del sistema.  
+
+- **Ramas (Branches) por integrante**  
+  Para garantizar un trabajo organizado y verificable, cada miembro del equipo creó una rama con su nombre:  
+  - `piero`  
+  - `cesar`  
+  - `gianmarco`  
+  - `giorgio`  
+  - `flor`  
+
+  De esta manera:  
+  - Se evitaban conflictos en la rama principal.  
+  - Se podía identificar fácilmente qué integrante realizó cada cambio.  
+  - El flujo de integración consistía en trabajar en la rama personal y posteriormente fusionar los cambios en la rama principal (*main*) mediante *pull requests*.  
+![Branches/1](Assets/chapter-V/Branches-1.jpg)
+
+![Branches/2](Assets/chapter-V/Branches-2.jpg)
+
+
+- **Beneficio del enfoque**  
+  Este esquema permitió verificar de manera clara el aporte individual de cada miembro y asegurar que la rama principal siempre mantuviera un código estable y funcional.  
+
+
+![Commits1](Assets/chapter-V/Commits-1.jpg)
+
+![Commits2](Assets/chapter-V/Comits-2.jpg)
+    
+
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto. <br></br>
 
@@ -1604,7 +1677,15 @@ No aplica por que el Sprint se centró en la Landing Page.
 ---
 
 # Conclusiones
+El proyecto "Prime-Fix" representó un esfuerzo colaborativo orientado a resolver una problemática real en el sector automotriz: la falta de digitalización en la gestión de talleres mecánicos y la dificultad de los conductores para encontrar servicios confiables y transparentes. A través del uso de metodologías centradas en el usuario, se lograron identificar y definir con claridad las necesidades de los dos segmentos principales: dueños de vehículos y administradores de talleres. Esto permitió diseñar una solución digital que integra funcionalidades como la reserva de citas en línea, la visualización de reseñas y calificaciones, el seguimiento del estado del vehículo en tiempo real, y la gestión de solicitudes y disponibilidad en los talleres.
+
+El desarrollo del proyecto se apoyó en herramientas clave como las User Stories, To-Be Scenario Mapping, Impact Mapping y Big Picture Event Storming, que facilitaron la comprensión del dominio del negocio y la definición de flujos claros y estructurados. Asimismo, se aplicaron lineamientos de diseño (Style Guidelines) que aseguraron una experiencia de usuario intuitiva, confiable y coherente con los objetivos planteados. El trabajo colaborativo fue otro aspecto esencial: mediante el uso de GitHub, ramas personalizadas por cada integrante y un flujo de integración basado en pull requests, se garantizó la trazabilidad de los aportes individuales y la estabilidad del producto.
+
+En conjunto, el proyecto no solo permitió plasmar una solución funcional y escalable, sino que también demostró la capacidad del equipo para coordinarse de manera organizada, aplicar buenas prácticas de desarrollo y mantener un enfoque constante en la experiencia del usuario. "Prime-Fix" constituye así un avance significativo en la modernización de los servicios automotrices, estableciendo las bases para su futura evolución e implementación en un contexto real.
+
+
 # Conclusiones y recomendaciones
+Durante el desarrollo del proyecto se recomienda mejorar la estandarización de los mensajes de commit siguiendo convenciones claras (por ejemplo, diferenciando entre feat, fix, docs, entre otros), así como especificar en los merge commits el propósito de la integración para mantener una trazabilidad adecuada. Asimismo, es aconsejable reforzar la organización de ramas empleando prefijos que identifiquen el tipo de trabajo realizado, lo que facilitaría la revisión y el control de cambios. En cuanto a la documentación, se sugiere unificar el estilo de las tablas, optimizar su presentación con títulos y descripciones, y asegurar consistencia en el uso de Markdown (encabezados, listas e imágenes), con el fin de mantener un formato más claro, profesional y fácil de interpretar. Finalmente, se recomienda mantener la rama principal siempre estable, aplicando revisiones mediante pull requests antes de la integración, lo que no solo asegura calidad en el código, sino también fomenta la colaboración efectiva entre los integrantes del equipo.
 # Video About-the-Team
 # Bibliografía
 # Anexos
