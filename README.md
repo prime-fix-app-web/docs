@@ -749,40 +749,6 @@ El resultado de este ejercicio fue un mapa visual de alto nivel, que permitió c
 
 En esta sección, presentaremos el lenguaje ubicuo del proyecto.
 
-Glosario del Dominio del Negocio - PrimeFix
-
-Este glosario contiene términos relacionados al dominio del proyecto PrimeFix. Los a presentar estan en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones redactadas están en el idioma español, explicando de manera clara y sin ambigüedades sus significados. Esto se hace para facilitar la comunicación entre todos los miembros del equipo y los stakeholders.
-
-1. Stakeholders & Roles
-
-Technician (Técnico de Taller): Persona asignada a un taller en específico. Enacragdo del mantenimiento de los vehiculos que llegan al taller.
-
-Vehicle Owner: Persona que es dueña de un vehículo y busca un taller adecuado para el mantenimiento de su vehículo.
-
-2. Funcionalidades de la Plataforma
-
-Register Auto Repair (Registro de Taller): Proceso en la que el usuario registra el taller al sistema.
-
-Register Technician (Registro de Técnico): Proceso en la que el encargado del taller registra a los técnicos asignados del taller.
-
-Register Vehicle (Registro de Vehículo): Proceso en la que el usuario registra el vehúclo con sus especificaciones dentro de la plataforma.
-
-Search Auto Repair (Búsqueda de Taller mecánico): Proceso en la cual el usuario busca los talleres para su vehículo por medio de las especificaciones que él mismo ingrese.
-
-Follow Status (Seguimiento de estado): Apartado donde se puede visualizar el estado en la que el vehículo registrado se encuentra.
-
-3. Otros conceptos del dominio
-
-Auto Repair (Taller mecánico): Se refiere al taller que es registrado por el usuario. Contiene información clave como técnicos asignados, ubicación, valoraciones, entre otros.
-
-Visit Schedule (Programación de Visita): Referido a la visita que es programada por el usuario, donde se especifica el costo, el vehículo a antender y los problemas que este presenta.
-
-Visit Attended (Vista en espera): Visita programada que ya a sido antendida por el taller.
-
-Record (Historial): Historial donde el usuario puede visualizar las Visitas completadas en el pasado.
-
-Rating (Valoración): Apartado donde el usuario puede escribir un comentario sobre el servicio ofrecido.
-
 **Glosario del Dominio del Negocio - Prime-Fix**
 
 Este glosario contiene términos relacionados al dominio del proyecto Prime-Fix. Los a presentar estan en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones redactadas están en el idioma español, explicando de manera clara y sin ambigüedades sus significados. Esto se hace para facilitar la comunicación entre todos los miembros del equipo y los stakeholders.  
