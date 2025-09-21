@@ -630,20 +630,20 @@ Las tareas con mayor coincidencia en importancia para ambos segmentos son:
 - Importancia alta en la gestión digital de clientes y transparencia frente al mercado.
   
 ### 2.3.3. User Journey Mapping
-Segmento 1 (Dueño de vehículo: José Paredes):
+Segmento 1 (Dueño de vehículo: José Ramírez):
 <img src="Assets/chapter-II/User-Journey-mapping-1.png">
 
-Segmento 2 (Asesor de taller automotriz: Luis Chávez):
+Segmento 2 (Asesor de taller automotriz: Jorge Salazar):
 <img src="Assets/chapter-II/User-Journey-mapping-2.png">
 
 ### 2.3.4. Empathy Mapping
 Segmento 1 - Dueño de vehículo <br></br>
-Empathy Mapping - José Paredes
+Empathy Mapping - José Ramírez
 
 <img src="Assets/chapter-II/Empathy-mapping-1.png">
 
 Segmento 2 - Asesor de taller automotriz <br></br>
-Empathy Mapping - Luis Chávez
+Empathy Mapping - Jorge Salazar
 
 <img src="Assets/chapter-II/Empathy-mapping-2.png">
 
