@@ -649,6 +649,20 @@ Empathy Mapping - Luis Chávez
 
 ## 2.4. Big Picture Event Storming
 
+En esta sección el equipo introduce, resume el proceso realizado por el equipo y presenta capturas y explicaciones de las etapas del Big Picture Event Storming. En una sesión colaborativa, el equipo se enfoca en entender el dominio del negocio en general, plasmando los eventos significativos y sus relaciones. Es una primera aproximación visual de alto nivel que explora el landscape del negocio, identificando procesos clave, exponiendo potenciales problemas u oportunidades.
+
+- **Identificar los actores principales:** el taller mecánico (como proveedor de servicios) y el dueño de auto (como cliente que solicita reparación/mantenimiento).
+
+- **Mapear eventos clave del negocio:** registro de talleres, consulta en el catálogo de talleres, recopilación y diagnóstico del vehículo, seguimiento del mantenimiento, pago del servicio y retroalimentación mediante calificaciones.
+
+- **Definir relaciones y flujos de información:** se evidenció la interacción entre los usuarios, la aplicación web y la base de datos, así como la integración con servicios externos para pagos.
+
+- **Detectar posibles problemas u oportunidades:** como la necesidad de garantizar la confiabilidad de la información de talleres, la transparencia en la calificación de técnicos y la facilidad en el proceso de pago.
+
+El resultado de este ejercicio fue un mapa visual de alto nivel, que permitió comprender el landscape del negocio y sentar las bases para fases posteriores del proyecto, tales como el diseño de escenarios To-Be, la priorización del backlog y la identificación de puntos críticos en la experiencia de usuario.
+
+![Big_Picture_Event_Storming](Assets/chapter-II/Big-Picture-EvenStorming.png)
+
 ## 2.5. Ubiquitous Language
 
 En esta sección, presentaremos el lenguaje ubicuo del proyecto.
@@ -817,6 +831,9 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 | US-41        | Encuesta de satisfacción y calificación  | Como dueño de vehículo, quiero responder una encuesta de satisfacción y calificar el servicio, para contribuir a la mejora continua.       | Scenario 1: Given una orden entregada, When abro la encuesta, Then puedo calificar y dejar comentarios. Given una calificación baja según el umbral de la empresa, When envío la encuesta, Then se crea una alerta interna para seguimientos.| EP-15                 |
 
 ## 3.3. Impact Mapping
+![Impact_Mapping_General](Assets/chapter-III/Impsct_Mapping_General.png)
+
+
 ## 3.4. Product Backlog
 
 ---
