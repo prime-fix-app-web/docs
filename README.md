@@ -530,6 +530,18 @@ Respecto a la posibilidad de digitalizar procesos, considera útil una plataform
 | Héctor Cárdenas es un joven asesor de servicios de reparación del taller Alvillantas, nos comenta que para atraer clientes, utiliza las redes sociales como Facebook y TikTok y una landing page. El entrevistado comenta que no siente que el taller donde trabaja sea afectado por la competencia dada su ubicación estratégica junto con la de sus otras sedes. Jesús menciona que la gestión de las solicitudes de servicios se realizan principalmente mediante WhatsApp, también reciben llamadas telefónicas y visitas directas al taller. En cuanto al desempeño de los técnicos y los servicios brindados, sí han recibido cierta retroalimentación. Se menciona que la gestión de los técnicos y de su información es un poco desordenada; sin embargo, considera interesante la idea de digitalizar ello y permitir que los clientes puedan conocer la disponibilidad de los trabajadores en tiempo real. El asesor menciona que en su taller se hace uso de un software llamado Qumpa para la gestión de su inventario de llantas de manera organizada, pero le parece interesante una plataforma que pueda ser utilizada por el cliente para la gestión de visitas con el fin de agilizar el proceso. Jesús menciona que este aplicativo puede ser de gran utilidad si cuenta con notificaciones para que el cliente pueda estar atento al estado de su vehículo. El diagnóstico de las fallas que ofrecen en Alvillantas se realiza mediante un documento físico, por lo que Jesús considera que podría ser buena idea virtualizar esta función para que el cliente pueda obtener esta información en sus dispositivos. Para finalizar, recalcó lo importante que es tener una plataforma con todas las funcionalidades mencionadas para garatizarle un buen servicio al cliente.|
 
 ### 2.2.3. Análisis de entrevistas
+**Segmento 1:**
+
+**Entrevista 1:** Dionisio enfatiza la importancia de la confianza en los talleres, incluso por encima de la distancia. Relata experiencias previas negativas, como daños en su vehículo sin que se asumiera responsabilidad, lo que evidencia la necesidad de referencias verificadas y seguimiento en tiempo real.
+
+**Entrevista 2:** Marcos también valora la confianza y la calidad del servicio por encima del precio. Busca seguridad y buenas recomendaciones para evitar inconvenientes, recurriendo a Google Maps y WhatsApp como principales canales digitales para informarse.
+
+**Entrevista 3:** Anyelo combina la búsqueda digital con revisiones manuales y destaca la importancia de reseñas, precios y calificaciones confiables. Al igual que los demás, prioriza la confianza y la transparencia.
+
+**Resumen:** Los entrevistados coinciden en la necesidad de una **aplicación centralizada** que les permita agendar citas, acceder a reseñas de otros usuarios, verificar precios y hacer seguimiento en tiempo real. Sus experiencias negativas previas refuerzan la demanda de transparencia, responsabilidad en reparaciones y fuentes confiables de información.
+
+<img src="Assets/chapter-II/Grafico_Analisis_Segmento1.jpg" height="350">
+<hr>
 
 **Segmento #2**
 
