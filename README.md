@@ -856,6 +856,14 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 | US-40        | Pago completo del mantenimiento  | Como dueño de vehículo, quiero pagar el monto total del mantenimiento de mi vehículo desde la aplicación con el medio de pago de mi preferencia, para finalizar el servicio y recibir el comprobante de pago de manera inmediata.       | Scenario 1: Given que la orden de servicio tiene un monto total aprobado, When confirmo el medio de pago y autorizo la operación, Then el pago se registra como aprobado y la orden de servicio cambia a estado pagado. Scenario 2: Given que el pago fue aprobado, When finaliza la transacción, Then recibo el comprobante digital y puedo descargarlo y consultarlo en mi historial; si el pago es rechazado, entonces se muestra el motivo y se ofrece reintentar o cambiar el medio de pago.| EP-15                 |
 | US-41        | Encuesta de satisfacción y calificación  | Como dueño de vehículo, quiero responder una encuesta de satisfacción y calificar el servicio, para contribuir a la mejora continua.       | Scenario 1: Given una orden entregada, When abro la encuesta, Then puedo calificar y dejar comentarios. Given una calificación baja según el umbral de la empresa, When envío la encuesta, Then se crea una alerta interna para seguimientos.| EP-15                 |
 
+#### Technical Stories
+
+| ID | Título Técnico                        | Descripción                                                                                     | Relacionado con                                                                                       |
+| -------- | ----------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| TS01    | Validación de campos obligatorios | Como developer, quiero validar los campos de registro y mostrar mensajes claros en caso de errores. | US-05                                                                                                   |
+| TS02    | Endpoint visualización planes de pago | Como developer, quiero implementar un endpoint que devuelva la lista de planes de pago con precios y características. | US-06                                                                                                   |
+| TS03    | Endpoint edición de perfil       | Como developer, quiero implementar un endpoint que permita actualizar la información del perfil del usuario. | US-08                                                                                                   |
+
 ## 3.3. Impact Mapping
 ![Impact_Mapping_General](Assets/chapter-III/Impsct_Mapping_General.png)
 
@@ -905,6 +913,9 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 | US-39        | Programación entrega del vehículo                 | Como dueño de vehículo, quiero seleccionar y confirmar una franja horaria disponible para coordinar el retiro de mi auto.                                                                                                         | 5            |
 | US-40        | Pago completo del mantenimiento                   | Como dueño de vehículo, quiero pagar el monto total del mantenimiento de mi vehículo desde la aplicación con el medio de pago de mi preferencia, para finalizar el servicio y recibir el comprobante.                               | 8            |
 | US-41        | Encuesta de satisfacción y calificación           | Como dueño de vehículo, quiero responder una encuesta de satisfacción y calificar el servicio, para contribuir a la mejora continua.                                                                                              | 3            |
+| TS-01       | Validación de campos obligatorios                 | Como developer, quiero validar los campos de registro y mostrar mensajes claros en caso de errores.                                                                                                                              | 5            |
+| TS-02       | Endpoint visualización planes de pago             | Como developer, quiero implementar un endpoint que devuelva la lista de planes de pago con precios y características.                                                                                                            | 3            |
+| TS-03       | Endpoint edición de perfil                        | Como developer, quiero implementar un endpoint que permita actualizar la información del perfil del usuario.                                                                                                                     | 5            |
 
 ---
 
