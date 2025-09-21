@@ -165,9 +165,8 @@ En el siguiente cuadro se presentan las acciones desarrolladas por el grupo, jun
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| 1. Trabaja en equipo para proporcionar liderazgo    |**Flor De Maria Contreras Leon  TB1: **  Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto como 1.2.2.1. Lean UX Problem Statements, 1.2.2.2. Lean UX Assumptions y 1.2.2.3. Lean UX Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, de manera que se estableciera una base conceptual sólida para estructurar el producto. Con ello se fortaleció la organización del trabajo y se aseguró que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo.<br> **Gianmarco Fabian Jiménez Guerra TB1: ** Logré contribuir y organizarme con el grupo para el desarrollo de Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping. **Piero Francesco Tenorio Media TB1: ** Durante el desarrollo del trabajo, realice y participe de manera activa en el grupo de trabajo. Se me llegó a asignar los puntos de Diagrama de Clases, Diagramas de Arquitectura de Software, el desarrollo de las User Stories y el desarrollo de los Segmentos Objetivos.   |**Flor De Maria Contreras Leon  TB1: **     Mi participación en la elaboración de los apartados vinculados a Lean UX (Problem Statements, Assumptions e Hypothesis Statements) permitió brindar liderazgo en la identificación y organización de los problemas centrales del proyecto. Esto contribuyó a guiar al equipo hacia una visión compartida y a alinear los esfuerzos individuales con los objetivos generales del trabajo.<br> **Gianmarco Fabian Jiménez Guerra TB1: Mi aporte principalmente en el capítulo IV fue de gran ayuda par apoder proporcionar una visión clara de lo que buscamos tener en el aplicativo, ello lo realicé coordinando y organizando las tareas con mis compañeros.<br> Piero Francesco Tenorio Medina TB1: Los aportes realizados para los distintos capitulos fueron fundamentales para el desarrollo completo del trabajo. Poder identificar y investigar me permitió centrarnos en el correcto desarrollo del trabajo.    |
-| 2. Crea un entorno colaborativo, establece metas, planifica tareas y cumple objetivos | **Flor De Maria Contreras Leon  TB1: **   Contribuí a crear un entorno colaborativo, estableciendo metas y cumpliendo objetivos mediante la elaboración de entregables como 2.3.1. User Personas, 2.3.2. User Task Matrix, 2.4. Big Picture Event Storming, 3.1. To-Be Scenario Mapping, 3.3. Impact Mapping y 3.2. User Stories, además de secciones técnicas como 4.1. Style Guidelines, 3.4. Product Backlog y la configuración en 5.1. Software Configuration Management. Estas contribuciones hicieron posible cumplir con los objetivos del TB1, fomentar la colaboración entre los integrantes y garantizar insumos consistentes para avanzar en las siguientes fases del proyecto.<br><br> **Gianmarco Fabian Jiménez Guerra TB1: ** Junto con mis compañeros, pude avanzar cada una de mis partes especificadas previamente estableciendo algunas metas semanales y organizándonos mediante reuniones virtuales, ello me permitió cumplir de manera exitosa con cada una de las tareas asignadas.<br><br> Piero Francesco Tenorio Medina  <br>TB1: Junto a los integrantes del grupo, pude avanzar con los distintos puntos asignados en el trabajo. Todo gracias a una comunicación constante y acertiva sobre los distintos puntos en los que cada integrante presentaba dudas. | **Flor De Maria Contreras Leon  TB1: **   Al desarrollar entregables como User Personas, User Task Matrix, Big Picture Event Storming, To-Be Scenario Mapping, Impact Mapping, User Stories y Product Backlog, propicié un entorno colaborativo en el que cada integrante pudo aportar de manera ordenada. Gracias a la planificación de estas tareas y a la definición de metas claras, se alcanzaron los objetivos propuestos en el TB1, consolidando un avance estructurado y efectivo del proyecto.<br> **Gianmarco Fabian Jiménez Guerra TB1: ** Parte importante de mi avance fue desarrollar el aplicativo en Figma, para ello, tuve que establecer metas con el fin de que mis compañeros puedan ver mis avances y poder aprobarlos entre todos. Además, ello me sirvió para reforzar mis conocimientos sobre Figma. <br><br> **Piero Francesco Tenorio Medina TB1: ** Una de las secciones importantes de lo que he desarrollado seria el planteamiento de algunas User Stories que abarcan un completo Bounded Context. Además de los distintos diagramas, tanto el de Clases y el de Base de Datos. Esto me sirvió para poder reforzar los conocimientos adquiridos previamente.  |
----
+| 1. Trabaja en equipo para proporcionar liderazgo    |**Flor De Maria Contreras Leon  TB1: **  Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto como 1.2.2.1. Lean UX Problem Statements, 1.2.2.2. Lean UX Assumptions y 1.2.2.3. Lean UX Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, de manera que se estableciera una base conceptual sólida para estructurar el producto. Con ello se fortaleció la organización del trabajo y se aseguró que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo.<br> **Gianmarco Fabian Jiménez Guerra TB1: ** Logré contribuir y organizarme con el grupo para el desarrollo de Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.<br> **Giorgio Marzouk Awad Vargas TB1:** Participé liderando la elaboración de secciones analíticas y estratégicas del informe como Antecedentes y problemática, Lean UX Canvas, Análisis competitivo, Estrategias y tácticas frente a competidores, además de User Journey Mapping, Empathy Mapping, Source Code Style & Conventions y Software Deployment Configurations. Estas contribuciones aportaron claridad al contexto del proyecto, estructuración de la propuesta de valor y lineamientos técnicos de implementación.|**Flor De Maria Contreras Leon  TB1: **     Mi participación en la elaboración de los apartados vinculados a Lean UX (Problem Statements, Assumptions e Hypothesis Statements) permitió brindar liderazgo en la identificación y organización de los problemas centrales del proyecto. Esto contribuyó a guiar al equipo hacia una visión compartida y a alinear los esfuerzos individuales con los objetivos generales del trabajo.<br> **Gianmarco Fabian Jiménez Guerra TB1: Mi aporte principalmente en el capítulo IV fue de gran ayuda par apoder proporcionar una visión clara de lo que buscamos tener en el aplicativo, ello lo realicé coordinando y organizando las tareas con mis compañeros.<br> **Giorgio Marzouk Awad Vargas TB1:** Mis aportes permitieron consolidar el enfoque estratégico y competitivo del proyecto, además de establecer convenciones de código y configuraciones de despliegue que guiarán al equipo en fases posteriores, asegurando coherencia técnica y sostenibilidad en el desarrollo.<br> Piero Francesco Tenorio Medina  <br>TB1: Junto a los integrantes del grupo, pude avanzar con los distintos puntos asignados en el trabajo. Todo gracias a una comunicación constante y acertiva sobre los distintos puntos en los que cada integrante presentaba dudas. |
+| 2. Crea un entorno colaborativo, establece metas, planifica tareas y cumple objetivos | **Flor De Maria Contreras Leon  TB1: **   Contribuí a crear un entorno colaborativo, estableciendo metas y cumpliendo objetivos mediante la elaboración de entregables como 2.3.1. User Personas, 2.3.2. User Task Matrix, 2.4. Big Picture Event Storming, 3.1. To-Be Scenario Mapping, 3.3. Impact Mapping y 3.2. User Stories, además de secciones técnicas como 4.1. Style Guidelines, 3.4. Product Backlog y la configuración en 5.1. Software Configuration Management. Estas contribuciones hicieron posible cumplir con los objetivos del TB1, fomentar la colaboración entre los integrantes y garantizar insumos consistentes para avanzar en las siguientes fases del proyecto.<br><br> **Gianmarco Fabian Jiménez Guerra TB1: ** Junto con mis compañeros, pude avanzar cada una de mis partes especificadas previamente estableciendo algunas metas semanales y organizándonos mediante reuniones virtuales, ello me permitió cumplir de manera exitosa con cada una de las tareas asignadas.<br> **Giorgio Marzouk Awad Vargas TB1:** Colaboré en la planificación de tareas relacionadas con la fundamentación del proyecto y la estrategia frente a competidores, lo que aseguró que el equipo tuviera un marco claro para avanzar. Asimismo, mi trabajo en User Journey y Empathy Mapping facilitó la alineación de objetivos del equipo con las necesidades reales de los usuarios.| **Flor De Maria Contreras Leon  TB1: **   Al desarrollar entregables como User Personas, User Task Matrix, Big Picture Event Storming, To-Be Scenario Mapping, Impact Mapping, User Stories y Product Backlog, propicié un entorno colaborativo en el que cada integrante pudo aportar de manera ordenada. Gracias a la planificación de estas tareas y a la definición de metas claras, se alcanzaron los objetivos propuestos en el TB1, consolidando un avance estructurado y efectivo del proyecto.<br> **Gianmarco Fabian Jiménez Guerra TB1: ** Parte importante de mi avance fue desarrollar el aplicativo en Figma, para ello, tuve que establecer metas con el fin de que mis compañeros puedan ver mis avances y poder aprobarlos entre todos. Además, ello me sirvió para reforzar mis conocimientos sobre Figma.<br> **Giorgio Marzouk Awad Vargas TB1:** Mi aporte ayudó a que el grupo tuviera claridad en los antecedentes, contexto y lineamientos técnicos. Esto favoreció la organización colectiva y el cumplimiento de objetivos con base en una visión estratégica y de valor frente al mercado. <br> **Piero Francesco Tenorio Medina TB1: ** Una de las secciones importantes de lo que he desarrollado seria el planteamiento de algunas User Stories que abarcan un completo Bounded Context. Además de los distintos diagramas, tanto el de Clases y el de Base de Datos. Esto me sirvió para poder reforzar los conocimientos adquiridos previamente.|
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -187,7 +186,7 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 | <img width="500" heigth="450" src="Assets/chapter-I/Perfil_Gianmarco.png"> | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks. |
 | <img width="500" heigth="450" src="Assets/chapter-I/Perfil_Piero.png"> | Soy Piero Tenorio, estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello.  |
 | <img width="500" heigth="450" src="Assets/chapter-I/Perfil_Cesar.jpg"> | Soy César Augusto, estudiante de Ingeniería de Software, actualmente con 21 años, mi lenguaje más utilizado y favorito es Python, actualmente adaptándome en JavaScript y estudiando frameworks  relacionados para el Desarrollo Web. |   
-| <img width="500" heigth="450" src=""> |  |
+| <img width="500" heigth="450" src="Assets/chapter-I/Perfil_Giorgio.jpg"> |Mi nombre es Giorgio Awad, estudio la carrera de Ingenieria de Software y tengo 22 años. Considero ser alguien que aporta ideas nuevas al equipo, que a largo plazo contribuyen con la resolución de cualquier problema que se presente. Asimismo, soy capaz de adaptarme al momento de trabajar en equipo, convirtiéndome en un compañero polifuncional. |
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
@@ -357,7 +356,58 @@ Estas hipótesis serán validadas mediante pruebas con usuarios, entrevistas, pr
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
+En el mercado peruano de servicios automotrices, los competidores se pueden clasificar en tres grupos principales:  
+
+1. **Competidores directos digitales**  
+   - **Talleres con plataformas propias:** Algunos talleres grandes ya cuentan con páginas web o sistemas básicos de reservas en línea. Sin embargo, suelen ser limitados a un solo local y no agrupan múltiples opciones.  
+   - **Aplicativos de búsqueda genéricos (Google Maps, Facebook, OLX Autos):** Son usados por conductores para encontrar talleres cercanos, pero no ofrecen trazabilidad, gestión de citas ni transparencia en precios y reputación.  
+
+2. **Competidores indirectos tradicionales**  
+   - **Talleres pequeños y medianos:** Se promocionan en redes sociales y captan clientes por recomendaciones. Su fortaleza es el trato cercano, pero carecen de procesos digitales estandarizados.  
+   - **Agencias oficiales de marcas automotrices:** Tienen sistemas organizados y reputación fuerte, pero sus costos son altos y no son accesibles para la mayoría de conductores.  
+
+3. **Referentes internacionales (benchmarking)**  
+   - **Autofix (México), Carfix (Brasil), ClickMechanic (UK):** Plataformas que conectan talleres con usuarios, ofreciendo reservas online, reseñas y diagnósticos digitales. Estas soluciones muestran una tendencia clara hacia la digitalización del sector y sirven de inspiración para Prime-Fix, aunque aún no existe un actor consolidado en Perú.  
+
+**Hallazgos clave del análisis:**  
+- La **informalidad y falta de confianza** en talleres es el principal dolor de los usuarios.  
+- Las **herramientas actuales no garantizan trazabilidad ni transparencia**.  
+- Existe una **oportunidad de primer mover** en Perú para centralizar la gestión digital de talleres.  
+- Los usuarios ya están acostumbrados a usar apps y redes sociales, por lo que la barrera de adopción tecnológica es baja.
+
+| **Fortalezas** | **Oportunidades** |
+|----------------|-------------------|
+| - Plataforma innovadora en el Perú que centraliza la gestión de talleres y clientes. | - Creciente tendencia hacia la digitalización en el sector automotriz en Latinoamérica. |
+| - Funcionalidades diferenciales: reseñas verificadas, disponibilidad en tiempo real, historial digital de mantenimientos. | - Aumento de la inversión en publicidad digital automotriz en Perú. |
+| - Modelo freemium que facilita la captación de talleres y clientes desde la etapa inicial. | - Falta de plataformas consolidadas en el país, lo que ofrece ventaja de ser pioneros. |
+| - Equipo multidisciplinario con visión tecnológica y conocimiento del mercado local. | - Posibilidad de expansión a mercados regionales (Arequipa, Trujillo, luego LATAM). |
+
+| **Debilidades** | **Amenazas** |
+|-----------------|---------------|
+| - Dependencia inicial de la confianza de talleres y clientes para generar adopción. | - Competidores internacionales podrían ingresar al mercado peruano con más recursos. |
+| - Recursos limitados para competir en marketing frente a grandes agencias automotrices. | - La informalidad en talleres pequeños puede dificultar la adopción digital. |
+| - Riesgo de complejidad tecnológica en la implementación de funcionalidades avanzadas (IoT, app móvil). | - Posible desconfianza de usuarios al inicio respecto a pagos y transparencia en reseñas. |
+| - Necesidad de soporte continuo y capacitación para talleres menos digitalizados. | - Cambios regulatorios en el sector automotriz que afecten la operación de talleres. |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+**Estrategia de diferenciación (vs. talleres tradicionales y Google Maps):**  
+- Posicionarse como **plataforma de confianza**: incluir reseñas verificadas, historial de mantenimientos y diagnósticos digitalizados.  
+- Integrar **disponibilidad en tiempo real** y notificaciones automáticas, algo que no ofrecen ni talleres pequeños ni buscadores generales.  
+
+**Estrategia de penetración (vs. plataformas digitales incipientes):**  
+- Implementar un **modelo freemium**: talleres pueden registrarse gratis con funciones básicas y luego acceder a planes premium con visibilidad destacada y métricas avanzadas.  
+- Fomentar la **adopción rápida** con campañas de marketing digital enfocadas en dueños de vehículos jóvenes y en talleres medianos que necesitan visibilidad.  
+
+**Estrategia de fidelización (vs. agencias oficiales de marcas):**  
+- Ofrecer precios accesibles con un **sistema de comparación transparente** de costos y tiempos de servicio.  
+- Incorporar **programas de fidelización digital** (recordatorios de mantenimientos preventivos, descuentos para clientes recurrentes).  
+
+**Tácticas específicas:**  
+- **Alianzas estratégicas:** Convenios con aseguradoras, universidades y flotas empresariales para captar usuarios masivos.  
+- **Marketing de confianza:** Campañas en redes sociales con casos reales de clientes satisfechos, enfatizando seguridad y transparencia.  
+- **Innovación constante:** A futuro, integrar IoT (dispositivos de diagnóstico vehicular) y una app móvil que facilite el seguimiento en tiempo real.  
+- **Expansión escalonada:** Iniciar en Lima Metropolitana (alta densidad vehicular) y luego expandir hacia ciudades con gran parque automotor (Arequipa, Trujillo).  
+
 
 ## 2.2. Entrevistas
 
@@ -672,6 +722,12 @@ Segmento 2 - Asesor de taller automotriz <br></br>
 Empathy Mapping - Jorge Salazar
 
 <img src="Assets/chapter-II/Empathy-mapping-2.png">
+
+Segmento 1: Jose Ramirez
+<img src="Assets/chapter-II/EMPATHYMAPPING1.png">
+
+Segmento 2: Jorge Salazar 
+<img src="Assets/chapter-II/EMPATHYMAPPING2.png">
 
 ## 2.4. Big Picture Event Storming
 
