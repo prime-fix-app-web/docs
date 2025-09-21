@@ -184,7 +184,7 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 | Foto | Descripción |
 |------|-------------|
 | <img width="250" src="Assets/chapter-I/PerfilEstudiante_FlorContreras.jpeg"> | Mi nombre es Flor de María Contreras León y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida y dedicada a mi formación profesional.Me apasiona la programación y la investigación, áreas en las que busco seguir aprendiendo y desarrollando nuevas habilidades. Aunque me considero una persona callada, siempre estoy atenta a los detalles, lo que me permite trabajar de manera cuidadosa y eficiente en mis proyectos. Asimismo, valoro el trabajo en equipo y creo que un entorno colaborativo y respetuoso es clave para alcanzar los mejores resultados. |
-| <img width="250" src="Assets/chapter-I/Perfil_Gianmarco.png"> |  |
+| <img width="250" src="Assets/chapter-I/Perfil_Gianmarco.png"> | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks. |
 | <img width="250" src=""> |  |
 | <img width="250" src=""> |  |   
 | <img width="250" src=""> |  |
