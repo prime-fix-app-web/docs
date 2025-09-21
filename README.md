@@ -1555,7 +1555,7 @@ La aplicación de esta práctica no solo permitió una mejor comprensión del hi
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto. <br></br>
 
-#### Landing Page:
+### Landing Page:
 
 | **Tecnología** | **Convenciones principales** |
 |---|---|
@@ -1563,44 +1563,32 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 | **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.).<br>- Indentación de 2 espacios.<br>- Atributos entre comillas dobles `"`.<br>- Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`).<br>- Nombres en kebab-case (`main-section`). |
 | **TypeScript** | - Variables/funciones en `camelCase`.<br>- Clases/interfaces en `PascalCase`.<br>- Constantes en `UPPER_SNAKE_CASE`.<br>- Tipado obligatorio en variables, parámetros y retornos.<br>- Ordenar imports de externos a internos. |
 | **Astro** | - Archivos `.astro` en `PascalCase`.<br>- Orden del archivo: frontmatter → HTML/JSX → estilos `\<style>`.<br>- Props siempre tipadas con TypeScript.<br>- Importaciones cortas y claras.<br>- Componentes pequeños y reutilizables. |
-| **Gherkin** | - Los escenarios deben escribirse en lenguaje claro y entendible.<br>- Estructura: **Given, When, Then**, y opcionalmente **And**.<br>- Un escenario debe reflejar un caso de uso específico.<br>- Las historias de usuario deben agruparse en **Features**.<br>- Mantener consistencia en la redacción (tiempos verbales en presente). |
 
 
-Front-End:
+### Front-End:
 
-**Resumen:** Como principales tecnologías, usaremos Vue, HTML, JavaScript y CSS. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
+**Resumen:** Como principales tecnologías, usaremos Vue.js, HTML, JavaScript y CSS. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
 
 | **Tecnología** | **Convención** |
-|-------------|-----------------|
-| **Stack** | HTML + CSS + JavaScript + Vue 3 (SFC o CDN); ESLint + Prettier. |
-| **Estructura** | `src/components`, `src/views`, `src/composables`, `src/services`, `src/router`, `src/assets`. |
-| **Componentes** | Nombres **PascalCase** (`UserCard.vue`); 1 componente por archivo; extraer subcomponentes cuando superen ~200 líneas. |
-| **Script** | `<script setup>`; Composition API; evitar lógica compleja en el template; composables para lógica reutilizable. |
-| **Props/Emits** | `props` validadas; `emits` declarados; eventos en **kebab-case** (`update:model-value`). |
-| **Estado/Routing** | Estado local/composables; **Vue Router** (opcional); rutas perezosas (lazy) y guards en router. |
-| **Estilo de código** | Indentación 2 espacios; comillas simples; imports ordenados. |
-| **Accesibilidad** | Roles/`aria-*`; foco gestionado; mensajes de error con `aria-live`. |
-| **CSS** | Evitar `!important`; reutilizar clases; extraer patrones repetidos a componentes u hojas globales. |
-| **API** | `src/services/*` con `fetch/axios` envuelto; interceptores para auth/errores; timeouts/reintentos. |
-| **Pruebas** | Unit con Vitest; Vue Test Utils para componentes; mocks de router/HTTP. |
+|----------------|----------------|
+| **HTML5** | Uso semántico de etiquetas (`header`, `main`, `section`, `footer`). Atributos en comillas dobles. Indentación de 2 espacios. |
+| **CSS3** | Estilos modulares y reutilizables. Variables globales para colores/tipografía. Evitar `!important`. |
+| **JavaScript** | Sintaxis moderna. Variables y funciones en `camelCase`. Constantes en `UPPER_SNAKE_CASE`. Imports ordenados. |
+| **Vue.js** | Uso de **Single File Components (SFC)** con `<script setup>`. Nombres de componentes en **PascalCase**. Props tipadas y `emits` declarados. Composition API preferida sobre Options API. |
+| **PrimeVue** | Librería de UI recomendada para formularios, tablas y componentes complejos. Personalizado vía tema, no con overrides en línea. |
 
-Back-End:
+
+### Back-End:
 
 **Resumen:** Como principales tecnologías, C# y .NET. Como principales tecnologías, se utilizarán C# y .NET, enfocándose en un código limpio, seguro y mantenible bajo buenas prácticas de arquitectura, nomenclatura, validación, seguridad y pruebas.
 
 | **Tecnología** | **Convención** |
 |----------------|----------------|
-| **C# .NET – Arquitectura** | Capas separadas: **API** (Controllers/Minimal API) → **Application** (Services/Casos de uso) → **Domain** (Entidades/Reglas) → **Infrastructure** (EF Core/Repos/Integraciones). |
-| **C# .NET – Nomenclatura** | Clases, métodos y propiedades en **PascalCase**; variables locales en **camelCase**; privados `_camelCase`; constantes en **ALL_CAPS**. |
-| **C# .NET – Inyección de Dependencias & Configuración** | Usar **DI nativa**; configuración con `IOptions<T>`; secretos con **User Secrets** o vault; prohibido hardcodear credenciales. |
-| **C# .NET – DTOs/Mapping** | Exponer **DTOs** (nunca entidades); AutoMapper o mapeo explícito; contratos versionados para compatibilidad. |
-| **C# .NET – Validación** | `DataAnnotations` o **FluentValidation**; respuestas 400 con detalle de errores; reglas de negocio validadas en capa Domain. |
-| **EF Core** | `DbContext` por request; `AsNoTracking` en consultas de solo lectura; migraciones versionadas; transacciones cuando apliquen; soporte de `CancellationToken`. |
-| **C# .NET – Asincronía** | Todo I/O con `async/await`; evitar `.Result` o `.Wait()`; definir timeouts y circuit breakers en integraciones. |
-| **C# .NET – Errores & Logs** | Middleware global con **ProblemDetails (RFC 7807)**; logging con `ILogger<T>`; correlación con `TraceId`; métricas con **Prometheus/OpenTelemetry**. |
-| **C# .NET – API** | Versionado (`/api/v1`); documentación con Swagger/Swashbuckle; soportar paginación, orden y búsqueda; códigos HTTP correctos; operaciones sensibles idempotentes. |
-| **C# .NET – Seguridad** | Autenticación con **JWT**; autorización por roles/políticas; CORS explícito; rate limiting; sanitización y validación estricta de entrada. |
-| **C# .NET – Pruebas** | Unit testing con **xUnit**; integración con `WebApplicationFactory`; pruebas de repositorios y servicios; uso de fixtures de datos. |
+| **C#** | Lenguaje principal. Usar sintaxis moderna (C# 10/11+), convenciones de nomenclatura estándar de Microsoft, y programación orientada a objetos junto con patrones modernos (LINQ, async/await, records, etc.). |
+| **.NET Core** | Framework principal para el backend. Uso de **arquitectura en capas** (API, Application, Domain, Infrastructure). Enfoque en modularidad, mantenibilidad y soporte multiplataforma. |
+| **Entity Framework Core** | ORM oficial para acceso a datos. Uso de `DbContext` por request, `AsNoTracking` para consultas de solo lectura, migraciones versionadas, y compatibilidad con transacciones. |
+| **Swagger / Swashbuckle** | Generación automática de documentación de la API REST. Versionado claro (`/api/v1`, `/api/v2`) y contratos visibles para clientes externos. |
+| **xUnit** | Framework de pruebas unitarias. Uso combinado con **WebApplicationFactory** para pruebas de integración y validación de endpoints. |
 
 
 ### 5.1.4. Software Deployment Configuration
@@ -1617,24 +1605,20 @@ Back-End:
    - Visibilidad **pública** para permitir la integración con Vercel.  
    - Añadimos un `README.md` inicial y un `.gitignore` adecuado.
 
+<img src="Assets/chapter-V/evidences/landing_github_evidence.png">
+
 4. **Carga de los archivos de la landing**  
    - Subimos los archivos del proyecto (**HTML, TailwindCSS, TypeScript, Astro**).  
-   - Confirmamos que los cambios estén en la rama **main**.  
+   - Confirmamos que los cambios estén en la rama **master**.  
    - “**Commit changes**”.
 
 5. **Configuración en Vercel**  
    - Iniciamos sesión en Vercel → **New Project** → vinculamos GitHub.  
    - Importamos el repo `landing-page`.  
    - Framework **Astro** (detección automática).  
-   - Definimos la rama de despliegue (**main** / `master`).
+   - Definimos la rama de despliegue (**master**).
 
-6. **Verificación del sitio web**  
-   En pocos minutos, Vercel genera la **URL pública** del proyecto.
-
-7. **Actualización del sitio**  
-   Con cada **commit** a `main`, Vercel recompila y publica automáticamente.
-
-
+<img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
