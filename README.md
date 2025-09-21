@@ -1380,9 +1380,21 @@ Link del prototipo: [Prototype](https://www.figma.com/proto/wf74HMrT48NvWY5Bq8Mg
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
-#### Registro de talleres Bounded Context
-#### <img src= "Assets/chapter-IV/Auto Repair Register BC.png">
 
+#### Registro de talleres Bounded Context
+#### <img src= "Assets/chapter-IV/event_storming/AutoRepairRegisterBC.png">
+
+#### Catálogo de talleres Bounded Context
+#### <img src= "Assets/chapter-IV/event_storming/AutoRepairCatalogBC.png">
+
+#### Recopilación y Diagnóstico Bounded Context
+#### <img src= "Assets/chapter-IV/event_storming/CollectionDiagnosisBC.png">
+
+#### Seguimiento del estado de mantenimiento del vehículo Bounded Context
+#### <img src= "Assets/chapter-IV/event_storming/MaintenanceStatusTrackingBC.png">
+
+### Pago de servicio Bounded Context
+#### <img src= "Assets/chapter-IV/event_storming/PaymentServiceBC.png">
 
 ### 4.6.2. Software Architecture Context Diagram
 Diagrama de Contexto de PrimeFix
