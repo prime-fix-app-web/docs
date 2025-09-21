@@ -1741,6 +1741,11 @@ En conjunto, el proyecto no solo permitió plasmar una solución funcional y esc
 Durante el desarrollo del proyecto se recomienda mejorar la estandarización de los mensajes de commit siguiendo convenciones claras (por ejemplo, diferenciando entre feat, fix, docs, entre otros), así como especificar en los merge commits el propósito de la integración para mantener una trazabilidad adecuada. Asimismo, es aconsejable reforzar la organización de ramas empleando prefijos que identifiquen el tipo de trabajo realizado, lo que facilitaría la revisión y el control de cambios. En cuanto a la documentación, se sugiere unificar el estilo de las tablas, optimizar su presentación con títulos y descripciones, y asegurar consistencia en el uso de Markdown (encabezados, listas e imágenes), con el fin de mantener un formato más claro, profesional y fácil de interpretar. Finalmente, se recomienda mantener la rama principal siempre estable, aplicando revisiones mediante pull requests antes de la integración, lo que no solo asegura calidad en el código, sino también fomenta la colaboración efectiva entre los integrantes del equipo.
 # Video About-the-Team
 # Bibliografía
+
+- Manrique Olaechea, R. (2011). *Diseño de un sistema electrónico de reserva de citas para atención a clientes en talleres de autos utilizando tecnología Web e IVR* [Tesis de licenciatura, Pontificia Universidad Católica del Perú]. Repositorio PUCP.
+
+- OpusLine (2023,19 de diciembre) *Etapas y consejos para el proceso productivo de un taller mecánico*. OpusLine. Recuperado el 9 de setiembre de 2025, de: [https://opus-line.es/proceso-productivo-taller-mecanico/](https://opus-line.es/proceso-productivo-taller-mecanico/)
+
 # Anexos
 
 Link de la organización de Github de la Startup: [https://github.com/prime-fix-app-web](https://github.com/prime-fix-app-web)
