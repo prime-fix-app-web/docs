@@ -831,6 +831,9 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 | US-41        | Encuesta de satisfacción y calificación  | Como dueño de vehículo, quiero responder una encuesta de satisfacción y calificar el servicio, para contribuir a la mejora continua.       | Scenario 1: Given una orden entregada, When abro la encuesta, Then puedo calificar y dejar comentarios. Given una calificación baja según el umbral de la empresa, When envío la encuesta, Then se crea una alerta interna para seguimientos.| EP-15                 |
 
 ## 3.3. Impact Mapping
+![Impact_Mapping_General](Assets/chapter-III/Impsct_Mapping_General.png)
+
+
 ## 3.4. Product Backlog
 
 ---
