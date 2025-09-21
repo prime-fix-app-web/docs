@@ -444,9 +444,9 @@ Preguntas:
 
 - Sexo: Masculino
 - Edad:21 años
-- Dirección: Lima, Av la Marina.
+- Dirección: Lima, San Miguel.
 
-| ![Entrevista Jesús Valenzuela](Assets/chapter-II/Entrevista_Jesus_Valenzuela.png) |
+| ![Entrevista Jesús Valenzuela](Assets/chapter-II/Entrevista_Gianmarco_Jiménez.png) |
 |-------------------------------------------------------------------------------------------------------------------|
 |** Link De la Entrevista:** [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/EYVM_zdjduJKtn1KgPIWBJMB0jBtWI7znAkA--v8FtmlRA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IIHRcz)** |
 |Duracion:**00:06:31**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:05**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:06:31**|
