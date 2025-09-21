@@ -629,7 +629,46 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+# Herramientas Utilizadas
+
+**Project Management**
+- **Discord**: Herramienta de comunicación en línea que permitió al equipo realizar reuniones de coordinación en tiempo real mediante videollamadas y mensajes. 
+
+
+- **Zoom**: Plataforma utilizada para llevar a cabo y registrar la exposición final, garantizando una grabación clara y accesible de la presentación grupal.  
+- **Miro**: Herramienta de colaboración visual en línea que permite crear mapas mentales, diagramas de flujo y tableros interactivos, facilitando la planificación, organización y co-creación de ideas en tiempo real.  
+- **GitHub**: Plataforma de desarrollo en línea que permite crear, editar y compartir proyectos web de manera rápida, ofreciendo un entorno de codificación colaborativo y basado en la nube, ideal para prototipado y desarrollo ágil.  
+- **Uxpressia**: Herramienta para el diseño de experiencias de usuario y customer journey maps, que permitió representar de manera clara los procesos y la interacción de los usuarios con el sistema.  
+- **Excalidraw**: Aplicación de diagramación colaborativa que facilitó la creación de esquemas, flujos y wireframes de manera simple e intuitiva.
+- **Lucidchart**: Herramienta en línea de diagramación que permite crear diagramas de flujo, mapas de procesos, organigramas, wireframes y diagramas UML de manera colaborativa en tiempo real, facilitando la comunicación visual y la planificación estructurada de proyectos.
+
+
+**Requirements Management**
+- **Lucidchart**: Herramienta en línea de diagramación que permite crear diagramas de flujo, mapas de procesos, organigramas, wireframes y diagramas UML de manera colaborativa en tiempo real, facilitando la comunicación visual y la planificación estructurada de proyectos.  
+
+![Lucid_Chart](Assets/chapter-V/Lucid_Chart.jpg)
+
+
+**Product UX/UI Design**
+- **Figma**: Plataforma de diseño colaborativo en línea que permite crear, prototipar y compartir interfaces de usuario en tiempo real, facilitando el trabajo en equipo de forma ágil y visual.  
+
+![Figma](Assets/chapter-V/Figma_V5.jpg)
+
+**Software Development**
+- **HTML**: Quinta versión del lenguaje de marcado estándar para la creación de páginas web, que incorpora nuevas etiquetas y funcionalidades para estructurar mejor los contenidos, integrar multimedia y mejorar la experiencia de usuario en distintos dispositivos.
+
+- **CSS**: Lenguaje de hojas de estilo que permite definir la apariencia y el diseño de los documentos HTML, controlando aspectos como colores, tipografías, márgenes, posiciones y adaptabilidad de los elementos.  
+![Css](Assets/chapter-V/Styles_css.jpg)
+
+- **JavaScript**: Lenguaje de programación que permite agregar interactividad, dinamismo y funcionalidades avanzadas a los sitios web, trabajando en conjunto con HTML y CSS.
+![Java](Assets/chapter-V/Java_Script.jpg)
+
+
+**Software Documentation**
+- **GitHub**: Plataforma de alojamiento de código basada en Git que permite gestionar proyectos, realizar control de versiones, colaborar en equipo y facilitar el seguimiento de cambios.  
+- **Vercel**: Plataforma de despliegue que facilita la publicación y el hosting de aplicaciones web con integración continua y escalabilidad automática.  
 ### 5.1.2. Source Code Management
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 
