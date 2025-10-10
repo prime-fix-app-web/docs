@@ -40,7 +40,7 @@
   </tbody>
 </table>
 
-<div style="text-align:center; margin-top:18px;"> Setiembre 2025 </div>
+<div style="text-align:center; margin-top:18px;"> Octubre 2025 </div>
 
 <hr>
 
@@ -53,12 +53,16 @@
 
 | Versión | Fecha       | Autor(es)                                                                 | Descripción de modificación |
 |---------|-------------|---------------------------------------------------------------------------|------------------------------|
-|   TB1   | XX/09/2025  | Gianmarco Fabian Jiménez Guerra                                           | Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping |
-|   TB1   | XX/09/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé ... |
-|   TB1   | XX/09/2025  | Flor De María Contreras Leon                                              | Realicé 1.2.2.1. Lean UX Problem Statements; 1.2.2.2. Lean UX Assumptions; 1.2.2.3. Lean UX Hypothesis Statements; 2.3.1. User Personas; 2.3.2. User Task Matrix; 2.4. Big Picture Event Storming; 3.1. To-Be Scenario Mapping; 3.3. Impact Mapping; 4.1. Style Guidelines; 4.1.1. General Style Guidelines; 4.1.2. Web Style Guidelines; 3.2. User Stories; 3.4. Product Backlog; 5.1. Software Configuration Management; 5.1.1. Software Development Environment Configuration; 5.1.2. Source Code Management; 5.2. Landing Page, Services & Applications Implementation. |
-|   TB1   | XX/09/2025  | Giorgio Marzouk Awad Vargas                                               | Realicé ... |
-|   TB1   | XX/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé ... |
-
+|   TB1   | 21/09/2025  | Gianmarco Fabian Jiménez Guerra                                           | Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping |
+|   TB1   | 21/09/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé el Ubiquitous Language, Web Applications UX/UI Design, Domain-Driven Software Architecture, Class Diagrams y la Primera versión de la Landing Page, Services & Applications Implementation. |
+|   TB1   | 21/09/2025  | Flor De María Contreras Leon                                              | Realicé 1.2.2.1. Lean UX Problem Statements; 1.2.2.2. Lean UX Assumptions; 1.2.2.3. Lean UX Hypothesis Statements; 2.3.1. User Personas; 2.3.2. User Task Matrix; 2.4. Big Picture Event Storming; 3.1. To-Be Scenario Mapping; 3.3. Impact Mapping; 4.1. Style Guidelines; 4.1.1. General Style Guidelines; 4.1.2. Web Style Guidelines; 3.2. User Stories; 3.4. Product Backlog; 5.1. Software Configuration Management; 5.1.1. Software Development Environment Configuration; 5.1.2. Source Code Management; 5.2. Landing Page, Services & Applications Implementation. |
+|   TB1   | 21/09/2025  | Giorgio Marzouk Awad Vargas                                               | Realicé Antecedentes y problematica, Lean UX Canvas, Análisis Competitivo, Estrategias y tácticas frente a competidores, User Journey Mapping, Empathy Mapping, Source Code Style Guide & Conventions, Software Deployment Configurations. |
+|   TB1   | 21/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé la secciones de User Stories, evaluando cada escenario posible de cada funcionalidad.Tambien el Diagrama de Clase en una versión temprana. Además de hacer los segmentos objetivos del proyecto. Evaluando los posibles usuarios a los que va dirijido el trabajo. |
+|   TP   | 10/10/2025  | Gianmarco Fabian Jiménez Guerra                                           |  |
+|   TP   | 10/10/2025  | Cesar Augusto Arostegui Alzamora                                          |  |
+|   TP   | 10/10/2025  | Flor De María Contreras Leon                                              |  |
+|   TP   | 10/10/2025  | Giorgio Marzouk Awad Vargas                                               |  |
+|   TP   | 10/10/2025  | Piero Francesco Tenorio Medina                                            |  En esta entrega desarrollé el Bounded Context de Data Collection adn Diagnosis, donde implementé las funcionalidades para la recolección y gestión de datos del sistema. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts y comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas.|
 </div>
 
 # Project Report Collaboration Insights  
@@ -146,6 +150,15 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-1)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-1)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -165,9 +178,9 @@ En el siguiente cuadro se presentan las acciones desarrolladas por el grupo, jun
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| 1. Trabaja en equipo para proporcionar liderazgo    |**Flor De Maria Contreras Leon  TB1: **  Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto como 1.2.2.1. Lean UX Problem Statements, 1.2.2.2. Lean UX Assumptions y 1.2.2.3. Lean UX Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, de manera que se estableciera una base conceptual sólida para estructurar el producto. Con ello se fortaleció la organización del trabajo y se aseguró que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo.<br> **Gianmarco Fabian Jiménez Guerra TB1: ** Logré contribuir y organizarme con el grupo para el desarrollo de Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.   |**Flor De Maria Contreras Leon  TB1: **     Mi participación en la elaboración de los apartados vinculados a Lean UX (Problem Statements, Assumptions e Hypothesis Statements) permitió brindar liderazgo en la identificación y organización de los problemas centrales del proyecto. Esto contribuyó a guiar al equipo hacia una visión compartida y a alinear los esfuerzos individuales con los objetivos generales del trabajo.<br> **Gianmarco Fabian Jiménez Guerra TB1: Mi aporte principalmente en el capítulo IV fue de gran ayuda par apoder proporcionar una visión clara de lo que buscamos tener en el aplicativo, ello lo realicé coordinando y organizando las tareas con mis compañeros.    |
-| 2. Crea un entorno colaborativo, establece metas, planifica tareas y cumple objetivos | **Flor De Maria Contreras Leon  TB1: **   Contribuí a crear un entorno colaborativo, estableciendo metas y cumpliendo objetivos mediante la elaboración de entregables como 2.3.1. User Personas, 2.3.2. User Task Matrix, 2.4. Big Picture Event Storming, 3.1. To-Be Scenario Mapping, 3.3. Impact Mapping y 3.2. User Stories, además de secciones técnicas como 4.1. Style Guidelines, 3.4. Product Backlog y la configuración en 5.1. Software Configuration Management. Estas contribuciones hicieron posible cumplir con los objetivos del TB1, fomentar la colaboración entre los integrantes y garantizar insumos consistentes para avanzar en las siguientes fases del proyecto.<br><br> **Gianmarco Fabian Jiménez Guerra TB1: ** Junto con mis compañeros, pude avanzar cada una de mis partes especificadas previamente estableciendo algunas metas semanales y organizándonos mediante reuniones virtuales, ello me permitió cumplir de manera exitosa con cada una de las tareas asignadas.   | **Flor De Maria Contreras Leon  TB1: **   Al desarrollar entregables como User Personas, User Task Matrix, Big Picture Event Storming, To-Be Scenario Mapping, Impact Mapping, User Stories y Product Backlog, propicié un entorno colaborativo en el que cada integrante pudo aportar de manera ordenada. Gracias a la planificación de estas tareas y a la definición de metas claras, se alcanzaron los objetivos propuestos en el TB1, consolidando un avance estructurado y efectivo del proyecto.<br> **Gianmarco Fabian Jiménez Guerra TB1: ** Parte importante de mi avance fue desarrollar el aplicativo en Figma, para ello, tuve que establecer metas con el fin de que mis compañeros puedan ver mis avances y poder aprobarlos entre todos. Además, ello me sirvió para reforzar mis conocimientos sobre Figma.   |
----
+| 1. Trabaja en equipo para proporcionar liderazgo    |**Flor De Maria Contreras Leon** <br> **TB1:**  Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto como 1.2.2.1. Lean UX Problem Statements, 1.2.2.2. Lean UX Assumptions y 1.2.2.3. Lean UX Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, de manera que se estableciera una base conceptual sólida para estructurar el producto. Con ello se fortaleció la organización del trabajo y se aseguró que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo.<br><br> **TP:**<br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:**  Logré contribuir y organizarme con el grupo para el desarrollo de Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.<br><br>**TP:**<br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Participé liderando la elaboración de secciones analíticas y estratégicas del informe como Antecedentes y problemática, Lean UX Canvas, Análisis competitivo, Estrategias y tácticas frente a competidores, además de User Journey Mapping, Empathy Mapping, Source Code Style & Conventions y Software Deployment Configurations. Estas contribuciones aportaron claridad al contexto del proyecto, estructuración de la propuesta de valor y lineamientos técnicos de implementación. <br><br>**TP:**<br><br> **Piero Francesco Tenorio Media** <br> **TB1:** Durante el desarrollo del trabajo, realice y participe de manera activa en el grupo de trabajo. Se me llegó a asignar los puntos de Diagrama de Clases, Diagramas de Arquitectura de Software, el desarrollo de las User Stories y el desarrollo de los Segmentos Objetivos.<br><br>**TP:** Para esta entrega se me ha sido asignado el desarrollo del Bounded Context de Data Collection and Diagnosis. Para poder plasmar el BC se solicitó ayuda y opiniones a integrantes del grupo sobre el enfoque que se debería dar a esta funcionalidad, tomando en cuenta opiniones y retroalimentación de cada integrante.<br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** En el desarrollo del proyecto participé en la elaboración del Ubiquitous Language, lo que permitió que todos los integrantes del equipo compartiéramos un mismo entendimiento de los términos del dominio. También diseñé la parte de UX/UI de la aplicación web, propuse la arquitectura de software siguiendo principios de Domain-Driven Design, elaboré diagramas de clases para representar las entidades principales del sistema y realicé la primera versión de la Landing Page, junto con la implementación inicial de servicios y aplicaciones<br><br>**TP:**<br> |**Flor De Maria Contreras Leon** <br>  **TB1:**      Mi participación en la elaboración de los apartados vinculados a Lean UX (Problem Statements, Assumptions e Hypothesis Statements) permitió brindar liderazgo en la identificación y organización de los problemas centrales del proyecto. Esto contribuyó a guiar al equipo hacia una visión compartida y a alinear los esfuerzos individuales con los objetivos generales del trabajo.<br><br>**TP:**<br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:** Mi aporte principalmente en el capítulo IV fue de gran ayuda par apoder proporcionar una visión clara de lo que buscamos tener en el aplicativo, ello lo realicé coordinando y organizando las tareas con mis compañeros.<br><br>**TP:**<br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Mis aportes permitieron consolidar el enfoque estratégico y competitivo del proyecto, además de establecer convenciones de código y configuraciones de despliegue que guiarán al equipo en fases posteriores, asegurando coherencia técnica y sostenibilidad en el desarrollo.<br><br> **Piero Francesco Tenorio Medina** <br> **TB1:** Los aportes realizados para los distintos capitulos fueron fundamentales para el desarrollo completo del trabajo. Poder identificar y investigar me permitió centrarnos en el correcto desarrollo del trabajo. <br><br>**TP:**<br>Mi aporte dentro de esta entrega está mas vinculado a la sección de mi Bounded Context. Enlazar las distintas funcionalidades, dentro de lo que abarca lo delimitado, con los demás BC, estableciendo una comunicacion constante con los integrantes del equipo .<br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** Estas actividades me permitieron asumir un rol de liderazgo técnico dentro del equipo, ya que ayudaron a organizar el proyecto desde sus primeras fases y a orientar a mis compañeros en la construcción de los entregables. Considero que este trabajo conjunto fortaleció la coordinación del grupo y facilitó que logremos los primeros resultados de manera ordenada y clara. <br><br>**TP:**<br> |
+| 2. Crea un entorno colaborativo, establece metas, planifica tareas y cumple objetivos | **Flor De Maria Contreras Leon** <br> **TB1:**   Contribuí a crear un entorno colaborativo, estableciendo metas y cumpliendo objetivos mediante la elaboración de entregables como 2.3.1. User Personas, 2.3.2. User Task Matrix, 2.4. Big Picture Event Storming, 3.1. To-Be Scenario Mapping, 3.3. Impact Mapping y 3.2. User Stories, además de secciones técnicas como 4.1. Style Guidelines, 3.4. Product Backlog y la configuración en 5.1. Software Configuration Management. Estas contribuciones hicieron posible cumplir con los objetivos del TB1, fomentar la colaboración entre los integrantes y garantizar insumos consistentes para avanzar en las siguientes fases del proyecto.<br><br>**TP:**<br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:** Junto con mis compañeros, pude avanzar cada una de mis partes especificadas previamente estableciendo algunas metas semanales y organizándonos mediante reuniones virtuales, ello me permitió cumplir de manera exitosa con cada una de las tareas asignadas.<br><br>**TP:**<br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Colaboré en la planificación de tareas relacionadas con la fundamentación del proyecto y la estrategia frente a competidores, lo que aseguró que el equipo tuviera un marco claro para avanzar. Asimismo, mi trabajo en User Journey y Empathy Mapping facilitó la alineación de objetivos del equipo con las necesidades reales de los usuarios. <br><br>**TP:**<br><br> **Piero Francesco Tenorio Medina**  <br>**TB1:** Junto a los integrantes del grupo, pude avanzar con los distintos puntos asignados en el trabajo. Todo gracias a una comunicación constante y acertiva sobre los distintos puntos en los que cada integrante presentaba dudas. <br><br>**TP:** Para esta entrega se estableció la meta de implemntar las distintas funcionalides asignadas para el BC, para ellos se solicitó y se conversó con los distintos integrantes del grupo. Buscando soluciones y realizando pruebas sobre el funcionamiento de las distintas herramientas a utilizar. <br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** Además de las tareas técnicas, apoyé en la planificación de los objetivos iniciales del proyecto, definiendo junto con mis compañeros las metas alcanzables para el sprint. Contribuí a generar un entorno colaborativo compartiendo avances y resolviendo dudas en equipo, especialmente durante la elaboración de la Landing Page y la implementación de los servicios. Las actividades como el Ubiquitous Language y los diagramas de clases también facilitaron la distribución de tareas, ya que sirvieron como guía común para todo el grupo.<br><br>**TP:**<br> | **Flor De Maria Contreras Leon** <br> **TB1:**   Al desarrollar entregables como User Personas, User Task Matrix, Big Picture Event Storming, To-Be Scenario Mapping, Impact Mapping, User Stories y Product Backlog, propicié un entorno colaborativo en el que cada integrante pudo aportar de manera ordenada. Gracias a la planificación de estas tareas y a la definición de metas claras, se alcanzaron los objetivos propuestos en el TB1, consolidando un avance estructurado y efectivo del proyecto.<br><br>**TP:**<br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:** Parte importante de mi avance fue desarrollar el aplicativo en Figma, para ello, tuve que establecer metas con el fin de que mis compañeros puedan ver mis avances y poder aprobarlos entre todos. Además, ello me sirvió para reforzar mis conocimientos sobre Figma.<br><br>**TP:**<br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Mi aporte ayudó a que el grupo tuviera claridad en los antecedentes, contexto y lineamientos técnicos. Esto favoreció la organización colectiva y el cumplimiento de objetivos con base en una visión estratégica y de valor frente al mercado. <br><br>**TP:**<br><br> **Piero Francesco Tenorio Medina** <br> **TB1:** Una de las secciones importantes de lo que he desarrollado seria el planteamiento de algunas User Stories que abarcan un completo Bounded Context. Además de los distintos diagramas, tanto el de Clases y el de Base de Datos. Esto me sirvió para poder reforzar los conocimientos adquiridos previamente. <br><br>**TP:** Gracias al desarrollo de mi Bounded Context pudimos establecer limites y metas claves sobre el trabajo a realizar. Esto llegó a favorecer a los distintos integrantes pertenecientes al grupo sobre la extensión del proyecto.<br><br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** Gracias a estas acciones el equipo pudo organizarse mejor y avanzar de forma colaborativa. Se logró cumplir los objetivos del sprint inicial y cada integrante tuvo claro cómo aportar en el desarrollo. Este proceso me permitió mejorar mi capacidad de trabajar en grupo, tomar decisiones en conjunto y valorar la importancia de la planificación para cumplir con los entregables a tiempo. <br><br>**TP:**<br>|
+
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -183,11 +196,11 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 
 | Foto | Descripción |
 |------|-------------|
-| <img width="250" src="Assets/chapter-I/PerfilEstudiante_FlorContreras.jpeg"> | Mi nombre es Flor de María Contreras León y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida y dedicada a mi formación profesional.Me apasiona la programación y la investigación, áreas en las que busco seguir aprendiendo y desarrollando nuevas habilidades. Aunque me considero una persona callada, siempre estoy atenta a los detalles, lo que me permite trabajar de manera cuidadosa y eficiente en mis proyectos. Asimismo, valoro el trabajo en equipo y creo que un entorno colaborativo y respetuoso es clave para alcanzar los mejores resultados. |
-| <img width="250" src="Assets/chapter-I/Perfil_Gianmarco.png"> | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks. |
-| <img width="250" src=""> |  |
-| <img width="250" src=""> |  |   
-| <img width="250" src=""> |  |
+| <img width="500" heigth="450" src="Assets/chapter-I/PerfilEstudiante_FlorContreras.jpeg"> | Mi nombre es Flor de María Contreras León y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida y dedicada a mi formación profesional.Me apasiona la programación y la investigación, áreas en las que busco seguir aprendiendo y desarrollando nuevas habilidades. Aunque me considero una persona callada, siempre estoy atenta a los detalles, lo que me permite trabajar de manera cuidadosa y eficiente en mis proyectos. Asimismo, valoro el trabajo en equipo y creo que un entorno colaborativo y respetuoso es clave para alcanzar los mejores resultados. |
+| <img width="500" heigth="450" src="Assets/chapter-I/Perfil_Gianmarco.png"> | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks. |
+| <img width="500" heigth="450" src="Assets/chapter-I/Perfil_Piero.png"> | Soy Piero Tenorio, estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello.  |
+| <img width="500" heigth="450" src="Assets/chapter-I/Perfil_Cesar.jpg"> | Soy César Augusto, estudiante de Ingeniería de Software, actualmente con 21 años, mi lenguaje más utilizado y favorito es Python, actualmente adaptándome en JavaScript y estudiando frameworks  relacionados para el Desarrollo Web. |   
+| <img width="500" heigth="450" src="Assets/chapter-I/Perfil_Giorgio.jpg"> |Mi nombre es Giorgio Awad, estudio la carrera de Ingenieria de Software y tengo 22 años. Considero ser alguien que aporta ideas nuevas al equipo, que a largo plazo contribuyen con la resolución de cualquier problema que se presente. Asimismo, soy capaz de adaptarme al momento de trabajar en equipo, convirtiéndome en un compañero polifuncional. |
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
@@ -357,7 +370,58 @@ Estas hipótesis serán validadas mediante pruebas con usuarios, entrevistas, pr
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
+En el mercado peruano de servicios automotrices, los competidores se pueden clasificar en tres grupos principales:  
+
+1. **Competidores directos digitales**  
+   - **Talleres con plataformas propias:** Algunos talleres grandes ya cuentan con páginas web o sistemas básicos de reservas en línea. Sin embargo, suelen ser limitados a un solo local y no agrupan múltiples opciones.  
+   - **Aplicativos de búsqueda genéricos (Google Maps, Facebook, OLX Autos):** Son usados por conductores para encontrar talleres cercanos, pero no ofrecen trazabilidad, gestión de citas ni transparencia en precios y reputación.  
+
+2. **Competidores indirectos tradicionales**  
+   - **Talleres pequeños y medianos:** Se promocionan en redes sociales y captan clientes por recomendaciones. Su fortaleza es el trato cercano, pero carecen de procesos digitales estandarizados.  
+   - **Agencias oficiales de marcas automotrices:** Tienen sistemas organizados y reputación fuerte, pero sus costos son altos y no son accesibles para la mayoría de conductores.  
+
+3. **Referentes internacionales (benchmarking)**  
+   - **Autofix (México), Carfix (Brasil), ClickMechanic (UK):** Plataformas que conectan talleres con usuarios, ofreciendo reservas online, reseñas y diagnósticos digitales. Estas soluciones muestran una tendencia clara hacia la digitalización del sector y sirven de inspiración para Prime-Fix, aunque aún no existe un actor consolidado en Perú.  
+
+**Hallazgos clave del análisis:**  
+- La **informalidad y falta de confianza** en talleres es el principal dolor de los usuarios.  
+- Las **herramientas actuales no garantizan trazabilidad ni transparencia**.  
+- Existe una **oportunidad de primer mover** en Perú para centralizar la gestión digital de talleres.  
+- Los usuarios ya están acostumbrados a usar apps y redes sociales, por lo que la barrera de adopción tecnológica es baja.
+
+| **Fortalezas** | **Oportunidades** |
+|----------------|-------------------|
+| - Plataforma innovadora en el Perú que centraliza la gestión de talleres y clientes. | - Creciente tendencia hacia la digitalización en el sector automotriz en Latinoamérica. |
+| - Funcionalidades diferenciales: reseñas verificadas, disponibilidad en tiempo real, historial digital de mantenimientos. | - Aumento de la inversión en publicidad digital automotriz en Perú. |
+| - Modelo freemium que facilita la captación de talleres y clientes desde la etapa inicial. | - Falta de plataformas consolidadas en el país, lo que ofrece ventaja de ser pioneros. |
+| - Equipo multidisciplinario con visión tecnológica y conocimiento del mercado local. | - Posibilidad de expansión a mercados regionales (Arequipa, Trujillo, luego LATAM). |
+
+| **Debilidades** | **Amenazas** |
+|-----------------|---------------|
+| - Dependencia inicial de la confianza de talleres y clientes para generar adopción. | - Competidores internacionales podrían ingresar al mercado peruano con más recursos. |
+| - Recursos limitados para competir en marketing frente a grandes agencias automotrices. | - La informalidad en talleres pequeños puede dificultar la adopción digital. |
+| - Riesgo de complejidad tecnológica en la implementación de funcionalidades avanzadas (IoT, app móvil). | - Posible desconfianza de usuarios al inicio respecto a pagos y transparencia en reseñas. |
+| - Necesidad de soporte continuo y capacitación para talleres menos digitalizados. | - Cambios regulatorios en el sector automotriz que afecten la operación de talleres. |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+**Estrategia de diferenciación (vs. talleres tradicionales y Google Maps):**  
+- Posicionarse como **plataforma de confianza**: incluir reseñas verificadas, historial de mantenimientos y diagnósticos digitalizados.  
+- Integrar **disponibilidad en tiempo real** y notificaciones automáticas, algo que no ofrecen ni talleres pequeños ni buscadores generales.  
+
+**Estrategia de penetración (vs. plataformas digitales incipientes):**  
+- Implementar un **modelo freemium**: talleres pueden registrarse gratis con funciones básicas y luego acceder a planes premium con visibilidad destacada y métricas avanzadas.  
+- Fomentar la **adopción rápida** con campañas de marketing digital enfocadas en dueños de vehículos jóvenes y en talleres medianos que necesitan visibilidad.  
+
+**Estrategia de fidelización (vs. agencias oficiales de marcas):**  
+- Ofrecer precios accesibles con un **sistema de comparación transparente** de costos y tiempos de servicio.  
+- Incorporar **programas de fidelización digital** (recordatorios de mantenimientos preventivos, descuentos para clientes recurrentes).  
+
+**Tácticas específicas:**  
+- **Alianzas estratégicas:** Convenios con aseguradoras, universidades y flotas empresariales para captar usuarios masivos.  
+- **Marketing de confianza:** Campañas en redes sociales con casos reales de clientes satisfechos, enfatizando seguridad y transparencia.  
+- **Innovación constante:** A futuro, integrar IoT (dispositivos de diagnóstico vehicular) y una app móvil que facilite el seguimiento en tiempo real.  
+- **Expansión escalonada:** Iniciar en Lima Metropolitana (alta densidad vehicular) y luego expandir hacia ciudades con gran parque automotor (Arequipa, Trujillo).  
+
 
 ## 2.2. Entrevistas
 
@@ -412,7 +476,7 @@ Preguntas:
 
 | ![Entrevista Dionisio Segmento 1](Assets/chapter-II/Entrevista_Dionisio_Rodriguez.png) |
 |-------------------------------------------------------------------------------------------------------------------|
-|** Link De la Entrevista:** |
+|**Link De la Entrevista: [Enlance](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EZqmOelsxipLu6PdtBXftbsBmEjUS50k-dWYf3z7AC2i_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=a5g003)** |
 |Duracion:**00:05:02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:31**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:02**|
 | Dionisio Rodríguez, de 25 años, es conductor de automóvil y comentó que al momento de elegir un taller prioriza la confianza en el servicio, incluso si esto implica desplazarse a zonas más lejanas. Para ubicar opciones suele utilizar Google Maps, aunque reconoce que no siempre refleja la calidad real del taller. Señaló que en una ocasión tuvo una experiencia negativa, pues su vehículo fue dañado en un taller y los responsables no asumieron la reparación, lo que generó desconfianza y la necesidad de contar con mecanismos de referencia más seguros.Asimismo, resaltó que le resultaría valioso contar con una plataforma que permita no solo agendar visitas a talleres, sino también hacer seguimiento en tiempo real al estado del vehículo mientras se encuentra en mantenimiento. Además, considera importante que los usuarios puedan registrar y compartir públicamente sus experiencias, ya que esto ofrecería mayor transparencia y ayudaría a otros conductores a tomar mejores decisiones.|
 
@@ -452,7 +516,45 @@ Preguntas:
 |Duracion:**00:06:31**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:05**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:06:31**|
 | Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas, nos comenta que para atraer clientes, utiliza las redes sociales como Facebook y TikTok y una landing page. El entrevistado comenta que no siente que el taller donde trabaja sea afectado por la competencia dada su ubicación estratégica junto con la de sus otras sedes. Jesús menciona que la gestión de las solicitudes de servicios se realizan principalmente mediante WhatsApp, también reciben llamadas telefónicas y visitas directas al taller. En cuanto al desempeño de los técnicos y los servicios brindados, sí han recibido cierta retroalimentación. Se menciona que la gestión de los técnicos y de su información es un poco desordenada; sin embargo, considera interesante la idea de digitalizar ello y permitir que los clientes puedan conocer la disponibilidad de los trabajadores en tiempo real. El asesor menciona que en su taller se hace uso de un software llamado Qumpa para la gestión de su inventario de llantas de manera organizada, pero le parece interesante una plataforma que pueda ser utilizada por el cliente para la gestión de visitas con el fin de agilizar el proceso. Jesús menciona que este aplicativo puede ser de gran utilidad si cuenta con notificaciones para que el cliente pueda estar atento al estado de su vehículo. El diagnóstico de las fallas que ofrecen en Alvillantas se realiza mediante un documento físico, por lo que Jesús considera que podría ser buena idea virtualizar esta función para que el cliente pueda obtener esta información en sus dispositivos. Para finalizar, recalcó lo importante que es tener una plataforma con todas las funcionalidades mencionadas para garatizarle un buen servicio al cliente.|
 
+##### Entrevista N°2: William Espinoza
+
+- Sexo: Masculino
+- Edad: 47 años
+- Dirección: Lima, San Miguel.
+
+| ![Entrevista William Espinoza](Assets/chapter-II/Entrevista_Cesar_1.png) |
+|-------------------------------------------------------------------------------------------------------------------|
+|** Link De la Entrevista:** [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EYKmpMYFGk5BnxR4GI37EcsBrQaCB2q7n-PhGydUdeJAvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zfkZrQ)** |
+|Duracion:**00:03:53**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:03:53**|
+| William Espinoza se desempeña en el área de almacén, repuestos y mantenimiento de un taller automotriz. Comenta que la captación de clientes se realiza principalmente a través de redes sociales y avisos publicitarios en la puerta del local. Para la programación de visitas utilizan una computadora con Excel. Señala que no perciben dificultades frente a talleres más grandes, ya que la atención depende más de la capacidad instalada que de la competencia.
+La gestión de pedidos se lleva a cabo mediante un diagnóstico inicial, tras el cual se presenta al cliente una cotización del repuesto y del servicio requerido. Ha recibido algunos reclamos relacionados con la actitud o comunicación de los técnicos, normalmente de forma presencial. Explica que cuentan con una base de datos para evaluar la trayectoria de los técnicos y destaca la importancia de mostrar la disponibilidad de los mismos en tiempo real, pues considera que esto transmite confianza y rapidez al cliente.
+Respecto a la posibilidad de digitalizar procesos, considera útil una plataforma que permita registrar el taller, técnicos y reseñas de clientes, resaltando que dicha información debería estar disponible también para los usuarios externos. Actualmente, la comunicación del estado del vehículo y los diagnósticos finales se realiza mediante WhatsApp, enviando fotos o videos desde el área técnica al área administrativa y de allí al cliente. Valora positivamente la idea de una plataforma que notifique cuándo el vehículo está listo para ser recogido y que permita al técnico subir directamente la información para que el cliente la consulte en línea. En conclusión, William considera que una herramienta digital con estas funcionalidades resultaría de gran utilidad para mejorar la transparencia y la experiencia del cliente.|
+
+##### Entrevista N°3: Héctor Cárdenas
+
+- Sexo: Masculino
+- Edad: 35 años
+- Dirección: Lima, San Miguel.
+
+| ![Entrevista Héctor Cárdenas](Assets/chapter-II/Entrevista_Cesar_2.png) |
+|-------------------------------------------------------------------------------------------------------------------|
+|** Link De la Entrevista:** [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EWUY_frgM_RKtA929ZLKHA0Bd6suNWEVHuj-_ofQHR_Ecg?e=1yRvjo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** |
+|Duracion:**00:05:26**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:26**|
+| Héctor Cárdenas es un joven asesor de servicios de reparación del taller Alvillantas, nos comenta que para atraer clientes, utiliza las redes sociales como Facebook y TikTok y una landing page. El entrevistado comenta que no siente que el taller donde trabaja sea afectado por la competencia dada su ubicación estratégica junto con la de sus otras sedes. Jesús menciona que la gestión de las solicitudes de servicios se realizan principalmente mediante WhatsApp, también reciben llamadas telefónicas y visitas directas al taller. En cuanto al desempeño de los técnicos y los servicios brindados, sí han recibido cierta retroalimentación. Se menciona que la gestión de los técnicos y de su información es un poco desordenada; sin embargo, considera interesante la idea de digitalizar ello y permitir que los clientes puedan conocer la disponibilidad de los trabajadores en tiempo real. El asesor menciona que en su taller se hace uso de un software llamado Qumpa para la gestión de su inventario de llantas de manera organizada, pero le parece interesante una plataforma que pueda ser utilizada por el cliente para la gestión de visitas con el fin de agilizar el proceso. Jesús menciona que este aplicativo puede ser de gran utilidad si cuenta con notificaciones para que el cliente pueda estar atento al estado de su vehículo. El diagnóstico de las fallas que ofrecen en Alvillantas se realiza mediante un documento físico, por lo que Jesús considera que podría ser buena idea virtualizar esta función para que el cliente pueda obtener esta información en sus dispositivos. Para finalizar, recalcó lo importante que es tener una plataforma con todas las funcionalidades mencionadas para garatizarle un buen servicio al cliente.|
+
 ### 2.2.3. Análisis de entrevistas
+**Segmento 1:**
+
+**Entrevista 1:** Dionisio enfatiza la importancia de la confianza en los talleres, incluso por encima de la distancia. Relata experiencias previas negativas, como daños en su vehículo sin que se asumiera responsabilidad, lo que evidencia la necesidad de referencias verificadas y seguimiento en tiempo real.
+
+**Entrevista 2:** Marcos también valora la confianza y la calidad del servicio por encima del precio. Busca seguridad y buenas recomendaciones para evitar inconvenientes, recurriendo a Google Maps y WhatsApp como principales canales digitales para informarse.
+
+**Entrevista 3:** Anyelo combina la búsqueda digital con revisiones manuales y destaca la importancia de reseñas, precios y calificaciones confiables. Al igual que los demás, prioriza la confianza y la transparencia.
+
+**Resumen:** Los entrevistados coinciden en la necesidad de una **aplicación centralizada** que les permita agendar citas, acceder a reseñas de otros usuarios, verificar precios y hacer seguimiento en tiempo real. Sus experiencias negativas previas refuerzan la demanda de transparencia, responsabilidad en reparaciones y fuentes confiables de información.
+
+<img src="Assets/chapter-II/Grafico_Analisis_Segmento1.jpg" height="350">
+<hr>
 
 **Segmento #2**
 
@@ -630,22 +732,28 @@ Las tareas con mayor coincidencia en importancia para ambos segmentos son:
 - Importancia alta en la gestión digital de clientes y transparencia frente al mercado.
   
 ### 2.3.3. User Journey Mapping
-Segmento 1 (Dueño de vehículo: José Paredes):
+Segmento 1 (Dueño de vehículo: José Ramírez):
 <img src="Assets/chapter-II/User-Journey-mapping-1.png">
 
-Segmento 2 (Asesor de taller automotriz: Luis Chávez):
+Segmento 2 (Asesor de taller automotriz: Jorge Salazar):
 <img src="Assets/chapter-II/User-Journey-mapping-2.png">
 
 ### 2.3.4. Empathy Mapping
 Segmento 1 - Dueño de vehículo <br></br>
-Empathy Mapping - José Paredes
+Empathy Mapping - José Ramírez
 
 <img src="Assets/chapter-II/Empathy-mapping-1.png">
 
 Segmento 2 - Asesor de taller automotriz <br></br>
-Empathy Mapping - Luis Chávez
+Empathy Mapping - Jorge Salazar
 
 <img src="Assets/chapter-II/Empathy-mapping-2.png">
+
+Segmento 1: Jose Ramirez
+<img src="Assets/chapter-II/EMPATHYMAPPING1.png">
+
+Segmento 2: Jorge Salazar 
+<img src="Assets/chapter-II/EMPATHYMAPPING2.png">
 
 ## 2.4. Big Picture Event Storming
 
@@ -666,40 +774,6 @@ El resultado de este ejercicio fue un mapa visual de alto nivel, que permitió c
 ## 2.5. Ubiquitous Language
 
 En esta sección, presentaremos el lenguaje ubicuo del proyecto.
-
-Glosario del Dominio del Negocio - PrimeFix
-
-Este glosario contiene términos relacionados al dominio del proyecto PrimeFix. Los a presentar estan en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones redactadas están en el idioma español, explicando de manera clara y sin ambigüedades sus significados. Esto se hace para facilitar la comunicación entre todos los miembros del equipo y los stakeholders.
-
-1. Stakeholders & Roles
-
-Technician (Técnico de Taller): Persona asignada a un taller en específico. Enacragdo del mantenimiento de los vehiculos que llegan al taller.
-
-Vehicle Owner: Persona que es dueña de un vehículo y busca un taller adecuado para el mantenimiento de su vehículo.
-
-2. Funcionalidades de la Plataforma
-
-Register Auto Repair (Registro de Taller): Proceso en la que el usuario registra el taller al sistema.
-
-Register Technician (Registro de Técnico): Proceso en la que el encargado del taller registra a los técnicos asignados del taller.
-
-Register Vehicle (Registro de Vehículo): Proceso en la que el usuario registra el vehúclo con sus especificaciones dentro de la plataforma.
-
-Search Auto Repair (Búsqueda de Taller mecánico): Proceso en la cual el usuario busca los talleres para su vehículo por medio de las especificaciones que él mismo ingrese.
-
-Follow Status (Seguimiento de estado): Apartado donde se puede visualizar el estado en la que el vehículo registrado se encuentra.
-
-3. Otros conceptos del dominio
-
-Auto Repair (Taller mecánico): Se refiere al taller que es registrado por el usuario. Contiene información clave como técnicos asignados, ubicación, valoraciones, entre otros.
-
-Visit Schedule (Programación de Visita): Referido a la visita que es programada por el usuario, donde se especifica el costo, el vehículo a antender y los problemas que este presenta.
-
-Visit Attended (Vista en espera): Visita programada que ya a sido antendida por el taller.
-
-Record (Historial): Historial donde el usuario puede visualizar las Visitas completadas en el pasado.
-
-Rating (Valoración): Apartado donde el usuario puede escribir un comentario sobre el servicio ofrecido.
 
 **Glosario del Dominio del Negocio - Prime-Fix**
 
@@ -830,11 +904,66 @@ Simular cómo sería una experiencia ideal con Prime-Fix, desde la perspectiva d
 | US-40        | Pago completo del mantenimiento  | Como dueño de vehículo, quiero pagar el monto total del mantenimiento de mi vehículo desde la aplicación con el medio de pago de mi preferencia, para finalizar el servicio y recibir el comprobante de pago de manera inmediata.       | Scenario 1: Given que la orden de servicio tiene un monto total aprobado, When confirmo el medio de pago y autorizo la operación, Then el pago se registra como aprobado y la orden de servicio cambia a estado pagado. Scenario 2: Given que el pago fue aprobado, When finaliza la transacción, Then recibo el comprobante digital y puedo descargarlo y consultarlo en mi historial; si el pago es rechazado, entonces se muestra el motivo y se ofrece reintentar o cambiar el medio de pago.| EP-15                 |
 | US-41        | Encuesta de satisfacción y calificación  | Como dueño de vehículo, quiero responder una encuesta de satisfacción y calificar el servicio, para contribuir a la mejora continua.       | Scenario 1: Given una orden entregada, When abro la encuesta, Then puedo calificar y dejar comentarios. Given una calificación baja según el umbral de la empresa, When envío la encuesta, Then se crea una alerta interna para seguimientos.| EP-15                 |
 
+#### Technical Stories
+
+| ID | Título Técnico                        | Descripción                                                                                     | Relacionado con                                                                                       |
+| -------- | ----------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| TS01    | Validación de campos obligatorios | Como developer, quiero validar los campos de registro y mostrar mensajes claros en caso de errores. | US-05                                                                                                   |
+| TS02    | Endpoint visualización planes de pago | Como developer, quiero implementar un endpoint que devuelva la lista de planes de pago con precios y características. | US-06                                                                                                   |
+| TS03    | Endpoint edición de perfil       | Como developer, quiero implementar un endpoint que permita actualizar la información del perfil del usuario. | US-08                                                                                                   |
+
 ## 3.3. Impact Mapping
 ![Impact_Mapping_General](Assets/chapter-III/Impsct_Mapping_General.png)
 
 
 ## 3.4. Product Backlog
+
+| Epic/StoryID | Título                                           | Descripción                                                                                                                                                                                                                      | Story Points |
+|--------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| US-01        | Ingreso con nombre de usuario                    | Como usuario del aplicativo, quiero iniciar sesión con mi nombre de usuario elegido para facilitar el acceso a mi cuenta.                                                                                                        | 3            |
+| US-02        | Selección del departamento de residencia         | Como dueño de vehículo, quiero seleccionar un departamento de residencia como referencia geográfica, para centralizar los talleres en una zona/distrito específico.                                                             | 5            |
+| US-03        | Selección del distrito de residencia             | Como dueño de vehículo, quiero seleccionar el distrito en donde me encuentro, para garantizar encontrar talleres cercanos a mi ubicación.                                                                                        | 5            |
+| US-04        | Restauración de contraseña                       | Como usuario, quiero recuperar mi clave para poder acceder si la olvido.                                                                                                                                                         | 3            |
+| US-05        | Registro de cuenta con campos comprensibles      | Como usuario, quiero que los campos del registro de cuenta sean entendibles para inscribirme correctamente.                                                                                                                      | 5            |
+| US-06        | Visualización de planes de pago                  | Como usuario, quiero visualizar los diferentes planes de pago con precios y funcionalidades, para entender beneficios y limitaciones de cada plan.                                                                                | 8            |
+| US-07        | Cambio de contraseña                             | Como usuario, quiero cambiar mi contraseña desde configuración para mantener seguridad y evitar accesos no autorizados.                                                                                                         | 3            |
+| US-08        | Edición del perfil                               | Como usuario, quiero modificar mi información para mantener mi perfil actualizado.                                                                                                                                               | 3            |
+| US-09        | Adición del vehículo                             | Como dueño de vehículo, quiero agregar un nuevo auto a mi lista de vehículos, para incluir todos los que requieran mantenimiento.                                                                                                | 5            |
+| US-10        | Adición del modelo de vehículo                   | Como dueño de vehículo, quiero agregar el modelo de vehículos en la sección de registro para especificar tipo de vehículo registrado.                                                                                            | 3            |
+| US-11        | Adición de la placa de vehículo                  | Como dueño de vehículo, quiero registrar la placa de un nuevo vehículo, para usarlo como identificador único.                                                                                                                     | 3            |
+| US-12        | Cambio de idioma                                 | Como usuario del aplicativo, quiero ver las funcionalidades en español para evitar errores al usar la aplicación.                                                                                                                | 3            |
+| US-13        | Cambio de tema de la interfaz                    | Como usuario registrado, quiero elegir entre un tema claro u oscuro para personalizar mi experiencia visual.                                                                                                                      | 5            |
+| US-14        | Cancelación de reserva                           | Como dueño de vehículo, quiero cancelar una reserva en caso de imprevisto, para reorganizar mi agenda.                                                                                                                            | 5            |
+| US-15        | Acceso rápido desde pantalla principal            | Como usuario del aplicativo, quiero accesos directos a funcionalidades principales para navegar rápidamente.                                                                                                                     | 3            |
+| US-16        | Notificación de promociones                       | Como usuario, quiero recibir avisos sobre promociones activas para aprovechar descuentos.                                                                                                                                         | 3            |
+| US-17        | Notificaciones de próxima cita                    | Como dueño de vehículo, quiero recibir notificaciones cuando se acerque la fecha de mi cita, para no olvidar el mantenimiento.                                                                                                   | 5            |
+| US-18        | Visualización de servicios principales            | Como visitante, quiero conocer los servicios principales que ofrece AutoFix para entender qué problemas resuelve.                                                                                                                 | 5            |
+| US-19        | Comprensión del proceso de funcionamiento         | Como usuario interesado, quiero entender cómo funciona Prime-Fix para saber qué pasos seguir.                                                                                                                                      | 5            |
+| US-20        | Acceso a información detallada de características | Como potencial usuario, quiero acceder a información detallada sobre características de la plataforma para evaluar si satisface mis necesidades.                                                                                  | 5            |
+| US-21        | Acceso a información de contacto                  | Como usuario interesado, quiero encontrar fácilmente la información de contacto para comunicarme con Prime-Fix.                                                                                                                   | 3            |
+| US-22        | Múltiples canales de comunicación                 | Como usuario, quiero tener múltiples medios de contacto para elegir el canal conveniente.                                                                                                                                         | 3            |
+| US-23        | Botón de cambio de idioma                         | Como visitante internacional, quiero cambiar idioma entre español e inglés para comprender la información.                                                                                                                        | 3            |
+| US-24        | Botón de cambio de tema visual                    | Como usuario, quiero cambiar entre modo claro y oscuro para mejorar accesibilidad y comodidad visual.                                                                                                                             | 3            |
+| US-25        | Adición de información general del taller         | Como asesor de servicios, quiero registrar la información básica de mi taller para que clientes lo conozcan.                                                                                                                       | 5            |
+| US-26        | Adición de trabajadores del taller                | Como dueño de taller, quiero registrar información de mis trabajadores para que los clientes confíen en mi equipo.                                                                                                                | 5            |
+| US-27        | Visualización de talleres con requerimientos      | Como dueño de vehículo, quiero visualizar talleres recomendados según filtros, para decidir cuál se adapta mejor.                                                                                                                 | 5            |
+| US-28        | Visualización de talleres en búsqueda             | Como dueño de vehículo, quiero ingresar a la sección de búsqueda de talleres para encontrar el adecuado.                                                                                                                           | 3            |
+| US-29        | Visualización de reseñas de talleres              | Como dueño de vehículo, quiero ver calificaciones y comentarios para elegir un taller confiable.                                                                                                                                   | 5            |
+| US-30        | Selección de vehículo registrado                  | Como dueño de vehículo, quiero seleccionar uno de mis vehículos registrados para agendar visita.                                                                                                                                   | 5            |
+| US-31        | Selección de fecha y hora                         | Como dueño de vehículo, quiero seleccionar fecha y hora de visita para ajustar atención a mi disponibilidad.                                                                                                                       | 5            |
+| US-32        | Finalización de registro de fallas                | Como dueño de vehículo, quiero registrar las fallas de mi auto para informar al técnico.                                                                                                                                           | 3            |
+| US-33        | Visualización de solicitudes disponibles          | Como asesor de taller, quiero visualizar solicitudes pendientes de visitas para controlarlas.                                                                                                                                      | 5            |
+| US-34        | Verificación de solicitudes de visita             | Como asesor de servicios, quiero ver y aceptar solicitudes de visita enviadas por clientes.                                                                                                                                        | 5            |
+| US-35        | Consulta de historial de servicios                | Como dueño de vehículo, quiero revisar visitas pasadas para controlar mantenimiento.                                                                                                                                              | 5            |
+| US-36        | Visualización de estado y avance                  | Como dueño de vehículo, quiero ver estado y avance de mi orden de servicio con hora de última actualización y responsable.                                                                                                        | 5            |
+| US-37        | Línea de tiempo con hitos y evidencias            | Como dueño de vehículo, quiero consultar línea de tiempo con hitos, fotos, documentos y notas.                                                                                                                                     | 8            |
+| US-38        | Inquietudes desde el seguimiento                  | Como dueño de vehículo, quiero registrar inquietudes con texto y fotos desde seguimiento para resolver dudas.                                                                                                                      | 5            |
+| US-39        | Programación entrega del vehículo                 | Como dueño de vehículo, quiero seleccionar y confirmar una franja horaria disponible para coordinar el retiro de mi auto.                                                                                                         | 5            |
+| US-40        | Pago completo del mantenimiento                   | Como dueño de vehículo, quiero pagar el monto total del mantenimiento de mi vehículo desde la aplicación con el medio de pago de mi preferencia, para finalizar el servicio y recibir el comprobante.                               | 8            |
+| US-41        | Encuesta de satisfacción y calificación           | Como dueño de vehículo, quiero responder una encuesta de satisfacción y calificar el servicio, para contribuir a la mejora continua.                                                                                              | 3            |
+| TS-01       | Validación de campos obligatorios                 | Como developer, quiero validar los campos de registro y mostrar mensajes claros en caso de errores.                                                                                                                              | 5            |
+| TS-02       | Endpoint visualización planes de pago             | Como developer, quiero implementar un endpoint que devuelva la lista de planes de pago con precios y características.                                                                                                            | 3            |
+| TS-03       | Endpoint edición de perfil                        | Como developer, quiero implementar un endpoint que permita actualizar la información del perfil del usuario.                                                                                                                     | 5            |
 
 ---
 
@@ -1380,30 +1509,156 @@ Link del prototipo: [Prototype](https://www.figma.com/proto/wf74HMrT48NvWY5Bq8Mg
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
-#### Registro de talleres Bounded Context
-#### <img src= "Assets/chapter-IV/Auto Repair Register BC.png">
 
+#### Registro de talleres Bounded Context
+#### <img src= "Assets/chapter-IV/event_storming/AutoRepairRegisterBC.png">
+
+#### Catálogo de talleres Bounded Context
+#### <img src= "Assets/chapter-IV/event_storming/AutoRepairCatalogBC.png">
+
+#### Recopilación y Diagnóstico Bounded Context
+#### <img src= "Assets/chapter-IV/event_storming/CollectionDiagnosisBC.png">
+
+#### Seguimiento del estado de mantenimiento del vehículo Bounded Context
+#### <img src= "Assets/chapter-IV/event_storming/MaintenanceStatusTrackingBC.png">
+
+### Pago de servicio Bounded Context
+#### <img src= "Assets/chapter-IV/event_storming/PaymentServiceBC.png">
 
 ### 4.6.2. Software Architecture Context Diagram
+Diagrama de Contexto de PrimeFix
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/ContextDiagram.png">
+
 ### 4.6.3. Software Architecture Container Diagrams
+Diagrama de Contenedores de PrimeFix
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/ContainerDiagram.png">
+
 ### 4.6.4. Software Architecture Components Diagrams
+Diagrama de Componente Auto Repair Registration
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/AutoRepairRegistrationBC.png">
+
+Diagrama de Componente Auto Repair Catalog
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/AutoRepairCatalogBC.png">
+
+Diagrama de Componente Collection Diagnosis 
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/CollectionDiagnosisBC.png">
+
+Diagrama de Componente de Maintenance Tracking
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/MaintenanceTrackingComponent.png">
+
+Diagrama de Componente de Payment Service
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/PaymentServiceComponent.png">
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+Diagrama de Clases de PrimeFix
+<img src="Assets/chapter-IV/diagrams/Diagram_Class.png">
+URL: [Enlace del Diagrama](https://lucid.app/lucidchart/eb6fe88f-56d7-4914-b847-c77bdce717fa/edit?viewport_loc=-4049%2C-1831%2C10453%2C4825%2C0_0&invitationId=inv_89395be7-d9c0-44e9-9b5a-6a690082d61a)
 
 ## 4.8. Database Design
+
 ### 4.8.1. Database Diagrams
+Diagrama de Base de datos
+<img src="Assets/chapter-IV/diagrams/Diagram_Database.png">
+
 
 ---
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+# Herramientas Utilizadas
+
+**Project Management**
+- **Discord**: Herramienta de comunicación en línea que permitió al equipo realizar reuniones de coordinación en tiempo real mediante videollamadas y mensajes. 
+
+
+- **Zoom**: Plataforma utilizada para llevar a cabo y registrar la exposición final, garantizando una grabación clara y accesible de la presentación grupal.  
+- **Miro**: Herramienta de colaboración visual en línea que permite crear mapas mentales, diagramas de flujo y tableros interactivos, facilitando la planificación, organización y co-creación de ideas en tiempo real.  
+- **GitHub**: Plataforma de desarrollo en línea que permite crear, editar y compartir proyectos web de manera rápida, ofreciendo un entorno de codificación colaborativo y basado en la nube, ideal para prototipado y desarrollo ágil.  
+- **Uxpressia**: Herramienta para el diseño de experiencias de usuario y customer journey maps, que permitió representar de manera clara los procesos y la interacción de los usuarios con el sistema.  
+- **Excalidraw**: Aplicación de diagramación colaborativa que facilitó la creación de esquemas, flujos y wireframes de manera simple e intuitiva.
+- **Lucidchart**: Herramienta en línea de diagramación que permite crear diagramas de flujo, mapas de procesos, organigramas, wireframes y diagramas UML de manera colaborativa en tiempo real, facilitando la comunicación visual y la planificación estructurada de proyectos.
+
+
+**Requirements Management**
+- **Lucidchart**: Herramienta en línea de diagramación que permite crear diagramas de flujo, mapas de procesos, organigramas, wireframes y diagramas UML de manera colaborativa en tiempo real, facilitando la comunicación visual y la planificación estructurada de proyectos.  
+
+![Lucid_Chart](Assets/chapter-V/Lucid_Chart.jpg)
+
+
+**Product UX/UI Design**
+- **Figma**: Plataforma de diseño colaborativo en línea que permite crear, prototipar y compartir interfaces de usuario en tiempo real, facilitando el trabajo en equipo de forma ágil y visual.  
+
+![Figma](Assets/chapter-V/Figma_V5.jpg)
+
+**Software Development**
+- **HTML**: Quinta versión del lenguaje de marcado estándar para la creación de páginas web, que incorpora nuevas etiquetas y funcionalidades para estructurar mejor los contenidos, integrar multimedia y mejorar la experiencia de usuario en distintos dispositivos.
+
+- **CSS**: Lenguaje de hojas de estilo que permite definir la apariencia y el diseño de los documentos HTML, controlando aspectos como colores, tipografías, márgenes, posiciones y adaptabilidad de los elementos.  
+![Css](Assets/chapter-V/Styles_css.jpg)
+
+- **JavaScript**: Lenguaje de programación que permite agregar interactividad, dinamismo y funcionalidades avanzadas a los sitios web, trabajando en conjunto con HTML y CSS.
+![Java](Assets/chapter-V/Java_Script.jpg)
+
+
+**Software Documentation**
+- **GitHub**: Plataforma de alojamiento de código basada en Git que permite gestionar proyectos, realizar control de versiones, colaborar en equipo y facilitar el seguimiento de cambios.  
+- **Vercel**: Plataforma de despliegue que facilita la publicación y el hosting de aplicaciones web con integración continua y escalabilidad automática.  
 ### 5.1.2. Source Code Management
+
+## Commits y Uso de Ramas  
+
+Durante el desarrollo del proyecto, el equipo aplicó buenas prácticas de control de versiones utilizando **Git y GitHub**.  
+
+- **Commits**  
+  Cada integrante realizó *commits* claros y descriptivos que documentan los cambios efectuados.  
+  Los mensajes de commit siguieron un formato breve pero preciso, lo cual permitió mantener un historial ordenado y comprensible del progreso del sistema.  
+
+- **Ramas (Branches) por integrante**  
+  Para garantizar un trabajo organizado y verificable, cada miembro del equipo creó una rama con su nombre:  
+  - `piero`  
+  - `cesar`  
+  - `gianmarco`  
+  - `giorgio`  
+  - `flor`  
+
+  De esta manera:  
+  - Se evitaban conflictos en la rama principal.  
+  - Se podía identificar fácilmente qué integrante realizó cada cambio.  
+  - El flujo de integración consistía en trabajar en la rama personal y posteriormente fusionar los cambios en la rama principal (*main*) mediante *pull requests*.  
+![Branches/1](Assets/chapter-V/Branches-1.jpg)
+
+![Branches/2](Assets/chapter-V/Branches-2.jpg)
+
+
+- **Beneficio del enfoque**  
+  Este esquema permitió verificar de manera clara el aporte individual de cada miembro y asegurar que la rama principal siempre mantuviera un código estable y funcional.  
+
+
+![Commits1](Assets/chapter-V/Commits-1.jpg)
+
+![Commits2](Assets/chapter-V/Comits-2.jpg)
+
+## Convención de Commits  
+
+Con el fin de mantener un historial de cambios claro y uniforme, el equipo adoptó la convención de **Conventional Commits**, la cual establece una estructura estandarizada para redactar los mensajes de commit. Bajo este enfoque, se emplearon prefijos como:  
+
+- **feat**: para la incorporación de nuevas funcionalidades.  
+- **fix**: para la corrección de errores.  
+- **docs**: para actualizaciones en la documentación.  
+- **style**: para ajustes relacionados con formato o estilos que no afectan la lógica del código.  
+- **refactor**: para modificaciones en la estructura interna del código sin alterar su comportamiento.  
+- **test**: para la creación o modificación de pruebas.  
+
+La aplicación de esta práctica no solo permitió una mejor comprensión del historial del proyecto, sino que también facilitó la automatización de procesos y potenció la colaboración entre los miembros del equipo, garantizando un flujo de trabajo más eficiente y ordenado.  
+
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto. <br></br>
 
-#### Landing Page:
+### Landing Page:
 
 | **Tecnología** | **Convenciones principales** |
 |---|---|
@@ -1411,44 +1666,32 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 | **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.).<br>- Indentación de 2 espacios.<br>- Atributos entre comillas dobles `"`.<br>- Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`).<br>- Nombres en kebab-case (`main-section`). |
 | **TypeScript** | - Variables/funciones en `camelCase`.<br>- Clases/interfaces en `PascalCase`.<br>- Constantes en `UPPER_SNAKE_CASE`.<br>- Tipado obligatorio en variables, parámetros y retornos.<br>- Ordenar imports de externos a internos. |
 | **Astro** | - Archivos `.astro` en `PascalCase`.<br>- Orden del archivo: frontmatter → HTML/JSX → estilos `\<style>`.<br>- Props siempre tipadas con TypeScript.<br>- Importaciones cortas y claras.<br>- Componentes pequeños y reutilizables. |
-| **Gherkin** | - Los escenarios deben escribirse en lenguaje claro y entendible.<br>- Estructura: **Given, When, Then**, y opcionalmente **And**.<br>- Un escenario debe reflejar un caso de uso específico.<br>- Las historias de usuario deben agruparse en **Features**.<br>- Mantener consistencia en la redacción (tiempos verbales en presente). |
 
 
-Front-End:
+### Front-End:
 
-**Resumen:** Como principales tecnologías, usaremos Vue, HTML, JavaScript y CSS. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
+**Resumen:** Como principales tecnologías, usaremos Vue.js, HTML, JavaScript y CSS. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
 
 | **Tecnología** | **Convención** |
-|-------------|-----------------|
-| **Stack** | HTML + CSS + JavaScript + Vue 3 (SFC o CDN); ESLint + Prettier. |
-| **Estructura** | `src/components`, `src/views`, `src/composables`, `src/services`, `src/router`, `src/assets`. |
-| **Componentes** | Nombres **PascalCase** (`UserCard.vue`); 1 componente por archivo; extraer subcomponentes cuando superen ~200 líneas. |
-| **Script** | `<script setup>`; Composition API; evitar lógica compleja en el template; composables para lógica reutilizable. |
-| **Props/Emits** | `props` validadas; `emits` declarados; eventos en **kebab-case** (`update:model-value`). |
-| **Estado/Routing** | Estado local/composables; **Vue Router** (opcional); rutas perezosas (lazy) y guards en router. |
-| **Estilo de código** | Indentación 2 espacios; comillas simples; imports ordenados. |
-| **Accesibilidad** | Roles/`aria-*`; foco gestionado; mensajes de error con `aria-live`. |
-| **CSS** | Evitar `!important`; reutilizar clases; extraer patrones repetidos a componentes u hojas globales. |
-| **API** | `src/services/*` con `fetch/axios` envuelto; interceptores para auth/errores; timeouts/reintentos. |
-| **Pruebas** | Unit con Vitest; Vue Test Utils para componentes; mocks de router/HTTP. |
+|----------------|----------------|
+| **HTML5** | Uso semántico de etiquetas (`header`, `main`, `section`, `footer`). Atributos en comillas dobles. Indentación de 2 espacios. |
+| **CSS3** | Estilos modulares y reutilizables. Variables globales para colores/tipografía. Evitar `!important`. |
+| **JavaScript** | Sintaxis moderna. Variables y funciones en `camelCase`. Constantes en `UPPER_SNAKE_CASE`. Imports ordenados. |
+| **Vue.js** | Uso de **Single File Components (SFC)** con `<script setup>`. Nombres de componentes en **PascalCase**. Props tipadas y `emits` declarados. Composition API preferida sobre Options API. |
+| **PrimeVue** | Librería de UI recomendada para formularios, tablas y componentes complejos. Personalizado vía tema, no con overrides en línea. |
 
-Back-End:
+
+### Back-End:
 
 **Resumen:** Como principales tecnologías, C# y .NET. Como principales tecnologías, se utilizarán C# y .NET, enfocándose en un código limpio, seguro y mantenible bajo buenas prácticas de arquitectura, nomenclatura, validación, seguridad y pruebas.
 
 | **Tecnología** | **Convención** |
 |----------------|----------------|
-| **C# .NET – Arquitectura** | Capas separadas: **API** (Controllers/Minimal API) → **Application** (Services/Casos de uso) → **Domain** (Entidades/Reglas) → **Infrastructure** (EF Core/Repos/Integraciones). |
-| **C# .NET – Nomenclatura** | Clases, métodos y propiedades en **PascalCase**; variables locales en **camelCase**; privados `_camelCase`; constantes en **ALL_CAPS**. |
-| **C# .NET – Inyección de Dependencias & Configuración** | Usar **DI nativa**; configuración con `IOptions<T>`; secretos con **User Secrets** o vault; prohibido hardcodear credenciales. |
-| **C# .NET – DTOs/Mapping** | Exponer **DTOs** (nunca entidades); AutoMapper o mapeo explícito; contratos versionados para compatibilidad. |
-| **C# .NET – Validación** | `DataAnnotations` o **FluentValidation**; respuestas 400 con detalle de errores; reglas de negocio validadas en capa Domain. |
-| **EF Core** | `DbContext` por request; `AsNoTracking` en consultas de solo lectura; migraciones versionadas; transacciones cuando apliquen; soporte de `CancellationToken`. |
-| **C# .NET – Asincronía** | Todo I/O con `async/await`; evitar `.Result` o `.Wait()`; definir timeouts y circuit breakers en integraciones. |
-| **C# .NET – Errores & Logs** | Middleware global con **ProblemDetails (RFC 7807)**; logging con `ILogger<T>`; correlación con `TraceId`; métricas con **Prometheus/OpenTelemetry**. |
-| **C# .NET – API** | Versionado (`/api/v1`); documentación con Swagger/Swashbuckle; soportar paginación, orden y búsqueda; códigos HTTP correctos; operaciones sensibles idempotentes. |
-| **C# .NET – Seguridad** | Autenticación con **JWT**; autorización por roles/políticas; CORS explícito; rate limiting; sanitización y validación estricta de entrada. |
-| **C# .NET – Pruebas** | Unit testing con **xUnit**; integración con `WebApplicationFactory`; pruebas de repositorios y servicios; uso de fixtures de datos. |
+| **C#** | Lenguaje principal. Usar sintaxis moderna (C# 10/11+), convenciones de nomenclatura estándar de Microsoft, y programación orientada a objetos junto con patrones modernos (LINQ, async/await, records, etc.). |
+| **.NET Core** | Framework principal para el backend. Uso de **arquitectura en capas** (API, Application, Domain, Infrastructure). Enfoque en modularidad, mantenibilidad y soporte multiplataforma. |
+| **Entity Framework Core** | ORM oficial para acceso a datos. Uso de `DbContext` por request, `AsNoTracking` para consultas de solo lectura, migraciones versionadas, y compatibilidad con transacciones. |
+| **Swagger / Swashbuckle** | Generación automática de documentación de la API REST. Versionado claro (`/api/v1`, `/api/v2`) y contratos visibles para clientes externos. |
+| **xUnit** | Framework de pruebas unitarias. Uso combinado con **WebApplicationFactory** para pruebas de integración y validación de endpoints. |
 
 
 ### 5.1.4. Software Deployment Configuration
@@ -1465,24 +1708,20 @@ Back-End:
    - Visibilidad **pública** para permitir la integración con Vercel.  
    - Añadimos un `README.md` inicial y un `.gitignore` adecuado.
 
+<img src="Assets/chapter-V/evidences/landing_github_evidence.png">
+
 4. **Carga de los archivos de la landing**  
    - Subimos los archivos del proyecto (**HTML, TailwindCSS, TypeScript, Astro**).  
-   - Confirmamos que los cambios estén en la rama **main**.  
+   - Confirmamos que los cambios estén en la rama **master**.  
    - “**Commit changes**”.
 
 5. **Configuración en Vercel**  
    - Iniciamos sesión en Vercel → **New Project** → vinculamos GitHub.  
    - Importamos el repo `landing-page`.  
    - Framework **Astro** (detección automática).  
-   - Definimos la rama de despliegue (**main** / `master`).
+   - Definimos la rama de despliegue (**master**).
 
-6. **Verificación del sitio web**  
-   En pocos minutos, Vercel genera la **URL pública** del proyecto.
-
-7. **Actualización del sitio**  
-   Con cada **commit** a `main`, Vercel recompila y publica automáticamente.
-
-
+<img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
@@ -1555,10 +1794,11 @@ A continuación se muestra la tabla de control de estado para este Sprint.
 
 | **Repository**              | **Branch**            | **Commit Id** | **Commit Message**                | **Commit Message Body**                                | **Committed on (Date)** |
 |------------------------------|-----------------------|---------------|-----------------------------------|--------------------------------------------------------|--------------------------|
-| prime-fix-app-web/landing-page       | development       | xxxxxx       | feat: Implement internationalization        | Implement internationalization for feature, footer, header, home, and home guide components   | 2025-09-XX               |
-| prime-fix-app-web/landing-page       | development      | xxxxxx       |  feat: Refactor language      | Refactor language handling and UI translations; remove unused components and implement dynamic language support in pages       | 2025-09-XX               |
-| prime-fix-app-web/landing-page        | development          | xxxxxx       | feat: introducing button change theme          | Added button change Theme     | 2025-09-XX               |
-| prime-fix-app-web/landing-page           | development  | xxxxxx       | feat: Implement dark theme support and improve theme toggle functionality    | Improve toggle functionality      | 2025-09-XX               |
+| prime-fix-app-web/landing-page       | development       | 89476f8       | feat: start project        | Start project landing page with astro  | 2025-09-15               |
+| prime-fix-app-web/landing-page       | development       | ed4746b       | feat: Implement internationalization        | Implement internationalization for feature, footer, header, home, and home guide components   | 2025-09-15               |
+| prime-fix-app-web/landing-page       | development      | 370fdff       |  feat: Refactor language      | Refactor language handling and UI translations; remove unused components and implement dynamic language support in pages       | 2025-09-15               |
+| prime-fix-app-web/landing-page        | development          | c254f47       | feat: introducing button change theme          | Added button change Theme     | 2025-09-15               |
+| prime-fix-app-web/landing-page           | development  | 332f3a9       | feat: Implement dark theme support and improve theme toggle functionality    | Improve toggle functionality      | 2025-09-15               |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -1586,13 +1826,24 @@ No aplica por que el Sprint se centró en la Landing Page.
 - Se desplegó la Landing Page en Vercel con integración automática desde la rama main.  
 - Se validaron configuraciones de DNS y HTTPS.  
 
-
+<img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 - El equipo trabajó con ramas **development/** y revisiones vía **pull requests**.  
 - Cada miembro realizó commits relacionados con su área principal.
 
+<img src="Assets/chapter-V/evidences/landing_repository_evidence.png">
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+#### 5.2.2.2. Aspect Leaders and Collaborators
+#### 5.2.2.3. Sprint Backlog 2
+#### 5.2.2.4. Development Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
@@ -1604,9 +1855,22 @@ No aplica por que el Sprint se centró en la Landing Page.
 ---
 
 # Conclusiones
+El proyecto "Prime-Fix" representó un esfuerzo colaborativo orientado a resolver una problemática real en el sector automotriz: la falta de digitalización en la gestión de talleres mecánicos y la dificultad de los conductores para encontrar servicios confiables y transparentes. A través del uso de metodologías centradas en el usuario, se lograron identificar y definir con claridad las necesidades de los dos segmentos principales: dueños de vehículos y administradores de talleres. Esto permitió diseñar una solución digital que integra funcionalidades como la reserva de citas en línea, la visualización de reseñas y calificaciones, el seguimiento del estado del vehículo en tiempo real, y la gestión de solicitudes y disponibilidad en los talleres.
+
+El desarrollo del proyecto se apoyó en herramientas clave como las User Stories, To-Be Scenario Mapping, Impact Mapping y Big Picture Event Storming, que facilitaron la comprensión del dominio del negocio y la definición de flujos claros y estructurados. Asimismo, se aplicaron lineamientos de diseño (Style Guidelines) que aseguraron una experiencia de usuario intuitiva, confiable y coherente con los objetivos planteados. El trabajo colaborativo fue otro aspecto esencial: mediante el uso de GitHub, ramas personalizadas por cada integrante y un flujo de integración basado en pull requests, se garantizó la trazabilidad de los aportes individuales y la estabilidad del producto.
+
+En conjunto, el proyecto no solo permitió plasmar una solución funcional y escalable, sino que también demostró la capacidad del equipo para coordinarse de manera organizada, aplicar buenas prácticas de desarrollo y mantener un enfoque constante en la experiencia del usuario. "Prime-Fix" constituye así un avance significativo en la modernización de los servicios automotrices, estableciendo las bases para su futura evolución e implementación en un contexto real.
+
+
 # Conclusiones y recomendaciones
+Durante el desarrollo del proyecto se recomienda mejorar la estandarización de los mensajes de commit siguiendo convenciones claras (por ejemplo, diferenciando entre feat, fix, docs, entre otros), así como especificar en los merge commits el propósito de la integración para mantener una trazabilidad adecuada. Asimismo, es aconsejable reforzar la organización de ramas empleando prefijos que identifiquen el tipo de trabajo realizado, lo que facilitaría la revisión y el control de cambios. En cuanto a la documentación, se sugiere unificar el estilo de las tablas, optimizar su presentación con títulos y descripciones, y asegurar consistencia en el uso de Markdown (encabezados, listas e imágenes), con el fin de mantener un formato más claro, profesional y fácil de interpretar. Finalmente, se recomienda mantener la rama principal siempre estable, aplicando revisiones mediante pull requests antes de la integración, lo que no solo asegura calidad en el código, sino también fomenta la colaboración efectiva entre los integrantes del equipo.
 # Video About-the-Team
 # Bibliografía
+
+- Manrique Olaechea, R. (2011). *Diseño de un sistema electrónico de reserva de citas para atención a clientes en talleres de autos utilizando tecnología Web e IVR* [Tesis de licenciatura, Pontificia Universidad Católica del Perú]. Repositorio PUCP.
+
+- OpusLine (2023,19 de diciembre) *Etapas y consejos para el proceso productivo de un taller mecánico*. OpusLine. Recuperado el 9 de setiembre de 2025, de: [https://opus-line.es/proceso-productivo-taller-mecanico/](https://opus-line.es/proceso-productivo-taller-mecanico/)
+
 # Anexos
 
 Link de la organización de Github de la Startup: [https://github.com/prime-fix-app-web](https://github.com/prime-fix-app-web)
@@ -1621,4 +1885,6 @@ Link del repositorio de Github del RESTful Web Services: [https://github.com/pri
 
 Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)
 
-Link del Diagrama de Clases: [https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
+Link del Diagrama de Clases: [https://lucid.app/lucidchart/eb6fe88f-56d7-4914-b847-c77bdce717fa/edit?viewport_loc=-4049%2C-1831%2C10453%2C4825%2C0_0&invitationId=inv_89395be7-d9c0-44e9-9b5a-6a690082d61a](https://lucid.app/lucidchart/eb6fe88f-56d7-4914-b847-c77bdce717fa/edit?viewport_loc=-4049%2C-1831%2C10453%2C4825%2C0_0&invitationId=inv_89395be7-d9c0-44e9-9b5a-6a690082d61a)
+
+Link del Video de la Exposición de la TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/Ec1bLpaDm2JNs4u5wcjR6DUB_k65cqYALMxpxlAUdKPkOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5hIFLZ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/Ec1bLpaDm2JNs4u5wcjR6DUB_k65cqYALMxpxlAUdKPkOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5hIFLZ)
