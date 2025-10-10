@@ -52,7 +52,7 @@
 |   TB1   | XX/09/2025  | Flor De María Contreras Leon                                              | Realicé 1.2.2.1. Lean UX Problem Statements; 1.2.2.2. Lean UX Assumptions; 1.2.2.3. Lean UX Hypothesis Statements; 2.3.1. User Personas; 2.3.2. User Task Matrix; 2.4. Big Picture Event Storming; 3.1. To-Be Scenario Mapping; 3.3. Impact Mapping; 4.1. Style Guidelines; 4.1.1. General Style Guidelines; 4.1.2. Web Style Guidelines; 3.2. User Stories; 3.4. Product Backlog; 5.1. Software Configuration Management; 5.1.1. Software Development Environment Configuration; 5.1.2. Source Code Management; 5.2. Landing Page, Services & Applications Implementation. |
 |   TB1   | XX/09/2025  | Giorgio Marzouk Awad Vargas                                               | Realicé ... |
 |   TB1   | XX/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé ... |
-|   TP    | XX/09/2025  | Flor de Maria Contreras Leon                                              |En esta entrega desarrollé el Bounded Context de Autorrepair Registration, específicamente el módulo de Gestión de Técnicos, donde implementé la funcionalidad completa para el registro, clasificación y administración de los técnicos del sistema. Coordiné con los equipos de los demás bounded contexts para establecer los contratos de integración necesarios que garantizan la correcta asignación de técnicos a las reparaciones. Durante el proceso, comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas para asegurar la coherencia en la integración con los otros módulos del sistema. |
+
 
 </div>
 
