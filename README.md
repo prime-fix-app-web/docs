@@ -2069,6 +2069,16 @@ Página de agregación de nuevos técnicos para talleres
 
 <img src="Assets/chapter-V/frontend/technician_management.jpg">
 
+Página de seguimiento del estado del mantenimiento del vehículo
+
+<img src="Assets/chapter-V/frontend/tracking_view.png">
+
+Página de notificaciones en tiempo real
+
+<img src="Assets/chapter-V/frontend/notification_view.png">
+
+
+
 Página de búsqueda de talleres con filtros avanzados
 
 <img src="Assets/chapter-V/frontend/workshop_search1.jpg">
