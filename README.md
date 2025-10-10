@@ -2165,24 +2165,24 @@ La aplicación cuenta con documentación completa que incluye:
 
 **Documentación de componentes principales de la aplicación**
 
-<img src="Assets/evidences/Documentation_Components.png">
+<img src="Assets/chapter-V/documents/Documentation_Components.png">
 
 **Guía de estructura de módulos y servicios implementados**
 
-<img src="Assets/evidences/Documentation_Modules.png">
+<img src="Assets/chapter-V/documents/Documentation_Modules.png">
 
 **Documentación de patrones de diseño y estilo aplicados**
-<img src="Assets/evidences/Documentation_Patterns.png">
+<img src="Assets/chapter-V/documents/Documentation_Patterns.png">
 
 **Guías de navegación y configuración de routing**
-<img src="Assets/evidences/Documentation_Routing.png">
+<img src="Assets/chapter-V/documents/Documentation_Routing.png">
 
 
 **URLs de documentación:**
-- Component Documentation: 
-- Module Documentation: 
-- Design Patterns: 
-- Routing Guide: 
+- Component Documentation:  [https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Components.md](https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Components.md)
+- Module Documentation: [https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Modules.md](https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Modules.md)
+- Design Patterns: [https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Patterns.md](https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Patterns.md)
+- Routing Guide: [https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Routing.md](https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Routing.md)
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
