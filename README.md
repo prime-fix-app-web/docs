@@ -61,7 +61,7 @@
 |   TP   | 10/10/2025  | Gianmarco Fabian Jiménez Guerra                                           |  Reorganicé parte de los sprints backlogs en Trello y pude desarrollar mi bounded context que correspondería al Sprint 2|
 |   TP   | 10/10/2025  | Cesar Augusto Arostegui Alzamora                                          |  |
 |   TP   | 10/10/2025  | Flor De María Contreras Leon                                              |  |
-|   TP   | 10/10/2025  | Giorgio Marzouk Awad Vargas                                               |  |
+|   TP   | 10/10/2025  | Giorgio Marzouk Awad Vargas                                               | Realicé el Bounded Context de Autorepair Catalog, donde se realiza la busqueda de talleres por distritos y departamento, selección de talleres y solicitud de visita.  |
 |   TP   | 10/10/2025  | Piero Francesco Tenorio Medina                                            |  En esta entrega desarrollé el Bounded Context de Data Collection adn Diagnosis, donde implementé las funcionalidades para la recolección y gestión de datos del sistema. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts y comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas.|
 </div>
 
