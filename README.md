@@ -2235,6 +2235,67 @@ El trabajo se organizó de manera estratégica, asignando a cada miembro módulo
 
 El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada en desarrollo frontend, estableciendo las bases para la integración futura con servicios backend y la evolución continua de la experiencia de usuario de Prime-Fix.
 
+### 5.2.3. Sprint 3
+
+El Sprint 3 tiene como objetivo consolidar la integración completa de los bounded contexts desarrollados previamente, asegurando la interoperabilidad entre los módulos de gestión de talleres, diagnóstico, pagos, usuarios y catálogo.
+Durante este sprint se busca ofrecer una experiencia fluida de extremo a extremo (End-to-End) para los usuarios finales, desde la búsqueda del taller hasta la confirmación y pago del servicio, incluyendo notificaciones automáticas y trazabilidad de mantenimientos.
+
+
+#### 5.2.2.1. Sprint Planning 3
+
+| **Sprint #** | Sprint 3 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2025-10-29 |
+| **Time** | 08:00 PM |
+| **Location** | Virtual (Discord) |
+| **Prepared By** | Aróstegui Alzamora, César Augusto |
+| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Awad Vargas, Giorgio Marzouk / Tenorio Medina, Piero Francesco / Navarro Chang, Flor De María |
+| **Sprint 1 Review Summary** | Se completó exitosamente la implementación de la Landing Page con funcionalidades básicas de internacionalización, cambio de tema y secciones principales. Se logró el despliegue en Vercel y se estableció la base técnica del proyecto. |
+| **Sprint 1 Retrospective Summary** | El equipo identificó la necesidad de mejorar la comunicación durante el desarrollo y establecer mejores prácticas para la integración de código. Se destacó el buen trabajo en la implementación de componentes reutilizables y el diseño responsive. |
+| **Sprint 2 Review Summary** | Se completó la implementación de la aplicación web en Vue.js, integrando las interfaces principales de usuario y la conexión inicial con la Landing Page. Se estableció la arquitectura de componentes reutilizables y se avanzó en la navegación del sistema. |
+| **Sprint 2 Retrospective Summary** | El equipo resaltó la mejora en la organización del código y la adopción de GitHub Flow para controlar versiones. Se identificó la necesidad de reforzar la documentación técnica y mejorar validación de formularios y rutas protegidas. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 3 Goal** | Desarrollar e integrar completamente los Web Services RESTful de los bounded contexts (IAM, Maintenance Tracking, Auto Repair Registration, Auto Repair Catalog, Payment Service y Data Collection & Diagnosis), asegurando un flujo funcional E2E de búsqueda, reserva, diagnóstico, pago y seguimiento del servicio. |
+| **Sprint 3 Velocity** | 48 Story Points |
+| **Sum of Story Points** | 48 Story Points |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+#### 5.2.3.3. Spring Backlog 3
+
+El Sprint Backlog 3 se centra en la implementación de los Web Services RESTful (microservicios) para cada bounded context (IAM, Maintenance Tracking, Auto Repair Registration, Auto Repair Catalog, Data Collection & Diagnosis y Payment), así como la integración con el frontend y el despliegue.
+
+| **Sprint #** | Sprint 3 |
+|--------------|----------|
+
+| **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| US-37 | Gestión de cuentas de usuario (IAM) | T-01 | Configurar servicio IAM | Crear proyecto del microservicio IAM, estructura de carpetas y conexión a la base de datos. | 4 | César | Done |
+| US-37 | Gestión de cuentas de usuario (IAM) | T-02 | Endpoints de registro y login | Implementar endpoints para registro, login y logout con validaciones. | 6 | César | Done |
+| US-37 | Gestión de cuentas de usuario (IAM) | T-03 | Seguridad y manejo de credenciales | Configurar hashing de contraseñas, validación de tokens/JWT y middleware de autorización. | 4 | César | Done |
+| US-38 | Seguimiento de mantenimientos (Maintenance Tracking) | T-04 | Modelo de órdenes de mantenimiento | Diseñar entidades y relaciones para órdenes, estados y vehículos. | 5 | César | Done |
+| US-38 | Seguimiento de mantenimientos (Maintenance Tracking) | T-05 | Endpoints CRUD de órdenes | Implementar creación, actualización de estado y consulta de órdenes de mantenimiento. | 5 | César | Done |
+| US-39 | Registro de talleres y técnicos | T-06 | Registro de talleres y técnicos | Implementar endpoints para registrar talleres, técnicos y datos principales. | 4 | Flor | Done |
+| US-39 | Registro de reparaciones | T-07 | Asignación de técnicos a reparaciones | Implementar lógica y endpoints para asignar técnicos a órdenes de reparación. | 3 | Flor | Done |
+| US-40 | Catálogo con filtros de búsqueda | T-08 | API de listado y filtros de talleres | Implementar endpoints de listado con filtros por distrito, servicio y calificación. | 5 | Giorgio | Done |
+| US-40 | Catálogo con filtros de búsqueda | T-09 | Ordenamiento y ubicación | Agregar soporte de ordenamiento y filtros avanzados por ubicación. | 3 | Giorgio | In Progress |
+| US-41 | Recolección de datos para diagnóstico | T-10 | Modelo de datos de diagnóstico | Diseñar el esquema para registrar síntomas, lecturas y resultados. | 4 | Piero | Done |
+| US-41 | Recolección de datos para diagnóstico | T-11 | Endpoints de diagnósticos | Implementar endpoints para registrar y consultar diagnósticos asociados. | 4 | Piero | Done |
+| US-42 | Procesamiento de pagos | T-12 | Configurar servicio de pagos | Crear servicio de pagos, modelo de transacciones y estados. | 5 | Gianmarco | Done |
+| US-42 | Procesamiento de pagos | T-13 | Endpoint de creación y actualización de pagos | Implementar endpoint para crear pagos, registrar respuesta y actualizar transacción. | 4 | Gianmarco | In Progress |
+| US-43 | Integración Frontend–Backend | T-14 | Configurar API Gateway | Configurar gateway o reverse proxy para enrutar solicitudes a microservicios. | 5 | César | In Progress |
+| US-43 | Integración Frontend–Backend | T-15 | Integrar vistas con Web Services | Conectar pantallas (login, talleres, órdenes y pagos) con los endpoints. | 6 | Gianmarco | To Do |
+| US-43 | Integración y despliegue | T-16 | Actualizar CI/CD y variables de entorno | Actualizar pipeline de GitHub Actions, variables de entorno y despliegue. | 3 | César | In Progress |
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
