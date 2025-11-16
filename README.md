@@ -64,6 +64,7 @@
 |   TP1   | 10/10/2025  | Giorgio Marzouk Awad Vargas                                               | En esta entrega desarrollé el Bounded Context de Auto Repair Catalog, donde implementé las funcionalidades para la búsqueda de talleres con filtros de búsqueda y ubicación. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts.|
 |   TP1   | 10/10/2025  | Piero Francesco Tenorio Medina                                            |  En esta entrega desarrollé el Bounded Context de Data Collection and Diagnosis, donde implementé las funcionalidades para la recolección y gestión de datos del sistema. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts y comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas.|
 |   TB2   | 16/11/2025  | Gianmarco Fabian Jiménez Guerra                                           |  En esta entrega desarrollé el Bounded Context de Payment Service en el apartado del backend, pude formular las preguntas para las entrevistas de validación y realicé una entrevista a un asesor de servicios automotrices. |
+|   TB2   | 16/11/2025  | Giorgio Marzouk Awad Vargas                                           |  En esta entrega me encargué de desarrollar con la documentación y realización del Sprint 3, incluyendo el objetivo del Sprint 3, Sprint Planning y Sprint Backlog 3. |
 </div>
 
 # Project Report Collaboration Insights  
