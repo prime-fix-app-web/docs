@@ -2293,6 +2293,27 @@ El Sprint Backlog 3 se centra en la implementación de los Web Services RESTful 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 3, se actualizó la documentación técnica para reflejar la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. La documentación incluye guías de uso de la API, flujos de trabajo integrados y ejemplos de llamadas a endpoints.
+
+En esta sección se presenta la documentación actualizada que incluye:
+
+Especificación de endpoints RESTful con métodos, parámetros y respuestas
+Guías de uso de la API para cada funcionalidad integrada
+Evidencias:
+
+<img src="Assets/chapter-V/services_documentation_evidence/entities.PNG">
+
+<img src="Assets/chapter-V/services_documentation_evidence/endpoints_1.PNG">
+
+<img src="Assets/chapter-V/services_documentation_evidence/endpoints_2.PNG">
+
+<img src="Assets/chapter-V/services_documentation_evidence/endpoints_3.PNG">
+
+<img src="Assets/chapter-V/services_documentation_evidence/endpoints_4.PNG">
+
+<img src="Assets/chapter-V/services_documentation_evidence/endpoints_5.PNG">
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
