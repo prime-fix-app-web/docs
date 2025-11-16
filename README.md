@@ -484,7 +484,7 @@ Preguntas:
 
 | ![Entrevista Dionisio Segmento 1](Assets/chapter-II/Entrevista_Dionisio_Rodriguez.png) |
 |-------------------------------------------------------------------------------------------------------------------|
-|**Link De la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EZqmOelsxipLu6PdtBXftbsBmEjUS50k-dWYf3z7AC2i_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=a5g003](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EZqmOelsxipLu6PdtBXftbsBmEjUS50k-dWYf3z7AC2i_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=a5g003)** |
+|**Link De la Entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EZqmOelsxipLu6PdtBXftbsBmEjUS50k-dWYf3z7AC2i_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=a5g003>** |
 |Duracion:**00:05:02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:31**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:02**|
 | Dionisio Rodríguez, de 25 años, es conductor de automóvil y comentó que al momento de elegir un taller prioriza la confianza en el servicio, incluso si esto implica desplazarse a zonas más lejanas. Para ubicar opciones suele utilizar Google Maps, aunque reconoce que no siempre refleja la calidad real del taller. Señaló que en una ocasión tuvo una experiencia negativa, pues su vehículo fue dañado en un taller y los responsables no asumieron la reparación, lo que generó desconfianza y la necesidad de contar con mecanismos de referencia más seguros.Asimismo, resaltó que le resultaría valioso contar con una plataforma que permita no solo agendar visitas a talleres, sino también hacer seguimiento en tiempo real al estado del vehículo mientras se encuentra en mantenimiento. Además, considera importante que los usuarios puedan registrar y compartir públicamente sus experiencias, ya que esto ofrecería mayor transparencia y ayudaría a otros conductores a tomar mejores decisiones.|
 
@@ -495,7 +495,7 @@ Preguntas:
 
 | ![Entrevista Marcos Segmento 1](Assets/chapter-II/Entrevista_Marcos_Contreras.png) |
 |-------------------------------------------------------------------------------------------------------------------|
-|**Link De la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EU-OfAcUkxlLsrpkalhCNRQBkang9sWzDtFzbJ4EEzaXvQ?e=Rq6OAR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EU-OfAcUkxlLsrpkalhCNRQBkang9sWzDtFzbJ4EEzaXvQ?e=Rq6OAR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** |
+|**Link De la Entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EU-OfAcUkxlLsrpkalhCNRQBkang9sWzDtFzbJ4EEzaXvQ?e=Rq6OAR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>** |
 |Duracion:**00:06:45**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:45**|
 | Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paralela. Marcos nos cuenta que el tiene un vehiculo por la cual facilita movilizarse dentro de la ciudad. Marcos nos comenta que a la hora de encontrar un buen servicio que pueda atender a su vehículo, más que nada resalta que no llega a encontrar un lugar accesible. Marcos tambien nos cuenta que utiliza Google Maps,WhastApp e incluso Fcaebook para poder encontrar un taller que sea recomendado. Nos dice que valora la confianza y la calidad sobre el precio dentro de un servicio. Dentro de las experiencia negativas nos cuenta que si llego a presentar alguna, en la entrega de su vehículo. Finalmente, Marcos resalta que una aplicación que le ayude a gestionar los talleres a los que va, le puede hacer de mucha utilidad en su día a día. Que implemente funcionalidades que sean pertinentes para él como las agendas y las ubicaciones en mapas.|
 
@@ -506,7 +506,7 @@ Preguntas:
 
 | ![Entrevista Anyelo Alejos 1](Assets/chapter-II/Entrevista_Anyelo_Alejos.png) |
 |-------------------------------------------------------------------------------------------------------------------|
-|**Link De la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EbUouuLCEqlGvWQEGCCiPf4B8TQJNZIvqrxVh6ufl-rZQQ?e=zp4nf9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EbUouuLCEqlGvWQEGCCiPf4B8TQJNZIvqrxVh6ufl-rZQQ?e=zp4nf9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** |
+|**Link De la Entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EbUouuLCEqlGvWQEGCCiPf4B8TQJNZIvqrxVh6ufl-rZQQ?e=zp4nf9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>** |
 |Duracion:**00:05:40**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:40**|
 | Anyelo Alejos es un chico de 23 años de edad. Él solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. Él comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Él valora aspectos como la confiabilidad dentro de un taller. Además, cuenta que no tuvo problemas con los talleres. Él suele solicitar servicios por un móvil y raras veces de manera manual. Anyelo comenta que le gustaría tener una aplicación que le ayude a a gendar citas en talleres para su vehículo, teniendo funcionalidades como reseña, precios y calificaciones de talleres.|
 
@@ -520,7 +520,7 @@ Preguntas:
 
 | ![Entrevista Jesús Valenzuela](Assets/chapter-II/Entrevista_Gianmarco_Jiménez.png) |
 |-------------------------------------------------------------------------------------------------------------------|
-|** Link De la Entrevista:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/EYVM_zdjduJKtn1KgPIWBJMB0jBtWI7znAkA--v8FtmlRA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IIHRcz](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/EYVM_zdjduJKtn1KgPIWBJMB0jBtWI7znAkA--v8FtmlRA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IIHRcz)** |
+|** Link De la Entrevista:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/EYVM_zdjduJKtn1KgPIWBJMB0jBtWI7znAkA--v8FtmlRA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IIHRcz>** |
 |Duracion:**00:06:31**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:05**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:06:31**|
 | Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas, nos comenta que para atraer clientes, utiliza las redes sociales como Facebook y TikTok y una landing page. El entrevistado comenta que no siente que el taller donde trabaja sea afectado por la competencia dada su ubicación estratégica junto con la de sus otras sedes. Jesús menciona que la gestión de las solicitudes de servicios se realizan principalmente mediante WhatsApp, también reciben llamadas telefónicas y visitas directas al taller. En cuanto al desempeño de los técnicos y los servicios brindados, sí han recibido cierta retroalimentación. Se menciona que la gestión de los técnicos y de su información es un poco desordenada; sin embargo, considera interesante la idea de digitalizar ello y permitir que los clientes puedan conocer la disponibilidad de los trabajadores en tiempo real. El asesor menciona que en su taller se hace uso de un software llamado Qumpa para la gestión de su inventario de llantas de manera organizada, pero le parece interesante una plataforma que pueda ser utilizada por el cliente para la gestión de visitas con el fin de agilizar el proceso. Jesús menciona que este aplicativo puede ser de gran utilidad si cuenta con notificaciones para que el cliente pueda estar atento al estado de su vehículo. El diagnóstico de las fallas que ofrecen en Alvillantas se realiza mediante un documento físico, por lo que Jesús considera que podría ser buena idea virtualizar esta función para que el cliente pueda obtener esta información en sus dispositivos. Para finalizar, recalcó lo importante que es tener una plataforma con todas las funcionalidades mencionadas para garatizarle un buen servicio al cliente.|
 
@@ -532,7 +532,7 @@ Preguntas:
 
 | ![Entrevista William Espinoza](Assets/chapter-II/Entrevista_Cesar_1.png) |
 |-------------------------------------------------------------------------------------------------------------------|
-|** Link De la Entrevista:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EYKmpMYFGk5BnxR4GI37EcsBrQaCB2q7n-PhGydUdeJAvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zfkZrQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EYKmpMYFGk5BnxR4GI37EcsBrQaCB2q7n-PhGydUdeJAvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zfkZrQ)** |
+|** Link De la Entrevista:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EYKmpMYFGk5BnxR4GI37EcsBrQaCB2q7n-PhGydUdeJAvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zfkZrQ>** |
 |Duracion:**00:03:53**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:03:53**|
 | William Espinoza se desempeña en el área de almacén, repuestos y mantenimiento de un taller automotriz. Comenta que la captación de clientes se realiza principalmente a través de redes sociales y avisos publicitarios en la puerta del local. Para la programación de visitas utilizan una computadora con Excel. Señala que no perciben dificultades frente a talleres más grandes, ya que la atención depende más de la capacidad instalada que de la competencia.
 La gestión de pedidos se lleva a cabo mediante un diagnóstico inicial, tras el cual se presenta al cliente una cotización del repuesto y del servicio requerido. Ha recibido algunos reclamos relacionados con la actitud o comunicación de los técnicos, normalmente de forma presencial. Explica que cuentan con una base de datos para evaluar la trayectoria de los técnicos y destaca la importancia de mostrar la disponibilidad de los mismos en tiempo real, pues considera que esto transmite confianza y rapidez al cliente.
@@ -546,7 +546,7 @@ Respecto a la posibilidad de digitalizar procesos, considera útil una plataform
 
 | ![Entrevista Héctor Cárdenas](Assets/chapter-II/Entrevista_Cesar_2.png) |
 |-------------------------------------------------------------------------------------------------------------------|
-|** Link De la Entrevista:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EWUY_frgM_RKtA929ZLKHA0Bd6suNWEVHuj-_ofQHR_Ecg?e=1yRvjo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EWUY_frgM_RKtA929ZLKHA0Bd6suNWEVHuj-_ofQHR_Ecg?e=1yRvjo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** |
+|** Link De la Entrevista:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EWUY_frgM_RKtA929ZLKHA0Bd6suNWEVHuj-_ofQHR_Ecg?e=1yRvjo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>** |
 |Duracion:**00:05:26**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:01**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:05:26**|
 | Héctor Cárdenas es un joven asesor de servicios de reparación del taller Alvillantas, nos comenta que para atraer clientes, utiliza las redes sociales como Facebook y TikTok y una landing page. El entrevistado comenta que no siente que el taller donde trabaja sea afectado por la competencia dada su ubicación estratégica junto con la de sus otras sedes. Jesús menciona que la gestión de las solicitudes de servicios se realizan principalmente mediante WhatsApp, también reciben llamadas telefónicas y visitas directas al taller. En cuanto al desempeño de los técnicos y los servicios brindados, sí han recibido cierta retroalimentación. Se menciona que la gestión de los técnicos y de su información es un poco desordenada; sin embargo, considera interesante la idea de digitalizar ello y permitir que los clientes puedan conocer la disponibilidad de los trabajadores en tiempo real. El asesor menciona que en su taller se hace uso de un software llamado Qumpa para la gestión de su inventario de llantas de manera organizada, pero le parece interesante una plataforma que pueda ser utilizada por el cliente para la gestión de visitas con el fin de agilizar el proceso. Jesús menciona que este aplicativo puede ser de gran utilidad si cuenta con notificaciones para que el cliente pueda estar atento al estado de su vehículo. El diagnóstico de las fallas que ofrecen en Alvillantas se realiza mediante un documento físico, por lo que Jesús considera que podría ser buena idea virtualizar esta función para que el cliente pueda obtener esta información en sus dispositivos. Para finalizar, recalcó lo importante que es tener una plataforma con todas las funcionalidades mencionadas para garatizarle un buen servicio al cliente.|
 
@@ -2411,21 +2411,286 @@ Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvi
 
 ### 5.3.3. Evaluaciones según heurísticas
 
-## Evaluación Heurística de Usabilidad y Diseño Inclusivo para la Aplicación Web ""
+## Evaluación Heurística de Usabilidad y Diseño Inclusivo para la Aplicación Web "BusTrack"
+
+| Campo | Descripción |
+|--------|--------------|
+| **Carrera** | Ingeniería de Software |
+| **Curso** | Aplicaciones Web |
+| **Sección** | 7452 |
+| **Profesores** | Todos |
+| **Auditor(es)** | Grupo 2 |
+| **Cliente(s)** | Grupo 3 |
+| **Site / App a Evaluar** | **BusTrack** |
 
 ## Tareas a Evaluar
 
+El alcance de esta evaluación incluye la revisión de la usabilidad y experiencia del usuario en las siguientes tareas:
+
+1. Comprender la propuesta de valor.  
+2. Navegación de las secciones.  
+3. Localizar acción principal y acceso al inicio de sesión.  
+4. Identificar datos institucionales y encontrar contacto.
+5. Iniciar sesión con credenciales válidas.
+6. Buscar una ruta ingresando una dirección o paradero.
+7. Sección de Paraderos Cercanos: interactuar con el mapa y notificar llegada.
+8. Perfil de usuario: ver y editar información personal.
+9. Rutas Favoritas: agregar y eliminar rutas.
+
 ## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|--------------|
+| **1** | Problema superficial: fácilmente superable, ocurre con poca frecuencia. No requiere atención inmediata. |
+| **2** | Problema menor: aparece con algo más de frecuencia o genera leve dificultad. Requiere revisión en próximas versiones. |
+| **3** | Problema mayor: ocurre con frecuencia o afecta notablemente la experiencia del usuario. Debe corregirse con prioridad alta. |
+| **4** | Problema muy grave: impide el uso normal del sistema. Debe corregirse antes del lanzamiento. |
 
 ## Tabla Resumen de Problema
 
+| # | Problema identificado | Escala de severidad | Heurística / Principio violado(a) |
+|---|-----------------------|:--:|--------------------------------|
+| 1 | **No hay CTA primario de conversión en el hero** (solo “Log In”, que es secundario para usuarios nuevos). | 3 | **Information Architecture:** Is it usable? |
+| 2 | **Footer sin enlaces legales ni contacto/soporte** (privacidad, términos, correo). | 3 | **Information Architecture:** Is it findable? |
+| 3 | **Imágenes ilustrativas sin texto alternativo/etiquetas** en tarjetas de How to use / Benefits. | 3 | **Inclusive Design:** Experiencias comparables |
+| 4 | **Inconsistencia de idioma** entre vistas (navbar en ES; títulos/botones en EN: “Log In”, “Favorite Routes”, “View Details/Remove”). | 3 | **Information Architecture:** Lenguaje del usuario / Consistencia |
+| 5 | **Login sin feedback de validación en tiempo real** ni estados de carga/éxito/error; *Forgot your password?* no muestra flujo. | 3 | **Usability:** Prevención de errores / Visibilidad del estado |
+| 6 | **Campo de búsqueda con placeholder “Escribe aquí” + área “Buscando…” sin resultados ni guía**; no se indican formatos admitidos (dirección/paradero). | 3 | **Usability:** Ayuda mínima / Visibilidad del estado |
+| 7 | **Paraderos Cercanos**: mapa embebido sin descripción accesible ni controles de teclado documentados. | 2 | **Inclusive Design:** Accesibilidad (teclado/lectores) |
+| 8 | **Acción “Notificar llegada”** ambigua (no explica qué notifica ni a quién); ausencia de feedback tras pulsar. | 2 | **Usability:** Correspondencia con el mundo real / Feedback |
+| 9 | **Perfil**: campos “Name/Gmail/Password” aparecen bloqueados sin affordance de edición ni enlace a “Change password/email”. | 2 | **Usability:** Control y libertad del usuario |
+|10 | **Botones negros sin estados de foco/hover visibles** (accesibilidad de teclado). | 2 | **Inclusive Design:** Focus visible (WCAG 2.4.7) |
+|11 | **Falta “volver arriba” y estado de sección activa** en el header al hacer scroll o navegar a anclas. | 2 | **Usability / Inclusive Design:** Eficiencia y feedback |
+|12 | **Rutas Favoritas**: confirmación de borrado inexistente; riesgo de eliminación accidental. | 3 | **Usability:** Prevención de errores |
+|13 | **Mensajes de error estandarizados inexistentes** (400/401/404/500); no se informa qué hacer ante fallos de red o ubicación. | 3 | **Usability:** Manejo de errores |
+|14 | **Contraste potencialmente bajo** entre verdes y fondo verde claro en algunos textos/etiquetas. | 2 | **Inclusive Design:** Accesibilidad visual (WCAG) |
+
 ## Descripción de Problemas
+
+### P1. Falta CTA primario en el hero
+- **Severidad:** 3  
+- **Heurística:** *Information Architecture – Is it usable?*  
+- **Descripción:** En el hero solo aparece **Log In**; para usuarios nuevos no existe un camino directo (registro, demo, descarga).  
+- **Recomendación:** Incorporar **CTA principal** (p. ej., **Get started / Crear cuenta / Probar demo**) con color contrastante y repetición al final de la landing y en el header sticky.
+
+### P2. Footer sin legales/soporte
+- **Severidad:** 3  
+- **Heurística:** *Information Architecture – Is it findable?*  
+- **Descripción:** No se ofrecen **Privacy Policy**, **Terms**, correo/formulario de **Support** ni redes.  
+- **Recomendación:** Añadir footer completo con navegación secundaria, links legales, contacto y redes.
+
+### P3. Imágenes sin alt/etiquetas (How to use / Benefits)
+- **Severidad:** 3  
+- **Heurística:** *Inclusive Design – Experiencias comparables*  
+- **Descripción:** Las tarjetas muestran imágenes informativas (mapa, campana, pins) sin equivalentes textuales para lectores de pantalla.  
+- **Recomendación:** `alt`/`aria-label` descriptivos; si son decorativas, `aria-hidden="true"`.
+
+### P4. Inconsistencia de idioma
+- **Severidad:** 3  
+- **Heurística:** *Information Architecture – Consistencia y lenguaje del usuario*  
+- **Descripción:** Mezcla ES/EN (“Buscar Ruta” vs “Favorite Routes”, “View Details/Remove”, “Log In”).  
+- **Recomendación:** Implementar **i18n** completo con selector **ES/EN**, detección del navegador y archivos de traducción revisados.
+
+### P5. Login sin validación/feedback
+- **Severidad:** 3  
+- **Heurística:** *Usability – Prevención de errores / Visibilidad del estado*  
+- **Descripción:** No hay validaciones en tiempo real (mínimos, formato email), ni indicador de cargando/éxito/error; el enlace **Forgot your password?** no muestra flujo.  
+- **Recomendación:** Validaciones inline, spinner y toasts; flujo de recuperación con confirmación por correo.
+
+### P6. Buscar Ruta con guía insuficiente
+- **Severidad:** 3  
+- **Heurística:** *Usability – Ayuda mínima / Visibilidad del estado*  
+- **Descripción:** El placeholder “Escribe aquí” y la etiqueta “Buscando…” no explican **qué** ingresar ni muestran resultados/estados (vacío, sin coincidencias).  
+- **Recomendación:** Microcopy (ej.: “Av. La Marina 2810 o Paradero Rafael Escardó”), autocompletado, lista de resultados, mensajes vacíos y errores de geolocalización.
+
+### P7. Mapa sin soporte accesible
+- **Severidad:** 2  
+- **Heurística:** *Inclusive Design – Acceso por teclado/lectores*  
+- **Descripción:** El mapa embebido no informa accesos por teclado ni descripción textual del área.  
+- **Recomendación:** `title/aria-label` del iframe, alternativas de listado totalmente navegable por teclado e información clave fuera del mapa.
+
+### P8. “Notificar llegada” ambiguo
+- **Severidad:** 2  
+- **Heurística:** *Usability – Correspondencia con el mundo real / Feedback*  
+- **Descripción:** La acción no especifica a quién se notifica ni el efecto posterior; no hay confirmación.  
+- **Recomendación:** Renombrar (p. ej., “Avisar que el bus llegó”), explicar microcopy y mostrar confirmación (“Notificación enviada a X”).
+
+### P9. Perfil sin affordance de edición
+- **Severidad:** 2  
+- **Heurística:** *Usability – Control y libertad*  
+- **Descripción:** “Name/Gmail/Password” aparecen en negro como si fueran inputs, pero no sugieren edición ni hay enlaces “Change password/email”.  
+- **Recomendación:** Agrupar en **Account Settings** con acciones explícitas: **Edit**, **Change password** (doble campo + verificación), **2FA**.
+
+### P10. Estados de foco/hover poco visibles
+- **Severidad:** 2  
+- **Heurística:** *Inclusive Design – Focus visible (WCAG 2.4.7)*  
+- **Descripción:** Botones negros y chips no muestran un foco altamente visible para teclado.  
+- **Recomendación:** Estilo `:focus` con contorno/borde alto contraste y `:hover` diferenciado.
+
+### P11. Sin “volver arriba” ni enlace activo
+- **Severidad:** 2  
+- **Heurística:** *Usability / Inclusive Design – Eficiencia y feedback*  
+- **Descripción:** No hay botón **↑ Back to top**; los enlaces del header no indican sección activa al navegar.  
+- **Recomendación:** Botón flotante y `aria-current="page/section"` con estilo activo.
+
+### P12. Favoritos sin confirmación de borrado
+- **Severidad:** 3  
+- **Heurística:** *Usability – Prevención de errores*  
+- **Descripción:** **Remove** elimina sin confirmación; potencial pérdida accidental.  
+- **Recomendación:** Modal “¿Eliminar ruta favorita?” con **Cancelar/Eliminar** o “undo” temporal.
+
+### P13. Ausencia de mensajes de error estandarizados
+- **Severidad:** 3  
+- **Heurística:** *Usability – Manejo de errores*  
+- **Descripción:** No se exponen formatos de error ante fallos de red, GPS denegado, 401/403/404.  
+- **Recomendación:** Contratos de error consistentes (código, mensaje, hint), toasts y estados vacíos con acciones sugeridas.
+
+### P14. Contraste potencialmente bajo
+- **Severidad:** 2  
+- **Heurística:** *Inclusive Design – Accesibilidad visual (WCAG AA)*  
+- **Descripción:** Combinaciones de verde sobre verde claro pueden no alcanzar **4.5:1**.  
+- **Recomendación:** Ajustar paleta, verificar con **axe/Lighthouse**, y asegurar tamaño/peso adecuados.
+
+---
+
+## Evaluación Heurística de Usabilidad y Diseño Inclusivo para la Aplicación Web "PrimeFix"
+
+| Campo | Descripción |
+|--------|--------------|
+| **Carrera** | Ingeniería de Software |
+| **Curso** | Aplicaciones Web |
+| **Sección** | 7452 |
+| **Profesores** | Todos |
+| **Auditor(es)** | Grupo 3 |
+| **Cliente(s)** | Grupo 4 (Prime-Fix) |
+| **Sitio evaluado** | **AutoFix** |
+
+## Tareas Evaluadas
+
+Para esta auditoría revisamos la experiencia del usuario en tareas clave alineadas al objetivo de AutoFix: conectar a talleres con dueños de vehículos. Las tareas evaluadas fueron:
+
+1. Entender la propuesta de valor al ingresar.  
+2. Navegar entre las secciones principales.  
+3. Identificar acciones importantes (registro, login, búsqueda).  
+4. Buscar talleres por distrito o por tipo de servicio.  
+5. Ver información de un taller: perfil, especialidades, precios.  
+6. Solicitar un servicio o agendar una cita.  
+7. Revisar historial de servicios (si está implementado).  
+8. Acceder al panel del taller para gestionar solicitudes.  
+9. Ver y editar el perfil del conductor o del taller.
+
+
+## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| **1** | Problema leve, no afecta el uso general. Mejora recomendable. |
+| **2** | Problema menor, aparece con cierta frecuencia. Debe revisarse. |
+| **3** | Problema importante, afecta la experiencia. Requiere prioridad. |
+| **4** | Problema crítico, bloquea el uso normal. Corregir antes del lanzamiento. |
+
+## Resumen General de Problemas
+
+| # | Problema identificado | Sev. | Principio afectado |
+|---|-----------------------|:---:|---------------------|
+| 1 | Propuesta de valor poco clara al ingresar. | 3 | Information Architecture |
+| 2 | Falta un CTA principal claro en el hero. | 3 | Prioridad visual |
+| 3 | No se indica la sección activa en el menú. | 2 | Visibilidad del sistema |
+| 4 | Mezcla de español e inglés. | 2 | Consistencia / Lenguaje |
+| 5 | Búsqueda de talleres poco guiada. | 3 | Ayuda mínima |
+| 6 | Imágenes sin texto alternativo accesible. | 3 | Diseño inclusivo |
+| 7 | Formularios sin validación en tiempo real. | 3 | Prevención de errores |
+| 8 | Falta feedback después de solicitar un servicio. | 2 | Feedback y visibilidad |
+| 9 | Perfil sin claridad sobre qué se puede editar. | 2 | Control y libertad |
+| 10 | Disponibilidad de talleres poco clara. | 3 | Correspondencia con el mundo real |
+
+# Descripción de Problemas y Recomendaciones
+
+### P1. Propuesta de valor poco clara
+- **Severidad:** 3  
+- **Heurística:** *Information Architecture – Is it usable?*  
+- **Descripción:** El hero no explica claramente qué hace AutoFix ni a quién está dirigido. El usuario no entiende el propósito inicial.  
+- **Recomendación:** Añadir mensaje directo (“Encuentra talleres confiables cerca de ti”) y un mini flujo (Registrarse → Buscar → Reservar).
+
+### P2. Falta CTA principal en el hero
+- **Severidad:** 3  
+- **Heurística:** *Information Architecture – Prioridad visual*  
+- **Descripción:** No existe un CTA principal que guíe la acción del usuario; se pierde el camino inicial.  
+- **Recomendación:** Incorporar botones principales (“Buscar taller”, “Registrarme”) con color destacado y jerarquía clara.
+
+### P3. Navegación sin estado activo
+- **Severidad:** 2  
+- **Heurística:** *Usability – Visibilidad del estado del sistema*  
+- **Descripción:** El menú no muestra en qué sección se encuentra el usuario.  
+- **Recomendación:** Resaltar el enlace activo y usar `aria-current="page"` para accesibilidad.
+
+### P4. Inconsistencia de idioma (ES/EN)
+- **Severidad:** 2  
+- **Heurística:** *Consistencia – Lenguaje del usuario*  
+- **Descripción:** La interfaz mezcla español e inglés en botones y etiquetas.  
+- **Recomendación:** Unificar idioma o aplicar un sistema de internacionalización (i18n).
+
+### P5. Búsqueda poco guiada
+- **Severidad:** 3  
+- **Heurística:** *Usability – Ayuda mínima*  
+- **Descripción:** El buscador no indica qué se puede ingresar ni muestra mensajes útiles cuando no hay resultados.  
+- **Recomendación:** Mejorar placeholder (“Busca por distrito, nombre o servicio”) y mostrar estados de búsqueda.
+
+### P6. Imágenes sin texto alternativo
+- **Severidad:** 3  
+- **Heurística:** *Inclusive Design – Experiencias comparables*  
+- **Descripción:** Las imágenes informativas no tienen `alt`, afectando accesibilidad.  
+- **Recomendación:** Añadir `alt` descriptivos o `aria-hidden="true"` si son decorativas.
+
+### P7. Formularios sin validación en tiempo real
+- **Severidad:** 3  
+- **Heurística:** *Usability – Prevención de errores*  
+- **Descripción:** Los formularios no validan email, teléfono u obligatorios hasta el envío.  
+- **Recomendación:** Implementar validación inline y mensajes de error claros bajo cada campo.
+
+### P8. Falta de feedback después de solicitar un servicio
+- **Severidad:** 2  
+- **Heurística:** *Usability – Feedback del sistema*  
+- **Descripción:** Tras enviar una solicitud no se muestra confirmación clara ni detalles del envío.  
+- **Recomendación:** Agregar modal o toast indicando que la solicitud fue enviada y mostrar información del taller.
+
+### P9. Perfil sin indicación de edición
+- **Severidad:** 2  
+- **Heurística:** *Usability – Control y libertad del usuario*  
+- **Descripción:** Los campos del perfil no muestran claramente si son editables.  
+- **Recomendación:** Incluir botón “Editar perfil” y diferenciar visualmente el modo edición.
+
+### P10. Disponibilidad del taller poco clara
+- **Severidad:** 3  
+- **Heurística:** *Match with the real world – Comunicación clara*  
+- **Descripción:** No se muestran horarios, disponibilidad ni días de atención del taller.  
+- **Recomendación:** Añadir horarios visibles y estados de disponibilidad (abierto/cerrado, reserva en línea).
+
+### Conclusión
+
+AutoFix presenta una propuesta de valor interesante y alineada con la digitalización del sector automotriz en Perú. Sin embargo, se identifican oportunidades claras de mejora en:
+
+- Claridad de la propuesta de valor y del flujo principal.  
+- Accesibilidad (texto alternativo, contraste, feedback visual).  
+- Manejo de formularios y mensajes de error.  
+- Consistencia en idioma y diseño visual.  
+- Presencia de elementos de confianza (ayuda, soporte y legales).
+
+Trabajar estos puntos ayudará a:
+
+- Aumentar la confianza de los usuarios.  
+- Reducir errores y abandonos en el flujo.  
+- Facilitar la adopción tanto para dueños de vehículos como para talleres asociados.
+
+---
 
 ## 5.4. Video About-the-Product
 
 A continuación se presenta el video demostrativo del producto desarrollado durante el proyecto de la startup Prime-Fix.
 
 <img src="Assets/chapter-V/videos/about_the_product_thumbnail.png">
+
+Link del Video About The Product: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQAKCPbhnBsvSJLU2fp7Mcr3ATsQ-bLJZGatFN-zYojGHN8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2bdynV>
 
 ---
 
@@ -2437,6 +2702,8 @@ El desarrollo del proyecto se apoyó en herramientas clave como las User Stories
 En conjunto, el proyecto no solo permitió plasmar una solución funcional y escalable, sino que también demostró la capacidad del equipo para coordinarse de manera organizada, aplicar buenas prácticas de desarrollo y mantener un enfoque constante en la experiencia del usuario. "Prime-Fix" constituye así un avance significativo en la modernización de los servicios automotrices, estableciendo las bases para su futura evolución e implementación en un contexto real.
 
 El desarrollo de la Frontend Web Application utilizando Angular y TypeScript permitió crear una interfaz de usuario robusta y escalable. La aplicación está diseñada para ser intuitiva y accesible, facilitando la navegación y el uso tanto para dueños de vehículos como para talleres.
+
+La creación de los Web Services RESTful con C# y .NET Core proporcionó una base sólida para la lógica de negocio y la gestión de datos. Estos servicios permiten una comunicación eficiente entre el frontend y el backend, asegurando que las operaciones se realicen de manera segura y confiable.
 
 # Conclusiones y recomendaciones
 Durante el desarrollo del proyecto se recomienda mejorar la estandarización de los mensajes de commit siguiendo convenciones claras (por ejemplo, diferenciando entre feat, fix, docs, entre otros), así como especificar en los merge commits el propósito de la integración para mantener una trazabilidad adecuada. Asimismo, es aconsejable reforzar la organización de ramas empleando prefijos que identifiquen el tipo de trabajo realizado, lo que facilitaría la revisión y el control de cambios. En cuanto a la documentación, se sugiere unificar el estilo de las tablas, optimizar su presentación con títulos y descripciones, y asegurar consistencia en el uso de Markdown (encabezados, listas e imágenes), con el fin de mantener un formato más claro, profesional y fácil de interpretar. Finalmente, se recomienda mantener la rama principal siempre estable, aplicando revisiones mediante pull requests antes de la integración, lo que no solo asegura calidad en el código, sino también fomenta la colaboración efectiva entre los integrantes del equipo.
@@ -2460,13 +2727,19 @@ Link del repositorio de Github del Frontend Web Applications: [https://github.co
 
 Link del repositorio de Github del RESTful Web Services: [https://github.com/prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend)
 
-Link del despliegue de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)
+Link del despliegue de la Landing Page: [https://landing-page-app-web-gamma.vercel.app/](https://landing-page-app-web-gamma.vercel.app/)
 
 Link del despliegue del Frontend Application: [https://frontend-app-web-chi.vercel.app/](https://frontend-app-web-chi.vercel.app/)
 
 
 Link del Diagrama de Clases: [https://lucid.app/lucidchart/eb6fe88f-56d7-4914-b847-c77bdce717fa/edit?viewport_loc=-4049%2C-1831%2C10453%2C4825%2C0_0&invitationId=inv_89395be7-d9c0-44e9-9b5a-6a690082d61a](https://lucid.app/lucidchart/eb6fe88f-56d7-4914-b847-c77bdce717fa/edit?viewport_loc=-4049%2C-1831%2C10453%2C4825%2C0_0&invitationId=inv_89395be7-d9c0-44e9-9b5a-6a690082d61a)
 
-Link del Video de la Exposición de la TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/Ec1bLpaDm2JNs4u5wcjR6DUB_k65cqYALMxpxlAUdKPkOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5hIFLZ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/Ec1bLpaDm2JNs4u5wcjR6DUB_k65cqYALMxpxlAUdKPkOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5hIFLZ)
+Link del Video de la Exposición de la TB1: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQDNWy6Wg5tiTbOLucHI0eg1Af5OuXKmACzMacZQFHSj5Dg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=twQ5Wc>
 
-Link del Video de la Exposición de la TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EWFGLSqK6I9AluOSyh19joEBrevUefxZxswcHIndN53-jQ?e=sq1rPf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EWFGLSqK6I9AluOSyh19joEBrevUefxZxswcHIndN53-jQ?e=sq1rPf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Link del Video de la Exposición de la TP1: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQBhRi0qiuiPQJbjksodfY6BAc2goPhgFikkntPF2oydQic?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RD1miL>
+
+Link del Video de la Exposición de la TB2: <>
+
+Link del Video About The Team: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQD1UsDlJpVnQp-N7ISlUp8VAa43cVfvncVaI-Ta0ODgAwk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s98Thr>
+
+Link del Video About The Product: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQAKCPbhnBsvSJLU2fp7Mcr3ATsQ-bLJZGatFN-zYojGHN8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2bdynV>
