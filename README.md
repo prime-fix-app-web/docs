@@ -2297,8 +2297,66 @@ El Sprint Backlog 3 se centra en la implementación de los Web Services RESTful 
 
 
 ## 5.3. Validation Interviews
+
+Luego de haber avanzado con el desarrollo de la Landing Page y el deploy del front-end de la aplicación web y el API RESTful de PrimeFix, se realizarán las entrevistas de validación a los usuarios previamente entrevistados que corresponden a los segmentos objetivos para los cuales está dirigido el producto.
+
 ### 5.3.1. Diseño de Entrevistas
+
+Las preguntas para las entrevistas son:
+
+##### Landing Page
+¿Consideras que la información presentada sobre el producto es suficiente?
+¿Tuviste algún problema al ser direccionado a la aplicación de PrimeFix?
+##### Registro de Usuario
+¿Comprendes cómo funcionan las membresías de la aplicación web?
+¿Consideras intuitivo el proceso de registro de usuario?
+##### Menú inicial
+¿En algún momento te sentiste desorientado al explorar el panel?
+¿Te parece correcto mostrar las visitas agendadas en el “Menú Inicial”?
+##### Configuración
+¿Te parece que los campos a modificar son relevantes?
+##### Gestionar Coches
+¿Fue fácil agregar un nuevo coche?
+¿Qué mejorarías en la presentación de las tarjetas que contienen la información de los coches?
+¿Esta sección te ayuda a organizar mejor tus vehículos?
+##### Búsqueda de Taller y Programación de Cita
+¿Fue claro el flujo para buscar un taller de coches?
+¿Te parece que la información mostrada sobre el taller es suficiente?
+¿Fue fácil llenar la información para agendar la cita?
+¿Pudo comprender si se agendó la cita o no?
+##### Seguimiento de Estado de Coche
+¿Fue fácil entender la información sobre el estado del vehículo en tiempo real?
+¿Qué mejorarías en la presentación de este seguimiento?
+##### Pago y Calificación
+¿Fue fácil comprender el proceso de pago del servicio?
+¿Fue fácil comprender el proceso de calificación del servicio?
+¿Consideras que este apartado te ayudó a contribuir con la mejora del servicio?
+##### Gestión de Solicitudes
+¿Fue fácil comprender la gestión de solicitudes de servicio?
+##### Gestión de Técnicos
+¿Fue fácil comprender el proceso de añadir o editar información sobre un técnico?
+¿Consideras que los horarios están siendo registrados de manera correcta??
+¿Te gustaría poder añadir más información sobre los técnicos?
+##### Modificación de Estado de Coches
+¿Fue fácil comprender el proceso de añadir o editar el estado de un vehículo?
+¿Consideras relevante registrar el diagnóstico de la falla realizado por el técnico?
+
 ### 5.3.2. Registro de Entrevistas
+
+#### Segmento #1: Dueños de Vehiculos
+
+
+#### Segmento #2: Asesor de servicios de un taller automotriz
+- Sexo: Masculino
+- Edad: 21
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/IQB2LcBLH7ZnRIt04ZWCfeVzAS7e9tAzPBWASiqvD__DlCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gkBvjC)
+- Inicia en: 00:02
+- Duración: 23:49
+- Fecha: 05/11/2025
+
+<img src="Assets/chapter-V/entrevistas_validacion/segmento_2_entrevista_1.png">
+Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
