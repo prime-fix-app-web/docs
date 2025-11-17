@@ -2362,8 +2362,6 @@ Para el Sprint 3, se han identificado cuatro aspectos fundamentales que abarcan 
 | Aróstegui Alzamora, César Augusto        | Legendnt1             | L                                | C                                 | L                                 | L                                    |
 | Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                                | L                                 | C                                 | C                                    |
 | Tenorio Medina, Piero Francesco          | PieroTM2005             | C                                | C                                 | C                                 | C                                    |
-| Contreras Leon, Flor De María              | FlorDeMa             | C                                | C                                 | C                                 | C                                    |
-| Awad Vargas, Giorgio Marzouk        | GiorgioAwad             | C                                | C                                 | C                                 | C                                    |                                  |
 
 
 #### 5.2.3.3. Spring Backlog 3
@@ -2413,16 +2411,15 @@ Durante el Sprint 3, se logró la integración completa entre la Frontend Web Ap
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
 |----------------|------------|---------------|--------------------|-----------------------|-------------------------|
-| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/register-user | 4554e04 | feat: implement user management  | Implement user management features including creation, update, retrieval, and deletion of users | 03/11/2025 |
-| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/register-user | dcae0e7 | feat: implement user account | Implement user account management commands and queries, including creation, update, retrieval, and deletion  | 05/11/2025 |
-| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/maintenance-tracking | ecd7b50 | feat: implement vehicle | Implement vehicle management commands and queries, including creation, update, retrieval, and deletion  | 05/11/2025 |
-| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/maintenance-tracking | 380dbbb | feat: implement notification | Implement notification management commands and queries, including creation, update, retrieval, and deletion  | 05/11/2025 |
-| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/autorepair-catalog | 79ebecc | autorepair-register branch implementation  | Autorepair-register branch implementation | 11/11/2025 |
-| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/autorepair-register | 59faf5d | push layers  | Push layers | 11/11/2025 |
-| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/vehicle-diagnosis | dc621fd | feat: add create, update, delete, commands and assemblers for the bounded context VehicleDiagnosis  | Add create, update, delete, commands and assemblers for the bounded context VehicleDiagnosis | 10/11/2025 |
-| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/payment-service | b33dc01 | Add and update payment-service bounded context  | Add and update payment-service bounded context | 07/11/2025 |
-| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/data-collection | 3410219 | Add Data-Collection files  | Add Data-Collection files | 09/11/2025 |
-| [prime-fix-app-web/landing-page](https://github.com/prime-fix-app-web/landing-page) | development | 46f8c01 | feat: add new videos about the product | Add new videos about the product and about the team, including screenshots of the web application | 12/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/register-user | 3bd899a | feat: Implement user management features | Implement user management features with commands and queries for creating, updating, retrieving, and deleting users | 14/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/register-user | 049255d | feat: implement user account management | Implement user account management features including creation, update, retrieval, and deletion commands and requests  | 14/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/maintenance-tracking | 6b3b936 | feat: Implement vehicle management | Implement vehicle management functionality with commands and queries  | 14/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/maintenance-tracking | 0e34513 | feat: implement notification management | Implement notification management commands and queries with associated request and response models  | 14/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/autorepair-catalog | 79ebecc | feat: add commands and queries  | add commands and queries for managing technicians and their schedules | 15/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/autorepair-register | b43cd24 | feat: implement auto repair management  | Implement auto repair management commands and queries with associated request and response models | 14/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/payment-service | c4b3d8d | aeveloping PaymentService | Developing PaymentService Infrastructure & Interface | 15/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/collection-diagnosis | 4a45e60 | add Collection and Diagnosis BC files | Add Collection and Diagnosis BC files | 14/11/2025 |
+| [prime-fix-app-web/landing-page](https://github.com/prime-fix-app-web/landing-page) | development | d551340 | feat: add new screenshots from web application | Add new screenshots from web application and upload videos about the product an the team | 16/11/2025 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
@@ -2913,6 +2910,8 @@ Link del despliegue de la Landing Page: [https://landing-page-app-web-gamma.verc
 
 Link del despliegue del Frontend Application: [https://frontend-app-web-chi.vercel.app/](https://frontend-app-web-chi.vercel.app/)
 
+Link del despliegue del RESTful Web Services: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
+
 
 Link del Diagrama de Clases: [https://lucid.app/lucidchart/eb6fe88f-56d7-4914-b847-c77bdce717fa/edit?viewport_loc=-4049%2C-1831%2C10453%2C4825%2C0_0&invitationId=inv_89395be7-d9c0-44e9-9b5a-6a690082d61a](https://lucid.app/lucidchart/eb6fe88f-56d7-4914-b847-c77bdce717fa/edit?viewport_loc=-4049%2C-1831%2C10453%2C4825%2C0_0&invitationId=inv_89395be7-d9c0-44e9-9b5a-6a690082d61a)
 
@@ -2920,7 +2919,7 @@ Link del Video de la Exposición de la TB1: <https://upcedupe-my.sharepoint.com/
 
 Link del Video de la Exposición de la TP1: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQBhRi0qiuiPQJbjksodfY6BAc2goPhgFikkntPF2oydQic?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RD1miL>
 
-Link del Video de la Exposición de la TB2: <>
+Link del Video de la Exposición de la TB2: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQBsdjWNMEfzRZmzPdc242p0AW3jA4y73_iJyjDlv9Di73g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xGvsRa>
 
 Link del Video About The Team: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQD1UsDlJpVnQp-N7ISlUp8VAa43cVfvncVaI-Ta0ODgAwk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s98Thr>
 
