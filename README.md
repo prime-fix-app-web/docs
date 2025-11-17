@@ -67,6 +67,8 @@
 |   TB2   | 16/11/2025 | Piero Francesco Tenorio Medina | En esta entrega me encargue de desarrollar el Bounded Context de Diagnosis and Data Collection en el apartado del backend. Pude compartir mis dudas y las distintas sugerencias de cambio con respecto a distintos apartados del trabajo. |
 |   TB2   | 16/11/2025  | Gianmarco Fabian Jiménez Guerra                                           |  En esta entrega desarrollé el Bounded Context de Payment Service en el apartado del backend, pude formular las preguntas para las entrevistas de validación y realicé una entrevista a un asesor de servicios automotrices. |
 |   TB2   | 16/11/2025  | Giorgio Marzouk Awad Vargas                                           |  En esta entrega me encargué de desarrollar con la documentación y realización del Sprint 3, incluyendo el objetivo del Sprint 3, Sprint Planning y Sprint Backlog 3. |
+|  TB2   | 16/11/2025  | Flor De María Contreras Leon                                              |  En esta entrega participé en la planificación y documentación del Sprint 3, detallando su objetivo, la planificación y su Sprint Backlog. Estas tareas ayudaron a mantener claridad en las actividades del sprint y aseguraron que todos los integrantes tuvieran visibilidad sobre el progreso y las tareas por completar. |
+|  TB2   | 16/11/2025  | Cesar Augusto Arostegui Alzamora                                          | En esta entrega participé en la planificación y documentación del Sprint 3, me encargue de mis bounded contexts en el RESTful Web Services y desplegar todo el Web Services con el servicio en la nube de AWS |
 </div>
 
 # Project Report Collaboration Insights  
@@ -182,8 +184,8 @@ En el siguiente cuadro se presentan las acciones desarrolladas por el grupo, jun
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| 1. Trabaja en equipo para proporcionar liderazgo    |**Flor De Maria Contreras Leon** <br> **TB1:**  Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto como 1.2.2.1. Lean UX Problem Statements, 1.2.2.2. Lean UX Assumptions y 1.2.2.3. Lean UX Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, de manera que se estableciera una base conceptual sólida para estructurar el producto. Con ello se fortaleció la organización del trabajo y se aseguró que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo.<br><br> **TP1:** En el TP1, lideré el desarrollo del Bounded Context de Auto Repair Registration, implementando funcionalidades para la gestión de registros de reparación de automóviles y la administración de técnicos en talleres automotrices. También trabajé en la integración de este contexto con otros bounded contexts, asegurando la coherencia en la implementación del sistema. <br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:**  Logré contribuir y organizarme con el grupo para el desarrollo de Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.<br><br>**TP1:** Logré contribuir con: Mejora de algunos Mockups, reorganización de algunas historias de usuario, Sprint 2 (desarrollo de mi bounded context)<br><br>**TB2:** Pude contribuir y organizarme con el grupo para el desarrollo de las preguntas de las entrevistas de validación y para realizar una de las entrevistas. Además desarrollé el backend de mi bounded context. <br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Participé liderando la elaboración de secciones analíticas y estratégicas del informe como Antecedentes y problemática, Lean UX Canvas, Análisis competitivo, Estrategias y tácticas frente a competidores, además de User Journey Mapping, Empathy Mapping, Source Code Style & Conventions y Software Deployment Configurations. Estas contribuciones aportaron claridad al contexto del proyecto, estructuración de la propuesta de valor y lineamientos técnicos de implementación. <br><br>**TP1:** Durante el TP1, lideré el desarrollo del Bounded Context de Auto Repair Catalog, implementando funcionalidades clave como la búsqueda de talleres con filtros avanzados y ubicación geográfica. Además, trabajé en la integración de este contexto con otros bounded contexts, asegurando la coherencia en la arquitectura del sistema. También realicé pruebas unitarias para validar las funcionalidades implementadas. <br><br> **TB2:** En el TB2 participé en la planificación y documentación del Sprint 3, detallando su objetivo, la planificación y su Sprint Backlog. Estas tareas ayudaron a mantener claridad en las actividades del sprint y aseguraron que todos los integrantes tuvieran visibilidad sobre el progreso y las tareas por completar. <br><br> **Piero Francesco Tenorio Media** <br> **TB1:** Durante el desarrollo del trabajo, realice y participe de manera activa en el grupo de trabajo. Se me llegó a asignar los puntos de Diagrama de Clases, Diagramas de Arquitectura de Software, el desarrollo de las User Stories y el desarrollo de los Segmentos Objetivos.<br><br>**TP1:** Para esta entrega se me ha sido asignado el desarrollo del Bounded Context de Data Collection and Diagnosis. Para poder plasmar el BC se solicitó ayuda y opiniones a integrantes del grupo sobre el enfoque que se debería dar a esta funcionalidad, tomando en cuenta opiniones y retroalimentación de cada integrante.<br><br> **Tb2:** Para esta entrega me vi en la tarea de verificar el funcionamiento de los BC, sugiriendo cambios para un mejor funcionamiento del producto. Trabaje el backend de mi BC designado, implementado y comprobando la distribucion asiganda para cada BC.<br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** En el desarrollo del proyecto participé en la elaboración del Ubiquitous Language, lo que permitió que todos los integrantes del equipo compartiéramos un mismo entendimiento de los términos del dominio. También diseñé la parte de UX/UI de la aplicación web, propuse la arquitectura de software siguiendo principios de Domain-Driven Design, elaboré diagramas de clases para representar las entidades principales del sistema y realicé la primera versión de la Landing Page, junto con la implementación inicial de servicios y aplicaciones<br><br>**TP1:**<br> Durante el TP1, lideré el desarrollo del Bounded Context de IAM y Maintenance Tracking, implementando funcionalidades clave para la gestión de identidades y el seguimiento de mantenimiento de vehículos. Además, trabajé en la integración de este contexto con otros bounded contexts, asegurando la coherencia en la arquitectura del sistema. También realicé pruebas de integración para validar el correcto funcionamiento del sistema. |**Flor De Maria Contreras Leon** <br>  **TB1:** Mi participación en la elaboración de los apartados vinculados a Lean UX (Problem Statements, Assumptions e Hypothesis Statements) permitió brindar liderazgo en la identificación y organización de los problemas centrales del proyecto. Esto contribuyó a guiar al equipo hacia una visión compartida y a alinear los esfuerzos individuales con los objetivos generales del trabajo.<br><br>**TP1:** El desarrollo del Bounded Context de Auto Repair Registration permitió estructurar un sistema eficiente para la gestión de talleres y técnicos. Esto contribuyó a mejorar la organización interna de los talleres y a garantizar una experiencia de usuario más fluida y confiable. <br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:** Mi aporte principalmente en el capítulo IV fue de gran ayuda par apoder proporcionar una visión clara de lo que buscamos tener en el aplicativo, ello lo realicé coordinando y organizando las tareas con mis compañeros.<br><br>**TP1:** Para esta segunda entrega, pude aportar con algunas correcciones de la entrega anterior y principalmente, en el capítulo V con el desarrollo del bounded context payment-service, para el cual hubo previas coordinaciones con mis compañeros.<br><br>**TB2:** Para esta entrega, me centré en las entrevistas de validación y en el desarrollo del bounded context payment-service para el apartado del backend<br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Mis aportes permitieron consolidar el enfoque estratégico y competitivo del proyecto, además de establecer convenciones de código y configuraciones de despliegue que guiarán al equipo en fases posteriores, asegurando coherencia técnica y sostenibilidad en el desarrollo. <br><br> **TP1:** Mi liderazgo en el desarrollo del Bounded Context de Auto Repair Catalog permitió consolidar una funcionalidad esencial para los usuarios, asegurando una experiencia fluida y confiable. La integración con otros bounded contexts fortaleció la cohesión del sistema, mientras que las pruebas unitarias garantizaron la calidad del código. <br><br> **TB2:** Mis aportes permitieron fortalecer el análisis estratégico del proyecto y establecer bases conceptuales y técnicas que guiaron el trabajo del equipo. Si bien no asumí un rol de liderazgo formal, contribuí activamente al orden, la coherencia y el entendimiento común del proyecto, lo que ayudó a que el equipo pueda avanzar alineado. <br><br> **Piero Francesco Tenorio Medina** <br> **TB1:** Los aportes realizados para los distintos capitulos fueron fundamentales para el desarrollo completo del trabajo. Poder identificar y investigar me permitió centrarnos en el correcto desarrollo del trabajo. <br><br>**TP1:**<br>Mi aporte dentro de esta entrega está mas vinculado a la sección de mi Bounded Context. Enlazar las distintas funcionalidades, dentro de lo que abarca lo delimitado, con los demás BC, estableciendo una comunicacion constante con los integrantes del equipo.<br>**TB2:** Los aportes que se realizaron dentro de esta entrega fuen con respecto a mi boudend Context designado, además de entrevistar a las personas designadas, me permitió verificar las distintas funcionaliddes asignadas a la aplicación. <br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** Estas actividades me permitieron asumir un rol de liderazgo técnico dentro del equipo, ya que ayudaron a organizar el proyecto desde sus primeras fases y a orientar a mis compañeros en la construcción de los entregables. Considero que este trabajo conjunto fortaleció la coordinación del grupo y facilitó que logremos los primeros resultados de manera ordenada y clara. <br><br>**TP1:** <br> Mi liderazgo en el desarrollo del Bounded Context de IAM y Maintenance Tracking permitió consolidar una funcionalidad esencial para la gestión de usuarios y vehículos. La integración con otros bounded contexts fortaleció la interoperabilidad del sistema, mientras que las pruebas garantizaron la calidad y confiabilidad del código.|
-| 2. Crea un entorno colaborativo, establece metas, planifica tareas y cumple objetivos | **Flor De Maria Contreras Leon** <br> **TB1:**   Contribuí a crear un entorno colaborativo, estableciendo metas y cumpliendo objetivos mediante la elaboración de entregables como 2.3.1. User Personas, 2.3.2. User Task Matrix, 2.4. Big Picture Event Storming, 3.1. To-Be Scenario Mapping, 3.3. Impact Mapping y 3.2. User Stories, además de secciones técnicas como 4.1. Style Guidelines, 3.4. Product Backlog y la configuración en 5.1. Software Configuration Management. Estas contribuciones hicieron posible cumplir con los objetivos del TB1, fomentar la colaboración entre los integrantes y garantizar insumos consistentes para avanzar en las siguientes fases del proyecto.<br><br>**TP1:** Trabajé en equipo para definir las metas y tareas relacionadas con el desarrollo del Bounded Context de Auto Repair Registration. Realicé reuniones periódicas con los integrantes para recibir retroalimentación y ajustar las funcionalidades según las necesidades del proyecto. <br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:** Junto con mis compañeros, pude avanzar cada una de mis partes especificadas previamente estableciendo algunas metas semanales y organizándonos mediante reuniones virtuales, ello me permitió cumplir de manera exitosa con cada una de las tareas asignadas.<br><br>**TP1:** Para esta entrega, el desarrollo del frontend requería realizar reuniones y coordinacions para asignar cada bounded context a cada integrante. De esta manera, ya se tendrían clara las metas a cumplir para la entrega.<br><br>**TB2:** En esta entrega, participé en reuniones donde se aprobaron las preguntas, entrevistas y también se realizó la prueba de lo que codifiqué para el backend.<br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Colaboré en la planificación de tareas relacionadas con la fundamentación del proyecto y la estrategia frente a competidores, lo que aseguró que el equipo tuviera un marco claro para avanzar. Asimismo, mi trabajo en User Journey y Empathy Mapping facilitó la alineación de objetivos del equipo con las necesidades reales de los usuarios. <br><br>**TP1:** Colaboré activamente con el equipo para planificar y coordinar las tareas relacionadas con el desarrollo del Bounded Context de Auto Repair Catalog. Participé en reuniones de sincronización para asegurar que las metas del sprint fueran alcanzadas y que las funcionalidades estuvieran alineadas con los objetivos del proyecto. <br><br> **TB2:** Participé en la planificación del Sprint 3, aportando en la definición de tareas, prioridades y estructura del backlog. Esto ayudó a organizar el trabajo de manera clara y a asegurar que todos los integrantes avanzaran según los objetivos acordados. <br><br> **Piero Francesco Tenorio Medina**  <br>**TB1:** Junto a los integrantes del grupo, pude avanzar con los distintos puntos asignados en el trabajo. Todo gracias a una comunicación constante y acertiva sobre los distintos puntos en los que cada integrante presentaba dudas. <br><br>**TP1:** Para esta entrega se estableció la meta de implemntar las distintas funcionalides asignadas para el BC, para ellos se solicitó y se conversó con los distintos integrantes del grupo. Buscando soluciones y realizando pruebas sobre el funcionamiento de las distintas herramientas a utilizar.<br><br>**TB2:** Para esta entrea se estableció la meta de construir el funcionamieto de nuestro Backend como grupo con la finalidad de integrarse para la entrega asignada. Cada cambio se evaluó y converso con los disiontos integrantes del grupo.  <br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** Además de las tareas técnicas, apoyé en la planificación de los objetivos iniciales del proyecto, definiendo junto con mis compañeros las metas alcanzables para el sprint. Contribuí a generar un entorno colaborativo compartiendo avances y resolviendo dudas en equipo, especialmente durante la elaboración de la Landing Page y la implementación de los servicios. Las actividades como el Ubiquitous Language y los diagramas de clases también facilitaron la distribución de tareas, ya que sirvieron como guía común para todo el grupo.<br><br>**TP1:** Colaboré con el equipo para planificar y coordinar las tareas relacionadas con el desarrollo del Bounded Context de IAM y Maintenance Tracking. Participé en reuniones de sincronización para asegurar que las metas del sprint fueran alcanzadas y que las funcionalidades estuvieran alineadas con los objetivos del proyecto.<br> | **Flor De Maria Contreras Leon** <br> **TB1:**   Al desarrollar entregables como User Personas, User Task Matrix, Big Picture Event Storming, To-Be Scenario Mapping, Impact Mapping, User Stories y Product Backlog, propicié un entorno colaborativo en el que cada integrante pudo aportar de manera ordenada. Gracias a la planificación de estas tareas y a la definición de metas claras, se alcanzaron los objetivos propuestos en el TB1, consolidando un avance estructurado y efectivo del proyecto.<br><br>**TP1:** La colaboración y comunicación constante con el equipo facilitaron el desarrollo exitoso del Bounded Context de Auto Repair Registration. Esto garantizó que las funcionalidades implementadas cumplieran con los requisitos técnicos y de usuario establecidos. <br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:** Parte importante de mi avance fue desarrollar el aplicativo en Figma, para ello, tuve que establecer metas con el fin de que mis compañeros puedan ver mis avances y poder aprobarlos entre todos. Además, ello me sirvió para reforzar mis conocimientos sobre Figma.<br><br>**TP1:** En este caso, lo principal fue desarrollar mi bounded context aplicando lo aprendido en clase y, en este caso, con vistas más personalizadas a lo que corresponde el aplicativo. Con ello, considero que he aprendido más sobre vue y sobre el consumo de apis.<br><br>**TB2:** En este avance pude mejorar la manera en la que comprendo los requisitos de desarrollo de software y también pude reforzar lo aprendido en clase sobre el backend junto con el apoyo de mis compañeros.<br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Mi aporte ayudó a que el grupo tuviera claridad en los antecedentes, contexto y lineamientos técnicos. Esto favoreció la organización colectiva y el cumplimiento de objetivos con base en una visión estratégica y de valor frente al mercado. <br><br>**TP1:** La planificación y colaboración constante con el equipo permitieron cumplir con los objetivos del sprint de manera eficiente. Esto aseguró que el Bounded Context de Auto Repair Catalog estuviera completamente integrado y funcional dentro del sistema. <br><br> **TB2:** Mi participación contribuyó a generar un entorno colaborativo basado en comunicación constante, claridad de tareas y apoyo mutuo. Las actividades realizadas durante los sprints me permitieron trabajar de manera organizada, adaptarme a los ritmos del equipo y cumplir con los objetivos acordados. El proceso también reforzó mi capacidad para planificar tareas, coordinar actividades y organizar mis responsabilidades dentro del proyecto. <br><br> **Piero Francesco Tenorio Medina** <br> **TB1:** Una de las secciones importantes de lo que he desarrollado seria el planteamiento de algunas User Stories que abarcan un completo Bounded Context. Además de los distintos diagramas, tanto el de Clases y el de Base de Datos. Esto me sirvió para poder reforzar los conocimientos adquiridos previamente. <br><br>**TP1:** Gracias al desarrollo de mi Bounded Context pudimos establecer limites y metas claves sobre el trabajo a realizar. Esto llegó a favorecer a los distintos integrantes pertenecientes al grupo sobre la extensión del proyecto.<br><br>**TB2:** Gracias al desarrollo del Backend de mi BC pude establecer con mi grupo las limitantes de cada parte asignada. Además de conversar sobre la estructura a seguir para la implmentación a futuro de nuevas caracteristicas.<br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** Gracias a estas acciones el equipo pudo organizarse mejor y avanzar de forma colaborativa. Se logró cumplir los objetivos del sprint inicial y cada integrante tuvo claro cómo aportar en el desarrollo. Este proceso me permitió mejorar mi capacidad de trabajar en grupo, tomar decisiones en conjunto y valorar la importancia de la planificación para cumplir con los entregables a tiempo. <br><br>**TP1:**<br> La colaboración y planificación efectiva permitieron cumplir con los objetivos del sprint de manera eficiente. Esto aseguró que el Bounded Context de IAM y Maintenance Tracking estuviera completamente integrado y funcional dentro del sistema.|
+| 1. Trabaja en equipo para proporcionar liderazgo    |**Flor De Maria Contreras Leon** <br> **TB1:**  Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto como 1.2.2.1. Lean UX Problem Statements, 1.2.2.2. Lean UX Assumptions y 1.2.2.3. Lean UX Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, de manera que se estableciera una base conceptual sólida para estructurar el producto. Con ello se fortaleció la organización del trabajo y se aseguró que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo.<br><br> **TP1:** En el TP1, lideré el desarrollo del Bounded Context de Auto Repair Registration, implementando funcionalidades para la gestión de registros de reparación de automóviles y la administración de técnicos en talleres automotrices. También trabajé en la integración de este contexto con otros bounded contexts, asegurando la coherencia en la implementación del sistema. <br><br> **TB2:** Durante el Sprint 3, demostré mis competencias en el desarrollo de software al lograr la integración completa frontend-backend de Prime-Fix, implementando servicios RESTful robustos y pruebas end-to-end. <br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:**  Logré contribuir y organizarme con el grupo para el desarrollo de Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.<br><br>**TP1:** Logré contribuir con: Mejora de algunos Mockups, reorganización de algunas historias de usuario, Sprint 2 (desarrollo de mi bounded context)<br><br>**TB2:** Pude contribuir y organizarme con el grupo para el desarrollo de las preguntas de las entrevistas de validación y para realizar una de las entrevistas. Además desarrollé el backend de mi bounded context. <br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Participé liderando la elaboración de secciones analíticas y estratégicas del informe como Antecedentes y problemática, Lean UX Canvas, Análisis competitivo, Estrategias y tácticas frente a competidores, además de User Journey Mapping, Empathy Mapping, Source Code Style & Conventions y Software Deployment Configurations. Estas contribuciones aportaron claridad al contexto del proyecto, estructuración de la propuesta de valor y lineamientos técnicos de implementación. <br><br>**TP1:** Durante el TP1, lideré el desarrollo del Bounded Context de Auto Repair Catalog, implementando funcionalidades clave como la búsqueda de talleres con filtros avanzados y ubicación geográfica. Además, trabajé en la integración de este contexto con otros bounded contexts, asegurando la coherencia en la arquitectura del sistema. También realicé pruebas unitarias para validar las funcionalidades implementadas. <br><br> **TB2:** En el TB2 participé en la planificación y documentación del Sprint 3, detallando su objetivo, la planificación y su Sprint Backlog. Estas tareas ayudaron a mantener claridad en las actividades del sprint y aseguraron que todos los integrantes tuvieran visibilidad sobre el progreso y las tareas por completar. <br><br> **Piero Francesco Tenorio Media** <br> **TB1:** Durante el desarrollo del trabajo, realice y participe de manera activa en el grupo de trabajo. Se me llegó a asignar los puntos de Diagrama de Clases, Diagramas de Arquitectura de Software, el desarrollo de las User Stories y el desarrollo de los Segmentos Objetivos.<br><br>**TP1:** Para esta entrega se me ha sido asignado el desarrollo del Bounded Context de Data Collection and Diagnosis. Para poder plasmar el BC se solicitó ayuda y opiniones a integrantes del grupo sobre el enfoque que se debería dar a esta funcionalidad, tomando en cuenta opiniones y retroalimentación de cada integrante.<br><br> **TB2:** Para esta entrega me vi en la tarea de verificar el funcionamiento de los BC, sugiriendo cambios para un mejor funcionamiento del producto. Trabaje el backend de mi BC designado, implementado y comprobando la distribucion asiganda para cada BC.<br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** En el desarrollo del proyecto participé en la elaboración del Ubiquitous Language, lo que permitió que todos los integrantes del equipo compartiéramos un mismo entendimiento de los términos del dominio. También diseñé la parte de UX/UI de la aplicación web, propuse la arquitectura de software siguiendo principios de Domain-Driven Design, elaboré diagramas de clases para representar las entidades principales del sistema y realicé la primera versión de la Landing Page, junto con la implementación inicial de servicios y aplicaciones<br><br>**TP1:**<br> Durante el TP1, lideré el desarrollo del Bounded Context de IAM y Maintenance Tracking, implementando funcionalidades clave para la gestión de identidades y el seguimiento de mantenimiento de vehículos. Además, trabajé en la integración de este contexto con otros bounded contexts, asegurando la coherencia en la arquitectura del sistema. También realicé pruebas de integración para validar el correcto funcionamiento del sistema.<br><br>**TB2:** Durante la TB2, lideré el desarrollo de los bounded contexts de IAM y Maintenance Tracking en el RESTful Web Services para consiguiente poder desplegarlo en AWS.  |**Flor De Maria Contreras Leon** <br>  **TB1:** Mi participación en la elaboración de los apartados vinculados a Lean UX (Problem Statements, Assumptions e Hypothesis Statements) permitió brindar liderazgo en la identificación y organización de los problemas centrales del proyecto. Esto contribuyó a guiar al equipo hacia una visión compartida y a alinear los esfuerzos individuales con los objetivos generales del trabajo.<br><br>**TP1:** El desarrollo del Bounded Context de Auto Repair Registration permitió estructurar un sistema eficiente para la gestión de talleres y técnicos. Esto contribuyó a mejorar la organización interna de los talleres y a garantizar una experiencia de usuario más fluida y confiable.<br><br> **TB2:** El Sprint 3 culminó con la integración exitosa del frontend y backend de Prime-Fix, estableciendo una arquitectura sólida basada en principios SOLID y patrones CQRS. Esta base técnica robusta, respaldada por pruebas end-to-end y un manejo efectivo de errores, garantiza la escalabilidad y mantenibilidad de la plataforma para futuras evoluciones. <br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:** Mi aporte principalmente en el capítulo IV fue de gran ayuda par apoder proporcionar una visión clara de lo que buscamos tener en el aplicativo, ello lo realicé coordinando y organizando las tareas con mis compañeros.<br><br>**TP1:** Para esta segunda entrega, pude aportar con algunas correcciones de la entrega anterior y principalmente, en el capítulo V con el desarrollo del bounded context payment-service, para el cual hubo previas coordinaciones con mis compañeros.<br><br>**TB2:** Para esta entrega, me centré en las entrevistas de validación y en el desarrollo del bounded context payment-service para el apartado del backend<br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Mis aportes permitieron consolidar el enfoque estratégico y competitivo del proyecto, además de establecer convenciones de código y configuraciones de despliegue que guiarán al equipo en fases posteriores, asegurando coherencia técnica y sostenibilidad en el desarrollo. <br><br> **TP1:** Mi liderazgo en el desarrollo del Bounded Context de Auto Repair Catalog permitió consolidar una funcionalidad esencial para los usuarios, asegurando una experiencia fluida y confiable. La integración con otros bounded contexts fortaleció la cohesión del sistema, mientras que las pruebas unitarias garantizaron la calidad del código. <br><br> **TB2:** Mis aportes permitieron fortalecer el análisis estratégico del proyecto y establecer bases conceptuales y técnicas que guiaron el trabajo del equipo. Si bien no asumí un rol de liderazgo formal, contribuí activamente al orden, la coherencia y el entendimiento común del proyecto, lo que ayudó a que el equipo pueda avanzar alineado. <br><br> **Piero Francesco Tenorio Medina** <br> **TB1:** Los aportes realizados para los distintos capitulos fueron fundamentales para el desarrollo completo del trabajo. Poder identificar y investigar me permitió centrarnos en el correcto desarrollo del trabajo. <br><br>**TP1:**<br>Mi aporte dentro de esta entrega está mas vinculado a la sección de mi Bounded Context. Enlazar las distintas funcionalidades, dentro de lo que abarca lo delimitado, con los demás BC, estableciendo una comunicacion constante con los integrantes del equipo.<br>**TB2:** Los aportes que se realizaron dentro de esta entrega fuen con respecto a mi boudend Context designado, además de entrevistar a las personas designadas, me permitió verificar las distintas funcionaliddes asignadas a la aplicación. <br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** Estas actividades me permitieron asumir un rol de liderazgo técnico dentro del equipo, ya que ayudaron a organizar el proyecto desde sus primeras fases y a orientar a mis compañeros en la construcción de los entregables. Considero que este trabajo conjunto fortaleció la coordinación del grupo y facilitó que logremos los primeros resultados de manera ordenada y clara. <br><br>**TP1:** <br> Mi liderazgo en el desarrollo del Bounded Context de IAM y Maintenance Tracking permitió consolidar una funcionalidad esencial para la gestión de usuarios y vehículos. La integración con otros bounded contexts fortaleció la interoperabilidad del sistema, mientras que las pruebas garantizaron la calidad y confiabilidad del código.<br><br>**TB2:** Mi liderazgo en el desarrollo de los bounded context de IAM y Maintenance Tracking en el RESTful Web Services permitió consolidar liderazgo y contribución al trabajo. |
+| 2. Crea un entorno colaborativo, establece metas, planifica tareas y cumple objetivos | **Flor De Maria Contreras Leon** <br> **TB1:**   Contribuí a crear un entorno colaborativo, estableciendo metas y cumpliendo objetivos mediante la elaboración de entregables como 2.3.1. User Personas, 2.3.2. User Task Matrix, 2.4. Big Picture Event Storming, 3.1. To-Be Scenario Mapping, 3.3. Impact Mapping y 3.2. User Stories, además de secciones técnicas como 4.1. Style Guidelines, 3.4. Product Backlog y la configuración en 5.1. Software Configuration Management. Estas contribuciones hicieron posible cumplir con los objetivos del TB1, fomentar la colaboración entre los integrantes y garantizar insumos consistentes para avanzar en las siguientes fases del proyecto.<br><br>**TP1:** Trabajé en equipo para definir las metas y tareas relacionadas con el desarrollo del Bounded Context de Auto Repair Registration. Realicé reuniones periódicas con los integrantes para recibir retroalimentación y ajustar las funcionalidades según las necesidades del proyecto.<br><br> **TB2:**  He demostrado capacidad para adaptar mi comunicación escrita a diferentes audiencias. Para el equipo técnico, desarrollé documentación detallada de APIs y arquitectura en el Bounded Context de Collection & Diagnosis. Para stakeholders, redacté reportes de sprint con lenguaje claro centrado en beneficios de la integración frontend-backend. Y mediante commits descriptivos como "Add Application files in Collection and Diagnosis BC <br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:** Junto con mis compañeros, pude avanzar cada una de mis partes especificadas previamente estableciendo algunas metas semanales y organizándonos mediante reuniones virtuales, ello me permitió cumplir de manera exitosa con cada una de las tareas asignadas.<br><br>**TP1:** Para esta entrega, el desarrollo del frontend requería realizar reuniones y coordinacions para asignar cada bounded context a cada integrante. De esta manera, ya se tendrían clara las metas a cumplir para la entrega.<br><br>**TB2:** En esta entrega, participé en reuniones donde se aprobaron las preguntas, entrevistas y también se realizó la prueba de lo que codifiqué para el backend.<br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Colaboré en la planificación de tareas relacionadas con la fundamentación del proyecto y la estrategia frente a competidores, lo que aseguró que el equipo tuviera un marco claro para avanzar. Asimismo, mi trabajo en User Journey y Empathy Mapping facilitó la alineación de objetivos del equipo con las necesidades reales de los usuarios. <br><br>**TP1:** Colaboré activamente con el equipo para planificar y coordinar las tareas relacionadas con el desarrollo del Bounded Context de Auto Repair Catalog. Participé en reuniones de sincronización para asegurar que las metas del sprint fueran alcanzadas y que las funcionalidades estuvieran alineadas con los objetivos del proyecto. <br><br> **TB2:** Participé en la planificación del Sprint 3, aportando en la definición de tareas, prioridades y estructura del backlog. Esto ayudó a organizar el trabajo de manera clara y a asegurar que todos los integrantes avanzaran según los objetivos acordados. <br><br> **Piero Francesco Tenorio Medina**  <br>**TB1:** Junto a los integrantes del grupo, pude avanzar con los distintos puntos asignados en el trabajo. Todo gracias a una comunicación constante y acertiva sobre los distintos puntos en los que cada integrante presentaba dudas. <br><br>**TP1:** Para esta entrega se estableció la meta de implemntar las distintas funcionalides asignadas para el BC, para ellos se solicitó y se conversó con los distintos integrantes del grupo. Buscando soluciones y realizando pruebas sobre el funcionamiento de las distintas herramientas a utilizar.<br><br>**TB2:** Para esta entrea se estableció la meta de construir el funcionamieto de nuestro Backend como grupo con la finalidad de integrarse para la entrega asignada. Cada cambio se evaluó y converso con los disiontos integrantes del grupo.  <br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** Además de las tareas técnicas, apoyé en la planificación de los objetivos iniciales del proyecto, definiendo junto con mis compañeros las metas alcanzables para el sprint. Contribuí a generar un entorno colaborativo compartiendo avances y resolviendo dudas en equipo, especialmente durante la elaboración de la Landing Page y la implementación de los servicios. Las actividades como el Ubiquitous Language y los diagramas de clases también facilitaron la distribución de tareas, ya que sirvieron como guía común para todo el grupo.<br><br>**TP1:** Colaboré con el equipo para planificar y coordinar las tareas relacionadas con el desarrollo del Bounded Context de IAM y Maintenance Tracking. Participé en reuniones de sincronización para asegurar que las metas del sprint fueran alcanzadas y que las funcionalidades estuvieran alineadas con los objetivos del proyecto.<br><br> **TB2:** Con todas las tareas técnicas, se pudo lograr la planificación efectiva de la documentación con OpenApi y el despliegue efectivo del RESTful Web Services. | **Flor De Maria Contreras Leon** <br> **TB1:**   Al desarrollar entregables como User Personas, User Task Matrix, Big Picture Event Storming, To-Be Scenario Mapping, Impact Mapping, User Stories y Product Backlog, propicié un entorno colaborativo en el que cada integrante pudo aportar de manera ordenada. Gracias a la planificación de estas tareas y a la definición de metas claras, se alcanzaron los objetivos propuestos en el TB1, consolidando un avance estructurado y efectivo del proyecto.<br><br>**TP1:** La colaboración y comunicación constante con el equipo facilitaron el desarrollo exitoso del Bounded Context de Auto Repair Registration. Esto garantizó que las funcionalidades implementadas cumplieran con los requisitos técnicos y de usuario establecidos.<br><br> **TB2:** Este proyecto demostró mi capacidad para comunicar efectivamente con diferentes audiencias, adaptando el lenguaje técnico para desarrolladores, stakeholders y usuarios finales. La experiencia reforzó mis competencias en trabajo colaborativo, desarrollo de software calidad y presentación de resultados técnicos de manera clara y persuasiva. <br><br> **Gianmarco Fabian Jiménez Guerra** <br> **TB1:** Parte importante de mi avance fue desarrollar el aplicativo en Figma, para ello, tuve que establecer metas con el fin de que mis compañeros puedan ver mis avances y poder aprobarlos entre todos. Además, ello me sirvió para reforzar mis conocimientos sobre Figma.<br><br>**TP1:** En este caso, lo principal fue desarrollar mi bounded context aplicando lo aprendido en clase y, en este caso, con vistas más personalizadas a lo que corresponde el aplicativo. Con ello, considero que he aprendido más sobre vue y sobre el consumo de apis.<br><br>**TB2:** En este avance pude mejorar la manera en la que comprendo los requisitos de desarrollo de software y también pude reforzar lo aprendido en clase sobre el backend junto con el apoyo de mis compañeros.<br><br> **Giorgio Marzouk Awad Vargas** <br> **TB1:** Mi aporte ayudó a que el grupo tuviera claridad en los antecedentes, contexto y lineamientos técnicos. Esto favoreció la organización colectiva y el cumplimiento de objetivos con base en una visión estratégica y de valor frente al mercado. <br><br>**TP1:** La planificación y colaboración constante con el equipo permitieron cumplir con los objetivos del sprint de manera eficiente. Esto aseguró que el Bounded Context de Auto Repair Catalog estuviera completamente integrado y funcional dentro del sistema. <br><br> **TB2:** Mi participación contribuyó a generar un entorno colaborativo basado en comunicación constante, claridad de tareas y apoyo mutuo. Las actividades realizadas durante los sprints me permitieron trabajar de manera organizada, adaptarme a los ritmos del equipo y cumplir con los objetivos acordados. El proceso también reforzó mi capacidad para planificar tareas, coordinar actividades y organizar mis responsabilidades dentro del proyecto. <br><br> **Piero Francesco Tenorio Medina** <br> **TB1:** Una de las secciones importantes de lo que he desarrollado seria el planteamiento de algunas User Stories que abarcan un completo Bounded Context. Además de los distintos diagramas, tanto el de Clases y el de Base de Datos. Esto me sirvió para poder reforzar los conocimientos adquiridos previamente. <br><br>**TP1:** Gracias al desarrollo de mi Bounded Context pudimos establecer limites y metas claves sobre el trabajo a realizar. Esto llegó a favorecer a los distintos integrantes pertenecientes al grupo sobre la extensión del proyecto.<br><br>**TB2:** Gracias al desarrollo del Backend de mi BC pude establecer con mi grupo las limitantes de cada parte asignada. Además de conversar sobre la estructura a seguir para la implmentación a futuro de nuevas caracteristicas.<br><br>**César Augusto Aróstegui Alzamora** <br> **TB1:** Gracias a estas acciones el equipo pudo organizarse mejor y avanzar de forma colaborativa. Se logró cumplir los objetivos del sprint inicial y cada integrante tuvo claro cómo aportar en el desarrollo. Este proceso me permitió mejorar mi capacidad de trabajar en grupo, tomar decisiones en conjunto y valorar la importancia de la planificación para cumplir con los entregables a tiempo. <br><br>**TP1:**<br> La colaboración y planificación efectiva permitieron cumplir con los objetivos del sprint de manera eficiente. Esto aseguró que el Bounded Context de IAM y Maintenance Tracking estuviera completamente integrado y funcional dentro del sistema. <br><br> **TB2:** La colaboración y planificación efectiva permitieron cumplir en conjunto y valorar la importancia de la planificación para cumplir con los entregables a tiempo y desplegar correctamente el RESTful Web Services. |
 
 
 # Capítulo I: Introducción
@@ -1580,15 +1582,16 @@ Diagrama de Componente de Payment Service
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 Diagrama de Clases de PrimeFix
+
 <img src="Assets/chapter-IV/diagrams/Diagram_Class.png">
-URL: [Enlace del Diagrama](https://lucid.app/lucidchart/eb6fe88f-56d7-4914-b847-c77bdce717fa/edit?viewport_loc=-4049%2C-1831%2C10453%2C4825%2C0_0&invitationId=inv_89395be7-d9c0-44e9-9b5a-6a690082d61a)
+
+URL: <https://lucid.app/lucidchart/eb6fe88f-56d7-4914-b847-c77bdce717fa/edit?viewport_loc=-4049%2C-1831%2C10453%2C4825%2C0_0&invitationId=inv_89395be7-d9c0-44e9-9b5a-6a690082d61a>
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams
 Diagrama de Base de datos
 <img src="Assets/chapter-IV/diagrams/Diagram_Database.png">
-
 
 ---
 
@@ -1713,11 +1716,10 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 
 | **Tecnología** | **Convención** |
 |----------------|----------------|
-| **C#** | Lenguaje principal. Usar sintaxis moderna (C# 10/11+), convenciones de nomenclatura estándar de Microsoft, y programación orientada a objetos junto con patrones modernos (LINQ, async/await, records, etc.). |
+| **C#** | Lenguaje principal. Usar sintaxis moderna (C# 13), convenciones de nomenclatura estándar de Microsoft, y programación orientada a objetos junto con patrones modernos (LINQ, async/await, records, etc.). |
 | **.NET Core** | Framework principal para el backend. Uso de **arquitectura en capas** (API, Application, Domain, Infrastructure). Enfoque en modularidad, mantenibilidad y soporte multiplataforma. |
 | **Entity Framework Core** | ORM oficial para acceso a datos. Uso de `DbContext` por request, `AsNoTracking` para consultas de solo lectura, migraciones versionadas, y compatibilidad con transacciones. |
 | **Swagger / Swashbuckle** | Generación automática de documentación de la API REST. Versionado claro (`/api/v1`, `/api/v2`) y contratos visibles para clientes externos. |
-| **xUnit** | Framework de pruebas unitarias. Uso combinado con **WebApplicationFactory** para pruebas de integración y validación de endpoints. |
 
 
 ### 5.1.4. Software Deployment Configuration
@@ -1727,7 +1729,7 @@ Vercel es una plataforma de despliegue y hosting optimizada para aplicaciones fr
 
 - Link oficial de Vercel: [https://vercel.com/](https://vercel.com/)
 
-## Despliegue de la Landing Page (Vercel + GitHub)
+## **Despliegue de la Landing Page**
 
 1. **Registro en GitHub**  
    Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de Prime-Fix-App-Web.
@@ -1788,6 +1790,90 @@ Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto 
 <img src="Assets/chapter-V/evidences/vercel_frontend_evidence1.png">
 
 <img src="Assets/chapter-V/evidences/vercel_frontend_evidence2.png">
+
+### **Despliegue del RESTful Web Services**
+
+Para que nuestro RESTful Web Services esté disponible para todos nuestros usuarios, lo desplegamos utilizando Amazon Web Services (AWS) como plataforma de infraestructura en la nube. El proceso se llevó a cabo de la siguiente manera:
+
+Como arquitectura general, el flujo de integración y despliegue continuo se compone de:
+
+**1. Registro en GitHub**
+
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código del RESTful Web Services de **Prime-Fix**.
+
+- Creamos un repositorio llamado **backend** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/chapter-V/backend/github_backend_evidence.png">
+
+
+**2. Base datos en Amazon RDS**
+
+- Creamos una instancia de base de datos en Amazon RDS para almacenar los datos de la aplicación.
+- Configuramos los parámetros de la base de datos, incluyendo el motor (MySQL, PostgreSQL, etc.), tamaño, y credenciales de acceso.
+- Creamos la instancia **prime-fix-db** y lo colocamos en la región de **us-east-2**.
+- Colocamos un VPC compartido con el futuro despliegue del backen en App Runner.
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence3.png">
+
+**3. Build en AWS CodeBuild**
+
+- Configuramos un proyecto en AWS CodeBuild para compilar el código del backend.
+- Construye la imagen Docker utilizando un archivo `Dockerfile` que define el entorno de ejecución.
+- Con todos estos archivos podemos compilar el proyecto de C# 13 y .NET 9.0.
+- Sube la imagen a Amazon ECR (Elastic Container Registry) para su posterior despliegue.
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence3.png">
+
+**4. Subir la imagen a AWS ECR**
+
+- Creamos un repositorio en Amazon ECR para almacenar las imágenes Docker del backend.
+- Configuramos las políticas de acceso para permitir que AWS CodeBuild pueda subir imágenes al repositorio.
+- Subimos la imagen Docker generada por CodeBuild al repositorio de ECR.
+
+<img src="Assets/chapter-V/backend/aws_ecr_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_ecr_evidence2.png">
+
+**5. Automatizar despliegue con AWS CodePipeline**
+
+- Configuramos un pipeline de CI/CD utilizando AWS CodePipeline para automatizar el proceso de construcción, prueba y despliegue del backend.
+- Solo se activa el pipeline cuando se hacen cambios en la rama `master` del repositorio de GitHub.
+- Commits en `develop` no generan despliegue automático.
+- Automatizará para que se haga un despliegue en AWS CodeBuild.
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence3.png">
+
+**6. Despliegue en AWS App Runner**
+
+- Configuramos un servicio en AWS App Runner para desplegar la imagen Docker del backend.
+- Configuramos las variables de entorno necesarias para la conexión con la base de datos y otros servicios.
+- Definimos la configuración de escalado automático para manejar la carga de tráfico.
+- Finalmente, iniciamos el servicio para que el backend esté disponible públicamente.
+
+<img src="Assets/chapter-V/backend/aws_apprunner_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_apprunner_evidence2.png">
+
+**7. Verificación del servicio web**
+
+- Accedemos a la URL proporcionada por AWS App Runner para confirmar que el servicio web está activo y funcionando correctamente.
+
+<img src="Assets/chapter-V/backend/aws_backend_deployed.png">
+
+Url proporcionada por AWS App Runner: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -2085,8 +2171,6 @@ Página de notificaciones en tiempo real
 
 <img src="Assets/chapter-V/frontend/notification_view.png">
 
-
-
 Página de búsqueda de talleres con filtros avanzados
 
 <img src="Assets/chapter-V/frontend/workshop_search1.jpg">
@@ -2102,7 +2186,6 @@ Página para programación de visitas desde la vista del dueño de vehículo
 <img src="Assets/chapter-V/frontend/appointment_scheduling.jpg">
 
 <img src="Assets/chapter-V/frontend/appointment_scheduling_notification.jpg">
-
 
 Página para programación de visitas desde la vista del taller automotriz
 
@@ -2244,7 +2327,6 @@ El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada
 El Sprint 3 tiene como objetivo consolidar la integración completa de los bounded contexts desarrollados previamente, asegurando la interoperabilidad entre los módulos de gestión de talleres, diagnóstico, pagos, usuarios y catálogo.
 Durante este sprint se busca ofrecer una experiencia fluida de extremo a extremo (End-to-End) para los usuarios finales, desde la búsqueda del taller hasta la confirmación y pago del servicio, incluyendo notificaciones automáticas y trazabilidad de mantenimientos.
 
-
 #### 5.2.2.1. Sprint Planning 3
 
 | **Sprint #** | Sprint 3 |
@@ -2266,6 +2348,24 @@ Durante este sprint se busca ofrecer una experiencia fluida de extremo a extremo
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** para el Sprint 3, enfocada en el desarrollo de los bounded contexts del backend y la implementación de la arquitectura de microservicios. Esta matriz define los roles y responsabilidades de cada miembro del equipo durante el desarrollo de los Web Services RESTful.
+
+**Principales Aspectos Considerados en el Sprint 3:**
+
+Para el Sprint 3, se han identificado cuatro aspectos fundamentales que abarcan el desarrollo backend completo:
+
+**Backend Development (Desarrollo de Backend):** Este aspecto engloba el desarrollo de los Web Services RESTful utilizando C# y .NET, incluyendo la implementación de endpoints, modelos de datos y lógica de negocio para cada bounded context.
+
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Frontend Development** (L / C) | **UI/UX Implementation** (L / C) | **Navigation & Routing** (L / C) | **Integration & Deployment** (L / C) |
+|-----------------------------------------|---------------------|----------------------------------|-----------------------------------|-----------------------------------|--------------------------------------|
+| Aróstegui Alzamora, César Augusto        | Legendnt1             | L                                | C                                 | L                                 | L                                    |
+| Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                                | L                                 | C                                 | C                                    |
+| Tenorio Medina, Piero Francesco          | PieroTM2005             | C                                | C                                 | C                                 | C                                    |
+| Contreras Leon, Flor De María              | FlorDeMa             | C                                | C                                 | C                                 | C                                    |
+| Awad Vargas, Giorgio Marzouk        | GiorgioAwad             | C                                | C                                 | C                                 | C                                    |                                  |
+
+
 #### 5.2.3.3. Spring Backlog 3
 
 El Sprint Backlog 3 se centra en la implementación de los Web Services RESTful (microservicios) para cada bounded context (IAM, Maintenance Tracking, Auto Repair Registration, Auto Repair Catalog, Data Collection & Diagnosis y Payment), así como la integración con el frontend y el despliegue.
@@ -2280,10 +2380,10 @@ El Sprint Backlog 3 se centra en la implementación de los Web Services RESTful 
 | US-37 | Gestión de cuentas de usuario (IAM) | T-03 | Seguridad y manejo de credenciales | Configurar hashing de contraseñas, validación de tokens/JWT y middleware de autorización. | 4 | César | Done |
 | US-38 | Seguimiento de mantenimientos (Maintenance Tracking) | T-04 | Modelo de órdenes de mantenimiento | Diseñar entidades y relaciones para órdenes, estados y vehículos. | 5 | César | Done |
 | US-38 | Seguimiento de mantenimientos (Maintenance Tracking) | T-05 | Endpoints CRUD de órdenes | Implementar creación, actualización de estado y consulta de órdenes de mantenimiento. | 5 | César | Done |
-| US-39 | Registro de talleres y técnicos | T-06 | Registro de talleres y técnicos | Implementar endpoints para registrar talleres, técnicos y datos principales. | 4 | Flor | Done |
-| US-39 | Registro de reparaciones | T-07 | Asignación de técnicos a reparaciones | Implementar lógica y endpoints para asignar técnicos a órdenes de reparación. | 3 | Flor | Done |
-| US-40 | Catálogo con filtros de búsqueda | T-08 | API de listado y filtros de talleres | Implementar endpoints de listado con filtros por distrito, servicio y calificación. | 5 | Giorgio | Done |
-| US-40 | Catálogo con filtros de búsqueda | T-09 | Ordenamiento y ubicación | Agregar soporte de ordenamiento y filtros avanzados por ubicación. | 3 | Giorgio | In Progress |
+| US-39 | Registro de talleres y técnicos | T-06 | Registro de talleres y técnicos | Implementar endpoints para registrar talleres, técnicos y datos principales. | 4 | César | Done |
+| US-39 | Registro de reparaciones | T-07 | Asignación de técnicos a reparaciones | Implementar lógica y endpoints para asignar técnicos a órdenes de reparación. | 3 | César | Done |
+| US-40 | Catálogo con filtros de búsqueda | T-08 | API de listado y filtros de talleres | Implementar endpoints de listado con filtros por distrito, servicio y calificación. | 5 | César | Done |
+| US-40 | Catálogo con filtros de búsqueda | T-09 | Ordenamiento y ubicación | Agregar soporte de ordenamiento y filtros avanzados por ubicación. | 3 | César | In Progress |
 | US-41 | Recolección de datos para diagnóstico | T-10 | Modelo de datos de diagnóstico | Diseñar el esquema para registrar síntomas, lecturas y resultados. | 4 | Piero | Done |
 | US-41 | Recolección de datos para diagnóstico | T-11 | Endpoints de diagnósticos | Implementar endpoints para registrar y consultar diagnósticos asociados. | 4 | Piero | Done |
 | US-42 | Procesamiento de pagos | T-12 | Configurar servicio de pagos | Crear servicio de pagos, modelo de transacciones y estados. | 5 | Gianmarco | Done |
@@ -2293,7 +2393,41 @@ El Sprint Backlog 3 se centra en la implementación de los Web Services RESTful 
 | US-43 | Integración y despliegue | T-16 | Actualizar CI/CD y variables de entorno | Actualizar pipeline de GitHub Actions, variables de entorno y despliegue. | 3 | César | In Progress |
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
+
+Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta integración habilitó flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo, permitiendo a los usuarios interactuar con la plataforma de manera fluida y eficiente.
+
+**Principales logros del Sprint 3:**
+1. **Integración de API Exitosa:** Se conectaron todos los componentes frontend con los endpoints RESTful del backend, permitiendo la comunicación bidireccional y el intercambio de datos en tiempo real.
+2. **Pruebas End-to-End Completas:** Se implementaron pruebas automatizadas que validan flujos completos desde la interfaz de usuario hasta el backend, asegurando la funcionalidad y estabilidad del sistema integrado.
+3. **Manejo de Errores y Retroalimentación al Usuario:** Se implementaron mecanismos robustos para manejar errores de API y proporcionar retroalimentación clara a los usuarios en caso de fallos o problemas.
+4. **Documentación Actualizada:** Se actualizó la documentación técnica para reflejar la integración completa, incluyendo guías de uso de la API y flujos de trabajo integrados.
+**Principales funcionalidades integradas:**
+- **Autenticación y Registro:** Formularios de login y registro conectados con el backend
+- **Gestión de Vehículos:** CRUD de vehículos integrado con los servicios backend
+- **Programación de Citas:** Calendario interactivo conectado con los endpoints de citas
+- **Seguimiento de Estado:** Dashboard de seguimiento integrado con los servicios de monitoreo
+- **Reseñas de Talleres:** Componente de reseñas conectado con los servicios de calificaciones
+- **Búsqueda de Talleres:** Componente de búsqueda integrado con los servicios de listado de talleres
+- **Gestión de Solicitudes:** Panel de gestión de solicitudes conectado con los servicios backend 
+
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+|----------------|------------|---------------|--------------------|-----------------------|-------------------------|
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/register-user | 4554e04 | feat: implement user management  | Implement user management features including creation, update, retrieval, and deletion of users | 03/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/register-user | dcae0e7 | feat: implement user account | Implement user account management commands and queries, including creation, update, retrieval, and deletion  | 05/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/maintenance-tracking | ecd7b50 | feat: implement vehicle | Implement vehicle management commands and queries, including creation, update, retrieval, and deletion  | 05/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/maintenance-tracking | 380dbbb | feat: implement notification | Implement notification management commands and queries, including creation, update, retrieval, and deletion  | 05/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/autorepair-catalog | 79ebecc | autorepair-register branch implementation  | Autorepair-register branch implementation | 11/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/autorepair-register | 59faf5d | push layers  | Push layers | 11/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/vehicle-diagnosis | dc621fd | feat: add create, update, delete, commands and assemblers for the bounded context VehicleDiagnosis  | Add create, update, delete, commands and assemblers for the bounded context VehicleDiagnosis | 10/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/payment-service | b33dc01 | Add and update payment-service bounded context  | Add and update payment-service bounded context | 07/11/2025 |
+| [prime-fix-app-web/backend](https://github.com/prime-fix-app-web/backend) | feature/data-collection | 3410219 | Add Data-Collection files  | Add Data-Collection files | 09/11/2025 |
+| [prime-fix-app-web/landing-page](https://github.com/prime-fix-app-web/landing-page) | development | 46f8c01 | feat: add new videos about the product | Add new videos about the product and about the team, including screenshots of the web application | 12/11/2025 |
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+
+Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta integración permitió habilitar flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo.
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 Durante el Sprint 3, se actualizó la documentación técnica para reflejar la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. La documentación incluye guías de uso de la API, flujos de trabajo integrados y ejemplos de llamadas a endpoints.
@@ -2317,9 +2451,19 @@ Evidencias:
 <img src="Assets/chapter-V/services_documentation_evidence/endpoints_5.PNG">
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+
+Durante el Sprint 3, se implementó una estrategia de despliegue continuo para la aplicación integrada de Prime-Fix, asegurando que cada nueva funcionalidad desarrollada se despliegue automáticamente en un entorno de producción estable y accesible para los usuarios finales. Esta estrategia abarca tanto la Frontend Web Application como los Web Services RESTful del backend.
+
+**Infraestructura de despliegue implementada:**
+Link del Restful Web Services desplegado en AWS: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+Durante el Sprint 3, el equipo de FixTech demostró una colaboración excepcionalmente efectiva en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. La coordinación técnica precisa y la comunicación constante entre todos los miembros del equipo fueron fundamentales para lograr una integración exitosa y habilitar flujos de trabajo completos.
 
+<img src="Assets/chapter-V/evidences/team_sprint3.png">
 
 ## 5.3. Validation Interviews
 
@@ -2370,11 +2514,23 @@ Las preguntas para las entrevistas son:
 
 #### Segmento #1: Dueños de Vehiculos
 
-**Entrevista N°1: Marcos Contreras**
+**Entrevista N°1: Dionisio Rodriguez**
+
+- Sexo: Masculino
+- Edad: 26
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQCl2L6tUPMyQr9hMlQUu56pAdKQ4rFGtWd0W_4OUNlrayA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jp3GdG>
+- Inicia en: 0:01
+- Duración: 04:59
+
+**Resumen de la entrevista**
+
+Dionisio Rodriguez es un joven de 26 años quien trabaja y estudia de manera paralela. Dionisio nos cuenta que el no cuenta con un vehiculo propio, pero si utiliza servicios de terceros para movilizarse dentro de la ciudad. Dionisio al utilizar y ver el funcionamiento de PrimeFix, recalco lo que seria el buen funcionamiento de la aplicación, aunque en temas de diseño dijo que se podria mejora la distribución de algunos apartados para que sea mucho más accesible y fácil de usar.
+
+**Entrevista N°2: Marcos Contreras**
 
 - Sexo: Masculino
 - Edad: 24
-- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQAItWhH8GksQZnHzl3yz84pAU4UPPZv718cWhS0W_v-thQ?e=RS55db&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQAItWhH8GksQZnHzl3yz84pAU4UPPZv718cWhS0W_v-thQ?e=RS55db&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 - Inicia en: 0:01
 - Duración: 19:38
 
@@ -2384,11 +2540,11 @@ Las preguntas para las entrevistas son:
 
 Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paralela. Marcos nos cuenta que el tiene un vehiculo por la cual facilita movilizarse dentro de la ciudad. Marcos nos comenta que a la hora de encontrar un buen servicio que pueda atender a su vehículo, más que nada resalta que no llega a encontrar un lugar accesible. Marcos al utilizar y ver el funcionamiento de PrimeFix, recalco lo que seria el buen funcionamiento de la aplicación, aunque en temas de diseño dijo que se podria mejora la distribución de algunos apartados para que sea mucho más accesible y fácil de usar.
 
-**Entrevista N°2: Anyelo Alejos**
+**Entrevista N°3: Anyelo Alejos**
 
 - Sexo: Masculino
 - Edad: 23
-- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQCvXGFnBT9sT6uI7dcmObArAc_4XAtRA1mxnb0J2yCZf-k?e=HxvnqN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQCvXGFnBT9sT6uI7dcmObArAc_4XAtRA1mxnb0J2yCZf-k?e=HxvnqN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 - Inicia en: 0:01
 - Duración: 17:02
 
@@ -2399,15 +2555,41 @@ Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paral
 Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. El comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Al probar nuestra aplicación de PrimeFix, dijo que le parecia interesante y que el diseño era agradable al igual que su funcionamiento. Remarcó que algunas partes de la aplicación podrían cambiar para hacerlo mucho más intuitivo y practico a la hora de utilizar las distintas funcionalidades.
 
 #### Segmento #2: Asesor de servicios de un taller automotriz
+
+**Entrevista N°1: Jesús Valenzuela**
 - Sexo: Masculino
 - Edad: 21
-- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/IQB2LcBLH7ZnRIt04ZWCfeVzAS7e9tAzPBWASiqvD__DlCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gkBvjC)
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/IQB2LcBLH7ZnRIt04ZWCfeVzAS7e9tAzPBWASiqvD__DlCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gkBvjC>
 - Inicia en: 00:02
 - Duración: 23:49
 - Fecha: 05/11/2025
 
 <img src="Assets/chapter-V/entrevistas_validacion/segmento_2_entrevista_1.png">
 Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
+
+**Entrevista N°2: William Espinoza**
+- Sexo: Masculino
+- Edad: 24
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQALes54IOeAQJuiRKMd_8ZoAY2ayLAV4yDye9Z5XDHiAk8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ppI8dt>
+- Inicia en: 00:01
+- Duración: 16:06
+- Fecha: 06/11/2025
+
+<img src="Assets/chapter-V/entrevistas_validacion/segmento_2_entrevista_2.png">
+
+William Espinoza es un joven asesor de servicios de reparación del taller AutoFast. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una tablet. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
+
+**Entrevista N°3: Héctor Cárdenas**
+- Sexo: Masculino
+- Edad: 26
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQC6IJkvw7_wSakaUw1eJisnAVEbxKd2Ks86a_GNkezsHM0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ExwZdK>
+- Inicia en: 00:01
+- Duración: 09:32
+- Fecha: 07/11/2025
+
+<img src="Assets/chapter-V/entrevistas_validacion/segmento_2_entrevista_3.png">
+
+Héctor Cárdenas es un joven asesor de servicios de reparación del taller Mecánica Rápida. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
