@@ -2519,6 +2519,8 @@ Las preguntas para las entrevistas son:
 - Inicia en: 0:01
 - Duración: 04:59
 
+<img src="Assets/chapter-V/entrevistas_validacion/segmento_1_entrevista_1.png">
+
 **Resumen de la entrevista**
 
 Dionisio Rodriguez es un joven de 26 años quien trabaja y estudia de manera paralela. Dionisio nos cuenta que el no cuenta con un vehiculo propio, pero si utiliza servicios de terceros para movilizarse dentro de la ciudad. Dionisio al utilizar y ver el funcionamiento de PrimeFix, recalco lo que seria el buen funcionamiento de la aplicación, aunque en temas de diseño dijo que se podria mejora la distribución de algunos apartados para que sea mucho más accesible y fácil de usar.
@@ -2531,7 +2533,7 @@ Dionisio Rodriguez es un joven de 26 años quien trabaja y estudia de manera par
 - Inicia en: 0:01
 - Duración: 19:38
 
-<img src="Assets/chapter-V/entrevistas_validacion/segmento_1_entrevista_1.png">
+<img src="Assets/chapter-V/entrevistas_validacion/segmento_1_entrevista_2.png">
 
 **Resumen de la entrevista**
 
@@ -2545,7 +2547,7 @@ Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paral
 - Inicia en: 0:01
 - Duración: 17:02
 
-<img src="Assets/chapter-V/entrevistas_validacion/segmento_1_entrevista_2.png">
+<img src="Assets/chapter-V/entrevistas_validacion/segmento_1_entrevista_3.png">
 
 **Resumen de la entrevista**
 
