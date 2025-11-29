@@ -117,6 +117,35 @@ TP:<br>
 
 
 
+TB2:<br>
+| Integrante | Tarea Asignada |
+|------------|----------------|
+|Arostegui Alzamora	, Cesar Augusto| Participación en la planificación y documentación del Sprint 3. Desarrollo de sus Bounded Contexts en los RESTful Web Services y despliegue del Web Services en AWS (servicio en la nube) |
+|Jiménez Guerra, Gianmarco Fabian| Desarrollo del Bounded Context de Payment Service en el backend. Formulación de preguntas para entrevistas de validación y realización de una entrevista a un asesor de servicios automotrices|
+|Awad Vargas, Giorgio Marzouk | Documentación y realización del Sprint 3 (Objetivo, Sprint Planning y Sprint Backlog 3)|
+|Contreras Leon, Flor De María | Participación en la planificación y documentación del Sprint 3 (detallando objetivo, planificación y Sprint Backlog |
+|Tenorio Medina, Piero Francesco | Desarrollo del Bounded Context de Diagnosis and Data Collection en el backend. Compartir dudas y sugerencias de cambio|
+
+
+
+*Pull requests evidence*:
+
+
+
+TF:<br>
+| Integrante | Tarea Asignada |
+|------------|----------------|
+|Arostegui Alzamora	, Cesar Augusto| Participación en la planificación y documentación del Sprint 4. Actualizacion de sus Bounded Contexts en los RESTful Web Services y despliegue del Web Services en AWS (servicio en la nube) |
+|Jiménez Guerra, Gianmarco Fabian| Actualizacion del Bounded Context de Payment Service en el backend.|
+|Awad Vargas, Giorgio Marzouk | Documentación y realización del Sprint 4 (Objetivo, Sprint Planning y Sprint Backlog 4)|
+|Contreras Leon, Flor De María | Participación en la planificación y documentación del Sprint 4 (detallando objetivo, planificación y Sprint Backlog y Actualizacion de sus Bounded Contexts en los RESTful Web Services|
+|Tenorio Medina, Piero Francesco | Actualizacion del Bounded Context de Diagnosis and Data Collection en el backend. Compartir dudas y sugerencias de cambio|
+
+
+*Pull requests evidence*:
+
+
+
 ---
 
 # Contenido
