@@ -77,13 +77,10 @@
 | :-----------------------------------: |:----------------------------------------------------:| 
 | https://github.com/prime-fix-app-web| https://github.com/prime-fix-app-web/docs |
 
-|          URL del repositorio de la landing page           |
-|:---------------------------------------------------------:|
-| https://github.com/prime-fix-app-web/landing-page   |
+|  URL del repositorio de la landing page  |             URL del repositorio del frontend          |
+| :-----------------------------------: |:----------------------------------------------------:| 
+| https://github.com/prime-fix-app-web/landing-page| https://github.com/prime-fix-app-web/frontend |
 
-|          URL del repositorio del frontend          |
-|:---------------------------------------------------------:|
-|      https://github.com/prime-fix-app-web/frontend    |
 
 |          URL del repositorio del backend          |
 |:---------------------------------------------------------:|
