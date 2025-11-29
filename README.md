@@ -94,7 +94,28 @@ TB1:<br>
 |Awad Vargas, Giorgio Marzouk | Software Deployment Configurations|
 |Contreras Leon, Flor De María | Software Configuration Management (Environment y Source Code), Landing Page, Services & Applications Implementation |
 |Tenorio Medina, Piero Francesco | Diagrama de Clase (versión temprana) |
+
+
+
+
 *Pull requests evidence*:
+
+
+
+
+TP:<br>
+| Integrante | Tarea Asignada |
+|------------|----------------|
+|Arostegui Alzamora	, Cesar Augusto| Desarrollo e implementación del Bounded Context de IAM (gestión de identidades) y Maintenance Tracking (seguimiento de mantenimiento). Coordinación de integración con otros Bounded Contexts |
+|Jiménez Guerra, Gianmarco Fabian| Desarrollo e implementación del Bounded Context de Payment Service (gestión de pagos y transacciones). Coordinación de integración con otros Bounded Contexts|
+|Awad Vargas, Giorgio Marzouk | Desarrollo e implementación del Bounded Context de Auto Repair Catalog (búsqueda de talleres con filtros de búsqueda y ubicación). Coordinación de integración con otros Bounded Contexts|
+|Contreras Leon, Flor De María | Desarrollo e implementación del Bounded Context de Auto Repair Registration (gestión de registros de reparación de automóviles y manejo de técnicos). Coordinación de integración con otros Bounded Contexts |
+|Tenorio Medina, Piero Francesco | Desarrollo e implementación del Bounded Context de Data Collection and Diagnosis (recolección y gestión de datos del sistema). Coordinación de integración con otros Bounded Contexts y comunicación de requisitos técnicos/decisiones de diseño|
+
+
+*Pull requests evidence*:
+
+
 
 ---
 
