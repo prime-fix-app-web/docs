@@ -73,6 +73,32 @@
 
 # Project Report Collaboration Insights  
 
+|  URL de la organización del proyecto  |             URL del repositorio del reporte          |
+| :-----------------------------------: |:----------------------------------------------------:| 
+| https://github.com/prime-fix-app-web| https://github.com/prime-fix-app-web/docs |
+
+|          URL del repositorio de la landing page           |
+|:---------------------------------------------------------:|
+| https://github.com/prime-fix-app-web/landing-page   |
+
+|          URL del repositorio del frontend          |
+|:---------------------------------------------------------:|
+|      https://github.com/prime-fix-app-web/frontend    |
+
+|          URL del repositorio del backend          |
+|:---------------------------------------------------------:|
+| https://github.com/prime-fix-app-web/backend |
+
+TB1:<br>
+| Integrante | Tarea Asignada |
+|------------|----------------|
+|Arostegui Alzamora	, Cesar Augusto| Class Diagrams, Primera versión de la Landing Page, Services & Applications Implementation. |
+|Jiménez Guerra, Gianmarco Fabian| Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.|
+|Awad Vargas, Giorgio Marzouk | Software Deployment Configurations|
+|Contreras Leon, Flor De María | Software Configuration Management (Environment y Source Code), Landing Page, Services & Applications Implementation |
+|Tenorio Medina, Piero Francesco | Diagrama de Clase (versión temprana) |
+*Pull requests evidence*:
+
 ---
 
 # Contenido
