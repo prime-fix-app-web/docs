@@ -73,6 +73,79 @@
 
 # Project Report Collaboration Insights  
 
+|  URL de la organización del proyecto  |             URL del repositorio del reporte          |
+| :-----------------------------------: |:----------------------------------------------------:| 
+| https://github.com/prime-fix-app-web| https://github.com/prime-fix-app-web/docs |
+
+|  URL del repositorio de la landing page  |             URL del repositorio del frontend          |
+| :-----------------------------------: |:----------------------------------------------------:| 
+| https://github.com/prime-fix-app-web/landing-page| https://github.com/prime-fix-app-web/frontend |
+
+
+|          URL del repositorio del backend          |
+|:---------------------------------------------------------:|
+| https://github.com/prime-fix-app-web/backend |
+
+TB1:<br>
+| Integrante | Tarea Asignada |
+|------------|----------------|
+|Arostegui Alzamora	, Cesar Augusto| Class Diagrams, Primera versión de la Landing Page, Services & Applications Implementation. |
+|Jiménez Guerra, Gianmarco Fabian| Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.|
+|Awad Vargas, Giorgio Marzouk | Software Deployment Configurations|
+|Contreras Leon, Flor De María | Software Configuration Management (Environment y Source Code), Landing Page, Services & Applications Implementation |
+|Tenorio Medina, Piero Francesco | Diagrama de Clase (versión temprana) |
+
+
+
+
+*Pull requests evidence*:
+
+
+
+
+TP:<br>
+| Integrante | Tarea Asignada |
+|------------|----------------|
+|Arostegui Alzamora	, Cesar Augusto| Desarrollo e implementación del Bounded Context de IAM (gestión de identidades) y Maintenance Tracking (seguimiento de mantenimiento). Coordinación de integración con otros Bounded Contexts |
+|Jiménez Guerra, Gianmarco Fabian| Desarrollo e implementación del Bounded Context de Payment Service (gestión de pagos y transacciones). Coordinación de integración con otros Bounded Contexts|
+|Awad Vargas, Giorgio Marzouk | Desarrollo e implementación del Bounded Context de Auto Repair Catalog (búsqueda de talleres con filtros de búsqueda y ubicación). Coordinación de integración con otros Bounded Contexts|
+|Contreras Leon, Flor De María | Desarrollo e implementación del Bounded Context de Auto Repair Registration (gestión de registros de reparación de automóviles y manejo de técnicos). Coordinación de integración con otros Bounded Contexts |
+|Tenorio Medina, Piero Francesco | Desarrollo e implementación del Bounded Context de Data Collection and Diagnosis (recolección y gestión de datos del sistema). Coordinación de integración con otros Bounded Contexts y comunicación de requisitos técnicos/decisiones de diseño|
+
+
+*Pull requests evidence*:
+
+
+
+TB2:<br>
+| Integrante | Tarea Asignada |
+|------------|----------------|
+|Arostegui Alzamora	, Cesar Augusto| Participación en la planificación y documentación del Sprint 3. Desarrollo de sus Bounded Contexts en los RESTful Web Services y despliegue del Web Services en AWS (servicio en la nube) |
+|Jiménez Guerra, Gianmarco Fabian| Desarrollo del Bounded Context de Payment Service en el backend. Formulación de preguntas para entrevistas de validación y realización de una entrevista a un asesor de servicios automotrices|
+|Awad Vargas, Giorgio Marzouk | Documentación y realización del Sprint 3 (Objetivo, Sprint Planning y Sprint Backlog 3)|
+|Contreras Leon, Flor De María | Participación en la planificación y documentación del Sprint 3 (detallando objetivo, planificación y Sprint Backlog |
+|Tenorio Medina, Piero Francesco | Desarrollo del Bounded Context de Diagnosis and Data Collection en el backend. Compartir dudas y sugerencias de cambio|
+
+
+
+*Pull requests evidence*:
+
+
+
+TF:<br>
+| Integrante | Tarea Asignada |
+|------------|----------------|
+|Arostegui Alzamora	, Cesar Augusto| Participación en la planificación y documentación del Sprint 4. Actualizacion de sus Bounded Contexts en los RESTful Web Services y despliegue del Web Services en AWS (servicio en la nube) |
+|Jiménez Guerra, Gianmarco Fabian| Actualizacion del Bounded Context de Payment Service en el backend.|
+|Awad Vargas, Giorgio Marzouk | Documentación y realización del Sprint 4 (Objetivo, Sprint Planning y Sprint Backlog 4)|
+|Contreras Leon, Flor De María | Participación en la planificación y documentación del Sprint 4 (detallando objetivo, planificación y Sprint Backlog y Actualizacion de sus Bounded Contexts en los RESTful Web Services|
+|Tenorio Medina, Piero Francesco | Actualizacion del Bounded Context de Diagnosis and Data Collection en el backend. Compartir dudas y sugerencias de cambio|
+
+
+*Pull requests evidence*:
+
+
+
 ---
 
 # Contenido
@@ -2886,8 +2959,19 @@ El desarrollo de la Frontend Web Application utilizando Angular y TypeScript per
 
 La creación de los Web Services RESTful con C# y .NET Core proporcionó una base sólida para la lógica de negocio y la gestión de datos. Estos servicios permiten una comunicación eficiente entre el frontend y el backend, asegurando que las operaciones se realicen de manera segura y confiable.
 
-# Conclusiones y recomendaciones
+# Recomendaciones
+
 Durante el desarrollo del proyecto se recomienda mejorar la estandarización de los mensajes de commit siguiendo convenciones claras (por ejemplo, diferenciando entre feat, fix, docs, entre otros), así como especificar en los merge commits el propósito de la integración para mantener una trazabilidad adecuada. Asimismo, es aconsejable reforzar la organización de ramas empleando prefijos que identifiquen el tipo de trabajo realizado, lo que facilitaría la revisión y el control de cambios. En cuanto a la documentación, se sugiere unificar el estilo de las tablas, optimizar su presentación con títulos y descripciones, y asegurar consistencia en el uso de Markdown (encabezados, listas e imágenes), con el fin de mantener un formato más claro, profesional y fácil de interpretar. Finalmente, se recomienda mantener la rama principal siempre estable, aplicando revisiones mediante pull requests antes de la integración, lo que no solo asegura calidad en el código, sino también fomenta la colaboración efectiva entre los integrantes del equipo.
+
+Por ello para optimizar los procesos de desarrollo y la calidad del producto en futuras iteraciones, se establecen las siguientes puntos:
+
+- - **Estandarización de Commits:** Implementar convenciones de mensajes de commit claras y uniformes (e.g., feat, fix, docs, refactor) para mejorar la trazabilidad y la generación automática de historiales de cambio.
+- - 
+- - **Gestión de Ramas Reforzada:** Utilizar un sistema de prefijos en los nombres de las ramas (e.g., feat/, fix/, refactor/) para facilitar la revisión, la identificación del trabajo y el control de cambios.
+- - 
+- - **Mantenimiento de la Rama Principal (Main):** Fortalecer la política de mantener la rama principal siempre estable y desplegable, exigiendo una revisión formal mediante pull requests antes de cualquier integración. Esto asegura la calidad del código y promueve la colaboración efectiva.
+- - 
+- - **Optimización de la Documentación:** Unificar el estilo de la documentación, especialmente en el uso de tablas (con títulos y descripciones claras) y la consistencia en la sintaxis de Markdown, para garantizar un formato más profesional y fácil de interpretar.
 
 # Video About-the-Team
 # Bibliografía
