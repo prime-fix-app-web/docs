@@ -2652,8 +2652,264 @@ Captura en Trello del Sprint 4:
 [https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 #### 5.2.4.4. Development Evidence for Sprint Review
+
+Durante el Sprint 4, se completó el producto final en la parte del frontend teniendo como referencia con el Lean UX Canvas, outcomes, assumptions, problems e hypothesis statements previamente definidos y cuyo flujo de actividades permitiera satisfacer las necesidades y problemas de ambos segmentos objetivos identificados. De la misma manera, se completó la parte del backend, realizando las correcciones respectivas y uniendo todos los bounded contexts restantes.
+Finalmente, se completó la integración avanzada entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix, consolidando todas las funcionalidades clave del sistema. Este sprint se centró en conectar los módulos principales mediante APIs especializadas, habilitando flujos de trabajo robustos, seguros y totalmente funcionales para ambos segmentos objetivo: usuarios conductores y asesores de talleres.
+
+**Principales logros del Sprint 4:**
+1. **Autenticación Segura con JWT:** Se implementó un sistema completo de autenticación basado en tokens JWT, incluyendo login, registro y validación de tokens. Asimismo, Se configuró la seguridad en el backend para proteger los endpoints privados. El frontend ahora gestiona de forma segura el almacenamiento del token y las redirecciones de sesión.
+
+2. **Integración Completa de APIs en el Frontend** Todos los módulos principales desarrollados en la Frontend Web Application quedaron conectados con el backend:
+
+- **Gestión de Vehículos:** CRUD totalmente operativos desde la interfaz.
+
+- **Programación de Citas:** Creación, actualización y consulta desde el calendario interactivo.
+
+- **Seguimiento de Estado:** Vista dinámica para mostrar el progreso del servicio de mantenimiento.
+
+- **Reseñas de Talleres:** Envío y consulta de calificaciones directamente desde el frontend.
+
+- **Búsqueda de Talleres:** Filtros avanzados por ubicación, servicios y otros parámetros.
+
+- **Gestión de Solicitudes:** Panel para que los asesores visualicen, acepten o rechacen solicitudes.
+
+
+3. **Pruebas End-to-End Avanzadas:** Se implementaron pruebas automatizadas que recorren los principales flujos desde la UI hasta el backend. Las pruebas validan autenticación, procesos de cita, reseñas, seguimiento de estado y gestión de solicitudes.
+
+4. **Mejoras de Experiencia de Usuario:** Manejo de errores mejorado con mensajes claros y contextualizados. Actualización de vistas en tiempo real cuando el backend lo permite.
+
+Todo ello se evidencia mediante el siguiente cuadro de commits:
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+|----------------|------------|---------------|--------------------|-----------------------|-------------------------|
+| [prime-fix/frontend](https://www.google.com/search?q=https://github.com/prime-fix/frontend) | master | 2b4b524 | Merge branch 'release/v0.1.7' | Merge branch 'release/v0.1.7' into master | 12/11/2025 |
+| [prime-fix/frontend](https://www.google.com/search?q=https://github.com/prime-fix/frontend) | master | abf2d66 | feat: refactor payment components to use signals for state management and improve data handling | Refactor payment components to use signals for state management and improve data handling | 12/11/2025 |
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+Evidencia de ejecución del frontend:
+
+
+
+Evidencia de ejecución del backend:
+
+<img src="Assets/chapter-V//Sprint 4/backend_evidence_1.PNG">
+
+<img src="Assets/chapter-V//Sprint 4/backend_evidence_2.PNG">
+
+<img src="Assets/chapter-V//Sprint 4/backend_evidence_3.PNG">
+
+<img src="Assets/chapter-V//Sprint 4/backend_evidence_4.PNG">
+
+<img src="Assets/chapter-V//Sprint 4/backend_evidence_6.PNG">
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint, se pudo culminar con el desarrollo del frontend mejorando la experiencia de Usuario e implementando con tódos los métodos CRUD correspondientes:
+
+**Evidencia de documentación:**
+
+**Documentación de componentes principales de la aplicación**
+
+<img src="Assets/chapter-V/documents/Documentation_Components.png">
+
+**Guía de estructura de módulos y servicios implementados**
+
+<img src="Assets/chapter-V/documents/Documentation_Modules.png">
+
+**Documentación de patrones de diseño y estilo aplicados**
+<img src="Assets/chapter-V/documents/Documentation_Patterns.png">
+
+**Guías de navegación y configuración de routing**
+<img src="Assets/chapter-V/documents/Documentation_Routing.png">
+
+
+**URLs de documentación:**
+- Component Documentation:  [https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Components.md](https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Components.md)
+- Module Documentation: [https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Modules.md](https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Modules.md)
+- Design Patterns: [https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Patterns.md](https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Patterns.md)
+- Routing Guide: [https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Routing.md](https://github.com/prime-fix-app-web/docs/blob/main/Documentation-Frontend/Documentation_Routing.md)
+
+
+En el Sprint 4, también se concretó el desarrollo de todos los endpoints del Backend incluida la autenticación mediante JWT:
+
+# Servicios API Implementados
+
+## Locations
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| GET | `/api/v1/locations/{locationId}` | Obtiene una ubicación por su ID |
+| PUT | `/api/v1/locations/{locationId}` | Actualiza una ubicación existente |
+| DELETE | `/api/v1/locations/{locationId}` | Elimina una ubicación por su ID |
+| GET | `/api/v1/locations` | Obtiene todas las ubicaciones |
+| POST | `/api/v1/locations` | Registra una nueva ubicación |
+
+---
+
+## Vehicles
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| GET | `/api/v1/vehicles/{vehicle_id}` | Obtiene un vehículo por su ID |
+| PUT | `/api/v1/vehicles/{vehicle_id}` | Actualiza un vehículo existente |
+| DELETE | `/api/v1/vehicles/{vehicle_id}` | Elimina un vehículo por su ID |
+| GET | `/api/v1/vehicles` | Obtiene todos los vehículos |
+| POST | `/api/v1/vehicles` | Crea un nuevo vehículo |
+
+---
+
+## Ratings
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| PUT | `/api/v1/ratings/{id_rating}` | Actualiza una calificación existente |
+| GET | `/api/v1/ratings` | Obtiene todas las calificaciones |
+| POST | `/api/v1/ratings` | Crea una nueva calificación |
+| GET | `/api/v1/ratings/{rating_id}` | Obtiene una calificación por su ID |
+| DELETE | `/api/v1/ratings/{rating_id}` | Elimina una calificación por su ID |
+
+---
+
+## Technician Schedules
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| GET | `/api/v1/technician_schedules/{scheduleId}` | Obtiene el horario de un técnico por su ID |
+| PUT | `/api/v1/technician_schedules/{scheduleId}` | Actualiza un horario de técnico |
+| DELETE | `/api/v1/technician_schedules/{scheduleId}` | Elimina un horario de técnico por su ID |
+| GET | `/api/v1/technician_schedules` | Obtiene todos los horarios de técnicos |
+| POST | `/api/v1/technician_schedules` | Crea un nuevo horario de técnico |
+| GET | `/api/v1/technician_schedules/technician/{technicianId}` | Obtiene los horarios de un técnico específico |
+
+---
+
+## Payments
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| GET | `/api/v1/payments/{payment_id}` | Obtiene un pago por su ID |
+| PUT | `/api/v1/payments/{payment_id}` | Actualiza un pago existente |
+| DELETE | `/api/v1/payments/{payment_id}` | Elimina un pago por su ID |
+| GET | `/api/v1/payments` | Obtiene todos los pagos |
+| POST | `/api/v1/payments` | Crea un nuevo pago |
+
+---
+
+## User Accounts
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| PUT | `/api/v1/user_accounts/{user_account_id}` | Actualiza una cuenta de usuario |
+| DELETE | `/api/v1/user_accounts/{user_account_id}` | Elimina una cuenta de usuario por su ID |
+| GET | `/api/v1/user_accounts` | Obtiene todas las cuentas de usuario |
+| POST | `/api/v1/user_accounts` | Crea una nueva cuenta de usuario |
+| GET | `/api/v1/user_accounts/{id_user_account}` | Obtiene una cuenta de usuario por su ID |
+
+---
+
+## Technicians
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| GET | `/api/v1/technicians/{technicianId}` | Obtiene un técnico por su ID |
+| PUT | `/api/v1/technicians/{technicianId}` | Actualiza un técnico existente |
+| DELETE | `/api/v1/technicians/{technicianId}` | Elimina un técnico por su ID |
+| GET | `/api/v1/technicians` | Obtiene todos los técnicos |
+| POST | `/api/v1/technicians` | Crea un nuevo técnico |
+
+---
+
+## Notifications
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| GET | `/api/v1/notifications/{notification_id}` | Obtiene una notificación por su ID |
+| PUT | `/api/v1/notifications/{notification_id}` | Actualiza una notificación existente |
+| DELETE | `/api/v1/notifications/{notification_id}` | Elimina una notificación por su ID |
+| GET | `/api/v1/notifications` | Obtiene todas las notificaciones |
+| POST | `/api/v1/notifications` | Crea una nueva notificación |
+
+---
+
+## Authentication
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| POST | `/api/v1/authentication/sign-up` | Registra un nuevo usuario |
+| POST | `/api/v1/authentication/sign-in` | Inicia sesión |
+
+---
+
+## Vehicles Diagnosis
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| PUT | `/api/v1/diagnosis/{diagnosticId}` | Actualiza un diagnóstico existente |
+| GET | `/api/v1/diagnosis` | Obtiene todos los diagnósticos |
+| POST | `/api/v1/diagnosis` | Crea un nuevo diagnóstico |
+| GET | `/api/v1/diagnosis/{vehicleId}` | Obtiene diagnósticos por ID de vehículo |
+| DELETE | `/api/v1/diagnosis/{diagnostic_id}` | Elimina un diagnóstico por su ID |
+
+---
+
+## Memberships
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| GET | `/api/v1/memberships/{membership_id}` | Obtiene una membresía por su ID |
+| PUT | `/api/v1/memberships/{membership_id}` | Actualiza una membresía existente |
+| DELETE | `/api/v1/memberships/{membership_id}` | Elimina una membresía por su ID |
+| GET | `/api/v1/memberships` | Obtiene todas las membresías |
+| POST | `/api/v1/memberships` | Crea una nueva membresía |
+
+---
+
+## Roles
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| GET | `/api/v1/roles` | Obtiene todos los roles |
+
+---
+
+## Service Offer
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| POST | `/api/v1/serviceOffer/{autoRepairId}` | Agrega un servicio al catálogo |
+
+---
+
+## AutoRepair
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| PUT | `/api/v1/autoRepairs/{autoRepairId}` | Actualiza un Auto Repair existente |
+| DELETE | `/api/v1/autoRepairs/{autoRepairId}` | Elimina un Auto Repair por su ID |
+| GET | `/api/v1/autoRepairs` | Obtiene todos los Auto Repairs |
+| POST | `/api/v1/autoRepairs` | Crea un nuevo Auto Repair |
+| GET | `/api/v1/autoRepairs/{id}` | Obtiene un Auto Repair por su ID |
+
+---
+
+## Services
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| PUT | `/api/v1/services/{serviceId}` | Actualiza un servicio existente |
+| DELETE | `/api/v1/services/{serviceId}` | Elimina un servicio por su ID |
+| GET | `/api/v1/services` | Obtiene todos los servicios |
+| POST | `/api/v1/services` | Crea un nuevo servicio |
+
+---
+
+## Users
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| GET | `/api/v1/users/{user_id}` | Obtiene un usuario por su ID |
+| PUT | `/api/v1/users/{user_id}` | Actualiza un usuario existente |
+| DELETE | `/api/v1/users/{user_id}` | Elimina un usuario por su ID |
+| GET | `/api/v1/users` | Obtiene todos los usuarios |
+| POST | `/api/v1/users` | Crea un nuevo usuario |
+
+---
+
+## Visits
+| Método HTTP | Endpoint | Descripción |
+|------------|----------|-------------|
+| GET | `/api/v1/visits` | Obtiene todas las visitas |
+| POST | `/api/v1/visits` | Crea una nueva visita |
+| GET | `/api/v1/visits/{visitId}` | Obtiene una visita por su ID |
+| DELETE | `/api/v1/visits/{visitId}` | Elimina una visita por su ID |
+| GET | `/api/v1/visits/vehicle/{vehicleId}` | Obtiene visitas por ID de vehículo |
+| GET | `/api/v1/visits/auto-repair/{autoRepairId}` | Obtiene visitas por ID de Auto Repair |
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
