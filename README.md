@@ -2535,6 +2535,108 @@ Durante el Sprint 3, el equipo de FixTech demostró una colaboración excepciona
 
 <img src="Assets/chapter-V/evidences/team_sprint3.png">
 
+### 5.2.4. Sprint 4
+
+El Sprint 4 está orientado en habilitar el flujo funcional completo desde el frontend para los usuarios finales, integrando la capacidad de registrar vehículos, seleccionar talleres, agendar citas y utilizar datos del backend para una experiencia fluida de servicio. Este sprint busca consolidar la interacción real con los microservicios y entregar una versión utilizable del sistema para pruebas con usuarios.
+
+#### 5.2.4.1. Sprint Planning 4
+
+| **Sprint #** | Sprint 4 |
+|--------------|----------|
+| **Sprint Planning Background** | Este sprint se centra en completar las funcionalidades visibles para el usuario final, permitiendo el registro de vehículos, búsqueda y selección de talleres y la programación de una cita directamente desde la aplicación frontend. |
+| **Date** | 2025-11-12 |
+| **Time** | 08:00 PM |
+| **Location** | Virtual (Discord) |
+| **Prepared By** | Aróstegui Alzamora, César Augusto |
+| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Awad Vargas, Giorgio Marzouk / Tenorio Medina, Piero Francesco / Contreras Leon, Flor De María |
+| **Sprint 1 Review Summary** | Se completó exitosamente la implementación de la Landing Page con funcionalidades básicas de internacionalización, cambio de tema y secciones principales. Se logró el despliegue en Vercel y se estableció la base técnica del proyecto. |
+| **Sprint 1 Retrospective Summary** | El equipo identificó la necesidad de mejorar la comunicación durante el desarrollo y establecer mejores prácticas para la integración de código. Se destacó el buen trabajo en la implementación de componentes reutilizables y el diseño responsive. |
+| **Sprint 2 Review Summary** | Se completó la implementación de la aplicación web en Vue.js, integrando las interfaces principales de usuario y la conexión inicial con la Landing Page. Se estableció la arquitectura de componentes reutilizables y se avanzó en la navegación del sistema. |
+| **Sprint 2 Retrospective Summary** | El equipo resaltó la mejora en la organización del código y la adopción de GitHub Flow para controlar versiones. Se identificó la necesidad de reforzar la documentación técnica y mejorar validación de formularios y rutas protegidas. |
+| **Sprint 3 Review Summary** | Se logró la integración de los Web Services RESTful y una infraestructura backend estable. El flujo de mantenimiento, autenticación, pagos y catálogo quedó habilitado desde servicios API. |
+| **Sprint 3 Retrospective Summary** | Se identificó la necesidad de mayor madurez en la capa UI y mejorar la experiencia del usuario final, priorizando la corrección de validaciones y los mensajes del sistema en las vistas. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 4 Goal** | Completar una versión funcional del flujo de reserva para el usuario final, integrando registro de vehículos, visualización filtrada de talleres, selección de vehículo y agenda de cita. |
+| **Sprint 4 Velocity** | 48 Story Points |
+| **Sum of Story Points** | 48 Story Points |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) para el Sprint 4, enfocada en la integración frontend–backend y habilitación de experiencia del usuario final.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Frontend Development** (L / C) | **Backend Integration** (L / C) | **UI Validation & Forms** (L / C) | **Navigation & Routing** (L / C) |
+|-----------------------------------------|---------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| Aróstegui Alzamora, César Augusto        | Legendnt1           | C                                | L                                | C                                | C                                |
+| Jiménez Guerra, Gianmarco Fabian         | ZAICO21             | L                                | C                                | C                                | C                                |
+| Tenorio Medina, Piero Francesco          | PieroTM2005         | C                                | C                                | L                                | C                                |
+| Contreras Leon, Flor De María             | FlorDeMa             | C                                | C                                | C                                | C                                |
+| Awad Vargas, Giorgio Marzouk             | GiorgioAwad            | L                                | C                                | C                                | L                                |
+
+
+#### 5.2.4.3. Sprint Backlog 4
+
+| **Sprint #** | Sprint 4 |
+|--------------|----------|
+
+| **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|------------------|---------------------|-------------|----------------|----------------|----------------------|----------------|-----------|
+| US-13 | Adición de información general del taller | T4-01 | Formulario de taller | CRUD de datos generales y conexión con API | 6 | Flor | In Progress |
+| US-14 | Adición de trabajadores del taller | T4-02 | CRUD técnicos | Asignación de técnicos + validaciones | 7 | Flor | In Progress |
+| US-15 | Adición del vehículo | T4-03 | Registrar vehículo | Form + conexión a catálogo | 6 | Gianmarco | Done |
+| US-16 | Adición del modelo del vehículo | T4-04 | Selección de modelo | Dropdown dinámico conectado a API | 4 | César | Done |
+| US-17 | Adición de la placa del vehículo | T4-05 | Validación de placa | Reglas de formato + API | 4 | César | Done |
+| US-19 | Visualización talleres con requerimientos | T4-06 | Vista talleres filtrada | Filtros por servicio, distancia y rating | 8 | Giorgio | In Progress |
+| US-20 | Visualización talleres en búsqueda | T4-07 | Mapa + markers | Integración geolocalizada | 8 | Giorgio | In Progress |
+| US-22 | Selección de vehículo | T4-08 | UI selección de vehículo | Elección de vehículo en flujo de compra | 5 | Gianmarco | To Do |
+| US-23 | Selección fecha y hora | T4-09 | Calendario + disponibilidad | Agendamiento integrado | 6 | Piero | To Do |
+| ALL | Integración general | T4-10 | E2E completo de reserva | Flujo funcional completo | 6 | Equipo | To Do |
+| ALL | QA Testing | T4-11 | Pruebas funcionales | Testing de escenarios reales | 5 | Equipo | To Do |
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+Durante el Sprint 4, se logró habilitar el flujo funcional principal del sistema para el usuario final, integrando plenamente formulario–API–visualización. Las pantallas principales ahora permiten interacción real con los microservicios.
+
+**Principales logros del Sprint 4:**
+1. **Experiencia completa del usuario habilitada (UX real).**
+2. Integración de búsqueda de talleres mediante mapa interactivo.
+3. Validaciones y formularios conectados a servicios reales.
+4. Flujo de agendamiento disponible para pruebas internas.
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+> *(Adjuntar capturas)*
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+> _(adjuntar imagenes)_  
+
+Se incluirán imágenes como:
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 4, se consolidó la estrategia de despliegue continuo para la aplicación integrada de Prime-Fix, asegurando que las nuevas funcionalidades de cara al usuario (registro de vehículos, búsqueda de talleres y programación de citas) se publiquen de forma estable en el entorno de producción.  
+Esta estrategia sigue abarcando tanto la Frontend Web Application como los Web Services RESTful del backend, permitiendo validar el flujo completo de reserva en un entorno real.
+
+**Infraestructura de despliegue implementada:**  
+(completar)
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 4, el equipo de FixTech mantuvo una colaboración constante para alinear el trabajo de frontend con los servicios backend desarrollados en el Sprint 3.  
+Las sesiones de revisión de código, las reuniones de sincronización y el uso de GitHub Projects permitieron coordinar el desarrollo de formularios, vistas de búsqueda, mapas y flujo de reserva con los microservicios ya desplegados.
+
+La comunicación fluida entre los roles de frontend, backend y QA fue clave para:
+- Resolver rápidamente incidencias de integración.
+- Ajustar validaciones en formularios y mensajes de error.
+- Priorizar correcciones que impactaban directamente en la experiencia del usuario final.
+
+(poner imagen)
+
+
+
+
 ## 5.3. Validation Interviews
 
 Luego de haber avanzado con el desarrollo de la Landing Page y el deploy del front-end de la aplicación web y el API RESTful de PrimeFix, se realizarán las entrevistas de validación a los usuarios previamente entrevistados que corresponden a los segmentos objetivos para los cuales está dirigido el producto.
