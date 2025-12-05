@@ -3432,17 +3432,31 @@ La integración del Fronted Web Application con los Web Services RESTful y su co
 
 # Recomendaciones
 
-Durante el desarrollo del proyecto se recomienda mejorar la estandarización de los mensajes de commit siguiendo convenciones claras (por ejemplo, diferenciando entre feat, fix, docs, entre otros), así como especificar en los merge commits el propósito de la integración para mantener una trazabilidad adecuada. Asimismo, es aconsejable reforzar la organización de ramas empleando prefijos que identifiquen el tipo de trabajo realizado, lo que facilitaría la revisión y el control de cambios. En cuanto a la documentación, se sugiere unificar el estilo de las tablas, optimizar su presentación con títulos y descripciones, y asegurar consistencia en el uso de Markdown (encabezados, listas e imágenes), con el fin de mantener un formato más claro, profesional y fácil de interpretar. Finalmente, se recomienda mantener la rama principal siempre estable, aplicando revisiones mediante pull requests antes de la integración, lo que no solo asegura calidad en el código, sino también fomenta la colaboración efectiva entre los integrantes del equipo.
+Durante el desarrollo del proyecto se identificaron oportunidades para optimizar tanto los procesos técnicos como la coordinación del equipo. Una de las prioridades es fortalecer la estandarización de los mensajes de commit, adoptando convenciones claras y consistentes que permitan diferenciar adecuadamente nuevos desarrollos, correcciones, mejoras internas o cambios en documentación. Esta práctica contribuye a mantener un historial más ordenado, facilita auditorías posteriores y mejora la comprensión del progreso del proyecto.
 
-Por ello para optimizar los procesos de desarrollo y la calidad del producto en futuras iteraciones, se establecen las siguientes puntos:
+También se recomienda reforzar la estructura de trabajo colaborativo dentro del repositorio. Esto implica emplear una organización más clara para las diferentes líneas de trabajo, asegurando que cada una responda a una actividad específica del proyecto. Una estructura ordenada permite identificar rápidamente el propósito de cada cambio, agiliza la revisión entre pares y reduce el riesgo de conflictos al integrar avances.
 
-- **Estandarización de Commits:** Implementar convenciones de mensajes de commit claras y uniformes (e.g., feat, fix, docs, refactor) para mejorar la trazabilidad y la generación automática de historiales de cambio.
+En cuanto a la documentación general, es aconsejable unificar el estilo y la presentación de los contenidos. Esto incluye mantener coherencia en el diseño de tablas, el uso de encabezados, listas, descripciones y elementos visuales. Un formato estandarizado mejora la claridad del material, lo hace más profesional y facilita tanto la lectura como la actualización de la información.
 
-- **Gestión de Ramas Reforzada:** Utilizar un sistema de prefijos en los nombres de las ramas (e.g., feat/, fix/, refactor/) para facilitar la revisión, la identificación del trabajo y el control de cambios.
- 
-- **Mantenimiento de la Rama Principal (Main):** Fortalecer la política de mantener la rama principal siempre estable y desplegable, exigiendo una revisión formal mediante pull requests antes de cualquier integración. Esto asegura la calidad del código y promueve la colaboración efectiva.
- 
-- **Optimización de la Documentación:** Unificar el estilo de la documentación, especialmente en el uso de tablas (con títulos y descripciones claras) y la consistencia en la sintaxis de Markdown, para garantizar un formato más profesional y fácil de interpretar.
+Finalmente, se sugiere asegurar que el entregable principal del proyecto se mantenga siempre en un estado funcional y estable. Para ello, es importante realizar revisiones formales antes de integrar cualquier cambio significativo, de modo que se garantice la calidad del código, se reduzcan errores y se fomente una colaboración más efectiva dentro del equipo.
+
+En síntesis, y con el fin de optimizar futuras iteraciones, se establecen los siguientes puntos:
+
+**1. Estandarización de Commits**
+
+Implementar convenciones claras y uniformes para los mensajes de commit, permitiendo una mejor trazabilidad, una lectura más clara del historial y la posibilidad de generar reportes automáticos.
+
+**2. Organización Estructurada del Trabajo**
+
+Mantener una distribución organizada de los avances del proyecto, clasificando claramente cada esfuerzo según su propósito. Esto facilita la revisión, la colaboración y la gestión del ciclo de vida del software.
+
+**3. Control de Calidad en la Integración**
+
+Asegurar que la versión principal del proyecto permanezca estable mediante revisiones formales previas a cualquier integración. Este proceso contribuye a reducir errores y garantiza la calidad técnica del producto.
+
+**4. Optimización de la Documentación**
+
+Unificar el estilo de la documentación, mejorar la presentación de tablas y garantizar consistencia en el uso de la sintaxis Markdown. Esto aporta claridad, profesionalismo y facilidad de comprensión al material producido.
 
 # Video About-the-Team
 # Bibliografía
