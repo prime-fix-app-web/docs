@@ -1813,6 +1813,131 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 
 ### 5.1.4. Software Deployment Configuration
 
+Para garantizar que Prime-Fix pueda ser utilizado de manera continua por los usuarios finales, se ha implementado una arquitectura de despliegue en la nube basada en Vercel para el frontend web y Amazon Web Services (AWS) para los servicios backend. Esta estrategia se eligió con el objetivo de asegurar un desempeño óptimo, alta disponibilidad, escalabilidad y despliegues automatizados durante el desarrollo e integración del sistema.
+
+Vercel fue seleccionado como plataforma de despliegue del Frontend Web Application debido a sus ventajas al trabajar con frameworks modernos y orientados a Single Page Applications, como React o Next.js. Vercel permite un flujo totalmente automatizado de integración y despliegue continuo (CI/CD), lo que significa que cada cambio validado en el repositorio principal se publica sin intervención manual. Asimismo, proporciona una red de distribución de contenido (CDN) global, lo que permite que la aplicación cargue rápidamente desde cualquier ubicación geográfica, mejorando significativamente la experiencia del usuario. Su soporte nativo para configuraciones de entorno, previsualizaciones por rama y enrutamiento inteligente facilita la colaboración entre integrantes del equipo y asegura entregas rápidas y seguras al usuario final.
+
+Por otro lado, el Backend de Prime-Fix se encuentra desplegado sobre AWS, específicamente utilizando servicios de ejecución como App Runner o Elastic Beanstalk (dependiendo de la evolución del proyecto), lo que permite ejecutar los Web Services RESTful con un enfoque basado en contenedores o instancias administradas. AWS destaca por brindar:
+
+- Alta disponibilidad y tolerancia a fallos, evitando interrupciones en la operación del sistema.
+
+- Escalado automático, permitiendo responder ante picos de demanda sin afectar el rendimiento.
+
+- Monitorización avanzada, mediante CloudWatch u otros servicios integrados que permiten detectar errores y optimizar recursos.
+
+- Conectividad segura con la base de datos, protegiendo la información de los usuarios y del taller.
+
+Ambas plataformas trabajan de manera complementaria: el frontend distribuido en Vercel se comunica de forma eficiente y segura con el backend desplegado en AWS, asegurando una entrega integral de servicios en tiempo real. Con esta configuración de despliegue, Prime-Fix garantiza que todas las funcionalidades puedan probarse y validarse en un entorno cercano al de producción, facilitando el crecimiento del proyecto y su futura implementación en entornos comerciales más amplios.
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+En esta sección se documenta el proceso de implementación, pruebas, documentación y despliegue del Landing Page, los Web Services y las Frontend Web Applications.
+Cada Sprint se registra con detalle en términos de producto, trabajo colaborativo y evidencias de revisión.
+
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1
+
+| **Sprint #** | Sprint 1 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2025-09-16 |
+| **Time** | 09:00 PM |
+| **Location** | Virtual (Discord) |
+| **Prepared By** | Aróstegui Alzamora, César Augusto |
+| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Tenorio Medina, Piero Francesco / Contreras Leon, Flor De María / Awad Vargas, Giorgio Marzouk |
+| **Sprint 0 Review Summary** | No aplica por que es el primer Sprint |
+| **Sprint 0 Retrospective Summary** | No aplica por que es el primer Sprint |
+| **Sprint Goal & User Stories** | |
+| **Sprint 1 Goal** | Desplegar la Landing Page inicial con estructura básica, estilos globales y primeras secciones funcionales. |
+| **Sprint 1 Velocity** | 46 Story Points |
+| **Sum of Story Points** | 46 Story Points |
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)**.  
+Se indican los aspectos principales considerados en el Sprint, especificando quién asume el rol de **Líder (L)** y quiénes participan como **Colaboradores (C)**.  
+Esta organización asegura claridad en la comunicación y coherencia en la selección de tareas del Sprint.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Landing Page** (L / C) | **Services** (L / C) | **Applications** (L / C) | **Deployment** (L / C) |
+|-----------------------------------------|---------------------|--------------------------|----------------------|--------------------------|------------------------|
+| Aróstegui Alzamora, César Augusto        | Legendnt1             | L                        | C                    | C                        | L                      |
+| Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                        | L                    | C                        | C                      |
+| Tenorio Medina, Piero Francesco          | PieroTM2005             | C                        | C                    | L                        | C                      |
+| Contreras Leon, Flor De María              | FlorDeMa             | C                        | C                    | C                        | L                      |
+| Awad Vargas, Giorgio Marzouk        | GiorgioAwad             | C                        | C                    | C                        | C                      |
+
+#### 5.2.1.3. Sprint Backlog 1
+
+El Sprint Backlog 1 se centra en implementar las primeras funcionalidades de la solución, asegurando la construcción inicial de la **Landing Page**.  
+A continuación se muestra la tabla de control de estado para este Sprint.
+
+| **Sprint #** | Sprint 1 |
+|--------------|----------|
+
+| **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| US-01      | Visualización de servicios principales         | T-01        | Maquetar sección de servicios          | Crear estructura base de la sección de beneficios con Astro y Tailwind           | 3                     | César           | Done      |
+| US-01      | Visualización de servicios principales         | T-02        | Integrar contenido dinámico            | Mostrar servicios diferenciados para dueños de vehículos y talleres              | 2                     | Gianmarco       | Done      |
+| US-01      | Visualización de servicios principales         | T-03        | Ajustes de diseño responsive           | Optimizar visualización en desktop, tablet y móvil                              | 3                     | Flor          | Done      |
+| US-02      | Comprensión del proceso de funcionamiento      | T-04        | Crear sección “¿Cómo funciona?”        | Diseñar e implementar layout con 3 pasos claros (registro, solicitud, seguimiento) | 3                     | Piero           | Done      |
+| US-02      | Comprensión del proceso de funcionamiento      | T-05        | Redacción de textos explicativos       | Redactar contenido para cada etapa del flujo                                    | 4                     | Giorgio       | Done      |
+| US-02      | Comprensión del proceso de funcionamiento      | T-06        | Diseño gráfico de ilustraciones        | Incluir íconos o diagramas representativos de los pasos                          | 2                     | Flor          | Done      |
+| US-03      | Acceso a información detallada de características | T-07     | Maquetación de la sección              | Implementar bloque con funcionalidades detalladas para usuarios                 | 1                     | César           | Done      |
+| US-03      | Acceso a información detallada de características | T-08     | Integrar listas de características     | Organizar funcionalidades específicas para talleres y dueños de vehículos       | 6                     | Gianmarco       | Done      |
+| US-04      | Navegación intuitiva en landing page                | T-09        | Maquetación intuitiva        | Implementar tarjetas con información accesible para todos los usuarios                                 | 1                     | Cesar       | Done      |
+| US-04      | Navegación intuitiva en landing page                | T-10        | Vincular menú de navegación            | Agregar enlace desde el menú principal a la sección de contacto                  | 1                     | Gianmarco       | Done      |
+| US-05      | Información clara de beneficios               | T-11        | Maquetación de la sección      | Brindar información clara y fácil de entender          | 1                     | César           | Done      |
+| US-05      | Información clara de beneficios               | T-12        | Maquetación de la sección de beneficios                | Mostrar contenido directo sobre los contenidos de la página                         | 1                     | César           | Done      |
+| US-06      | Testimonios y casos de éxito | T-07     | Maquetación de la sección              | Brindar información sobre experiencias de usuarios                  | 1                     | César           | To Do      |
+| US-07      | Call-to-action prominente | T-07     | Maquetación de botones              | Mostrar botones que puedan direccionar hacia la aplicación web                  | 1                     | César           | Done      |
+| US-08      | Información de precios transparente | T-07     | Informar sobre precios              | Brindar información sobre los precios del producto                  | 1                     | César           | To Do      |
+| US-09      | Acceso a información de contacto                | T-10        | Implementar sección de contacto        | Crear footer con dirección de correo y teléfono                                 | 1                     | Cesar       | Done      |
+| US-09      | Acceso a información de contacto                | T-11        | Vincular menú de navegación            | Agregar enlace desde el menú principal a la sección de contacto                  | 1                     | Gianmarco       | Done      |
+| US-10      | Múltiples canales de comunicación               | T-13        | Configuración de email clickeable      | Integrar enlace `mailto:` para abrir cliente de correo automáticamente          | 1                     | César           | Done      |
+| US-10      | Múltiples canales de comunicación               | T-14        | Integración de teléfono                | Mostrar número de contacto con enlace directo a llamada                         | 1                     | César           | Done      |
+| US-10      | Múltiples canales de comunicación               | T-15        | Enlace a redes sociales                | Incluir enlace a Instagram con íconos representativos                           | 1                     | César          | Done      |
+| US-11             | Botón de cambio de idioma (ES/EN)           | T-06        | Implementación de selector de idioma | Agregar botón para alternar entre español e inglés en la interfaz | 2                      | Piero       | Done  |
+| US-11             | Botón de cambio de idioma (ES/EN)           | T-07        | Configuración de archivos i18n       | Crear y organizar archivos de traducción para ES y EN            | 3                     | Gianmarco       | Done       |
+| US-12            | Botón de cambio de tema    | T-09        | Implementar switch de tema           | Desarrollar botón que permita cambiar entre modo claro y oscuro  | 3                    | Flor           | Done       |
+| US-12             | Botón de cambio de tema    | T-10        | Configuración de estilos en Tailwind | Definir variables y clases para ambos temas en Tailwind          | 3                     | Giorgio           | Done       |
+
+Captura en Trello del Sprint 1:
+<img src="Assets/Trello/Sprint_1.png">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+| **Repository**              | **Branch**            | **Commit Id** | **Commit Message**                | **Commit Message Body**                                | **Committed on (Date)** |
+|------------------------------|-----------------------|---------------|-----------------------------------|--------------------------------------------------------|--------------------------|
+| prime-fix-app-web/landing-page       | development       | 89476f8       | feat: start project        | Start project landing page with astro  | 2025-09-15               |
+| prime-fix-app-web/landing-page       | development       | ed4746b       | feat: Implement internationalization        | Implement internationalization for feature, footer, header, home, and home guide components   | 2025-09-15               |
+| prime-fix-app-web/landing-page       | development      | 370fdff       |  feat: Refactor language      | Refactor language handling and UI translations; remove unused components and implement dynamic language support in pages       | 2025-09-15               |
+| prime-fix-app-web/landing-page        | development          | c254f47       | feat: introducing button change theme          | Added button change Theme     | 2025-09-15               |
+| prime-fix-app-web/landing-page           | development  | 332f3a9       | feat: Implement dark theme support and improve theme toggle functionality    | Improve toggle functionality      | 2025-09-15               |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Se completó la primera versión de la Landing Page con sección de bienvenida, navegación y estructura inicial de servicios.  
+
+Landing Page modo claro en inglés:
+<img src="Assets/chapter-V/evidences/landing_evidence_1.png">
+
+Landing Page modo oscuro en inglés:
+<img src="Assets/chapter-V/evidences/landing_evidence_2.png">
+
+Landing Page modo claro en español:
+<img src="Assets/chapter-V/evidences/landing_evidence_3.png">
+
+Landing Page modo oscuro en español:
+<img src="Assets/chapter-V/evidences/landing_evidence_4.png">
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+No aplica por que el Sprint se centró en la Landing Page.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
 Vamos a describir el proceso de despliegue tanto de la Landing Page como del Frontend Web Application utilizando Vercel y GitHub.
 Vercel es una plataforma de despliegue y hosting optimizada para aplicaciones frontend y sitios web estáticos. Ofrece integración directa con repositorios de GitHub, facilitando el proceso de despliegue continuo (CI/CD). Cada vez que se realiza un push a la rama principal del repositorio, Vercel automáticamente construye y despliega la aplicación, asegurando que siempre esté actualizada con los últimos cambios.
 
@@ -1963,121 +2088,6 @@ Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto 
 
 Url proporcionada por AWS App Runner: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
 
-
-## 5.2. Landing Page, Services & Applications Implementation
-
-En esta sección se documenta el proceso de implementación, pruebas, documentación y despliegue del Landing Page, los Web Services y las Frontend Web Applications.
-Cada Sprint se registra con detalle en términos de producto, trabajo colaborativo y evidencias de revisión.
-
-### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1
-
-| **Sprint #** | Sprint 1 |
-|--------------|----------|
-| **Sprint Planning Background** | |
-| **Date** | 2025-09-16 |
-| **Time** | 09:00 PM |
-| **Location** | Virtual (Discord) |
-| **Prepared By** | Aróstegui Alzamora, César Augusto |
-| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Tenorio Medina, Piero Francesco / Contreras Leon, Flor De María / Awad Vargas, Giorgio Marzouk |
-| **Sprint 0 Review Summary** | No aplica por que es el primer Sprint |
-| **Sprint 0 Retrospective Summary** | No aplica por que es el primer Sprint |
-| **Sprint Goal & User Stories** | |
-| **Sprint 1 Goal** | Desplegar la Landing Page inicial con estructura básica, estilos globales y primeras secciones funcionales. |
-| **Sprint 1 Velocity** | 46 Story Points |
-| **Sum of Story Points** | 46 Story Points |
-
-#### 5.2.1.2. Aspect Leaders and Collaborators
-
-En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)**.  
-Se indican los aspectos principales considerados en el Sprint, especificando quién asume el rol de **Líder (L)** y quiénes participan como **Colaboradores (C)**.  
-Esta organización asegura claridad en la comunicación y coherencia en la selección de tareas del Sprint.
-
-| **Team Member (Last Name, First Name)** | **GitHub Username** | **Landing Page** (L / C) | **Services** (L / C) | **Applications** (L / C) | **Deployment** (L / C) |
-|-----------------------------------------|---------------------|--------------------------|----------------------|--------------------------|------------------------|
-| Aróstegui Alzamora, César Augusto        | Legendnt1             | L                        | C                    | C                        | L                      |
-| Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                        | L                    | C                        | C                      |
-| Tenorio Medina, Piero Francesco          | PieroTM2005             | C                        | C                    | L                        | C                      |
-| Contreras Leon, Flor De María              | FlorDeMa             | C                        | C                    | C                        | L                      |
-| Awad Vargas, Giorgio Marzouk        | GiorgioAwad             | C                        | C                    | C                        | C                      |
-
-#### 5.2.1.3. Sprint Backlog 1
-
-El Sprint Backlog 1 se centra en implementar las primeras funcionalidades de la solución, asegurando la construcción inicial de la **Landing Page**.  
-A continuación se muestra la tabla de control de estado para este Sprint.
-
-| **Sprint #** | Sprint 1 |
-|--------------|----------|
-
-| **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
-|-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
-| US-01      | Visualización de servicios principales         | T-01        | Maquetar sección de servicios          | Crear estructura base de la sección de beneficios con Astro y Tailwind           | 3                     | César           | Done      |
-| US-01      | Visualización de servicios principales         | T-02        | Integrar contenido dinámico            | Mostrar servicios diferenciados para dueños de vehículos y talleres              | 2                     | Gianmarco       | Done      |
-| US-01      | Visualización de servicios principales         | T-03        | Ajustes de diseño responsive           | Optimizar visualización en desktop, tablet y móvil                              | 3                     | Flor          | Done      |
-| US-02      | Comprensión del proceso de funcionamiento      | T-04        | Crear sección “¿Cómo funciona?”        | Diseñar e implementar layout con 3 pasos claros (registro, solicitud, seguimiento) | 3                     | Piero           | Done      |
-| US-02      | Comprensión del proceso de funcionamiento      | T-05        | Redacción de textos explicativos       | Redactar contenido para cada etapa del flujo                                    | 4                     | Giorgio       | Done      |
-| US-02      | Comprensión del proceso de funcionamiento      | T-06        | Diseño gráfico de ilustraciones        | Incluir íconos o diagramas representativos de los pasos                          | 2                     | Flor          | Done      |
-| US-03      | Acceso a información detallada de características | T-07     | Maquetación de la sección              | Implementar bloque con funcionalidades detalladas para usuarios                 | 1                     | César           | Done      |
-| US-03      | Acceso a información detallada de características | T-08     | Integrar listas de características     | Organizar funcionalidades específicas para talleres y dueños de vehículos       | 6                     | Gianmarco       | Done      |
-| US-04      | Navegación intuitiva en landing page                | T-09        | Maquetación intuitiva        | Implementar tarjetas con información accesible para todos los usuarios                                 | 1                     | Cesar       | Done      |
-| US-04      | Navegación intuitiva en landing page                | T-10        | Vincular menú de navegación            | Agregar enlace desde el menú principal a la sección de contacto                  | 1                     | Gianmarco       | Done      |
-| US-05      | Información clara de beneficios               | T-11        | Maquetación de la sección      | Brindar información clara y fácil de entender          | 1                     | César           | Done      |
-| US-05      | Información clara de beneficios               | T-12        | Maquetación de la sección de beneficios                | Mostrar contenido directo sobre los contenidos de la página                         | 1                     | César           | Done      |
-| US-06      | Testimonios y casos de éxito | T-07     | Maquetación de la sección              | Brindar información sobre experiencias de usuarios                  | 1                     | César           | To Do      |
-| US-07      | Call-to-action prominente | T-07     | Maquetación de botones              | Mostrar botones que puedan direccionar hacia la aplicación web                  | 1                     | César           | Done      |
-| US-08      | Información de precios transparente | T-07     | Informar sobre precios              | Brindar información sobre los precios del producto                  | 1                     | César           | To Do      |
-| US-09      | Acceso a información de contacto                | T-10        | Implementar sección de contacto        | Crear footer con dirección de correo y teléfono                                 | 1                     | Cesar       | Done      |
-| US-09      | Acceso a información de contacto                | T-11        | Vincular menú de navegación            | Agregar enlace desde el menú principal a la sección de contacto                  | 1                     | Gianmarco       | Done      |
-| US-10      | Múltiples canales de comunicación               | T-13        | Configuración de email clickeable      | Integrar enlace `mailto:` para abrir cliente de correo automáticamente          | 1                     | César           | Done      |
-| US-10      | Múltiples canales de comunicación               | T-14        | Integración de teléfono                | Mostrar número de contacto con enlace directo a llamada                         | 1                     | César           | Done      |
-| US-10      | Múltiples canales de comunicación               | T-15        | Enlace a redes sociales                | Incluir enlace a Instagram con íconos representativos                           | 1                     | César          | Done      |
-| US-11             | Botón de cambio de idioma (ES/EN)           | T-06        | Implementación de selector de idioma | Agregar botón para alternar entre español e inglés en la interfaz | 2                      | Piero       | Done  |
-| US-11             | Botón de cambio de idioma (ES/EN)           | T-07        | Configuración de archivos i18n       | Crear y organizar archivos de traducción para ES y EN            | 3                     | Gianmarco       | Done       |
-| US-12            | Botón de cambio de tema    | T-09        | Implementar switch de tema           | Desarrollar botón que permita cambiar entre modo claro y oscuro  | 3                    | Flor           | Done       |
-| US-12             | Botón de cambio de tema    | T-10        | Configuración de estilos en Tailwind | Definir variables y clases para ambos temas en Tailwind          | 3                     | Giorgio           | Done       |
-
-Captura en Trello del Sprint 1:
-<img src="Assets/Trello/Sprint_1.png">
-
-[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
-
-#### 5.2.1.4. Development Evidence for Sprint Review
-
-| **Repository**              | **Branch**            | **Commit Id** | **Commit Message**                | **Commit Message Body**                                | **Committed on (Date)** |
-|------------------------------|-----------------------|---------------|-----------------------------------|--------------------------------------------------------|--------------------------|
-| prime-fix-app-web/landing-page       | development       | 89476f8       | feat: start project        | Start project landing page with astro  | 2025-09-15               |
-| prime-fix-app-web/landing-page       | development       | ed4746b       | feat: Implement internationalization        | Implement internationalization for feature, footer, header, home, and home guide components   | 2025-09-15               |
-| prime-fix-app-web/landing-page       | development      | 370fdff       |  feat: Refactor language      | Refactor language handling and UI translations; remove unused components and implement dynamic language support in pages       | 2025-09-15               |
-| prime-fix-app-web/landing-page        | development          | c254f47       | feat: introducing button change theme          | Added button change Theme     | 2025-09-15               |
-| prime-fix-app-web/landing-page           | development  | 332f3a9       | feat: Implement dark theme support and improve theme toggle functionality    | Improve toggle functionality      | 2025-09-15               |
-
-#### 5.2.1.5. Execution Evidence for Sprint Review
-
-Se completó la primera versión de la Landing Page con sección de bienvenida, navegación y estructura inicial de servicios.  
-
-Landing Page modo claro en inglés:
-<img src="Assets/chapter-V/evidences/landing_evidence_1.png">
-
-Landing Page modo oscuro en inglés:
-<img src="Assets/chapter-V/evidences/landing_evidence_2.png">
-
-Landing Page modo claro en español:
-<img src="Assets/chapter-V/evidences/landing_evidence_3.png">
-
-Landing Page modo oscuro en español:
-<img src="Assets/chapter-V/evidences/landing_evidence_4.png">
-
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-No aplica por que el Sprint se centró en la Landing Page.
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
-- Se configuró un pipeline de CI/CD en GitHub Actions.  
-- Se desplegó la Landing Page en Vercel con integración automática desde la rama main.  
-- Se validaron configuraciones de DNS y HTTPS.  
-
-<img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -2393,31 +2403,155 @@ La aplicación cuenta con documentación completa que incluye:
 Durante el Sprint 2, se implementó una estrategia de despliegue continuo para la Frontend Web Application de Prime-Fix. Esta estrategia garantiza que cada nueva funcionalidad desarrollada se despliegue automáticamente en un entorno de producción estable y accesible para los usuarios finales. También se va mostrar despliegues por cada bounded context
 
 
-**Infraestructura de despliegue implementada:**
+Vamos a describir el proceso de despliegue tanto de la Landing Page como del Frontend Web Application utilizando Vercel y GitHub.
+Vercel es una plataforma de despliegue y hosting optimizada para aplicaciones frontend y sitios web estáticos. Ofrece integración directa con repositorios de GitHub, facilitando el proceso de despliegue continuo (CI/CD). Cada vez que se realiza un push a la rama principal del repositorio, Vercel automáticamente construye y despliega la aplicación, asegurando que siempre esté actualizada con los últimos cambios.
 
-1. **Repositorio y Control de Versiones**
-   - GitHub como repositorio principal con organización prime-fix
-   - Implementación de GitFlow para gestión de ramas del frontend
-   - Configuración de branch protection rules en main y develop
+- Link oficial de Vercel: [https://vercel.com/](https://vercel.com/)
 
-2. **Plataforma de Hosting**
-   - Despliegue en Vercel, Firebase o Netlify para aplicación Vue.js
-   - Configuración de variables de entorno para diferentes ambientes
-   - SSL/TLS automático para conexiones seguras
-   - CDN global para optimización de carga
-   - Monitoreo de performance y analytics
+## **Despliegue de la Landing Page**
 
-3. **Integración con Landing Page**
-   - Enlaces directos desde Landing Page hacia aplicación web
-   - Configuración de rutas y redirecciones optimizadas
-   - Consistencia visual entre Landing Page y aplicación
-   - Tracking de conversión desde landing hacia app
+1. **Registro en GitHub**  
+   Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de Prime-Fix-App-Web.
 
-**Evidencia de despliegue:**
+2. **Creación del repositorio**  
+   Hicimos clic en **New** para crear un nuevo repositorio.  
+   Le asignamos el nombre **landing-page** dentro de la organización **prime-fix-app-web**.
+
+3. **Configuración del repositorio**  
+   - Visibilidad **pública** para permitir la integración con Vercel.  
+   - Añadimos un `README.md` inicial y un `.gitignore` adecuado.
+
+<img src="Assets/chapter-V/evidences/landing_github_evidence.png">
+
+4. **Carga de los archivos de la landing**  
+   - Subimos los archivos del proyecto (**HTML, TailwindCSS, TypeScript, Astro**).  
+   - Confirmamos que los cambios estén en la rama **master**.  
+   - “**Commit changes**”.
+
+5. **Configuración en Vercel**  
+   - Iniciamos sesión en Vercel → **New Project** → vinculamos GitHub.  
+   - Importamos el repo `landing-page`.  
+   - Framework **Astro** (detección automática).  
+   - Definimos la rama de despliegue (**master**).
+
+<img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
+
+### **Despliegue del Frontend Web Applications**
+Para que nuestra Frontend Web Application esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
+**1. Registro en GitHub**  
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Frontend Web Application de **Prime-Fix**.
+**2. Creación del repositorio**  
+- Hicimos clic en el botón **“New”** para generar un nuevo repositorio
+- Le asignamos el nombre **“frontend”** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/chapter-V/evidences/frontend_github_evidence.png">
+
+**3. Configuración del repositorio**
+- Nos aseguramos de que el repositorio tenga visibilidad **pública** para permitir la integración con Vercel.
+- Añadimos un archivo `README.md` inicial y configuramos un `.gitignore`
+  adecuado para excluir archivos innecesarios.
+
+**4. Carga de los archivos de la Frontend Web Application**
+- Accedimos al repositorio creado.
+- Subimos los archivos generados del proyecto .
+- Verificamos que los cambios se hicieran en la rama principal (`master`).
+
+
+**5. Configuración en Vercel**
+- Iniciamos sesión en [Vercel](https://vercel.com).
+- Seleccionamos la opción **“New Project”** y vinculamos nuestra cuenta de GitHub.
+- Importamos el repositorio **frontend**.
+- Configuramos el framework en **Vite** (Vercel lo detecta automáticamente en la mayoría de los casos).
+- Definimos la rama de despliegue (`master`).
+- Colocamos todas las variables de entorno necesarias para el correcto funcionamiento de la aplicación.
+- Finalmente, hicimos clic en **“Deploy”** para iniciar el proceso de despliegue.
+
+<img src="Assets/chapter-V/evidences/vercel_frontend_evidence1.png">
 
 <img src="Assets/chapter-V/evidences/vercel_frontend_evidence2.png">
 
-Link del despliegue: [https://frontend-app-web-chi.vercel.app/](https://frontend-app-web-chi.vercel.app/)
+### **Despliegue del RESTful Web Services**
+
+Para que nuestro RESTful Web Services esté disponible para todos nuestros usuarios, lo desplegamos utilizando Amazon Web Services (AWS) como plataforma de infraestructura en la nube. El proceso se llevó a cabo de la siguiente manera:
+
+Como arquitectura general, el flujo de integración y despliegue continuo se compone de:
+
+**1. Registro en GitHub**
+
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código del RESTful Web Services de **Prime-Fix**.
+
+- Creamos un repositorio llamado **backend** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/chapter-V/backend/github_backend_evidence.png">
+
+
+**2. Base datos en Amazon RDS**
+
+- Creamos una instancia de base de datos en Amazon RDS para almacenar los datos de la aplicación.
+- Configuramos los parámetros de la base de datos, incluyendo el motor (MySQL, PostgreSQL, etc.), tamaño, y credenciales de acceso.
+- Creamos la instancia **prime-fix-db** y lo colocamos en la región de **us-east-2**.
+- Colocamos un VPC compartido con el futuro despliegue del backen en App Runner.
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence3.png">
+
+**3. Build en AWS CodeBuild**
+
+- Configuramos un proyecto en AWS CodeBuild para compilar el código del backend.
+- Construye la imagen Docker utilizando un archivo `Dockerfile` que define el entorno de ejecución.
+- Con todos estos archivos podemos compilar el proyecto de C# 13 y .NET 9.0.
+- Sube la imagen a Amazon ECR (Elastic Container Registry) para su posterior despliegue.
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence3.png">
+
+**4. Subir la imagen a AWS ECR**
+
+- Creamos un repositorio en Amazon ECR para almacenar las imágenes Docker del backend.
+- Configuramos las políticas de acceso para permitir que AWS CodeBuild pueda subir imágenes al repositorio.
+- Subimos la imagen Docker generada por CodeBuild al repositorio de ECR.
+
+<img src="Assets/chapter-V/backend/aws_ecr_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_ecr_evidence2.png">
+
+**5. Automatizar despliegue con AWS CodePipeline**
+
+- Configuramos un pipeline de CI/CD utilizando AWS CodePipeline para automatizar el proceso de construcción, prueba y despliegue del backend.
+- Solo se activa el pipeline cuando se hacen cambios en la rama `master` del repositorio de GitHub.
+- Commits en `develop` no generan despliegue automático.
+- Automatizará para que se haga un despliegue en AWS CodeBuild.
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence3.png">
+
+**6. Despliegue en AWS App Runner**
+
+- Configuramos un servicio en AWS App Runner para desplegar la imagen Docker del backend.
+- Configuramos las variables de entorno necesarias para la conexión con la base de datos y otros servicios.
+- Definimos la configuración de escalado automático para manejar la carga de tráfico.
+- Finalmente, iniciamos el servicio para que el backend esté disponible públicamente.
+
+<img src="Assets/chapter-V/backend/aws_apprunner_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_apprunner_evidence2.png">
+
+**7. Verificación del servicio web**
+
+- Accedemos a la URL proporcionada por AWS App Runner para confirmar que el servicio web está activo y funcionando correctamente.
+
+<img src="Assets/chapter-V/backend/aws_backend_deployed.png">
+
+Url proporcionada por AWS App Runner: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
@@ -2568,8 +2702,156 @@ Evidencias:
 
 Durante el Sprint 3, se implementó una estrategia de despliegue continuo para la aplicación integrada de Prime-Fix, asegurando que cada nueva funcionalidad desarrollada se despliegue automáticamente en un entorno de producción estable y accesible para los usuarios finales. Esta estrategia abarca tanto la Frontend Web Application como los Web Services RESTful del backend.
 
-**Infraestructura de despliegue implementada:**
-Link del Restful Web Services desplegado en AWS: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
+Vamos a describir el proceso de despliegue tanto de la Landing Page como del Frontend Web Application utilizando Vercel y GitHub.
+Vercel es una plataforma de despliegue y hosting optimizada para aplicaciones frontend y sitios web estáticos. Ofrece integración directa con repositorios de GitHub, facilitando el proceso de despliegue continuo (CI/CD). Cada vez que se realiza un push a la rama principal del repositorio, Vercel automáticamente construye y despliega la aplicación, asegurando que siempre esté actualizada con los últimos cambios.
+
+- Link oficial de Vercel: [https://vercel.com/](https://vercel.com/)
+
+## **Despliegue de la Landing Page**
+
+1. **Registro en GitHub**  
+   Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de Prime-Fix-App-Web.
+
+2. **Creación del repositorio**  
+   Hicimos clic en **New** para crear un nuevo repositorio.  
+   Le asignamos el nombre **landing-page** dentro de la organización **prime-fix-app-web**.
+
+3. **Configuración del repositorio**  
+   - Visibilidad **pública** para permitir la integración con Vercel.  
+   - Añadimos un `README.md` inicial y un `.gitignore` adecuado.
+
+<img src="Assets/chapter-V/evidences/landing_github_evidence.png">
+
+4. **Carga de los archivos de la landing**  
+   - Subimos los archivos del proyecto (**HTML, TailwindCSS, TypeScript, Astro**).  
+   - Confirmamos que los cambios estén en la rama **master**.  
+   - “**Commit changes**”.
+
+5. **Configuración en Vercel**  
+   - Iniciamos sesión en Vercel → **New Project** → vinculamos GitHub.  
+   - Importamos el repo `landing-page`.  
+   - Framework **Astro** (detección automática).  
+   - Definimos la rama de despliegue (**master**).
+
+<img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
+
+### **Despliegue del Frontend Web Applications**
+Para que nuestra Frontend Web Application esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
+**1. Registro en GitHub**  
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Frontend Web Application de **Prime-Fix**.
+**2. Creación del repositorio**  
+- Hicimos clic en el botón **“New”** para generar un nuevo repositorio
+- Le asignamos el nombre **“frontend”** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/chapter-V/evidences/frontend_github_evidence.png">
+
+**3. Configuración del repositorio**
+- Nos aseguramos de que el repositorio tenga visibilidad **pública** para permitir la integración con Vercel.
+- Añadimos un archivo `README.md` inicial y configuramos un `.gitignore`
+  adecuado para excluir archivos innecesarios.
+
+**4. Carga de los archivos de la Frontend Web Application**
+- Accedimos al repositorio creado.
+- Subimos los archivos generados del proyecto .
+- Verificamos que los cambios se hicieran en la rama principal (`master`).
+
+
+**5. Configuración en Vercel**
+- Iniciamos sesión en [Vercel](https://vercel.com).
+- Seleccionamos la opción **“New Project”** y vinculamos nuestra cuenta de GitHub.
+- Importamos el repositorio **frontend**.
+- Configuramos el framework en **Vite** (Vercel lo detecta automáticamente en la mayoría de los casos).
+- Definimos la rama de despliegue (`master`).
+- Colocamos todas las variables de entorno necesarias para el correcto funcionamiento de la aplicación.
+- Finalmente, hicimos clic en **“Deploy”** para iniciar el proceso de despliegue.
+
+<img src="Assets/chapter-V/evidences/vercel_frontend_evidence1.png">
+
+<img src="Assets/chapter-V/evidences/vercel_frontend_evidence2.png">
+
+### **Despliegue del RESTful Web Services**
+
+Para que nuestro RESTful Web Services esté disponible para todos nuestros usuarios, lo desplegamos utilizando Amazon Web Services (AWS) como plataforma de infraestructura en la nube. El proceso se llevó a cabo de la siguiente manera:
+
+Como arquitectura general, el flujo de integración y despliegue continuo se compone de:
+
+**1. Registro en GitHub**
+
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código del RESTful Web Services de **Prime-Fix**.
+
+- Creamos un repositorio llamado **backend** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/chapter-V/backend/github_backend_evidence.png">
+
+
+**2. Base datos en Amazon RDS**
+
+- Creamos una instancia de base de datos en Amazon RDS para almacenar los datos de la aplicación.
+- Configuramos los parámetros de la base de datos, incluyendo el motor (MySQL, PostgreSQL, etc.), tamaño, y credenciales de acceso.
+- Creamos la instancia **prime-fix-db** y lo colocamos en la región de **us-east-2**.
+- Colocamos un VPC compartido con el futuro despliegue del backen en App Runner.
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence3.png">
+
+**3. Build en AWS CodeBuild**
+
+- Configuramos un proyecto en AWS CodeBuild para compilar el código del backend.
+- Construye la imagen Docker utilizando un archivo `Dockerfile` que define el entorno de ejecución.
+- Con todos estos archivos podemos compilar el proyecto de C# 13 y .NET 9.0.
+- Sube la imagen a Amazon ECR (Elastic Container Registry) para su posterior despliegue.
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence3.png">
+
+**4. Subir la imagen a AWS ECR**
+
+- Creamos un repositorio en Amazon ECR para almacenar las imágenes Docker del backend.
+- Configuramos las políticas de acceso para permitir que AWS CodeBuild pueda subir imágenes al repositorio.
+- Subimos la imagen Docker generada por CodeBuild al repositorio de ECR.
+
+<img src="Assets/chapter-V/backend/aws_ecr_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_ecr_evidence2.png">
+
+**5. Automatizar despliegue con AWS CodePipeline**
+
+- Configuramos un pipeline de CI/CD utilizando AWS CodePipeline para automatizar el proceso de construcción, prueba y despliegue del backend.
+- Solo se activa el pipeline cuando se hacen cambios en la rama `master` del repositorio de GitHub.
+- Commits en `develop` no generan despliegue automático.
+- Automatizará para que se haga un despliegue en AWS CodeBuild.
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence3.png">
+
+**6. Despliegue en AWS App Runner**
+
+- Configuramos un servicio en AWS App Runner para desplegar la imagen Docker del backend.
+- Configuramos las variables de entorno necesarias para la conexión con la base de datos y otros servicios.
+- Definimos la configuración de escalado automático para manejar la carga de tráfico.
+- Finalmente, iniciamos el servicio para que el backend esté disponible públicamente.
+
+<img src="Assets/chapter-V/backend/aws_apprunner_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_apprunner_evidence2.png">
+
+**7. Verificación del servicio web**
+
+- Accedemos a la URL proporcionada por AWS App Runner para confirmar que el servicio web está activo y funcionando correctamente.
+
+<img src="Assets/chapter-V/backend/aws_backend_deployed.png">
+
+Url proporcionada por AWS App Runner: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
+
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
@@ -2975,20 +3257,157 @@ En el Sprint 4, también se concretó el desarrollo de todos los endpoints del B
 
 Durante el Sprint 4, se implementó una estrategia de despliegue continuo para la aplicación de PrimeFix integrando tanto el frontend como el backend, asegurando que cada nueva funcionalidad desarrollada se despliegue automáticamente en un entorno de producción estable y accesible para los usuarios finales. Esta estrategia abarca tanto la Frontend Web Application como los Web Services RESTful del backend.
 
-Infraestructura de despliegue implementada:
+Vamos a describir el proceso de despliegue tanto de la Landing Page como del Frontend Web Application utilizando Vercel y GitHub.
+Vercel es una plataforma de despliegue y hosting optimizada para aplicaciones frontend y sitios web estáticos. Ofrece integración directa con repositorios de GitHub, facilitando el proceso de despliegue continuo (CI/CD). Cada vez que se realiza un push a la rama principal del repositorio, Vercel automáticamente construye y despliega la aplicación, asegurando que siempre esté actualizada con los últimos cambios.
 
-- Link de la Landing Page: <https://landing-page-app-web-gamma.vercel.app/>
+- Link oficial de Vercel: [https://vercel.com/](https://vercel.com/)
+
+## **Despliegue de la Landing Page**
+
+1. **Registro en GitHub**  
+   Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de Prime-Fix-App-Web.
+
+2. **Creación del repositorio**  
+   Hicimos clic en **New** para crear un nuevo repositorio.  
+   Le asignamos el nombre **landing-page** dentro de la organización **prime-fix-app-web**.
+
+3. **Configuración del repositorio**  
+   - Visibilidad **pública** para permitir la integración con Vercel.  
+   - Añadimos un `README.md` inicial y un `.gitignore` adecuado.
+
+<img src="Assets/chapter-V/evidences/landing_github_evidence.png">
+
+4. **Carga de los archivos de la landing**  
+   - Subimos los archivos del proyecto (**HTML, TailwindCSS, TypeScript, Astro**).  
+   - Confirmamos que los cambios estén en la rama **master**.  
+   - “**Commit changes**”.
+
+5. **Configuración en Vercel**  
+   - Iniciamos sesión en Vercel → **New Project** → vinculamos GitHub.  
+   - Importamos el repo `landing-page`.  
+   - Framework **Astro** (detección automática).  
+   - Definimos la rama de despliegue (**master**).
+
 <img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
 
-- Link del Frontend Web Application: <https://frontend-app-web-chi.vercel.app/>
-  <img src="Assets/chapter-V/evidences/vercel_frontend_evidence2.png">
+### **Despliegue del Frontend Web Applications**
+Para que nuestra Frontend Web Application esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
+**1. Registro en GitHub**  
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Frontend Web Application de **Prime-Fix**.
+**2. Creación del repositorio**  
+- Hicimos clic en el botón **“New”** para generar un nuevo repositorio
+- Le asignamos el nombre **“frontend”** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/chapter-V/evidences/frontend_github_evidence.png">
+
+**3. Configuración del repositorio**
+- Nos aseguramos de que el repositorio tenga visibilidad **pública** para permitir la integración con Vercel.
+- Añadimos un archivo `README.md` inicial y configuramos un `.gitignore`
+  adecuado para excluir archivos innecesarios.
+
+**4. Carga de los archivos de la Frontend Web Application**
+- Accedimos al repositorio creado.
+- Subimos los archivos generados del proyecto .
+- Verificamos que los cambios se hicieran en la rama principal (`master`).
 
 
-- Link del Restful Web Services desplegado en AWS: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
+**5. Configuración en Vercel**
+- Iniciamos sesión en [Vercel](https://vercel.com).
+- Seleccionamos la opción **“New Project”** y vinculamos nuestra cuenta de GitHub.
+- Importamos el repositorio **frontend**.
+- Configuramos el framework en **Vite** (Vercel lo detecta automáticamente en la mayoría de los casos).
+- Definimos la rama de despliegue (`master`).
+- Colocamos todas las variables de entorno necesarias para el correcto funcionamiento de la aplicación.
+- Finalmente, hicimos clic en **“Deploy”** para iniciar el proceso de despliegue.
+
+<img src="Assets/chapter-V/evidences/vercel_frontend_evidence1.png">
+
+<img src="Assets/chapter-V/evidences/vercel_frontend_evidence2.png">
+
+### **Despliegue del RESTful Web Services**
+
+Para que nuestro RESTful Web Services esté disponible para todos nuestros usuarios, lo desplegamos utilizando Amazon Web Services (AWS) como plataforma de infraestructura en la nube. El proceso se llevó a cabo de la siguiente manera:
+
+Como arquitectura general, el flujo de integración y despliegue continuo se compone de:
+
+**1. Registro en GitHub**
+
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código del RESTful Web Services de **Prime-Fix**.
+
+- Creamos un repositorio llamado **backend** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/chapter-V/backend/github_backend_evidence.png">
+
+
+**2. Base datos en Amazon RDS**
+
+- Creamos una instancia de base de datos en Amazon RDS para almacenar los datos de la aplicación.
+- Configuramos los parámetros de la base de datos, incluyendo el motor (MySQL, PostgreSQL, etc.), tamaño, y credenciales de acceso.
+- Creamos la instancia **prime-fix-db** y lo colocamos en la región de **us-east-2**.
+- Colocamos un VPC compartido con el futuro despliegue del backen en App Runner.
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence3.png">
+
+**3. Build en AWS CodeBuild**
+
+- Configuramos un proyecto en AWS CodeBuild para compilar el código del backend.
+- Construye la imagen Docker utilizando un archivo `Dockerfile` que define el entorno de ejecución.
+- Con todos estos archivos podemos compilar el proyecto de C# 13 y .NET 9.0.
+- Sube la imagen a Amazon ECR (Elastic Container Registry) para su posterior despliegue.
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence3.png">
+
+**4. Subir la imagen a AWS ECR**
+
+- Creamos un repositorio en Amazon ECR para almacenar las imágenes Docker del backend.
+- Configuramos las políticas de acceso para permitir que AWS CodeBuild pueda subir imágenes al repositorio.
+- Subimos la imagen Docker generada por CodeBuild al repositorio de ECR.
+
+<img src="Assets/chapter-V/backend/aws_ecr_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_ecr_evidence2.png">
+
+**5. Automatizar despliegue con AWS CodePipeline**
+
+- Configuramos un pipeline de CI/CD utilizando AWS CodePipeline para automatizar el proceso de construcción, prueba y despliegue del backend.
+- Solo se activa el pipeline cuando se hacen cambios en la rama `master` del repositorio de GitHub.
+- Commits en `develop` no generan despliegue automático.
+- Automatizará para que se haga un despliegue en AWS CodeBuild.
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence3.png">
+
+**6. Despliegue en AWS App Runner**
+
+- Configuramos un servicio en AWS App Runner para desplegar la imagen Docker del backend.
+- Configuramos las variables de entorno necesarias para la conexión con la base de datos y otros servicios.
+- Definimos la configuración de escalado automático para manejar la carga de tráfico.
+- Finalmente, iniciamos el servicio para que el backend esté disponible públicamente.
+
+<img src="Assets/chapter-V/backend/aws_apprunner_evidence.png">
+
 <img src="Assets/chapter-V/backend/aws_apprunner_evidence2.png">
+
+**7. Verificación del servicio web**
+
+- Accedemos a la URL proporcionada por AWS App Runner para confirmar que el servicio web está activo y funcionando correctamente.
+
+<img src="Assets/chapter-V/backend/aws_backend_deployed.png">
+
+Url proporcionada por AWS App Runner: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
+
   
-
-
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 4, el equipo de FixTech demostró una colaboración efectiva en la culminación de la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Hubo una coordinación precisa entre todos los miembros del equipo, lo que nos permitió lograr una integración exitosa y habilitar flujos de trabajo completos.
