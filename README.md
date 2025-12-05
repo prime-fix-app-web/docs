@@ -3459,6 +3459,13 @@ Asegurar que la versión principal del proyecto permanezca estable mediante revi
 Unificar el estilo de la documentación, mejorar la presentación de tablas y garantizar consistencia en el uso de la sintaxis Markdown. Esto aporta claridad, profesionalismo y facilidad de comprensión al material producido.
 
 # Video About-the-Team
+
+A continuación se presenta el video about the team, donde cada integrante hablará sobre su experiencia durante el desarrollo del proyecto.
+
+<img src="Assets/chapter-V/videos/about_team_thumbnail.png">
+
+Link del Video About The Product: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQBYCbdJL4B7SYDh8tMtEPEqAfDvGiJ7gHOH0kox8mvHbjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xwl31v>
+
 # Bibliografía
 
 - Manrique Olaechea, R. (2011). *Diseño de un sistema electrónico de reserva de citas para atención a clientes en talleres de autos utilizando tecnología Web e IVR* [Tesis de licenciatura, Pontificia Universidad Católica del Perú]. Repositorio PUCP.
