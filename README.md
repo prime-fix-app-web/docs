@@ -1983,8 +1983,8 @@ Cada Sprint se registra con detalle en términos de producto, trabajo colaborati
 | **Sprint 0 Retrospective Summary** | No aplica por que es el primer Sprint |
 | **Sprint Goal & User Stories** | |
 | **Sprint 1 Goal** | Desplegar la Landing Page inicial con estructura básica, estilos globales y primeras secciones funcionales. |
-| **Sprint 1 Velocity** | 20 Story Points |
-| **Sum of Story Points** | 20 Story Points |
+| **Sprint 1 Velocity** | 46 Story Points |
+| **Sum of Story Points** | 46 Story Points |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -2104,8 +2104,8 @@ Se documenta el proceso de implementación, pruebas, documentación y despliegue
 | **Sprint 1 Retrospective Summary** | El equipo identificó la necesidad de mejorar la comunicación durante el desarrollo y establecer mejores prácticas para la integración de código. Se destacó el buen trabajo en la implementación de componentes reutilizables y el diseño responsive. |
 | **Sprint Goal & User Stories** | |
 | **Sprint 2 Goal** | Desarrollar e implementar la Frontend Web Application de Prime-Fix utilizando Vue.js, creando las interfaces de usuario principales para ambos segmentos objetivo y estableciendo la integración con la Landing Page. |
-| **Sprint 2 Velocity** | 42 Story Points |
-| **Sum of Story Points** | 42 Story Points |
+| **Sprint 2 Velocity** | 81 Story Points |
+| **Sum of Story Points** | 81 Story Points |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
@@ -2457,8 +2457,8 @@ Durante este sprint se busca ofrecer una experiencia fluida de extremo a extremo
 | **Sprint 2 Retrospective Summary** | El equipo resaltó la mejora en la organización del código y la adopción de GitHub Flow para controlar versiones. Se identificó la necesidad de reforzar la documentación técnica y mejorar validación de formularios y rutas protegidas. |
 | **Sprint Goal & User Stories** | |
 | **Sprint 3 Goal** | Desarrollar e integrar completamente los Web Services RESTful de los bounded contexts (IAM, Maintenance Tracking, Auto Repair Registration, Auto Repair Catalog, Payment Service y Data Collection & Diagnosis), asegurando un flujo funcional E2E de búsqueda, reserva, diagnóstico, pago y seguimiento del servicio. |
-| **Sprint 3 Velocity** | 48 Story Points |
-| **Sum of Story Points** | 48 Story Points |
+| **Sprint 3 Velocity** | 43 Story Points |
+| **Sum of Story Points** | 43 Story Points |
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
