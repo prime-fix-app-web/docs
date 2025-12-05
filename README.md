@@ -3436,13 +3436,13 @@ Durante el desarrollo del proyecto se recomienda mejorar la estandarización de 
 
 Por ello para optimizar los procesos de desarrollo y la calidad del producto en futuras iteraciones, se establecen las siguientes puntos:
 
-- - **Estandarización de Commits:** Implementar convenciones de mensajes de commit claras y uniformes (e.g., feat, fix, docs, refactor) para mejorar la trazabilidad y la generación automática de historiales de cambio.
-- - 
-- - **Gestión de Ramas Reforzada:** Utilizar un sistema de prefijos en los nombres de las ramas (e.g., feat/, fix/, refactor/) para facilitar la revisión, la identificación del trabajo y el control de cambios.
-- - 
-- - **Mantenimiento de la Rama Principal (Main):** Fortalecer la política de mantener la rama principal siempre estable y desplegable, exigiendo una revisión formal mediante pull requests antes de cualquier integración. Esto asegura la calidad del código y promueve la colaboración efectiva.
-- - 
-- - **Optimización de la Documentación:** Unificar el estilo de la documentación, especialmente en el uso de tablas (con títulos y descripciones claras) y la consistencia en la sintaxis de Markdown, para garantizar un formato más profesional y fácil de interpretar.
+- **Estandarización de Commits:** Implementar convenciones de mensajes de commit claras y uniformes (e.g., feat, fix, docs, refactor) para mejorar la trazabilidad y la generación automática de historiales de cambio.
+
+- **Gestión de Ramas Reforzada:** Utilizar un sistema de prefijos en los nombres de las ramas (e.g., feat/, fix/, refactor/) para facilitar la revisión, la identificación del trabajo y el control de cambios.
+ 
+- **Mantenimiento de la Rama Principal (Main):** Fortalecer la política de mantener la rama principal siempre estable y desplegable, exigiendo una revisión formal mediante pull requests antes de cualquier integración. Esto asegura la calidad del código y promueve la colaboración efectiva.
+ 
+- **Optimización de la Documentación:** Unificar el estilo de la documentación, especialmente en el uso de tablas (con títulos y descripciones claras) y la consistencia en la sintaxis de Markdown, para garantizar un formato más profesional y fácil de interpretar.
 
 # Video About-the-Team
 # Bibliografía
