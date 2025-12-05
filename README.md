@@ -2989,11 +2989,12 @@ Infraestructura de despliegue implementada:
 Durante el Sprint 4, el equipo de FixTech demostró una colaboración efectiva en la culminación de la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Hubo una coordinación precisa entre todos los miembros del equipo, lo que nos permitió lograr una integración exitosa y habilitar flujos de trabajo completos.
 
 **Frontend:**
+
 <img src="Assets/chapter-V/evidences/team_sprint2.png">
 
----
 
 **Backend:**
+
 <img src="Assets/chapter-V/evidences/team_sprint4.png">
 
 
