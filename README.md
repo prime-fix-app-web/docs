@@ -1652,6 +1652,9 @@ Diagrama de Contexto de PrimeFix
 Diagrama de Contenedores de PrimeFix
 <img src="Assets/chapter-IV/diagrams/SA_diagrams/ContainerDiagram.png">
 
+Diagrama de Componente IAM
+<img src="Assets/chapter-IV/diagrams/SA_diagrams/IAMBC.png">
+
 ### 4.6.4. Software Architecture Components Diagrams
 Diagrama de Componente Auto Repair Registration
 <img src="Assets/chapter-IV/diagrams/SA_diagrams/AutoRepairRegistrationBC.png">
@@ -1994,7 +1997,7 @@ En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** p
 
 Para el Sprint 2, se han identificado cuatro aspectos fundamentales que abarcan el desarrollo frontend completo:
 
-**Frontend Development (Desarrollo de Interfaces):** Este aspecto engloba el desarrollo de la aplicación web utilizando Angular, incluyendo la implementación de componentes, servicios, guards, interceptors y páginas principales. Es el componente principal del Sprint 2.
+**Frontend Development (Desarrollo de Interfaces):** Este aspecto engloba el desarrollo de la aplicación web utilizando Vue.js, incluyendo la implementación de componentes, servicios, guards, interceptors y páginas principales. Es el componente principal del Sprint 2.
 
 **UI/UX Implementation (Implementación de Diseño):** Comprende la traducción de wireframes y mockups a interfaces funcionales, implementación de diseño responsive y experiencia de usuario optimizada.
 
@@ -3396,7 +3399,7 @@ El desarrollo del proyecto se apoyó en herramientas clave como las User Stories
 
 En conjunto, el proyecto no solo permitió plasmar una solución funcional y escalable, sino que también demostró la capacidad del equipo para coordinarse de manera organizada, aplicar buenas prácticas de desarrollo y mantener un enfoque constante en la experiencia del usuario. "Prime-Fix" constituye así un avance significativo en la modernización de los servicios automotrices, estableciendo las bases para su futura evolución e implementación en un contexto real.
 
-El desarrollo de la Frontend Web Application utilizando Angular y TypeScript permitió crear una interfaz de usuario robusta y escalable. La aplicación está diseñada para ser intuitiva y accesible, facilitando la navegación y el uso tanto para dueños de vehículos como para talleres.
+El desarrollo de la Frontend Web Application utilizando Vue.js permitió crear una interfaz de usuario robusta y escalable. La aplicación está diseñada para ser intuitiva y accesible, facilitando la navegación y el uso tanto para dueños de vehículos como para talleres.
 
 La creación de los Web Services RESTful con C# y .NET Core proporcionó una base sólida para la lógica de negocio y la gestión de datos. Estos servicios permiten una comunicación eficiente entre el frontend y el backend, asegurando que las operaciones se realicen de manera segura y confiable.
 
