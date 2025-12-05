@@ -3505,7 +3505,7 @@ Link del Video de la Exposición de la TP1: <https://upcedupe-my.sharepoint.com/
 
 Link del Video de la Exposición de la TB2: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQBsdjWNMEfzRZmzPdc242p0AW3jA4y73_iJyjDlv9Di73g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rmOEaz>
 
-Link del Video de la Exposición de la TF1: <>
+Link del Video de la Exposición de la TF1: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQBHDbP2LhEMSY6UWAIt1KwIAfBTB12NTm5lZjTBFkiOb7c?e=tHwuYr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
 Link del Video About The Team Sprint 3: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQD1UsDlJpVnQp-N7ISlUp8VAa43cVfvncVaI-Ta0ODgAwk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oi0y3z>
 
