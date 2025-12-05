@@ -620,7 +620,7 @@ Anyelo Alejos es un chico de 23 años de edad. Él solo estudia pero cuenta con 
 - Dirección: Lima, San Miguel.
 
 ![Entrevista Jesús Valenzuela](Assets/chapter-II/Entrevista_Gianmarco_Jiménez.png) 
-**Link De la Entrevista:** **<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/EYVM_zdjduJKtn1KgPIWBJMB0jBtWI7znAkA--v8FtmlRA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IIHRcz>** 
+**Link De la Entrevista:** **<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQAVZOg2kCmCRa5mZp0lgHF4AbKYJ2t9KdPHx4TNUw4RcCU?e=YPRQVN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>** 
 Duracion:**00:06:31**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inicio:**00:00:05**&nbsp;&nbsp;&nbsp;&nbsp;Final:**00:06:31**
 Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas, nos comenta que para atraer clientes, utiliza las redes sociales como Facebook y TikTok y una landing page. El entrevistado comenta que no siente que el taller donde trabaja sea afectado por la competencia dada su ubicación estratégica junto con la de sus otras sedes. Jesús menciona que la gestión de las solicitudes de servicios se realizan principalmente mediante WhatsApp, también reciben llamadas telefónicas y visitas directas al taller. En cuanto al desempeño de los técnicos y los servicios brindados, sí han recibido cierta retroalimentación. Se menciona que la gestión de los técnicos y de su información es un poco desordenada; sin embargo, considera interesante la idea de digitalizar ello y permitir que los clientes puedan conocer la disponibilidad de los trabajadores en tiempo real. El asesor menciona que en su taller se hace uso de un software llamado Qumpa para la gestión de su inventario de llantas de manera organizada, pero le parece interesante una plataforma que pueda ser utilizada por el cliente para la gestión de visitas con el fin de agilizar el proceso. Jesús menciona que este aplicativo puede ser de gran utilidad si cuenta con notificaciones para que el cliente pueda estar atento al estado de su vehículo. El diagnóstico de las fallas que ofrecen en Alvillantas se realiza mediante un documento físico, por lo que Jesús considera que podría ser buena idea virtualizar esta función para que el cliente pueda obtener esta información en sus dispositivos. Para finalizar, recalcó lo importante que es tener una plataforma con todas las funcionalidades mencionadas para garatizarle un buen servicio al cliente.
 
@@ -3406,13 +3406,23 @@ Trabajar estos puntos ayudará a:
 
 ---
 
-## 5.4. Video About-the-Product
+## 5.4 Videos About the Product y About the Team
+
+### 5.4.1 Video About-the-Product
 
 A continuación se presenta el video demostrativo del producto desarrollado durante el proyecto de la startup Prime-Fix.
 
 <img src="Assets/chapter-V/videos/about_the_product_thumbnail.png">
 
 Link del Video About The Product: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQCt0c6DY3k-R56z1ZpOOcbkATQpJeiC8iuc1DxlfT5o-1c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GNLvcF>
+
+### 5.4.2 Video About-the-Team
+
+A continuación se presenta el video about the team, donde cada integrante hablará sobre su experiencia durante el desarrollo del proyecto.
+
+<img src="Assets/chapter-V/videos/about_team_thumbnail.png">
+
+Link del Video About The Product: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQBYCbdJL4B7SYDh8tMtEPEqAfDvGiJ7gHOH0kox8mvHbjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xwl31v>
 
 ---
 
@@ -3458,13 +3468,6 @@ Asegurar que la versión principal del proyecto permanezca estable mediante revi
 
 Unificar el estilo de la documentación, mejorar la presentación de tablas y garantizar consistencia en el uso de la sintaxis Markdown. Esto aporta claridad, profesionalismo y facilidad de comprensión al material producido.
 
-# Video About-the-Team
-
-A continuación se presenta el video about the team, donde cada integrante hablará sobre su experiencia durante el desarrollo del proyecto.
-
-<img src="Assets/chapter-V/videos/about_team_thumbnail.png">
-
-Link del Video About The Product: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQBYCbdJL4B7SYDh8tMtEPEqAfDvGiJ7gHOH0kox8mvHbjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xwl31v>
 
 # Bibliografía
 
