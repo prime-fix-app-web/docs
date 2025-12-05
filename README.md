@@ -2976,12 +2976,16 @@ Durante el Sprint 4, se implementó una estrategia de despliegue continuo para l
 
 Infraestructura de despliegue implementada:
 
+- Link de la Landing Page: <https://landing-page-app-web-gamma.vercel.app/>
+<img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
+
 - Link del Frontend Web Application: <https://frontend-app-web-chi.vercel.app/>
-  <img src="Assets/chapter-V/execution_evidence/owner.png">
+  <img src="Assets/chapter-V/evidences/vercel_frontend_evidence2.png">
 
 
 - Link del Restful Web Services desplegado en AWS: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
-  <img src="Assets/chapter-V//Sprint 4/backend_evidence_1.PNG">
+<img src="Assets/chapter-V/backend/aws_apprunner_evidence2.png">
+  
 
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
@@ -3421,6 +3425,10 @@ En conjunto, el proyecto no solo permitió plasmar una solución funcional y esc
 El desarrollo de la Frontend Web Application utilizando Angular y TypeScript permitió crear una interfaz de usuario robusta y escalable. La aplicación está diseñada para ser intuitiva y accesible, facilitando la navegación y el uso tanto para dueños de vehículos como para talleres.
 
 La creación de los Web Services RESTful con C# y .NET Core proporcionó una base sólida para la lógica de negocio y la gestión de datos. Estos servicios permiten una comunicación eficiente entre el frontend y el backend, asegurando que las operaciones se realicen de manera segura y confiable.
+
+La integración del Fronted Web Application con los Web Services RESTful y su correspondiente despliegue permitió culminar con el desarrollo del proyecto. Se pudo asegurar una comunicación eficiente entre el frontend y backend y las operaciones se realizaron de manera segura con la autenticación JWT.
+
+
 
 # Recomendaciones
 
