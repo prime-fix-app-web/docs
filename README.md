@@ -1813,155 +1813,11 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 
 ### 5.1.4. Software Deployment Configuration
 
-Vamos a describir el proceso de despliegue tanto de la Landing Page como del Frontend Web Application utilizando Vercel y GitHub.
-Vercel es una plataforma de despliegue y hosting optimizada para aplicaciones frontend y sitios web estáticos. Ofrece integración directa con repositorios de GitHub, facilitando el proceso de despliegue continuo (CI/CD). Cada vez que se realiza un push a la rama principal del repositorio, Vercel automáticamente construye y despliega la aplicación, asegurando que siempre esté actualizada con los últimos cambios.
+El proceso de despliegue de la Landing Page, Frontend Web Application y RESTful Web Services se ha documentado detalladamente en las secciones de evidencia de despliegue de cada Sprint correspondiente:
 
-- Link oficial de Vercel: [https://vercel.com/](https://vercel.com/)
-
-## **Despliegue de la Landing Page**
-
-1. **Registro en GitHub**  
-   Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de Prime-Fix-App-Web.
-
-2. **Creación del repositorio**  
-   Hicimos clic en **New** para crear un nuevo repositorio.  
-   Le asignamos el nombre **landing-page** dentro de la organización **prime-fix-app-web**.
-
-3. **Configuración del repositorio**  
-   - Visibilidad **pública** para permitir la integración con Vercel.  
-   - Añadimos un `README.md` inicial y un `.gitignore` adecuado.
-
-<img src="Assets/chapter-V/evidences/landing_github_evidence.png">
-
-4. **Carga de los archivos de la landing**  
-   - Subimos los archivos del proyecto (**HTML, TailwindCSS, TypeScript, Astro**).  
-   - Confirmamos que los cambios estén en la rama **master**.  
-   - “**Commit changes**”.
-
-5. **Configuración en Vercel**  
-   - Iniciamos sesión en Vercel → **New Project** → vinculamos GitHub.  
-   - Importamos el repo `landing-page`.  
-   - Framework **Astro** (detección automática).  
-   - Definimos la rama de despliegue (**master**).
-
-<img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
-
-### **Despliegue del Frontend Web Applications**
-Para que nuestra Frontend Web Application esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
-**1. Registro en GitHub**  
-Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Frontend Web Application de **Prime-Fix**.
-**2. Creación del repositorio**  
-- Hicimos clic en el botón **“New”** para generar un nuevo repositorio
-- Le asignamos el nombre **“frontend”** dentro de nuestra organización **prime-fix**.
-
-<img src="Assets/chapter-V/evidences/frontend_github_evidence.png">
-
-**3. Configuración del repositorio**
-- Nos aseguramos de que el repositorio tenga visibilidad **pública** para permitir la integración con Vercel.
-- Añadimos un archivo `README.md` inicial y configuramos un `.gitignore`
-  adecuado para excluir archivos innecesarios.
-
-**4. Carga de los archivos de la Frontend Web Application**
-- Accedimos al repositorio creado.
-- Subimos los archivos generados del proyecto .
-- Verificamos que los cambios se hicieran en la rama principal (`master`).
-
-
-**5. Configuración en Vercel**
-- Iniciamos sesión en [Vercel](https://vercel.com).
-- Seleccionamos la opción **“New Project”** y vinculamos nuestra cuenta de GitHub.
-- Importamos el repositorio **frontend**.
-- Configuramos el framework en **Vite** (Vercel lo detecta automáticamente en la mayoría de los casos).
-- Definimos la rama de despliegue (`master`).
-- Colocamos todas las variables de entorno necesarias para el correcto funcionamiento de la aplicación.
-- Finalmente, hicimos clic en **“Deploy”** para iniciar el proceso de despliegue.
-
-<img src="Assets/chapter-V/evidences/vercel_frontend_evidence1.png">
-
-<img src="Assets/chapter-V/evidences/vercel_frontend_evidence2.png">
-
-### **Despliegue del RESTful Web Services**
-
-Para que nuestro RESTful Web Services esté disponible para todos nuestros usuarios, lo desplegamos utilizando Amazon Web Services (AWS) como plataforma de infraestructura en la nube. El proceso se llevó a cabo de la siguiente manera:
-
-Como arquitectura general, el flujo de integración y despliegue continuo se compone de:
-
-**1. Registro en GitHub**
-
-Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código del RESTful Web Services de **Prime-Fix**.
-
-- Creamos un repositorio llamado **backend** dentro de nuestra organización **prime-fix**.
-
-<img src="Assets/chapter-V/backend/github_backend_evidence.png">
-
-
-**2. Base datos en Amazon RDS**
-
-- Creamos una instancia de base de datos en Amazon RDS para almacenar los datos de la aplicación.
-- Configuramos los parámetros de la base de datos, incluyendo el motor (MySQL, PostgreSQL, etc.), tamaño, y credenciales de acceso.
-- Creamos la instancia **prime-fix-db** y lo colocamos en la región de **us-east-2**.
-- Colocamos un VPC compartido con el futuro despliegue del backen en App Runner.
-
-<img src="Assets/chapter-V/backend/aws_rds_evidence.png">
-
-<img src="Assets/chapter-V/backend/aws_rds_evidence2.png">
-
-<img src="Assets/chapter-V/backend/aws_rds_evidence3.png">
-
-**3. Build en AWS CodeBuild**
-
-- Configuramos un proyecto en AWS CodeBuild para compilar el código del backend.
-- Construye la imagen Docker utilizando un archivo `Dockerfile` que define el entorno de ejecución.
-- Con todos estos archivos podemos compilar el proyecto de C# 13 y .NET 9.0.
-- Sube la imagen a Amazon ECR (Elastic Container Registry) para su posterior despliegue.
-
-<img src="Assets/chapter-V/backend/aws_codebuild_evidence.png">
-
-<img src="Assets/chapter-V/backend/aws_codebuild_evidence2.png">
-
-<img src="Assets/chapter-V/backend/aws_codebuild_evidence3.png">
-
-**4. Subir la imagen a AWS ECR**
-
-- Creamos un repositorio en Amazon ECR para almacenar las imágenes Docker del backend.
-- Configuramos las políticas de acceso para permitir que AWS CodeBuild pueda subir imágenes al repositorio.
-- Subimos la imagen Docker generada por CodeBuild al repositorio de ECR.
-
-<img src="Assets/chapter-V/backend/aws_ecr_evidence.png">
-
-<img src="Assets/chapter-V/backend/aws_ecr_evidence2.png">
-
-**5. Automatizar despliegue con AWS CodePipeline**
-
-- Configuramos un pipeline de CI/CD utilizando AWS CodePipeline para automatizar el proceso de construcción, prueba y despliegue del backend.
-- Solo se activa el pipeline cuando se hacen cambios en la rama `master` del repositorio de GitHub.
-- Commits en `develop` no generan despliegue automático.
-- Automatizará para que se haga un despliegue en AWS CodeBuild.
-
-<img src="Assets/chapter-V/backend/aws_codepipeline_evidence.png">
-
-<img src="Assets/chapter-V/backend/aws_codepipeline_evidence2.png">
-
-<img src="Assets/chapter-V/backend/aws_codepipeline_evidence3.png">
-
-**6. Despliegue en AWS App Runner**
-
-- Configuramos un servicio en AWS App Runner para desplegar la imagen Docker del backend.
-- Configuramos las variables de entorno necesarias para la conexión con la base de datos y otros servicios.
-- Definimos la configuración de escalado automático para manejar la carga de tráfico.
-- Finalmente, iniciamos el servicio para que el backend esté disponible públicamente.
-
-<img src="Assets/chapter-V/backend/aws_apprunner_evidence.png">
-
-<img src="Assets/chapter-V/backend/aws_apprunner_evidence2.png">
-
-**7. Verificación del servicio web**
-
-- Accedemos a la URL proporcionada por AWS App Runner para confirmar que el servicio web está activo y funcionando correctamente.
-
-<img src="Assets/chapter-V/backend/aws_backend_deployed.png">
-
-Url proporcionada por AWS App Runner: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
+- **Landing Page:** [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+- **Frontend Web Application:** [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+- **RESTful Web Services:** [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
@@ -2073,9 +1929,31 @@ No aplica por que el Sprint se centró en la Landing Page.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-- Se configuró un pipeline de CI/CD en GitHub Actions.  
-- Se desplegó la Landing Page en Vercel con integración automática desde la rama main.  
-- Se validaron configuraciones de DNS y HTTPS.  
+**Despliegue de la Landing Page**
+
+1. **Registro en GitHub**  
+   Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de Prime-Fix-App-Web.
+
+2. **Creación del repositorio**  
+   Hicimos clic en **New** para crear un nuevo repositorio.  
+   Le asignamos el nombre **landing-page** dentro de la organización **prime-fix-app-web**.
+
+3. **Configuración del repositorio**  
+   - Visibilidad **pública** para permitir la integración con Vercel.  
+   - Añadimos un `README.md` inicial y un `.gitignore` adecuado.
+
+<img src="Assets/chapter-V/evidences/landing_github_evidence.png">
+
+4. **Carga de los archivos de la landing**  
+   - Subimos los archivos del proyecto (**HTML, TailwindCSS, TypeScript, Astro**).  
+   - Confirmamos que los cambios estén en la rama **master**.  
+   - “**Commit changes**”.
+
+5. **Configuración en Vercel**  
+   - Iniciamos sesión en Vercel → **New Project** → vinculamos GitHub.  
+   - Importamos el repo `landing-page`.  
+   - Framework **Astro** (detección automática).  
+   - Definimos la rama de despliegue (**master**).
 
 <img src="Assets/chapter-V/evidences/vercel_deployment_evidence.png">
 
@@ -2390,30 +2268,39 @@ La aplicación cuenta con documentación completa que incluye:
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Durante el Sprint 2, se implementó una estrategia de despliegue continuo para la Frontend Web Application de Prime-Fix. Esta estrategia garantiza que cada nueva funcionalidad desarrollada se despliegue automáticamente en un entorno de producción estable y accesible para los usuarios finales. También se va mostrar despliegues por cada bounded context
+**Despliegue del Frontend Web Applications**
 
+Para que nuestra Frontend Web Application esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
 
-**Infraestructura de despliegue implementada:**
+**1. Registro en GitHub**  
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Frontend Web Application de **Prime-Fix**.
 
-1. **Repositorio y Control de Versiones**
-   - GitHub como repositorio principal con organización prime-fix
-   - Implementación de GitFlow para gestión de ramas del frontend
-   - Configuración de branch protection rules en main y develop
+**2. Creación del repositorio**  
+- Hicimos clic en el botón **“New”** para generar un nuevo repositorio
+- Le asignamos el nombre **“frontend”** dentro de nuestra organización **prime-fix**.
 
-2. **Plataforma de Hosting**
-   - Despliegue en Vercel, Firebase o Netlify para aplicación Vue.js
-   - Configuración de variables de entorno para diferentes ambientes
-   - SSL/TLS automático para conexiones seguras
-   - CDN global para optimización de carga
-   - Monitoreo de performance y analytics
+<img src="Assets/chapter-V/evidences/frontend_github_evidence.png">
 
-3. **Integración con Landing Page**
-   - Enlaces directos desde Landing Page hacia aplicación web
-   - Configuración de rutas y redirecciones optimizadas
-   - Consistencia visual entre Landing Page y aplicación
-   - Tracking de conversión desde landing hacia app
+**3. Configuración del repositorio**
+- Nos aseguramos de que el repositorio tenga visibilidad **pública** para permitir la integración con Vercel.
+- Añadimos un archivo `README.md` inicial y configuramos un `.gitignore`
+  adecuado para excluir archivos innecesarios.
 
-**Evidencia de despliegue:**
+**4. Carga de los archivos de la Frontend Web Application**
+- Accedimos al repositorio creado.
+- Subimos los archivos generados del proyecto .
+- Verificamos que los cambios se hicieran en la rama principal (`master`).
+
+**5. Configuración en Vercel**
+- Iniciamos sesión en [Vercel](https://vercel.com).
+- Seleccionamos la opción **“New Project”** y vinculamos nuestra cuenta de GitHub.
+- Importamos el repositorio **frontend**.
+- Configuramos el framework en **Vite** (Vercel lo detecta automáticamente en la mayoría de los casos).
+- Definimos la rama de despliegue (`master`).
+- Colocamos todas las variables de entorno necesarias para el correcto funcionamiento de la aplicación.
+- Finalmente, hicimos clic en **“Deploy”** para iniciar el proceso de despliegue.
+
+<img src="Assets/chapter-V/evidences/vercel_frontend_evidence1.png">
 
 <img src="Assets/chapter-V/evidences/vercel_frontend_evidence2.png">
 
@@ -2565,11 +2452,87 @@ Evidencias:
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+**Despliegue del RESTful Web Services**
 
-Durante el Sprint 3, se implementó una estrategia de despliegue continuo para la aplicación integrada de Prime-Fix, asegurando que cada nueva funcionalidad desarrollada se despliegue automáticamente en un entorno de producción estable y accesible para los usuarios finales. Esta estrategia abarca tanto la Frontend Web Application como los Web Services RESTful del backend.
+Para que nuestro RESTful Web Services esté disponible para todos nuestros usuarios, lo desplegamos utilizando Amazon Web Services (AWS) como plataforma de infraestructura en la nube. El proceso se llevó a cabo de la siguiente manera:
 
-**Infraestructura de despliegue implementada:**
-Link del Restful Web Services desplegado en AWS: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
+Como arquitectura general, el flujo de integración y despliegue continuo se compone de:
+
+**1. Registro en GitHub**
+
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código del RESTful Web Services de **Prime-Fix**.
+
+- Creamos un repositorio llamado **backend** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/chapter-V/backend/github_backend_evidence.png">
+
+**2. Base datos en Amazon RDS**
+
+- Creamos una instancia de base de datos en Amazon RDS para almacenar los datos de la aplicación.
+- Configuramos los parámetros de la base de datos, incluyendo el motor (MySQL, PostgreSQL, etc.), tamaño, y credenciales de acceso.
+- Creamos la instancia **prime-fix-db** y lo colocamos en la región de **us-east-2**.
+- Colocamos un VPC compartido con el futuro despliegue del backen en App Runner.
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_rds_evidence3.png">
+
+**3. Build en AWS CodeBuild**
+
+- Configuramos un proyecto en AWS CodeBuild para compilar el código del backend.
+- Construye la imagen Docker utilizando un archivo `Dockerfile` que define el entorno de ejecución.
+- Con todos estos archivos podemos compilar el proyecto de C# 13 y .NET 9.0.
+- Sube la imagen a Amazon ECR (Elastic Container Registry) para su posterior despliegue.
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_codebuild_evidence3.png">
+
+**4. Subir la imagen a AWS ECR**
+
+- Creamos un repositorio en Amazon ECR para almacenar las imágenes Docker del backend.
+- Configuramos las políticas de acceso para permitir que AWS CodeBuild pueda subir imágenes al repositorio.
+- Subimos la imagen Docker generada por CodeBuild al repositorio de ECR.
+
+<img src="Assets/chapter-V/backend/aws_ecr_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_ecr_evidence2.png">
+
+**5. Automatizar despliegue con AWS CodePipeline**
+
+- Configuramos un pipeline de CI/CD utilizando AWS CodePipeline para automatizar el proceso de construcción, prueba y despliegue del backend.
+- Solo se activa el pipeline cuando se hacen cambios en la rama `master` del repositorio de GitHub.
+- Commits en `develop` no generan despliegue automático.
+- Automatizará para que se haga un despliegue en AWS CodeBuild.
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence2.png">
+
+<img src="Assets/chapter-V/backend/aws_codepipeline_evidence3.png">
+
+**6. Despliegue en AWS App Runner**
+
+- Configuramos un servicio en AWS App Runner para desplegar la imagen Docker del backend.
+- Configuramos las variables de entorno necesarias para la conexión con la base de datos y otros servicios.
+- Definimos la configuración de escalado automático para manejar la carga de tráfico.
+- Finalmente, iniciamos el servicio para que el backend esté disponible públicamente.
+
+<img src="Assets/chapter-V/backend/aws_apprunner_evidence.png">
+
+<img src="Assets/chapter-V/backend/aws_apprunner_evidence2.png">
+
+**7. Verificación del servicio web**
+
+- Accedemos a la URL proporcionada por AWS App Runner para confirmar que el servicio web está activo y funcionando correctamente.
+
+<img src="Assets/chapter-V/backend/aws_backend_deployed.png">
+
+Url proporcionada por AWS App Runner: <https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html>
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
